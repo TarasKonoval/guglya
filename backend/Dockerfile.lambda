@@ -1,0 +1,6 @@
+# Production image for AWS Lambda (arm64). Built and pushed by infra/deploy-backend.sh.
+FROM public.ecr.aws/lambda/python:3.12
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+COPY app ${LAMBDA_TASK_ROOT}/app
+CMD ["app.lambda_handler.handler"]

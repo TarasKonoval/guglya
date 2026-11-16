@@ -1,5 +1,13 @@
--- Guglya schema. Run in Supabase -> SQL Editor (or `supabase db push`).
+-- Guglya schema (Amazon RDS PostgreSQL 16 + pgvector). Applied by backend/scripts/migrate.py.
 create extension if not exists vector;
+
+-- One row per Cognito user, upserted by the API on every authenticated request.
+create table if not exists users (
+  id text primary key,       -- Cognito `sub`
+  email text,
+  created_at timestamptz default now(),
+  last_seen_at timestamptz default now()
+);
 
 create table if not exists brands (
   id uuid primary key default gen_random_uuid(),
@@ -25,7 +33,7 @@ create index if not exists products_category_idx on products (category);
 
 create table if not exists outfits (
   id uuid primary key default gen_random_uuid(),
-  title text not null,
+  title text not null unique,
   season text not null check (season in ('winter', 'spring', 'summer', 'autumn')),
   cover_image_url text not null,
   published boolean not null default true,
@@ -41,7 +49,7 @@ create table if not exists outfit_items (
 );
 
 create table if not exists saved_outfits (
-  user_id uuid references auth.users(id) on delete cascade,
+  user_id text references users(id) on delete cascade,
   outfit_id uuid references outfits(id) on delete cascade,
   created_at timestamptz default now(),
   primary key (user_id, outfit_id)
@@ -50,7 +58,7 @@ create table if not exists saved_outfits (
 -- Every click to a brand site: the main validation metric for the report
 create table if not exists clicks (
   id bigint generated always as identity primary key,
-  user_id uuid references auth.users(id) on delete set null,
+  user_id text references users(id) on delete set null,
   product_id uuid references products(id) on delete cascade,
   outfit_id uuid references outfits(id) on delete set null,
   slot text,
@@ -59,26 +67,16 @@ create table if not exists clicks (
 
 create table if not exists feedback (
   id bigint generated always as identity primary key,
-  user_id uuid references auth.users(id) on delete set null,
+  user_id text references users(id) on delete set null,
   rating integer check (rating between 1 and 5),
   text text not null,
   created_at timestamptz default now()
 );
 
--- The backend talks to Postgres directly with the service connection string,
--- so lock tables down for the public anon/authenticated API roles.
-alter table brands enable row level security;
-alter table products enable row level security;
-alter table outfits enable row level security;
-alter table outfit_items enable row level security;
-alter table saved_outfits enable row level security;
-alter table clicks enable row level security;
-alter table feedback enable row level security;
-
 -- Handy view for the report
 create or replace view report_stats as
 select
-  (select count(*) from auth.users) as users,
+  (select count(*) from users) as users,
   (select count(distinct user_id) from clicks) as users_who_clicked,
   (select count(*) from clicks) as clicks,
   (select count(*) from saved_outfits) as saves,

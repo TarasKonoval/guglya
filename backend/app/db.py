@@ -3,7 +3,10 @@ from psycopg_pool import ConnectionPool
 
 from .config import settings
 
-pool = ConnectionPool(settings.database_url, kwargs={"row_factory": dict_row}, open=False)
+# Small pool: on Lambda each container serves one request at a time.
+pool = ConnectionPool(
+    settings.database_url, min_size=1, max_size=4, kwargs={"row_factory": dict_row}, open=False
+)
 
 
 def fetch_all(sql: str, params: tuple | dict = ()) -> list[dict]:

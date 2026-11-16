@@ -5,6 +5,7 @@ Usage:  pip install -r backend/requirements-ml.txt && python backend/ml/embed.py
 """
 import io
 import os
+from pathlib import Path
 
 import psycopg
 import requests
@@ -13,6 +14,14 @@ from PIL import Image
 from transformers import CLIPModel, CLIPProcessor
 
 MODEL = "patrickjohncyh/fashion-clip"  # 512-dim; falls back fine to openai/clip-vit-base-patch32
+# Site-relative image URLs (e.g. /demo/top-01.png) are files the frontend serves from public/.
+PUBLIC_DIR = Path(__file__).resolve().parents[2] / "frontend" / "public"
+
+
+def load_image(url: str) -> Image.Image:
+    if url.startswith("/"):
+        return Image.open(PUBLIC_DIR / url.lstrip("/")).convert("RGB")
+    return Image.open(io.BytesIO(requests.get(url, timeout=20).content)).convert("RGB")
 
 
 def main() -> None:
@@ -23,12 +32,13 @@ def main() -> None:
         print(f"{len(rows)} products to embed")
         for pid, url in rows:
             try:
-                img = Image.open(io.BytesIO(requests.get(url, timeout=20).content)).convert("RGB")
+                img = load_image(url)
             except Exception as e:
                 print("skip", url, e)
                 continue
             with torch.no_grad():
-                vec = model.get_image_features(**proc(images=img, return_tensors="pt"))[0]
+                out = model.get_image_features(**proc(images=img, return_tensors="pt"))
+                vec = (out if isinstance(out, torch.Tensor) else out.pooler_output)[0]  # transformers 4 vs 5
             vec = (vec / vec.norm()).tolist()
             conn.execute("update products set embedding = %s::vector where id = %s", (str(vec), pid))
             conn.commit()

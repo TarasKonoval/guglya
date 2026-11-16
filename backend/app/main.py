@@ -1,5 +1,6 @@
 from contextlib import asynccontextmanager
 from urllib.parse import urlencode, urlparse, urlunparse, parse_qsl
+from uuid import UUID
 
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
@@ -52,6 +53,10 @@ def list_outfits(season: str | None = None):
 
 @app.get("/outfits/{outfit_id}")
 def get_outfit(outfit_id: str):
+    try:
+        UUID(outfit_id)
+    except ValueError:
+        raise HTTPException(404, "Outfit not found")
     outfit = fetch_one("select id, title, season, cover_image_url from outfits where id = %s", (outfit_id,))
     if not outfit:
         raise HTTPException(404, "Outfit not found")
@@ -67,17 +72,17 @@ def get_outfit(outfit_id: str):
 
 @app.get("/outfits/{outfit_id}/similar/{slot}")
 def similar(outfit_id: str, slot: str, color: str | None = None, limit: int = 5):
-    """Items most similar (by CLIP embedding) to the outfit's item in this slot, one per brand first."""
+    """In-stock items from other brands, most similar (by CLIP embedding) to the outfit's item in this slot."""
     if slot not in SLOTS:
         raise HTTPException(400, f"slot must be one of {SLOTS}")
     return fetch_all(
         f"""with hero as (
-              select p.id, p.embedding, p.category from outfit_items oi join products p on p.id = oi.product_id
+              select p.id, p.brand_id, p.embedding, p.category from outfit_items oi join products p on p.id = oi.product_id
               where oi.outfit_id = %(outfit)s and oi.slot = %(slot)s
             )
             select {PRODUCT_COLS}, 1 - (p.embedding <=> hero.embedding) as similarity
             from products p join brands b on b.id = p.brand_id, hero
-            where p.category = hero.category and p.in_stock and p.id <> hero.id
+            where p.category = hero.category and p.in_stock and p.brand_id <> hero.brand_id
               and p.embedding is not null
               and (%(color)s::text is null or p.color = %(color)s)
             order by p.embedding <=> hero.embedding

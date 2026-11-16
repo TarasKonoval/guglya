@@ -1,0 +1,41 @@
+brand,brand_site,title,category,color,price_uah,image_url,product_url
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Вʼязана шапка біні,hat,beige,790,/demo/hat-01.png,https://example.com/demo/lisova-knit/hat-01
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Шапка з помпоном,hat,red,890,/demo/hat-02.png,https://example.com/demo/lisova-knit/hat-02
+Podil Denim · demo,https://example.com/demo/podil-denim,Панама з вовни,hat,black,1150,/demo/hat-03.png,https://example.com/demo/podil-denim/hat-03
+Podil Denim · demo,https://example.com/demo/podil-denim,Шапка рубчиком,hat,grey,690,/demo/hat-04.png,https://example.com/demo/podil-denim/hat-04
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Мериносова біні,hat,green,980,/demo/hat-05.png,https://example.com/demo/hromada-wear/hat-05
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Вельветова панама,hat,brown,1050,/demo/hat-06.png,https://example.com/demo/hromada-wear/hat-06
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Тепла шапка з помпоном,hat,white,840,/demo/hat-07.png,https://example.com/demo/stezhka-shoes/hat-07
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Шапка з відворотом,hat,blue,720,/demo/hat-08.png,https://example.com/demo/stezhka-shoes/hat-08
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Стьобана панама,hat,beige,1290,/demo/hat-09.png,https://example.com/demo/polotno-studio/hat-09
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Кашемірова біні,hat,black,1390,/demo/hat-10.png,https://example.com/demo/polotno-studio/hat-10
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Светр оверсайз,top,beige,2400,/demo/top-01.png,https://example.com/demo/lisova-knit/top-01
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Вовняне пальто,top,brown,5900,/demo/top-02.png,https://example.com/demo/lisova-knit/top-02
+Podil Denim · demo,https://example.com/demo/podil-denim,Худі з начосом,top,grey,1850,/demo/top-03.png,https://example.com/demo/podil-denim/top-03
+Podil Denim · demo,https://example.com/demo/podil-denim,Светр з горлом,top,black,2650,/demo/top-04.png,https://example.com/demo/podil-denim/top-04
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Пальто прямого крою,top,grey,6300,/demo/top-05.png,https://example.com/demo/hromada-wear/top-05
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Кардиган-светр,top,green,2200,/demo/top-06.png,https://example.com/demo/hromada-wear/top-06
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Худі оверсайз,top,blue,1990,/demo/top-07.png,https://example.com/demo/stezhka-shoes/top-07
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Тренч утеплений,top,beige,5400,/demo/top-08.png,https://example.com/demo/stezhka-shoes/top-08
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Мериносовий джемпер,top,red,2950,/demo/top-09.png,https://example.com/demo/polotno-studio/top-09
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Худі на блискавці,top,black,2100,/demo/top-10.png,https://example.com/demo/polotno-studio/top-10
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Вовняні штани,bottom,grey,2300,/demo/bottom-01.png,https://example.com/demo/lisova-knit/bottom-01
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Джинси прямі,bottom,blue,2100,/demo/bottom-02.png,https://example.com/demo/lisova-knit/bottom-02
+Podil Denim · demo,https://example.com/demo/podil-denim,Джинси широкі,bottom,black,2250,/demo/bottom-03.png,https://example.com/demo/podil-denim/bottom-03
+Podil Denim · demo,https://example.com/demo/podil-denim,Спідниця міді,bottom,brown,1900,/demo/bottom-04.png,https://example.com/demo/podil-denim/bottom-04
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Штани палаццо,bottom,beige,2450,/demo/bottom-05.png,https://example.com/demo/hromada-wear/bottom-05
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Джинси мом,bottom,blue,1950,/demo/bottom-06.png,https://example.com/demo/hromada-wear/bottom-06
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Вельветова спідниця,bottom,green,1750,/demo/bottom-07.png,https://example.com/demo/stezhka-shoes/bottom-07
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Класичні штани,bottom,black,2600,/demo/bottom-08.png,https://example.com/demo/stezhka-shoes/bottom-08
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Штани-карго,bottom,green,2150,/demo/bottom-09.png,https://example.com/demo/polotno-studio/bottom-09
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Плісирована спідниця,bottom,grey,2050,/demo/bottom-10.png,https://example.com/demo/polotno-studio/bottom-10
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Шкіряні черевики,shoes,black,4900,/demo/shoes-01.png,https://example.com/demo/lisova-knit/shoes-01
+Lisova Knit · demo,https://example.com/demo/lisova-knit,Кеди замшеві,shoes,white,3100,/demo/shoes-02.png,https://example.com/demo/lisova-knit/shoes-02
+Podil Denim · demo,https://example.com/demo/podil-denim,Челсі,shoes,brown,4600,/demo/shoes-03.png,https://example.com/demo/podil-denim/shoes-03
+Podil Denim · demo,https://example.com/demo/podil-denim,Кросівки утеплені,shoes,grey,3400,/demo/shoes-04.png,https://example.com/demo/podil-denim/shoes-04
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Черевики на шнурівці,shoes,brown,5200,/demo/shoes-05.png,https://example.com/demo/hromada-wear/shoes-05
+Hromada Wear · demo,https://example.com/demo/hromada-wear,Челсі на тракторній,shoes,black,4800,/demo/shoes-06.png,https://example.com/demo/hromada-wear/shoes-06
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Кеди шкіряні,shoes,beige,2950,/demo/shoes-07.png,https://example.com/demo/stezhka-shoes/shoes-07
+Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Зимові черевики,shoes,beige,5600,/demo/shoes-08.png,https://example.com/demo/stezhka-shoes/shoes-08
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Замшеві челсі,shoes,green,4400,/demo/shoes-09.png,https://example.com/demo/polotno-studio/shoes-09
+Polotno Studio · demo,https://example.com/demo/polotno-studio,Кросівки ретро,shoes,blue,3250,/demo/shoes-10.png,https://example.com/demo/polotno-studio/shoes-10

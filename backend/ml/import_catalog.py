@@ -31,13 +31,16 @@ def main(catalog_csv: str, outfits_json: str | None) -> None:
         if outfits_json:
             for o in json.load(open(outfits_json, encoding="utf-8")):
                 oid = conn.execute(
-                    "insert into outfits (title, season, cover_image_url) values (%s, %s, %s) returning id",
+                    """insert into outfits (title, season, cover_image_url) values (%s, %s, %s)
+                       on conflict (title) do update set season = excluded.season,
+                         cover_image_url = excluded.cover_image_url returning id""",
                     (o["title"], o["season"], o["cover_image_url"]),
                 ).fetchone()[0]
                 for slot, url in o["items"].items():
                     conn.execute(
                         """insert into outfit_items (outfit_id, slot, product_id)
-                           select %s, %s, id from products where product_url = %s""",
+                           select %s, %s, id from products where product_url = %s
+                           on conflict (outfit_id, slot) do update set product_id = excluded.product_id""",
                         (oid, slot, url),
                     )
     print("Imported.")

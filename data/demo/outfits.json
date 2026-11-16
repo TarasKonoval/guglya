@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Осінь у Львові",
+    "season": "autumn",
+    "cover_image_url": "/demo/outfit-01.png",
+    "items": {
+      "hat": "https://example.com/demo/lisova-knit/hat-01",
+      "top": "https://example.com/demo/lisova-knit/top-01",
+      "bottom": "https://example.com/demo/lisova-knit/bottom-02",
+      "shoes": "https://example.com/demo/podil-denim/shoes-03"
+    }
+  },
+  {
+    "title": "Кава на Подолі",
+    "season": "autumn",
+    "cover_image_url": "/demo/outfit-02.png",
+    "items": {
+      "hat": "https://example.com/demo/podil-denim/hat-04",
+      "top": "https://example.com/demo/stezhka-shoes/top-08",
+      "bottom": "https://example.com/demo/stezhka-shoes/bottom-08",
+      "shoes": "https://example.com/demo/lisova-knit/shoes-02"
+    }
+  },
+  {
+    "title": "Карпатський вікенд",
+    "season": "autumn",
+    "cover_image_url": "/demo/outfit-03.png",
+    "items": {
+      "hat": "https://example.com/demo/hromada-wear/hat-05",
+      "top": "https://example.com/demo/hromada-wear/top-06",
+      "bottom": "https://example.com/demo/polotno-studio/bottom-09",
+      "shoes": "https://example.com/demo/hromada-wear/shoes-05"
+    }
+  },
+  {
+    "title": "Перший сніг",
+    "season": "winter",
+    "cover_image_url": "/demo/outfit-04.png",
+    "items": {
+      "hat": "https://example.com/demo/stezhka-shoes/hat-07",
+      "top": "https://example.com/demo/hromada-wear/top-05",
+      "bottom": "https://example.com/demo/lisova-knit/bottom-01",
+      "shoes": "https://example.com/demo/stezhka-shoes/shoes-08"
+    }
+  },
+  {
+    "title": "Різдвяний ярмарок",
+    "season": "winter",
+    "cover_image_url": "/demo/outfit-05.png",
+    "items": {
+      "hat": "https://example.com/demo/lisova-knit/hat-02",
+      "top": "https://example.com/demo/lisova-knit/top-02",
+      "bottom": "https://example.com/demo/podil-denim/bottom-04",
+      "shoes": "https://example.com/demo/lisova-knit/shoes-01"
+    }
+  },
+  {
+    "title": "Зимове місто",
+    "season": "winter",
+    "cover_image_url": "/demo/outfit-06.png",
+    "items": {
+      "hat": "https://example.com/demo/polotno-studio/hat-10",
+      "top": "https://example.com/demo/podil-denim/top-04",
+      "bottom": "https://example.com/demo/podil-denim/bottom-03",
+      "shoes": "https://example.com/demo/hromada-wear/shoes-06"
+    }
+  }
+]

@@ -9,3 +9,15 @@ venv/
 .DS_Store
 data/catalog.csv
 data/outfits.json
+
+# Terraform / secrets
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+!*.tfvars.example
+.terraform.lock.hcl.bak
+crash.log
+infra/terraform/build/
+frontend/.env.production
+*.tsbuildinfo

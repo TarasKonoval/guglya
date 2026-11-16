@@ -1,4 +1,4 @@
-# Local run: backend in Docker against your Supabase database.
+# Local run: backend in Docker against the RDS database (your IP is allowed by Terraform).
 # Frontend runs with `npm run dev` (see README).
 services:
   backend:

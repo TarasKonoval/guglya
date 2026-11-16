@@ -1,0 +1,26 @@
+#!/usr/bin/env bash
+# Build the frontend with production settings from Terraform outputs, upload to S3, invalidate CloudFront.
+# Usage: VITE_DONATE_URL=https://send.monobank.ua/jar/XXXX infra/deploy-frontend.sh
+set -euo pipefail
+cd "$(dirname "$0")"
+out() { terraform -chdir=terraform output -raw "$1"; }
+BUCKET=$(out frontend_bucket)
+DIST=$(out cloudfront_distribution_id)
+SITE=$(out cloudfront_url)
+
+cat > ../frontend/.env.production <<ENV
+VITE_API_URL=$(out api_url)
+VITE_COGNITO_USER_POOL_ID=$(out user_pool_id)
+VITE_COGNITO_CLIENT_ID=$(out client_id)
+VITE_DONATE_URL=${VITE_DONATE_URL:-}
+ENV
+
+cd ../frontend
+npm ci --no-audit --no-fund
+npm run build
+
+# Hashed bundles cache forever; everything else (index.html, demo images) revalidates.
+aws s3 sync dist/ "s3://$BUCKET/" --delete --exclude "assets/*" --cache-control "public,max-age=60"
+aws s3 sync dist/assets/ "s3://$BUCKET/assets/" --delete --cache-control "public,max-age=31536000,immutable"
+aws cloudfront create-invalidation --distribution-id "$DIST" --paths "/*" --query Invalidation.Id --output text
+echo "Live: $SITE"
