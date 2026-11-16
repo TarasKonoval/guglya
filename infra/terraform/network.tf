@@ -10,15 +10,6 @@ data "aws_subnets" "default" {
   }
 }
 
-# Laptop's current public IP, allowed to reach Postgres for migrations/seeding.
-data "http" "my_ip" {
-  url = "https://checkip.amazonaws.com"
-}
-
-locals {
-  my_ip_cidr = "${chomp(data.http.my_ip.response_body)}/32"
-}
-
 resource "aws_security_group" "lambda" {
   name        = "${var.project}-lambda"
   description = "Backend Lambda"
@@ -50,6 +41,6 @@ resource "aws_security_group" "db" {
     from_port   = 5432
     to_port     = 5432
     protocol    = "tcp"
-    cidr_blocks = [local.my_ip_cidr]
+    cidr_blocks = [var.my_ip_cidr]
   }
 }

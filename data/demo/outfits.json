@@ -1,68 +1,120 @@
 [
   {
-    "title": "Осінь у Львові",
+    "title": "Бордо з голови до пʼят",
     "season": "autumn",
-    "cover_image_url": "/demo/outfit-01.png",
+    "cover_image_url": "/img/outfit-01.png",
+    "style_tag": "бордо",
     "items": {
-      "hat": "https://example.com/demo/lisova-knit/hat-01",
-      "top": "https://example.com/demo/lisova-knit/top-01",
-      "bottom": "https://example.com/demo/lisova-knit/bottom-02",
-      "shoes": "https://example.com/demo/podil-denim/shoes-03"
+      "hat": "/demo/9c20fe56-a79b-5d39-a4e1-de3d60ab6490",
+      "top": "/demo/27e71670-eafd-5e93-8ce8-efa1599a387b",
+      "bottom": "/demo/73d059ea-d203-580a-87d4-a7d0f8cfbd4c",
+      "shoes": "/demo/8655bcb6-281e-593e-ab3c-69446f36dd69"
     }
   },
   {
-    "title": "Кава на Подолі",
+    "title": "Замша й мокко",
     "season": "autumn",
-    "cover_image_url": "/demo/outfit-02.png",
+    "cover_image_url": "/img/outfit-02.png",
+    "style_tag": "замша",
     "items": {
-      "hat": "https://example.com/demo/podil-denim/hat-04",
-      "top": "https://example.com/demo/stezhka-shoes/top-08",
-      "bottom": "https://example.com/demo/stezhka-shoes/bottom-08",
-      "shoes": "https://example.com/demo/lisova-knit/shoes-02"
+      "hat": "/demo/7d02a42d-7307-587d-a81f-313ac6cc3797",
+      "top": "/demo/78a7dbcb-37bd-50c4-a8d8-500fa063bfef",
+      "bottom": "/demo/493f3034-d160-5a62-9088-679d081c0cdb",
+      "shoes": "/demo/965c8993-a27d-517d-967d-8966fd07c24f"
     }
   },
   {
-    "title": "Карпатський вікенд",
+    "title": "Тренч і широкі джинси",
     "season": "autumn",
-    "cover_image_url": "/demo/outfit-03.png",
+    "cover_image_url": "/img/outfit-03.png",
+    "style_tag": "класика",
     "items": {
-      "hat": "https://example.com/demo/hromada-wear/hat-05",
-      "top": "https://example.com/demo/hromada-wear/top-06",
-      "bottom": "https://example.com/demo/polotno-studio/bottom-09",
-      "shoes": "https://example.com/demo/hromada-wear/shoes-05"
+      "top": "/demo/ce357e99-cba8-5657-b797-ec5319c24237",
+      "bottom": "/demo/182ac735-b44a-51b5-90ed-1949e918c1ed",
+      "shoes": "/demo/c8befc9f-6013-5ee9-bba5-955a91f5b6f0"
     }
   },
   {
-    "title": "Перший сніг",
-    "season": "winter",
-    "cover_image_url": "/demo/outfit-04.png",
+    "title": "Оверсайз-піджак",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-04.png",
+    "style_tag": "оверсайз",
     "items": {
-      "hat": "https://example.com/demo/stezhka-shoes/hat-07",
-      "top": "https://example.com/demo/hromada-wear/top-05",
-      "bottom": "https://example.com/demo/lisova-knit/bottom-01",
-      "shoes": "https://example.com/demo/stezhka-shoes/shoes-08"
+      "top": "/demo/4760e98c-ed35-536c-8d3f-c8b1a4fc95e7",
+      "bottom": "/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809",
+      "shoes": "/demo/eaabea45-aa8e-5c37-88b8-c3dc55509a1c"
     }
   },
   {
-    "title": "Різдвяний ярмарок",
-    "season": "winter",
-    "cover_image_url": "/demo/outfit-05.png",
+    "title": "Шкіра й міді",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-05.png",
+    "style_tag": "шкіра",
     "items": {
-      "hat": "https://example.com/demo/lisova-knit/hat-02",
-      "top": "https://example.com/demo/lisova-knit/top-02",
-      "bottom": "https://example.com/demo/podil-denim/bottom-04",
-      "shoes": "https://example.com/demo/lisova-knit/shoes-01"
+      "hat": "/demo/5e8caacd-8c2b-5ca7-b14e-a2cad3e75de2",
+      "top": "/demo/ce77489e-8038-54b1-869d-6d3801545924",
+      "bottom": "/demo/0f74c443-a8b5-5ef9-b967-410c60f8fd9d",
+      "shoes": "/demo/f11abb47-1a2d-5a07-b4a4-ba25576b82a6"
     }
   },
   {
-    "title": "Зимове місто",
-    "season": "winter",
-    "cover_image_url": "/demo/outfit-06.png",
+    "title": "Тиха розкіш у беж",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-06.png",
+    "style_tag": "тиха розкіш",
     "items": {
-      "hat": "https://example.com/demo/polotno-studio/hat-10",
-      "top": "https://example.com/demo/podil-denim/top-04",
-      "bottom": "https://example.com/demo/podil-denim/bottom-03",
-      "shoes": "https://example.com/demo/hromada-wear/shoes-06"
+      "hat": "/demo/60aab760-ae3b-5a00-b332-1e5782ac0034",
+      "top": "/demo/ecd01d99-cd94-5b66-a685-c93fa5871cb5",
+      "bottom": "/demo/493f3034-d160-5a62-9088-679d081c0cdb",
+      "shoes": "/demo/b85d4569-7f76-5686-bc52-b94696a9e67e"
+    }
+  },
+  {
+    "title": "Преппі на пари",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-07.png",
+    "style_tag": "преппі",
+    "items": {
+      "hat": "/demo/3cc51315-52fd-5f23-9c2c-901cb978c81a",
+      "top": "/demo/2ea2fd28-31f5-5bb9-8617-b6f964a581b0",
+      "bottom": "/demo/e58807fa-63fe-5b72-ac36-28e357010277",
+      "shoes": "/demo/c8befc9f-6013-5ee9-bba5-955a91f5b6f0"
+    }
+  },
+  {
+    "title": "Спорт-шик",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-08.png",
+    "style_tag": "спорт-шик",
+    "items": {
+      "hat": "/demo/4ba7e62f-efda-55ee-a37b-efa8adf999b6",
+      "top": "/demo/989364ea-9d68-5bb8-b3cd-1834d3f74c26",
+      "bottom": "/demo/3a8d2015-ce7f-5f1d-865a-aeb7668eb115",
+      "shoes": "/demo/e0a38502-d2f2-5108-89f7-649bd7277efb"
+    }
+  },
+  {
+    "title": "Карго та бомбер",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-09.png",
+    "style_tag": "мілітарі",
+    "items": {
+      "hat": "/demo/80e31f0d-30ff-5c0f-9866-ef3276fba5af",
+      "top": "/demo/0d0e7aee-0180-5d9c-9063-d8251c6ba1c6",
+      "bottom": "/demo/ae424ba8-6e2a-5eb7-ac01-be72c7287701",
+      "shoes": "/demo/ce9e88bf-0c86-5d9b-8897-7ebbb5878625"
+    }
+  },
+  {
+    "title": "Сірий монохром",
+    "season": "autumn",
+    "cover_image_url": "/img/outfit-10.png",
+    "style_tag": "монохром",
+    "items": {
+      "hat": "/demo/a1bb26c2-e4e5-5a22-bbd9-7710f93871ea",
+      "top": "/demo/7372cd3f-4485-533b-a1c9-2de770d8bdde",
+      "bottom": "/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809",
+      "shoes": "/demo/b6f50f86-7c35-5d2d-973e-01ea866b4cae"
     }
   }
 ]

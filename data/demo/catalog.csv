@@ -1,41 +1,61 @@
-brand,brand_site,title,category,color,price_uah,image_url,product_url
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Вʼязана шапка біні,hat,beige,790,/demo/hat-01.png,https://example.com/demo/lisova-knit/hat-01
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Шапка з помпоном,hat,red,890,/demo/hat-02.png,https://example.com/demo/lisova-knit/hat-02
-Podil Denim · demo,https://example.com/demo/podil-denim,Панама з вовни,hat,black,1150,/demo/hat-03.png,https://example.com/demo/podil-denim/hat-03
-Podil Denim · demo,https://example.com/demo/podil-denim,Шапка рубчиком,hat,grey,690,/demo/hat-04.png,https://example.com/demo/podil-denim/hat-04
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Мериносова біні,hat,green,980,/demo/hat-05.png,https://example.com/demo/hromada-wear/hat-05
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Вельветова панама,hat,brown,1050,/demo/hat-06.png,https://example.com/demo/hromada-wear/hat-06
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Тепла шапка з помпоном,hat,white,840,/demo/hat-07.png,https://example.com/demo/stezhka-shoes/hat-07
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Шапка з відворотом,hat,blue,720,/demo/hat-08.png,https://example.com/demo/stezhka-shoes/hat-08
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Стьобана панама,hat,beige,1290,/demo/hat-09.png,https://example.com/demo/polotno-studio/hat-09
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Кашемірова біні,hat,black,1390,/demo/hat-10.png,https://example.com/demo/polotno-studio/hat-10
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Светр оверсайз,top,beige,2400,/demo/top-01.png,https://example.com/demo/lisova-knit/top-01
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Вовняне пальто,top,brown,5900,/demo/top-02.png,https://example.com/demo/lisova-knit/top-02
-Podil Denim · demo,https://example.com/demo/podil-denim,Худі з начосом,top,grey,1850,/demo/top-03.png,https://example.com/demo/podil-denim/top-03
-Podil Denim · demo,https://example.com/demo/podil-denim,Светр з горлом,top,black,2650,/demo/top-04.png,https://example.com/demo/podil-denim/top-04
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Пальто прямого крою,top,grey,6300,/demo/top-05.png,https://example.com/demo/hromada-wear/top-05
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Кардиган-светр,top,green,2200,/demo/top-06.png,https://example.com/demo/hromada-wear/top-06
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Худі оверсайз,top,blue,1990,/demo/top-07.png,https://example.com/demo/stezhka-shoes/top-07
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Тренч утеплений,top,beige,5400,/demo/top-08.png,https://example.com/demo/stezhka-shoes/top-08
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Мериносовий джемпер,top,red,2950,/demo/top-09.png,https://example.com/demo/polotno-studio/top-09
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Худі на блискавці,top,black,2100,/demo/top-10.png,https://example.com/demo/polotno-studio/top-10
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Вовняні штани,bottom,grey,2300,/demo/bottom-01.png,https://example.com/demo/lisova-knit/bottom-01
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Джинси прямі,bottom,blue,2100,/demo/bottom-02.png,https://example.com/demo/lisova-knit/bottom-02
-Podil Denim · demo,https://example.com/demo/podil-denim,Джинси широкі,bottom,black,2250,/demo/bottom-03.png,https://example.com/demo/podil-denim/bottom-03
-Podil Denim · demo,https://example.com/demo/podil-denim,Спідниця міді,bottom,brown,1900,/demo/bottom-04.png,https://example.com/demo/podil-denim/bottom-04
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Штани палаццо,bottom,beige,2450,/demo/bottom-05.png,https://example.com/demo/hromada-wear/bottom-05
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Джинси мом,bottom,blue,1950,/demo/bottom-06.png,https://example.com/demo/hromada-wear/bottom-06
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Вельветова спідниця,bottom,green,1750,/demo/bottom-07.png,https://example.com/demo/stezhka-shoes/bottom-07
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Класичні штани,bottom,black,2600,/demo/bottom-08.png,https://example.com/demo/stezhka-shoes/bottom-08
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Штани-карго,bottom,green,2150,/demo/bottom-09.png,https://example.com/demo/polotno-studio/bottom-09
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Плісирована спідниця,bottom,grey,2050,/demo/bottom-10.png,https://example.com/demo/polotno-studio/bottom-10
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Шкіряні черевики,shoes,black,4900,/demo/shoes-01.png,https://example.com/demo/lisova-knit/shoes-01
-Lisova Knit · demo,https://example.com/demo/lisova-knit,Кеди замшеві,shoes,white,3100,/demo/shoes-02.png,https://example.com/demo/lisova-knit/shoes-02
-Podil Denim · demo,https://example.com/demo/podil-denim,Челсі,shoes,brown,4600,/demo/shoes-03.png,https://example.com/demo/podil-denim/shoes-03
-Podil Denim · demo,https://example.com/demo/podil-denim,Кросівки утеплені,shoes,grey,3400,/demo/shoes-04.png,https://example.com/demo/podil-denim/shoes-04
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Черевики на шнурівці,shoes,brown,5200,/demo/shoes-05.png,https://example.com/demo/hromada-wear/shoes-05
-Hromada Wear · demo,https://example.com/demo/hromada-wear,Челсі на тракторній,shoes,black,4800,/demo/shoes-06.png,https://example.com/demo/hromada-wear/shoes-06
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Кеди шкіряні,shoes,beige,2950,/demo/shoes-07.png,https://example.com/demo/stezhka-shoes/shoes-07
-Stezhka Shoes · demo,https://example.com/demo/stezhka-shoes,Зимові черевики,shoes,beige,5600,/demo/shoes-08.png,https://example.com/demo/stezhka-shoes/shoes-08
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Замшеві челсі,shoes,green,4400,/demo/shoes-09.png,https://example.com/demo/polotno-studio/shoes-09
-Polotno Studio · demo,https://example.com/demo/polotno-studio,Кросівки ретро,shoes,blue,3250,/demo/shoes-10.png,https://example.com/demo/polotno-studio/shoes-10
+brand,brand_site,title,category,color,price_uah,image_url,product_url,in_stock
+Lisova Knit,https://example.com/lisova-knit,Вʼязана шапка біні,hat,beige,790,/img/hat-01.png,/demo/bcdf5b66-5e71-5ed8-ab4f-5cd4aff9cd86,true
+Podil Denim,https://example.com/podil-denim,Шапка з помпоном,hat,red,890,/img/hat-02.png,/demo/024316fe-3fae-5a12-984c-0276bd18f055,true
+Hromada Wear,https://example.com/hromada-wear,Вовняна панама,hat,black,1150,/img/hat-03.png,/demo/6afdc461-4f62-5ae7-9e7a-0bc1a0516d03,true
+Stezhka,https://example.com/stezhka,Шапка рубчиком,hat,grey,690,/img/hat-04.png,/demo/4ba7e62f-efda-55ee-a37b-efa8adf999b6,true
+Polotno Studio,https://example.com/polotno-studio,Берет з вовни,hat,burgundy,950,/img/hat-05.png,/demo/3cc51315-52fd-5f23-9c2c-901cb978c81a,true
+Bereh Atelier,https://example.com/bereh-atelier,Замшева кепка,hat,brown,1090,/img/hat-06.png,/demo/7d02a42d-7307-587d-a81f-313ac6cc3797,true
+Kashtan Leather,https://example.com/kashtan-leather,Мериносова біні,hat,green,980,/img/hat-07.png,/demo/80e31f0d-30ff-5c0f-9866-ef3276fba5af,true
+Zerno,https://example.com/zerno,Класичний берет,hat,black,870,/img/hat-08.png,/demo/5e8caacd-8c2b-5ca7-b14e-a2cad3e75de2,true
+Lisova Knit,https://example.com/lisova-knit,Стьобана панама,hat,beige,1290,/img/hat-09.png,/demo/a66c0674-8a7c-59ed-a79d-2047af2f01c7,true
+Podil Denim,https://example.com/podil-denim,Кепка з вельвету,hat,blue,820,/img/hat-10.png,/demo/79c64af1-3aeb-5404-b4b7-58b1f732d8aa,true
+Hromada Wear,https://example.com/hromada-wear,Шапка кольору бордо,hat,burgundy,760,/img/hat-11.png,/demo/9c20fe56-a79b-5d39-a4e1-de3d60ab6490,true
+Stezhka,https://example.com/stezhka,Тепла шапка з помпоном,hat,white,840,/img/hat-12.png,/demo/2d5fbb2f-10e0-5863-81f6-b0015bde4495,true
+Polotno Studio,https://example.com/polotno-studio,Берет кольору беж,hat,beige,920,/img/hat-13.png,/demo/60aab760-ae3b-5a00-b332-1e5782ac0034,true
+Bereh Atelier,https://example.com/bereh-atelier,Кашемірова біні,hat,brown,1390,/img/hat-14.png,/demo/d664a4e0-aadd-5794-9e4b-98926efbbf19,true
+Kashtan Leather,https://example.com/kashtan-leather,Вовняна кепка,hat,grey,990,/img/hat-15.png,/demo/a1bb26c2-e4e5-5a22-bbd9-7710f93871ea,true
+Lisova Knit,https://example.com/lisova-knit,Светр оверсайз,top,beige,2400,/img/top-01.png,/demo/bfce057c-489e-5807-bc72-6e28a24a2c72,true
+Podil Denim,https://example.com/podil-denim,Вовняне пальто,top,brown,5900,/img/top-02.png,/demo/edb8a33e-1ee2-5195-a1b8-ddcf4913201a,true
+Hromada Wear,https://example.com/hromada-wear,Худі з начосом,top,grey,1850,/img/top-03.png,/demo/989364ea-9d68-5bb8-b3cd-1834d3f74c26,true
+Stezhka,https://example.com/stezhka,Піджак оверсайз,top,black,3900,/img/top-04.png,/demo/4760e98c-ed35-536c-8d3f-c8b1a4fc95e7,true
+Polotno Studio,https://example.com/polotno-studio,Класичний тренч,top,beige,5400,/img/top-05.png,/demo/ce357e99-cba8-5657-b797-ec5319c24237,true
+Bereh Atelier,https://example.com/bereh-atelier,Шкіряна куртка,top,black,6900,/img/top-06.png,/demo/ce77489e-8038-54b1-869d-6d3801545924,true
+Kashtan Leather,https://example.com/kashtan-leather,Светр кольору бордо,top,burgundy,2650,/img/top-07.png,/demo/27e71670-eafd-5e93-8ce8-efa1599a387b,true
+Zerno,https://example.com/zerno,Бомбер,top,green,3300,/img/top-08.png,/demo/0d0e7aee-0180-5d9c-9063-d8251c6ba1c6,true
+Lisova Knit,https://example.com/lisova-knit,Пальто прямого крою,top,grey,6300,/img/top-09.png,/demo/7372cd3f-4485-533b-a1c9-2de770d8bdde,true
+Podil Denim,https://example.com/podil-denim,Вельветовий піджак,top,brown,3600,/img/top-10.png,/demo/f4f8e1b2-74a1-5231-a85a-2be7c11b2ed7,true
+Hromada Wear,https://example.com/hromada-wear,Мериносовий джемпер,top,white,2950,/img/top-11.png,/demo/ecd01d99-cd94-5b66-a685-c93fa5871cb5,true
+Stezhka,https://example.com/stezhka,Худі оверсайз,top,blue,1990,/img/top-12.png,/demo/bafcb237-6c66-5416-a278-182dcc1575c9,true
+Polotno Studio,https://example.com/polotno-studio,Тренч кольору мокко,top,brown,5200,/img/top-13.png,/demo/99ce70d7-b53c-5569-bfe9-6f898c0d0235,true
+Bereh Atelier,https://example.com/bereh-atelier,Замшева куртка,top,brown,6400,/img/top-14.png,/demo/78a7dbcb-37bd-50c4-a8d8-500fa063bfef,true
+Kashtan Leather,https://example.com/kashtan-leather,Кардиган-светр,top,green,2200,/img/top-15.png,/demo/2ea2fd28-31f5-5bb9-8617-b6f964a581b0,true
+Lisova Knit,https://example.com/lisova-knit,Вовняні штани,bottom,grey,2300,/img/bottom-01.png,/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809,true
+Podil Denim,https://example.com/podil-denim,Широкі джинси,bottom,blue,2100,/img/bottom-02.png,/demo/182ac735-b44a-51b5-90ed-1949e918c1ed,true
+Hromada Wear,https://example.com/hromada-wear,Чорні джинси,bottom,black,2250,/img/bottom-03.png,/demo/0e500114-bb93-5edd-a15d-5383dd5ee4b4,true
+Stezhka,https://example.com/stezhka,Спідниця міді,bottom,brown,1900,/img/bottom-04.png,/demo/0f74c443-a8b5-5ef9-b967-410c60f8fd9d,true
+Polotno Studio,https://example.com/polotno-studio,Штани палаццо,bottom,beige,2450,/img/bottom-05.png,/demo/493f3034-d160-5a62-9088-679d081c0cdb,true
+Bereh Atelier,https://example.com/bereh-atelier,Штани-карго,bottom,green,2150,/img/bottom-06.png,/demo/0d870cb4-7fa1-5590-855d-0cd646274eac,true
+Kashtan Leather,https://example.com/kashtan-leather,Шкіряна спідниця міді,bottom,black,3200,/img/bottom-07.png,/demo/96051d5c-a2e5-5a86-9702-5e13cf6d26ab,true
+Zerno,https://example.com/zerno,Штани кольору бордо,bottom,burgundy,2350,/img/bottom-08.png,/demo/73d059ea-d203-580a-87d4-a7d0f8cfbd4c,true
+Lisova Knit,https://example.com/lisova-knit,Прямі джинси,bottom,blue,1950,/img/bottom-09.png,/demo/98c57195-9905-5ef5-beef-53334c361e0e,true
+Podil Denim,https://example.com/podil-denim,Карго з кишенями,bottom,beige,2050,/img/bottom-10.png,/demo/ae424ba8-6e2a-5eb7-ac01-be72c7287701,true
+Hromada Wear,https://example.com/hromada-wear,Плісирована спідниця,bottom,grey,2050,/img/bottom-11.png,/demo/e58807fa-63fe-5b72-ac36-28e357010277,true
+Stezhka,https://example.com/stezhka,Класичні штани,bottom,black,2600,/img/bottom-12.png,/demo/3a8d2015-ce7f-5f1d-865a-aeb7668eb115,true
+Polotno Studio,https://example.com/polotno-studio,Світлі джинси,bottom,white,2200,/img/bottom-13.png,/demo/7f15793f-08e2-506b-8947-e9703ae749c2,true
+Bereh Atelier,https://example.com/bereh-atelier,Вельветова спідниця,bottom,burgundy,1750,/img/bottom-14.png,/demo/1c9d54bc-0bcb-5617-b653-d745232cf6af,true
+Kashtan Leather,https://example.com/kashtan-leather,Вельветові штани,bottom,brown,2250,/img/bottom-15.png,/demo/9bec9cf8-25f8-5230-bebd-ec1c8a8bf445,true
+Lisova Knit,https://example.com/lisova-knit,Шкіряні черевики,shoes,black,4900,/img/shoes-01.png,/demo/f11abb47-1a2d-5a07-b4a4-ba25576b82a6,true
+Podil Denim,https://example.com/podil-denim,Кеди шкіряні,shoes,white,3100,/img/shoes-02.png,/demo/eaabea45-aa8e-5c37-88b8-c3dc55509a1c,true
+Hromada Wear,https://example.com/hromada-wear,Челсі,shoes,brown,4600,/img/shoes-03.png,/demo/965c8993-a27d-517d-967d-8966fd07c24f,true
+Stezhka,https://example.com/stezhka,Лофери,shoes,black,3800,/img/shoes-04.png,/demo/c8befc9f-6013-5ee9-bba5-955a91f5b6f0,true
+Polotno Studio,https://example.com/polotno-studio,Черевики на шнурівці,shoes,brown,5200,/img/shoes-05.png,/demo/ce9e88bf-0c86-5d9b-8897-7ebbb5878625,true
+Bereh Atelier,https://example.com/bereh-atelier,Кросівки ретро,shoes,grey,3400,/img/shoes-06.png,/demo/e0a38502-d2f2-5108-89f7-649bd7277efb,true
+Kashtan Leather,https://example.com/kashtan-leather,Челсі на тракторній,shoes,black,4800,/img/shoes-07.png,/demo/7b30a637-f6ee-50df-ad29-62f3df958d8c,true
+Zerno,https://example.com/zerno,Лофери кольору бордо,shoes,burgundy,3950,/img/shoes-08.png,/demo/8655bcb6-281e-593e-ab3c-69446f36dd69,true
+Lisova Knit,https://example.com/lisova-knit,Замшеві кеди,shoes,beige,2950,/img/shoes-09.png,/demo/a6b8e8e1-ea5f-511e-a4fa-5ba6658b42fe,true
+Podil Denim,https://example.com/podil-denim,Зимові черевики,shoes,beige,5600,/img/shoes-10.png,/demo/d11a6bc6-6ba5-5d2b-8deb-f3d4876aa378,true
+Hromada Wear,https://example.com/hromada-wear,Замшеві лофери,shoes,brown,3700,/img/shoes-11.png,/demo/b85d4569-7f76-5686-bc52-b94696a9e67e,true
+Stezhka,https://example.com/stezhka,Сірі челсі,shoes,grey,4400,/img/shoes-12.png,/demo/b6f50f86-7c35-5d2d-973e-01ea866b4cae,true
+Polotno Studio,https://example.com/polotno-studio,Кросівки сині,shoes,blue,3250,/img/shoes-13.png,/demo/e63098fb-a372-5de2-a642-93dadbf8c39d,true
+Bereh Atelier,https://example.com/bereh-atelier,Черевики бордо,shoes,burgundy,5300,/img/shoes-14.png,/demo/7ff3f5d8-a08a-54a9-98aa-3aefbc8c7e36,true
+Kashtan Leather,https://example.com/kashtan-leather,Світлі лофери,shoes,white,3600,/img/shoes-15.png,/demo/e16f3f4c-3173-56a6-86e2-a445ca8277a3,true
