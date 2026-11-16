@@ -51,7 +51,7 @@ h1, h2, h3 { margin: 0; }
   display: flex; align-items: center; justify-content: space-between; padding: 0 8px 0 16px;
   background: rgba(255, 255, 255, .92); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
 }
-.logo { font-family: var(--display); font-weight: 600; font-size: 30px; letter-spacing: .3px; line-height: 1; }
+.logo { font-family: var(--display); font-weight: 600; font-size: 30px; letter-spacing: .3px; line-height: 1; min-height: 44px; display: inline-flex; align-items: center; }
 .logo.big { font-size: 56px; text-align: center; display: block; }
 .topnav { display: flex; align-items: center; gap: 2px; }
 .iconbtn { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; flex: none; }
@@ -73,7 +73,8 @@ h1, h2, h3 { margin: 0; }
   display: inline-flex; align-items: center; gap: 8px; min-height: 48px; padding: 0 18px; border-radius: 999px;
   background: var(--ink); color: #fff; font-weight: 600; font-size: 14px; box-shadow: 0 6px 20px rgba(0,0,0,.2);
 }
-body.has-bar .fab { bottom: calc(150px + env(safe-area-inset-bottom)); }
+body.has-bar .fab { bottom: calc(150px + env(safe-area-inset-bottom)); width: 48px; padding: 0; justify-content: center; }
+body.has-bar .fab .fab-label { display: none; }
 
 /* Landing */
 .landing { max-width: 1100px; margin: 0 auto; padding: 0 16px 48px; }
@@ -109,7 +110,7 @@ body.has-bar .fab { bottom: calc(150px + env(safe-area-inset-bottom)); }
   flex: none; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px; border-radius: 999px;
   border: 1.5px solid var(--line); font-size: 14px; white-space: nowrap;
 }
-.chip.color { min-height: 36px; padding: 0 12px 0 8px; font-size: 13px; }
+.chip.color { min-height: 44px; padding: 0 12px 0 10px; font-size: 13px; }
 .chip.on { border-color: var(--ink); background: var(--ink); color: #fff; }
 .swatch { width: 18px; height: 18px; border-radius: 50%; border: 1px solid rgba(0,0,0,.15); }
 
@@ -144,7 +145,7 @@ body.has-bar .fab { bottom: calc(150px + env(safe-area-inset-bottom)); }
 
 /* Outfit page */
 .outfit-layout { max-width: 1280px; margin: 0 auto; padding-bottom: 160px; }
-.outfit-visual { background: var(--soft); }
+.outfit-visual { background: #ece2d4; } /* matches the cover background */
 .outfit-visual .cover { max-height: 58vh; aspect-ratio: auto; height: 58vh; object-fit: contain; margin: 0 auto; }
 .outfit-visual .collage { max-width: 420px; margin: 0 auto; aspect-ratio: 4 / 5; height: auto; }
 .outfit-panel { min-width: 0; }
@@ -247,5 +248,6 @@ body.has-bar .fab { bottom: calc(150px + env(safe-area-inset-bottom)); }
   .outfit-panel { padding-bottom: 160px; }
   .item-card { flex-basis: 168px; }
   .check-bar { left: auto; width: min(560px, 55%); right: 16px; bottom: 16px; border-radius: 18px; padding: 14px 18px; }
-  body.has-bar .fab { bottom: 16px; right: auto; left: 16px; }
+  body.has-bar .fab { bottom: 16px; right: auto; left: 16px; width: auto; padding: 0 18px; }
+  body.has-bar .fab .fab-label { display: inline; }
 }

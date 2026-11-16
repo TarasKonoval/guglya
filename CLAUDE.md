@@ -40,17 +40,21 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
   collected on the demo stay in the report.
 - Outfit covers for demo outfits are generated flat lays; outfits without a cover render a 2×2 collage.
 
+## Live
+- Site: https://d2lxh7fc98a19v.cloudfront.net
+- API:  https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com
+
 ## Checklist (Mon 16 Nov)
 - [x] 0. Repo public on GitHub (history checked for secrets); Андрій (DobiH) invited as collaborator
 - [x] 1. AWS access via IAM user profile `guglya` (not root); regular account, not Learner Lab
 - [x] 2a. Terraform: Cognito + pre-sign-up Lambda, S3 + CloudFront, ECR, budget (sign-up auto-confirm verified)
-- [ ] 2b. Terraform: RDS + security groups + SSM
-- [ ] 2c. Terraform: backend Lambda + API Gateway
-- [ ] 3. Migrations + demo catalog (8 brands, 60 products, 10 autumn outfits) + embeddings
-- [ ] 4. Backend live: /health, /outfits
-- [ ] 5. Frontend live on CloudFront
-- [ ] 6. Live E2E: sign up → sign out → sign in → /me; test user removed
-- [ ] 7. UI per spec, Playwright check at 375×812 + desktop, redeployed
-- [ ] 8. README, CLAUDE.md, report template
+- [x] 2b. Terraform: RDS + security groups + SSM
+- [x] 2c. Terraform: backend Lambda + API Gateway
+- [x] 3. Migrations + demo catalog (8 brands, 60 products, 10 autumn outfits) + embeddings
+- [x] 4. Backend live: /health, /outfits
+- [x] 5. Frontend live on CloudFront
+- [x] 6. Live E2E: sign up → sign out → sign in → /me; test user removed
+- [x] 7. UI per spec, Playwright check at 375×812 + desktop, redeployed
+- [x] 8. README, CLAUDE.md, report template
 - [ ] Later: Monobank jar URL → redeploy frontend with VITE_DONATE_URL
 - [ ] Tue/Wed: test rounds 17 + 18 Nov (stats.py --since/--until), brand interviews, real catalog import

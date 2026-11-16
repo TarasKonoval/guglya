@@ -95,7 +95,7 @@ export default function App() {
       <footer className="footer">
         Ґуґля — студентський проєкт, 2026. Демо-каталог: бренди й товари вигадані, ілюстрації наші.
       </footer>
-      <button className="fab" onClick={() => openFeedback("manual")}><ChatIcon /> Відгук</button>
+      <button className="fab" aria-label="Відгук" onClick={() => openFeedback("manual")}><ChatIcon /> <span className="fab-label">Відгук</span></button>
       {feedback && <FeedbackModal auto={feedback === "auto"} onClose={() => setFeedback(null)} />}
     </>
   );
