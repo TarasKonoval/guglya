@@ -1,0 +1,6 @@
+# Offline only (run on a laptop, not on the server)
+-r requirements.txt
+torch
+transformers
+pillow
+requests

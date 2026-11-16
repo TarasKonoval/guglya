@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Осінь у Львові",
+    "season": "autumn",
+    "cover_image_url": "https://example.com/outfits/lviv-autumn.jpg",
+    "items": {
+      "hat": "https://example.com/p/hat",
+      "top": "https://example.com/p/sweater"
+    }
+  }
+]

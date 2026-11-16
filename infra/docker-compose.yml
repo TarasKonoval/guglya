@@ -1,0 +1,8 @@
+# Local run: backend in Docker against your Supabase database.
+# Frontend runs with `npm run dev` (see README).
+services:
+  backend:
+    build: ../backend
+    env_file: ../backend/.env
+    ports:
+      - "8000:8000"
