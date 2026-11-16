@@ -1,9 +1,11 @@
 import { useState } from "react";
+import { Link, useSearchParams } from "react-router-dom";
 import { signIn, signUp } from "aws-amplify/auth";
 import { authErrorMessage } from "../lib/auth";
 
 export default function AuthPage() {
-  const [mode, setMode] = useState<"signin" | "signup">("signup");
+  const [params, setParams] = useSearchParams();
+  const mode = params.get("mode") === "signin" ? "signin" : "signup";
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [msg, setMsg] = useState<string | null>(null);
@@ -16,7 +18,7 @@ export default function AuthPage() {
     try {
       const username = email.trim().toLowerCase();
       if (mode === "signup") {
-        // A pre-sign-up trigger confirms the account immediately, so we can sign straight in.
+        // The pre-sign-up trigger confirms the account immediately, so we sign straight in.
         await signUp({ username, password, options: { userAttributes: { email: username } } });
       }
       const { nextStep } = await signIn({ username, password });
@@ -29,25 +31,31 @@ export default function AuthPage() {
     }
   }
 
+  const switchTo = (m: string) => { setParams({ mode: m }, { replace: true }); setMsg(null); };
+
   return (
     <main className="auth">
-      <div className="auth-hero">
-        <h1 className="logo big">Ґуґля</h1>
-        <p className="tagline">Трендові образи сезону — з речей українських брендів.</p>
-      </div>
+      <Link to="/" className="logo big">Ґуґля</Link>
       <form onSubmit={submit} className="auth-form">
-        <h2>{mode === "signup" ? "Створи акаунт" : "Вхід"}</h2>
-        <input type="email" placeholder="Email" autoComplete="email" value={email}
-          onChange={(e) => setEmail(e.target.value)} required />
-        <input type="password" placeholder="Пароль (від 8 символів)" minLength={8} required value={password}
-          autoComplete={mode === "signup" ? "new-password" : "current-password"}
-          onChange={(e) => setPassword(e.target.value)} />
+        <div className="seg full" role="tablist">
+          <button type="button" role="tab" aria-selected={mode === "signup"} className={mode === "signup" ? "on" : ""}
+            onClick={() => switchTo("signup")}>Реєстрація</button>
+          <button type="button" role="tab" aria-selected={mode === "signin"} className={mode === "signin" ? "on" : ""}
+            onClick={() => switchTo("signin")}>Вхід</button>
+        </div>
+        <label>Email
+          <input type="email" autoComplete="email" inputMode="email" value={email}
+            onChange={(e) => setEmail(e.target.value)} required />
+        </label>
+        <label>Пароль
+          <input type="password" minLength={8} required value={password}
+            autoComplete={mode === "signup" ? "new-password" : "current-password"}
+            onChange={(e) => setPassword(e.target.value)} />
+          {mode === "signup" && <span className="hint">Щонайменше 8 символів</span>}
+        </label>
+        {msg && <p className="error" role="alert">{msg}</p>}
         <button className="btn primary" type="submit" disabled={busy}>
           {busy ? "Зачекай…" : mode === "signup" ? "Зареєструватися" : "Увійти"}
-        </button>
-        {msg && <p className="error">{msg}</p>}
-        <button type="button" className="link" onClick={() => { setMode(mode === "signin" ? "signup" : "signin"); setMsg(null); }}>
-          {mode === "signin" ? "Немає акаунта? Реєстрація" : "Вже є акаунт? Увійти"}
         </button>
       </form>
     </main>

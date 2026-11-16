@@ -1,31 +1,56 @@
-# Guglya — context for Claude Code
+# Ґуґля (Guglya) — context for Claude Code
 
-## Product
-Website with trending seasonal outfits made of Ukrainian brands' items. User opens an outfit: outfit image on the left (full height), on the right one horizontal swipeable row per slot (hat, top, bottom, shoes). Each row shows the outfit's own item first, then 5 similar in-stock items from other Ukrainian brands (thumbnail, brand name, price in UAH). Colour chips filter a row. Click -> POST /clicks -> open returned URL (brand product page) in a new tab. Users must sign up / sign in (Supabase Auth email+password). Signed-in users can save outfits and send feedback. UI language: Ukrainian. Mobile-first (most fashion purchases are on phones).
+## Product (source of truth: our one-pager)
+Team: Андрій Гуменюк, Тарас Коновал.
+"Ґуґля — сайт із готовими трендовими образами на сезон, зібраними з речей виключно українських брендів."
+Goal: a person looks stylish without effort and chooses Ukrainian. "Обираєш образ — і одягаєшся в українське за кілька хвилин."
+- Users: students / young people 19–35 in big cities; ideas from Instagram/TikTok/Pinterest; buy from a smartphone → mobile first.
+- v1: ~30 AUTUMN outfits, 20 Ukrainian brands; for every piece AI picks similar alternatives from OTHER brands; prices shown; click → brand's product page (purchase happens there).
+- Promotion: TikTok/Reels «АутфітЧек» (outfit + each item's brand and price + total). The UI mirrors this format.
+- Validation: 20–30 users + 10 brands. Key metric: share of outfit viewers who click to a brand (goal ≥ 1 in 10).
+- UI language Ukrainian; prices like "1 290 ₴".
 
-## Deadline and grading (demo Thursday 19 Nov 2026)
-1. Repo with top-level backend/, frontend/, infra/, README.md explaining product + run + deploy (3 pts).
-2. Deployed prototype over HTTPS with working sign-up and sign-in (3 pts).
-3. Report (PDF) with real user feedback: who, how many, what they said, what we changed (4 pts). Use `report_stats` view + clicks/feedback tables as evidence. Template: docs/report-template.md.
-4. Bonus: users paid money — donation button to a Monobank volunteer jar (VITE_DONATE_URL); collect screenshots.
+## Grading (demo Thu 19 Nov 2026)
+1. Repo with backend/, frontend/, infra/, README.md (what/run/deploy). 2. HTTPS prototype with sign-up/sign-in.
+3. PDF report with real user feedback (backend/scripts/stats.py + feedback table; template docs/report-template.md).
+4. Bonus: donations to a Monobank volunteer jar (VITE_DONATE_URL), donate clicks logged.
 
-## Architecture
-- frontend/: React 18 + Vite + TS, react-router, @supabase/supabase-js. `src/lib/api.ts` adds the Supabase JWT to API calls. Deployed to Cloudflare Pages.
-- backend/: FastAPI (`app/main.py`), psycopg pool to Supabase Postgres, JWT verified in `app/auth.py` (JWKS, HS256 fallback). Deployed to Render via Docker.
-- Similarity: FashionCLIP 512-d embeddings precomputed offline (`backend/ml/embed.py`), stored in `products.embedding` (pgvector); `/outfits/{id}/similar/{slot}` orders by cosine distance to the outfit's hero item, same category, in stock.
-- Schema: `infra/supabase/migrations/001_init.sql`.
+## Architecture (AWS eu-central-1, Terraform in infra/terraform, local state)
+- Auth: Cognito User Pool (email username, min 8 chars), pre-sign-up Lambda auto-confirms + verifies email. Public client, no secret.
+- Frontend: React + Vite + TS + aws-amplify v6 → private S3 + CloudFront (OAC, SPA fallback). `infra/deploy-frontend.sh`.
+- Backend: FastAPI (`backend/app`) on Lambda (container, arm64, Mangum) behind API Gateway HTTP API. `infra/deploy-backend.sh`.
+  Lambda is in the default VPC without NAT: JWKS and DATABASE_URL come in as env vars from Terraform. CORS only in FastAPI.
+- DB: RDS Postgres 16 + pgvector (db.t4g.micro, public endpoint, SG = Lambda SG + var.my_ip_cidr). Migrations in
+  `infra/db/migrations`, applied by `backend/scripts/migrate.py`. DATABASE_URL in SSM `/guglya/database_url`.
+- Similarity: FashionCLIP 512-d embeddings computed offline (`backend/ml/embed.py`), cosine (<=>) in SQL; alternatives only from
+  other brands, one per brand first.
+- Evidence: users, events (outfit_view, swap, donate_click, feedback_open), clicks (is_alternative), feedback (rating, would_buy).
+- Images: demo images are our own illustrations in `data/demo/img`, served from S3/CloudFront under `/img/` (seed-demo.sh).
+- Budget alarm $30/month (50/80/100%) to the email in terraform.tfvars.
 
 ## Conventions
-- Keep it simple: prototype, not production. No new services unless needed.
-- Never commit .env files or keys. Frontend only uses the Supabase anon key.
-- Use only product photos we are allowed to use (brand permission or our own photos).
+- Keep it simple: prototype, not production. Smallest AWS sizes. No new services unless needed.
+- AWS CLI profile `guglya` (IAM user guglya-admin; never root). `export AWS_PROFILE=guglya`.
+- Never commit .env*, *.tfstate*, .terraform/, terraform.tfvars, keys. Budget email lives only in terraform.tfvars.
+- Only product photos we may use (brand permission or our own). Demo data: brands/products is_demo=true, links go to /demo/<id>.
 
-## Today's plan (Mon 16 Nov) — in order
-1. [ ] `npm install` in frontend, `pip install -r requirements.txt` in backend; both run locally.
-2. [ ] Supabase project created, migration run, sign-up/sign-in works locally.
-3. [ ] Deploy skeleton: backend on Render, frontend on Cloudflare Pages, HTTPS sign-up/sign-in works. (Secures 3+3 pts early.)
-4. [ ] Catalog: data/catalog.csv with 100–300 items from 5–10 Ukrainian brands + data/outfits.json with 6–10 outfits; import; run embed.py.
-5. [ ] UI: outfit feed (horizontal swipe, season switch) -> outfit page (left image, right rows with similar items, colour chips, total outfit price) -> click to brand.
-6. [ ] Saved outfits page, feedback button/modal, donate button.
-7. [ ] Polish mobile layout, deploy, smoke test on a phone.
-8. [ ] README check; start user tests (tomorrow: 2 rounds, 15–20 people total).
+## Decisions / deviations
+- Demo images are generated flat illustrations (no reliable verifiable free photo set for 60 specific items).
+- `import_catalog.py --purge-demo` hides demo data (unpublish + out of stock) instead of deleting it, so clicks/events
+  collected on the demo stay in the report.
+- Outfit covers for demo outfits are generated flat lays; outfits without a cover render a 2×2 collage.
+
+## Checklist (Mon 16 Nov)
+- [x] 0. Repo public on GitHub (history checked for secrets); Андрій (DobiH) invited as collaborator
+- [x] 1. AWS access via IAM user profile `guglya` (not root); regular account, not Learner Lab
+- [x] 2a. Terraform: Cognito + pre-sign-up Lambda, S3 + CloudFront, ECR, budget (sign-up auto-confirm verified)
+- [ ] 2b. Terraform: RDS + security groups + SSM
+- [ ] 2c. Terraform: backend Lambda + API Gateway
+- [ ] 3. Migrations + demo catalog (8 brands, 60 products, 10 autumn outfits) + embeddings
+- [ ] 4. Backend live: /health, /outfits
+- [ ] 5. Frontend live on CloudFront
+- [ ] 6. Live E2E: sign up → sign out → sign in → /me; test user removed
+- [ ] 7. UI per spec, Playwright check at 375×812 + desktop, redeployed
+- [ ] 8. README, CLAUDE.md, report template
+- [ ] Later: Monobank jar URL → redeploy frontend with VITE_DONATE_URL
+- [ ] Tue/Wed: test rounds 17 + 18 Nov (stats.py --since/--until), brand interviews, real catalog import

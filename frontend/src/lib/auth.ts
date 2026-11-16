@@ -16,12 +16,17 @@ const MESSAGES: Record<string, string> = {
   UsernameExistsException: "Акаунт з таким email вже існує — увійди.",
   NotAuthorizedException: "Невірний email або пароль.",
   UserNotFoundException: "Невірний email або пароль.",
-  InvalidPasswordException: "Пароль має містити щонайменше 8 символів.",
+  InvalidPasswordException: "Слабкий пароль: потрібно щонайменше 8 символів.",
   InvalidParameterException: "Перевір email і пароль (пароль — від 8 символів).",
+  EmptySignUpPassword: "Введи пароль.",
+  EmptySignInPassword: "Введи пароль.",
   LimitExceededException: "Забагато спроб. Спробуй за кілька хвилин.",
+  TooManyRequestsException: "Забагато спроб. Спробуй за кілька хвилин.",
+  UserAlreadyAuthenticatedException: "Ти вже увійшов(-ла). Онови сторінку.",
+  NetworkError: "Немає зʼєднання з інтернетом.",
 };
 
 export function authErrorMessage(e: unknown): string {
   const name = (e as { name?: string })?.name ?? "";
-  return MESSAGES[name] ?? (e as Error)?.message ?? "Щось пішло не так.";
+  return MESSAGES[name] ?? "Щось пішло не так. Спробуй ще раз.";
 }
