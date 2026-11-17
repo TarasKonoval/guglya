@@ -1,0 +1,472 @@
+[
+  {
+    "category": "Низ",
+    "slot": "bottom",
+    "item_types": [
+      "Брюки",
+      "Спідниця",
+      "Джинси",
+      "Шорти",
+      "Спортивні штани",
+      "Легінси",
+      "Чіноси"
+    ]
+  },
+  {
+    "category": "Верх",
+    "slot": "top",
+    "item_types": [
+      "Сорочка",
+      "Піджак",
+      "Світшот",
+      "Худі",
+      "Жилет",
+      "Блуза"
+    ]
+  },
+  {
+    "category": "Верхній одяг",
+    "slot": "top",
+    "item_types": [
+      "Куртка",
+      "Пальто",
+      "Бомбер",
+      "Пуховик",
+      "Тренч",
+      "Шуба",
+      "Парка",
+      "Дублянка",
+      "Вітрівка",
+      "Косуха"
+    ]
+  },
+  {
+    "category": "Сукні",
+    "slot": "top",
+    "item_types": [
+      "Сукня"
+    ]
+  },
+  {
+    "category": "Футболки",
+    "slot": "top",
+    "item_types": [
+      "Футболка",
+      "Топ",
+      "Майка",
+      "Корсет",
+      "Поло"
+    ]
+  },
+  {
+    "category": "Светри",
+    "slot": "top",
+    "item_types": [
+      "Светр",
+      "Джемпер",
+      "Кардиган",
+      "Гольф"
+    ]
+  },
+  {
+    "category": "Аксесуари",
+    "slot": "other",
+    "item_types": [
+      "Шапка",
+      "Сумка",
+      "Кепка",
+      "Шарф",
+      "Ремінь",
+      "Шкарпетки",
+      "Капелюх",
+      "Прикраси",
+      "Рукавички",
+      "Окуляри",
+      "Гаманець",
+      "Балаклава",
+      "Хустка",
+      "Панама"
+    ]
+  },
+  {
+    "category": "Комплекти",
+    "slot": "top",
+    "item_types": [
+      "Комплект",
+      "Комбінезон",
+      "Спортивний костюм",
+      "Класичний костюм"
+    ]
+  },
+  {
+    "category": "Взуття",
+    "slot": "shoes",
+    "item_types": [
+      "Туфлі",
+      "Черевики",
+      "Сандалі",
+      "Взуття",
+      "Кросівки",
+      "Мюлі",
+      "Лофери",
+      "Чоботи",
+      "Кеди",
+      "Капці"
+    ]
+  },
+  {
+    "category": "Боді",
+    "slot": "top",
+    "item_types": [
+      "Лонгслів",
+      "Боді"
+    ]
+  },
+  {
+    "category": "Вишиванки",
+    "slot": "top",
+    "item_types": [
+      "Вишиванка"
+    ]
+  },
+  {
+    "category": "ВІН",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Нижня білизна",
+    "slot": "other",
+    "item_types": [
+      "Білизна",
+      "Піжама / Халат"
+    ]
+  },
+  {
+    "category": "ACCESSORIES",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Одяг",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessories",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "sandals",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "beret",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "HatBag",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Товари за бонуси",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Heels",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cape",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Купальники",
+    "slot": "other",
+    "item_types": [
+      "Купальник"
+    ]
+  },
+  {
+    "category": "HEADWEAR",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Underwear",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Аксесуари > Резинки для волосся",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bundles",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Біжутерія",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Жінкам",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Дивитись все",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Благодійний мерч",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Headband",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Подарункові листівки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Для дому",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "All products",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Жіноче",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "CHER’17 Essentials",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Свічки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "EN",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Квіткові речі",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Last pieces до -50%",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Black Orchid",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bolero",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bottoms",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "balaclava",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "houstka",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "visor",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Visor",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "candles",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Товар з недоліками",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Для осінніх днів",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Передники",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Pre-Fall '26",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Summer mood",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Gift Cards",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Полтавщина",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bridal selection",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Категорії",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Аксесуари > Для дому",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Топи",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Шкіряні аксесуари",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "BASE LINE",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Аксесуари - O.TAJE",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Відгуки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "necklace",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "hatdress",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "collar",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Parfum",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ВОНА",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Нове",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Накидки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Термоодяг",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Благодійність",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Трикотаж",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "wrapin",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "All",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessorises",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Подарунки",
+    "slot": "other",
+    "item_types": []
+  }
+]

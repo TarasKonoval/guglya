@@ -4,6 +4,8 @@
  *   window.__cfg = { id: 'oslo', name: 'OSLO', gender: null, kind: 'clothes' };
  *   eval(await (await fetch('https://raw.githubusercontent.com/TarasKonoval/guglya/main/data/database/scraper.js')).text());
  * Стан: window.__g (status, found, checked, products). Наприкінці качає guglya_<id>.json.
+ * З терміналу (Node + Playwright): node data/database/scrape.mjs — див. scrape.mjs. window.__g.stop = true
+ * зупиняє перевірку сторінок і віддає те, що вже зібрано.
  * Порядок: Shopify /products.json → sitemap + JSON-LD на сторінці товару → обхід меню.
  */
 (() => {
@@ -393,7 +395,7 @@
   }
 
   // ---------- пошук URL товарів ----------
-  const NOT_PRODUCT = /\/(blog|news|novyny|statti|article|page|pages|info|contacts?|kontakty|about|pro-nas|delivery|dostavka|oplata|payment|faq|policy|privacy|terms|cart|checkout|account|login|search|tag|tags|brand|brands|author|wishlist|compare)(\/|$)|\.(jpg|png|webp|pdf)$/i;
+  const NOT_PRODUCT = /\/(blog|news|novyny|statti|article|page|pages|info|contacts?|kontakty|about|pro-nas|delivery|dostavka|oplata|payment|faq|policy|privacy|terms|cart|checkout|account|login|search|tag|tags|brand|brands|author|wishlist|compare|filter|apply)(\/|$)|\/(kolir|color|colour|tsvet)-[^/]*\/?$|\.(jpg|png|webp|pdf)$/i;
   async function sitemapUrls() {
     let maps = [];
     try { maps = [...(await get('/robots.txt')).matchAll(/^\s*sitemap:\s*(\S+)/gim)].map((m) => m[1]); } catch (e) {}
@@ -469,18 +471,21 @@
     if (linked.length >= 20) cand = linked.concat(rest);
     cand = cand.filter((u) => PRODURL.test(new URL(u).pathname)).concat(cand.filter((u) => !PRODURL.test(new URL(u).pathname)));
     G.candidates = cand.length;
+    // той самий товар часто доступний під кількома шляхами категорій (/x, /catalog/x, /verh/x) — рахуємо один раз
+    const seenIds = new Set();
     await pool(cand.slice(0, MAX_CHECK), 4, async (u) => {
       G.checked++;
+      if (seenIds.has((CFG.id || HOST) + '-' + slugOf(u.split('?')[0]))) return;
       const h = await get(u);
       const r = parseProduct(h, u.split('?')[0], (mm.map[u.split(/[?#]/)[0]] || []).slice(0, 6));
-      if (r) { G.products.push(r); G.found = G.products.length; }
-    }, () => G.products.length >= COLLECT);
+      if (r && !seenIds.has(r.id)) { seenIds.add(r.id); G.products.push(r); G.found = G.products.length; }
+    }, () => G.products.length >= COLLECT || G.stop);
   }
 
   // ---------- відбір 300 ----------
   function select(list) {
     const seen = new Set();
-    list = list.filter((p) => { const k = p.source_url; if (seen.has(k)) return false; seen.add(k); return true; });
+    list = list.filter((p) => { const k = p.id; if (seen.has(k)) return false; seen.add(k); return true; });
     const pr = { [OUT]: 1, [KNIT]: 2, [TOP]: 2, [SET]: 2, [DRESS]: 2, [BOT]: 2, [ETNO]: 2, [SHOES]: CFG.kind === 'shoes' ? 1 : 3, [TEE]: 3, [BODY]: 3, [ACC]: 5, [UND]: 6, [SWIM]: 6 };
     const capHat = CFG.kind === 'hats' ? LIMIT : 20, capOther = CFG.kind === 'hats' ? LIMIT : 30;
     const sorted = list.map((p, i) => [p, i]).sort((a, b) =>

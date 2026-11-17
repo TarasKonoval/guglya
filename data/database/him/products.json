@@ -1,0 +1,1104 @@
+{
+  "_meta": {
+    "brand": "HIM",
+    "brand_id": "him",
+    "site": "https://www.himstore.com.ua",
+    "extracted_at": "2026-11-17",
+    "mode": "sitemap-products",
+    "count": 42,
+    "found": 42,
+    "candidates": 78,
+    "checked": 78,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "him-palto-noir-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Пальто оверсайз прямого крою NOIR",
+      "source_url": "https://www.himstore.com.ua/uk/product/palto-noir-chornyy",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 20900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/noiroversizedstraight-fitcoat-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/noiroversizedstraight-fitcoat-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/noiroversizedstraight-fitcoat-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-ralph",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Ralph",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-ralph",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/ralphshirt-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/ralphshirt-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/ralphshirt-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-kevin-chorna",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Kevin",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-kevin-chorna",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-jake",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Jake",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-jake-",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jakeshirtwhite-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jakeshirtwhite-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jakeshirtwhite-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-charles-siri",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки Charles",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-charles-siri",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-grey/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-grey/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-grey/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-shorty-llyani-vito-korychnevyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Шорти лляні VITO",
+      "source_url": "https://www.himstore.com.ua/uk/product/shorty-llyani-vito-korychnevyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/vitolinenshorts-brown/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/vitolinenshorts-brown/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/vitolinenshorts-brown/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-charles-bili",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки Charles",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-charles-bili",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-blake-karamel",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Blake",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-blake-karamel",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blakeshirtcaramel-camel/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blakeshirtcaramel-camel/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blakeshirtcaramel-camel/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-charles-chorni",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки Charles",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-charles-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/charlespants-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-martin-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка в блакитну смужку з асиметричною застібкою MARTIN",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-martin-bilyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 4390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/martinbluestripedshirtwithanasymmetricfastening-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/martinbluestripedshirtwithanasymmetricfastening-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/martinbluestripedshirtwithanasymmetricfastening-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-bruno-bezhevyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки вільного крою зі зміщеною стрілкою BRUNO",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-bruno-bezhevyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fitpantswithanoff-centerpleat-beige/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fitpantswithanoff-centerpleat-beige/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fitpantswithanoff-centerpleat-beige/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-blake-chorna",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Blake",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-blake-chorna",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtblakeblack-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtblakeblack-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtblakeblack-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-gabriel-molochnyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка з відлітною деталлю та подвійними манжетами GABRIEL",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-gabriel-molochnyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/gabrielshirtwithafloatingdetailanddoublecuffs-milk/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/gabrielshirtwithafloatingdetailanddoublecuffs-milk/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/gabrielshirtwithafloatingdetailanddoublecuffs-milk/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-shorty-daniel-chorni",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Шорти Daniel",
+      "source_url": "https://www.himstore.com.ua/uk/product/shorty-daniel-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-v-smuzhku-taylor-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки в смужку TAYLOR",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-v-smuzhku-taylor-chornyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4150,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/taylorstripedtrousers-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/taylorstripedtrousers-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/taylorstripedtrousers-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-shtany-karho-chorni",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Штани карго",
+      "source_url": "https://www.himstore.com.ua/uk/product/shtany-karho-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1980,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/cargopants-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/cargopants-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/cargopants-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-svetr-soho-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Светр вовняний з подовженою горловиною SOHO",
+      "source_url": "https://www.himstore.com.ua/uk/product/svetr-soho-chornyy",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 6200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/sohowoolsweaterwithanextendedneck-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/sohowoolsweaterwithanextendedneck-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/sohowoolsweaterwithanextendedneck-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-zhylet-theo-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Двобортний жилет з асиметричним лацканом та регулюючими пасками THEO",
+      "source_url": "https://www.himstore.com.ua/uk/product/zhylet-theo-chornyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/theodouble-breastedvestwithanasymmetricallapelandadjustablestraps-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/theodouble-breastedvestwithanasymmetricallapelandadjustablestraps-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/theodouble-breastedvestwithanasymmetricallapelandadjustablestraps-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-llyana-marco-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка лляна MARCO",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-llyana-marco-bilyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/marcolinenshirt-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/marcolinenshirt-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/marcolinenshirt-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-llyana-fabian-molochnyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка лляна вільного крою FABIAN",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-llyana-fabian-molochnyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4960,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/fabianloose-fitlinenshirt-milk/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/fabianloose-fitlinenshirt-milk/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/fabianloose-fitlinenshirt-milk/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-kostyum-navy-blue-syniy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Костюм NAVY BLUE",
+      "source_url": "https://www.himstore.com.ua/uk/product/kostyum-navy-blue-syniy",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 11180,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluesuit-blue/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluesuit-blue/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluesuit-blue/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-pidzhak-navy-blue-syniy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Подовжений двобортний піджак NAVY BLUE",
+      "source_url": "https://www.himstore.com.ua/uk/product/pidzhak-navy-blue-syniy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 7290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluelongdouble-breastedjacket-blue/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluelongdouble-breastedjacket-blue/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluelongdouble-breastedjacket-blue/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-khudi-resolve-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Оверсайз худі RESOLVE",
+      "source_url": "https://www.himstore.com.ua/uk/product/khudi-resolve-chornyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/resolveoversizedhoodie-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/resolveoversizedhoodie-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/resolveoversizedhoodie-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-shorty-daniel-molochnyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Шорти Daniel",
+      "source_url": "https://www.himstore.com.ua/uk/product/shorty-daniel-molochnyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-milk/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-milk/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/danielshorts-milk/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-kostyum-killer-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Костюм KILLER",
+      "source_url": "https://www.himstore.com.ua/uk/product/kostyum-killer-bilyy",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 12090,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killersuit-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killersuit-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killersuit-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-killer-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки прямого крою з асиметричним поясом KILLER",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-killer-bilyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerstraight-legtrouserswithanasymmetricalwaistband-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerstraight-legtrouserswithanasymmetricalwaistband-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerstraight-legtrouserswithanasymmetricalwaistband-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-pidzhak-killer-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Піджак з акцентними плечима та супатною застібкою KILLER",
+      "source_url": "https://www.himstore.com.ua/uk/product/pidzhak-killer-bilyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 8500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerblazerwithaccentuatedshouldersandaconcealedplacket-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerblazerwithaccentuatedshouldersandaconcealedplacket-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/killerblazerwithaccentuatedshouldersandaconcealedplacket-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bryuky-navy-blue-syniy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки вільного крою із защіпами NAVY BLUE",
+      "source_url": "https://www.himstore.com.ua/uk/product/bryuky-navy-blue-syniy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 3890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluerelaxed-fittrouserswithpleats-blue/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluerelaxed-fittrouserswithpleats-blue/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/navybluerelaxed-fittrouserswithpleats-blue/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-leon-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка з асиметричною застібкою LEON",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-leon-chornyy",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/leonasymmetricclosureshirt-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/leonasymmetricclosureshirt-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/leonasymmetricclosureshirt-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-pidzhak-david",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Двобортний піджак DAVID",
+      "source_url": "https://www.himstore.com.ua/uk/product/pidzhak-david",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 7190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blazerdavid-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blazerdavid-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/blazerdavid-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-futbolka-millennial-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Футболка Millennial",
+      "source_url": "https://www.himstore.com.ua/uk/product/futbolka-millennial-chornyy",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-futbolka-perfectionist-chorna",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Футболка Perfectionist",
+      "source_url": "https://www.himstore.com.ua/uk/product/futbolka-perfectionist-chorna",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-futbolka-millennial-bilyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Футболка Millennial",
+      "source_url": "https://www.himstore.com.ua/uk/product/futbolka-millennial-bilyy",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/millennialt-shirt-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-mayka-basic-bila",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Майка basic",
+      "source_url": "https://www.himstore.com.ua/uk/product/mayka-basic-bila",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1090,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/basictanktop-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/basictanktop-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/basictanktop-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-mayka-liam-chorna",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Майка Liam",
+      "source_url": "https://www.himstore.com.ua/uk/product/mayka-liam-chorna",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/liam'sshirt-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/liam'sshirt-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/liam'sshirt-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-lonhsliv-jordan-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Лонгслів з асиметричним нашаруванням горловини JORDAN",
+      "source_url": "https://www.himstore.com.ua/uk/product/lonhsliv-jordan-chornyy",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jordanlongsleevetopfeaturinganasymmetricallayeredneckline-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jordanlongsleevetopfeaturinganasymmetricallayeredneckline-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jordanlongsleevetopfeaturinganasymmetricallayeredneckline-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-bermudy-jackson-kemel",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Бермуди Jackson",
+      "source_url": "https://www.himstore.com.ua/uk/product/bermudy-jackson-kemel",
+      "gender": "male",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jacksonbermuda-camel/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jacksonbermuda-camel/thirdPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/jacksonbermuda-camel/fourthPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-kurtka-rebel-chornyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Оверсайз куртка з акцентними плечима REBEL",
+      "source_url": "https://www.himstore.com.ua/uk/product/kurtka-rebel-chornyy",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 12290,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/rebeloversizedjacketwithstatementshoulders-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/rebeloversizedjacketwithstatementshoulders-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/rebeloversizedjacketwithstatementshoulders-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-shtany-bruno-shokoladnyy",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Брюки вільного крою зі зміщеною стрілкою BRUNO",
+      "source_url": "https://www.himstore.com.ua/uk/product/shtany-bruno-shokoladnyy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2850,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fittrouserswithanoffsetcrease-chocolate/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fittrouserswithanoffsetcrease-chocolate/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/brunoloose-fittrouserswithanoffsetcrease-chocolate/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-robyn",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Robyn",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-robyn-",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3790,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtrobyn-black/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtrobyn-black/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/shirtrobyn-black/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-sorochka-kevin-bila",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Сорочка Kevin",
+      "source_url": "https://www.himstore.com.ua/uk/product/sorochka-kevin-bila",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 4390,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-white/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-white/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/kevinshirt-white/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "him-futbolka-perfectionist-molochna",
+      "brand": "HIM",
+      "brand_id": "him",
+      "name": "Футболка Perfectionist",
+      "source_url": "https://www.himstore.com.ua/uk/product/futbolka-perfectionist-molochna",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-milk/mainPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-milk/hoveredPhoto/image",
+        "https://pub-1c221dc05e2d4ca0b5d8dbec5470f4ca.r2.dev/optimized/perfectionistt-shirt-milk/thirdPhoto/image"
+      ],
+      "description": "Сповістити про наявністьЧи хотіли б ви, щоб ми сповістили вас, коли розмірбуде в наявності?",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

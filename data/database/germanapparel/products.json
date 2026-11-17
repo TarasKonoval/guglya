@@ -1,0 +1,2191 @@
+{
+  "_meta": {
+    "brand": "German Apparel",
+    "brand_id": "germanapparel",
+    "site": "https://germanapparel.co",
+    "extracted_at": "2026-11-17",
+    "mode": "generic",
+    "count": 85,
+    "found": 85,
+    "candidates": 103,
+    "checked": 103,
+    "errors": [
+      "Error: 404 https://germanapparel.co/area/",
+      "Error: 404 https://germanapparel.co/product/longsleeve-snake-black/",
+      "Error: 404 https://germanapparel.co/product/hoodie-snake/",
+      "Error: 404 https://germanapparel.co/product/longsleeve-snake-milk/",
+      "Error: 404 https://germanapparel.co/product/shtany-kartati-chervoni/",
+      "Error: 404 https://germanapparel.co/t.me/germanapparel"
+    ]
+  },
+  "products": [
+    {
+      "id": "germanapparel-kurtka-work-jacket-soil",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Куртка work jacket soil",
+      "source_url": "https://germanapparel.co/product/kurtka-work-jacket-soil/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091863.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-kurtka-work-jacket-umber",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Куртка work jacket umber",
+      "source_url": "https://germanapparel.co/product/kurtka-work-jacket-umber/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091529.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-black-skirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Спідниця жата чорна",
+      "source_url": "https://germanapparel.co/product/black-skirt/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/09/german16096586-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-gray-skirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Спідниця жата сіра",
+      "source_url": "https://germanapparel.co/product/gray-skirt/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/09/german16096562-%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kapyushonom-kojot",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з капюшоном койот",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kapyushonom-kojot/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092047.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kapyushonom-chorna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з капюшоном чорна",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kapyushonom-chorna/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 6890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092805.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-kojot",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани койот",
+      "source_url": "https://germanapparel.co/product/shtany-kojot/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092025.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kantom-chervona-klitynka",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з кантом червона клітинка",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kantom-chervona-klitynka/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092873.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-zi-skladkamy-chervona-klitynka",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани зі складками червона клітинка",
+      "source_url": "https://germanapparel.co/product/shtany-zi-skladkamy-chervona-klitynka/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092860.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-zi-skladkamy-chorna-klitynka",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани зі складками чорна клітинка",
+      "source_url": "https://germanapparel.co/product/shtany-zi-skladkamy-chorna-klitynka/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091687.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kantom-chorna-klitynka",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з кантом чорна клітинка",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kantom-chorna-klitynka/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091700.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kantom-chorna-2",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з кантом чорна",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kantom-chorna-2/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092315.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-zi-skladkamy-chorni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани зі складками чорні",
+      "source_url": "https://germanapparel.co/product/shtany-zi-skladkamy-chorni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092334.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-shovkove-kimono-long-molochne",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шовкове кімоно long молочне",
+      "source_url": "https://germanapparel.co/product/shovkove-kimono-long-molochne/",
+      "gender": "unisex",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": 3499,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592090-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Рекомендована професійна суха чистка Можна прасувати паром Не відбілювати Не сушити в барабанній сушильній машині",
+      "care": "Рекомендована професійна суха чистка Можна прасувати паром Не відбілювати Не сушити в барабанній сушильній машині Півобхват по всій довжині: 70 см Довжина плеча: 28 см Довжина рукава: 33 см Глибина пройми: 30 см Довжина виробу: 131 см На моделі розмір one size Параметри моделі: • зріст: 176 см • груди: 83 см • талія: 64 см • стегна: 94 см Артикул: silk-kimono-long-sm26-mlk-os Категорій: Sale, summer’26, Категорії, Нові надходження, Сукні",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-shovkove-kimono-short-molochne",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шовкове кімоно short молочне",
+      "source_url": "https://germanapparel.co/product/shovkove-kimono-short-molochne/",
+      "gender": "unisex",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": 3099,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592071-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Рекомендована професійна суха чистка Можна прасувати паром Не відбілювати Не сушити в барабанній сушильній машині",
+      "care": "Рекомендована професійна суха чистка Можна прасувати паром Не відбілювати Не сушити в барабанній сушильній машині Півобхват по всій довжині: 70 см Довжина плеча: 28 см Довжина рукава: 45 см Глибина пройми: 29 см Довжина виробу: 84 см На моделі розмір one size Параметри моделі: • зріст: 176 см • груди: 83 см • талія: 64 см • стегна: 94 см Артикул: silk-kimono-short-sm26-mlk-os Категорій: Sale, summer’26, Категорії, Нові надходження, Сукні",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-vintazhno-sira-trykotazhna-suknya",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Вінтажно-сіра сукня",
+      "source_url": "https://germanapparel.co/product/vintazhno-sira-trykotazhna-suknya/",
+      "gender": "unisex",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": 2199,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592250-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-kartati-siri",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани картаті сірі",
+      "source_url": "https://germanapparel.co/product/shtany-kartati-siri/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2890,
+      "sale_price_uah": 2299,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592109.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-dzhynsy-ombre-syni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Джинси ombré сині",
+      "source_url": "https://germanapparel.co/product/dzhynsy-ombre-syni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 4190,
+      "sale_price_uah": 3590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092760.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-dzhynsy-ombre-chorni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Джинси ombré сірі",
+      "source_url": "https://germanapparel.co/product/dzhynsy-ombre-chorni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 4190,
+      "sale_price_uah": 3590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091150-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-brown-quilted-checkered-shirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сорочка картата коричнева",
+      "source_url": "https://germanapparel.co/product/brown-quilted-checkered-shirt/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": 3390,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092924-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-checkered-shirt-quilted-pink",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сорочка картата рожева",
+      "source_url": "https://germanapparel.co/product/checkered-shirt-quilted-pink/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": 3390,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/01/german3091409.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-z-kantom-chervoni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани з кантом червоні",
+      "source_url": "https://germanapparel.co/product/shtany-z-kantom-chervoni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-73.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-olimpijka-local-chervona",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка Local червона",
+      "source_url": "https://germanapparel.co/product/olimpijka-local-chervona/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 3590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-48.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-olimpijka-local-chorna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка Local чорна",
+      "source_url": "https://germanapparel.co/product/olimpijka-local-chorna/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 3590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-40.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shtany-local-chervoni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани Local червоні",
+      "source_url": "https://germanapparel.co/product/shtany-local-chervoni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-45.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shtany-local-chorni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани Local чорні",
+      "source_url": "https://germanapparel.co/product/shtany-local-chorni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-41.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-olimpijka-local-haki",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка Local хакі",
+      "source_url": "https://germanapparel.co/product/olimpijka-local-haki/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 3590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-38.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shtany-local-haki",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани Local хакі",
+      "source_url": "https://germanapparel.co/product/shtany-local-haki/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 3190,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-35.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shtany-z-viskozy-molochni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани з віскози молочні",
+      "source_url": "https://germanapparel.co/product/shtany-z-viskozy-molochni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1690,
+      "sale_price_uah": 1390,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-28.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-slip-skirt-brown",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Спідниця slip коричнева",
+      "source_url": "https://germanapparel.co/product/slip-skirt-brown/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1899,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/03/german-03-2540-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Не відбілювати Перед використанням плямовивідника протестувати з виворітньої сторони Уникати механічного тертя",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-brown-suit-fabric-skirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Коричнева спідниця з костюмної тканини",
+      "source_url": "https://germanapparel.co/product/brown-suit-fabric-skirt/",
+      "gender": "unisex",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2700,
+      "sale_price_uah": 1899,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2024/09/ge-5142-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Параметри моделі: • зріст: 175 см, • груди: 84 см, • талія: 60 см, • бедра: 88 см. Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути. Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Не відбілювати Перед використанням плямовивідника протестувати з виворітньої сторони Уникати механічного тертя",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-olimpijka-z-kantom-chervona-2",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Олімпійка з кантом червона",
+      "source_url": "https://germanapparel.co/product/olimpijka-z-kantom-chervona-2/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/photo_2026-09-21_08-09-05.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-gray-suit-fabric-skirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сіра спідниця з костюмної тканини",
+      "source_url": "https://germanapparel.co/product/gray-suit-fabric-skirt/",
+      "gender": "unisex",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2700,
+      "sale_price_uah": 1899,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2024/09/ge-4451-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Параметри моделі: • зріст: 175 см, • груди: 84 см, • талія: 60 см, • бедра: 88 см. Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути. Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Не відбілювати Перед використанням плямовивідника протестувати з виворітньої сторони Уникати механічного тертя",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-flisova-kofta-sunset",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Флісова кофта sunset",
+      "source_url": "https://germanapparel.co/product/flisova-kofta-sunset/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091093.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-flisova-kofta-sira",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Флісова кофта сіра",
+      "source_url": "https://germanapparel.co/product/flisova-kofta-sira/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091308.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-termo-kofta-z-mikroflisu-sira",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-кофта з мікрофлісу сіра",
+      "source_url": "https://germanapparel.co/product/termo-kofta-z-mikroflisu-sira/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090877-kopiya2.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "\"Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-kofta-z-mikroflisu-termo-f26-molochnyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-кофта з мікрофлісу молочна",
+      "source_url": "https://germanapparel.co/product/kofta-z-mikroflisu-termo-f26-molochnyj/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 2790,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091000.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-termo-kofta-z-mikroflisu-chorna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-кофта з мікрофлісу чорна",
+      "source_url": "https://germanapparel.co/product/termo-kofta-z-mikroflisu-chorna/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090931-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "\"Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-sorochka-kartata-chervona",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сорочка картата червона",
+      "source_url": "https://germanapparel.co/product/sorochka-kartata-chervona/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092959-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-sorochka-kartata-chorna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сорочка картата чорна",
+      "source_url": "https://germanapparel.co/product/sorochka-kartata-chorna/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092904-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-hudi-iron-dusty-blue",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Худі iron dusty blue",
+      "source_url": "https://germanapparel.co/product/hudi-iron-dusty-blue/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 5490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090681.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-hudi-iron-dusty-khaki",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Худі iron dusty khaki",
+      "source_url": "https://germanapparel.co/product/hudi-iron-dusty-khaki/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 5490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090720.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-zip-hudi-ukorochene-dusty-blue",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Зіп-худі укорочене dusty blue",
+      "source_url": "https://germanapparel.co/product/zip-hudi-ukorochene-dusty-blue/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 5490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090633.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-zip-hudi-ukorochene-dusty-khaki",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Зіп-худі укорочене dusty khaki",
+      "source_url": "https://germanapparel.co/product/zip-hudi-ukorochene-dusty-khaki/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 5490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090776.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-blue-zippered-sweater",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Светр із замком синій",
+      "source_url": "https://germanapparel.co/product/blue-zippered-sweater/",
+      "gender": "unisex",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092659.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-red-zip-sweater",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Светр із замком червоний",
+      "source_url": "https://germanapparel.co/product/red-zip-sweater/",
+      "gender": "unisex",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": 4490,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092583.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-dzhogery-f26-dusty-khaki",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Джогери dusty khaki",
+      "source_url": "https://germanapparel.co/product/dzhogery-f26-dusty-khaki/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 4390,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090801.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "\"Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-termo-shtany-z-mikroflisu-siri",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-штани з мікрофлісу сірі",
+      "source_url": "https://germanapparel.co/product/termo-shtany-z-mikroflisu-siri/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 2790,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090865-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "\"Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-termo-shtany-z-mikroflisu-molochni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-штани з мікрофлісу молочні",
+      "source_url": "https://germanapparel.co/product/termo-shtany-z-mikroflisu-molochni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090993.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-termo-shtany-z-mikroflisu-chorni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Термо-штани з мікрофлісу чорні",
+      "source_url": "https://germanapparel.co/product/termo-shtany-z-mikroflisu-chorni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090918.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-top-z-sitky-chervonyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Топ з сітки червоний",
+      "source_url": "https://germanapparel.co/product/top-z-sitky-chervonyj/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1790,
+      "sale_price_uah": 1399,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300591497-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-standart-futbolka-fly-molochna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Standart футболка fly молочна",
+      "source_url": "https://germanapparel.co/product/standart-futbolka-fly-molochna/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1699,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592143.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-standart-futbolka-moth-molochna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Standart футболка moth молочна",
+      "source_url": "https://germanapparel.co/product/standart-futbolka-moth-molochna/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1699,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592228.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-longsliv-z-viskozy-siryj-melanzh",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Лонгслів з віскози сірий меланж",
+      "source_url": "https://germanapparel.co/product/longsliv-z-viskozy-siryj-melanzh/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1490,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-20.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-futbolka-z-viskozy-molochna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Футболка з віскози молочна",
+      "source_url": "https://germanapparel.co/product/futbolka-z-viskozy-molochna/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1290,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-34.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-futbolka-z-viskozy-sira-melanzh",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Футболка з віскози сіра меланж",
+      "source_url": "https://germanapparel.co/product/futbolka-z-viskozy-sira-melanzh/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1290,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-22.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-t-shirt-in-ribed-wet-milk",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Майка в рубчик wet коричнева",
+      "source_url": "https://germanapparel.co/product/t-shirt-in-ribed-wet-milk/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1399,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/06/german90649722-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-t-shirt-in-ribed-wet-black",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Майка в рубчик wet чорна",
+      "source_url": "https://germanapparel.co/product/t-shirt-in-ribed-wet-black/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/06/german90649981-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-t-shirt-leather",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Футболка leather",
+      "source_url": "https://germanapparel.co/product/t-shirt-leather/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2025/06/german90649708-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Делікатне прання в пральній машині при 30°С (мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-longsliv-receipt-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Лонгслів receipt чорний",
+      "source_url": "https://germanapparel.co/product/longsliv-receipt-chornyj/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092773.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-longsliv-shoe-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Лонгслів shoe чорний",
+      "source_url": "https://germanapparel.co/product/longsliv-shoe-chornyj/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091285.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-longsliv-lighter-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Лонгслів lighter чорний",
+      "source_url": "https://germanapparel.co/product/longsliv-lighter-chornyj/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092278.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-black-viscose-t-shirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Футболка з віскози чорна",
+      "source_url": "https://germanapparel.co/product/black-viscose-t-shirt/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1290,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-17.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-pufer-kimono-molochne",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Пуфер-кімоно молочне",
+      "source_url": "https://germanapparel.co/product/pufer-kimono-molochne/",
+      "gender": "unisex",
+      "category": "Категорії",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 5190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092539.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shoper-siryj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шопер сірий",
+      "source_url": "https://germanapparel.co/product/shoper-siryj/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2890,
+      "sale_price_uah": 2299,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300592181.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-beanie-lymonna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка beanie лимонна",
+      "source_url": "https://germanapparel.co/product/shapka-beanie-lymonna/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 1290,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092716-kopiya4.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-beanie-chervona",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка beanie червона",
+      "source_url": "https://germanapparel.co/product/shapka-beanie-chervona/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 1290,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090844-kopiya2.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-gradient-sunset",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка gradient sunset",
+      "source_url": "https://germanapparel.co/product/shapka-gradient-sunset/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091507-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-gradient-rainbow",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка gradient rainbow",
+      "source_url": "https://germanapparel.co/product/shapka-gradient-rainbow/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091407-kopiya2.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-trusy-z-sitky-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Труси з сітки чорні",
+      "source_url": "https://germanapparel.co/product/trusy-z-sitky-chornyj/",
+      "gender": "unisex",
+      "category": "Нижня білизна",
+      "item_type": "Білизна",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300591436-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-trusy-z-sitky-chervonyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Труси з сітки червоні",
+      "source_url": "https://germanapparel.co/product/trusy-z-sitky-chervonyj/",
+      "gender": "unisex",
+      "category": "Нижня білизна",
+      "item_type": "Білизна",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300591484-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-shtany-chorni",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Штани чорні",
+      "source_url": "https://germanapparel.co/product/shtany-chorni/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092812.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Переглянути все"
+      ]
+    },
+    {
+      "id": "germanapparel-grey-melange-sweater",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Светр меланжевий із замком сірий",
+      "source_url": "https://germanapparel.co/product/grey-melange-sweater/",
+      "gender": "unisex",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/01/german221249236-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-grey-corduroy-shirt",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Сорочка з вельвету сіра",
+      "source_url": "https://germanapparel.co/product/grey-corduroy-shirt/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": 2690,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092141.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-hudi-local-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Худі Local чорний",
+      "source_url": "https://germanapparel.co/product/hudi-local-chornyj/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4190,
+      "sale_price_uah": 3890,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/03/emptyname-8.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-pufer-kimono-chorne",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Пуфер-кімоно чорне",
+      "source_url": "https://germanapparel.co/product/pufer-kimono-chorne/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5190,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092475.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-flisova-kofta-sky",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Флісова кофта sky",
+      "source_url": "https://germanapparel.co/product/flisova-kofta-sky/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092671-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-ombre-grey-sweater",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Светр ombre сірий",
+      "source_url": "https://germanapparel.co/product/ombre-grey-sweater/",
+      "gender": "unisex",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 5590,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092734.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-ombre-red-sweater",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Светр ombre червоний",
+      "source_url": "https://germanapparel.co/product/ombre-red-sweater/",
+      "gender": "unisex",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 5590,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091234.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-dzhogery-dusty-blue",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Джогери dusty blue",
+      "source_url": "https://germanapparel.co/product/dzhogery-dusty-blue/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 4390,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090594.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "\"Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-top-z-sitky-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Топ з сітки чорний",
+      "source_url": "https://germanapparel.co/product/top-z-sitky-chornyj/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 1399,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/06/german300591443-kopyya-1.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "germanapparel-longsliv-german-x-ebaut-chornyj",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Лонгслів german. × ебаут чорний",
+      "source_url": "https://germanapparel.co/product/longsliv-german-x-ebaut-chornyj/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092208.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Прати у відповідному режимі або в делікатному (30˚С, мінімальний віджим). Перед пранням вивернути Прасувати з виворітної сторони або паром Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не використовувати відбілювач для кольорових речей Перед використанням плямовивідника протестувати з виворітньої сторони Не терти. Уникати механічного тертя щоб попередити утворення ковтунців\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-beanie-grafit",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка beanie графіт",
+      "source_url": "https://germanapparel.co/product/shapka-beanie-grafit/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 1290,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3090648-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-beanie-chorna",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка beanie чорна",
+      "source_url": "https://germanapparel.co/product/shapka-beanie-chorna/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 1290,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3092456-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "germanapparel-shapka-gradient-rain",
+      "brand": "German Apparel",
+      "brand_id": "germanapparel",
+      "name": "Шапка gradient rain",
+      "source_url": "https://germanapparel.co/product/shapka-gradient-rain/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1890,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://germanapparel.co/wp-content/uploads/2026/09/german3091819-kopiya.webp",
+        "https://germanapparel.co/wp-content/uploads/2022/09/GRMN_LOGO.svg"
+      ],
+      "description": "Догляд: Ручне прання в холодній воді Не сушити в сушильній машині та під прямим сонячним промінням Сушити та зберігати горизонтально Не відбілювати Не чистити хімічно Не сушити в барабанній сушильній машині Використовувати лише рідкі засоби для прання, м'яко стискати виріб у воді. Не терти, не викручувати.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

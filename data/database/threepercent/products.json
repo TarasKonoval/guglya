@@ -1,0 +1,299 @@
+{
+  "_meta": {
+    "brand": "Three Percent Apparel",
+    "brand_id": "threepercent",
+    "site": "https://three-percent.com",
+    "extracted_at": "2026-11-17",
+    "mode": "sitemap-products",
+    "count": 10,
+    "found": 10,
+    "candidates": 84,
+    "checked": 84,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "threepercent-allday-everyday-pants-1153094824",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "ALLDAY-EVERYDAY PANTS Розмір: S, Колір: Midnight Blue cotton",
+      "source_url": "https://three-percent.com/shop/allday-everyday-pants-1153094824/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 3199,
+      "sale_price_uah": 2849,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%A8%D1%82%D0%B0%D0%BD%D0%B8/%D1%81%D0%B8%D0%BD%D1%96/IMG_2618.jpg",
+        "https://three-percent.com/Media/shop-31998/%D0%A8%D1%82%D0%B0%D0%BD%D0%B8/%D1%81%D0%B8%D0%BD%D1%96/IMG_2611.jpg"
+      ],
+      "description": "ALLDAY-EVERYDAY PANTS",
+      "care": "/ Прати в прохолодній воді до 30°С/ Не можна відбілювати/ Прасувати при низькій температурі до 110°С.Особливо обережно поруч із силіконовими бірками/ Сушити у затінку/ Хімчистка заборонена/ Сушити в пральній машині при низькій температурі.",
+      "collections": [
+        "Chapter_1"
+      ]
+    },
+    {
+      "id": "threepercent-urban-shorts",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "URBAN SHORTS Розмір: S, Колір: Terracotta",
+      "source_url": "https://three-percent.com/shop/urban-shorts/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 3199,
+      "sale_price_uah": 2199,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%A8%D0%9E%D0%A0%D0%A2%D0%98/%D0%A2%D0%B5%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%B0/1t.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%A8%D0%9E%D0%A0%D0%A2%D0%98/%D0%A4%D0%B0%D0%BB%D1%8C%D0%BA%D0%BE%D0%BD/MAIN.jpg"
+      ],
+      "description": "URBAN SHORTS",
+      "care": null,
+      "collections": [
+        "Доставка по всьому світу.",
+        "COMMUTER SHIRT"
+      ]
+    },
+    {
+      "id": "threepercent-heat-pants",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "HEAT PANTS L",
+      "source_url": "https://three-percent.com/shop/heat-pants/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "L"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": 2899,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/HEAT/1.webp",
+        "https://three-percent.com/Media/shop-31998/HEAT/2.jpg"
+      ],
+      "description": "HEAT PANTS",
+      "care": "/ Прати в прохолодній воді до 30°С з використанням спеціальних засобів для мембранних тканин/ Прати без відтискання в пральній машині/ Не можна відбілювати/ Прасувати при низькій температурі до 90°С.Особливо обережно поруч із силіконовими бірками/ Сушити у затінку/ Хімчистка заборонена",
+      "collections": [
+        "Chapter_2"
+      ]
+    },
+    {
+      "id": "threepercent-adapt-longsleeve-zamri",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "ADAPT LONGSLEEVE \"ЗАМРИ\" S",
+      "source_url": "https://three-percent.com/shop/adapt-longsleeve-zamri/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": 1999,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/1z.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/2z.webp"
+      ],
+      "description": "ADAPT LONGSLEEVE \"ЗАМРИ\"",
+      "care": null,
+      "collections": [
+        "Доставка по всьому світу."
+      ]
+    },
+    {
+      "id": "threepercent-adapt-longsleeve-biy",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "ADAPT LONGSLEEVE \"FIGHT\" S",
+      "source_url": "https://three-percent.com/eng/shop/adapt-longsleeve-biy/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": 1999,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/1byi.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/2byi.webp"
+      ],
+      "description": "ADAPT LONGSLEEVE \"FIGHT\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "threepercent-collab-print-t-shirt-bizhi",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "COLLAB PRINT T-SHIRT \"ЗАМРИ\" S",
+      "source_url": "https://three-percent.com/shop/collab-print-t-shirt-bizhi/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 2000,
+      "sale_price_uah": 1499,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B%D0%9A%D0%98/Collab/%D0%97%D0%90%D0%9C%D0%A0%D0%98/3_10572.jpg.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B%D0%9A%D0%98/Collab/%D0%97%D0%90%D0%9C%D0%A0%D0%98/3_10578.jpg"
+      ],
+      "description": "COLLAB PRINT T-SHIRT \"ЗАМРИ\"",
+      "care": "/ Прати в прохолодній воді до 30°С/ Не можна відбілювати/ Прасувати при низькій температурі до 110°С.Особливо обережно поруч із силіконовими бірками/ Сушити у затінку/ Хімчистка заборонена/ Сушити в пральній машині при низькій температурі. Доповнюючі товари COMMUTER SHIRT in graphite 4 200 ₴ 3 850 ₴ S M L XL Купити",
+      "collections": [
+        "Доставка по всьому світу.",
+        "Chapter_3"
+      ]
+    },
+    {
+      "id": "threepercent-minimalis-t-shirt",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "MINIMALISM T-SHIRT Розмір: S, Колір: Mustard",
+      "source_url": "https://three-percent.com/eng/shop/minimalis-t-shirt/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 1500,
+      "sale_price_uah": 1349,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B%D0%9A%D0%98/%D0%9C%D1%96%D0%BD%D1%96%D0%BC%D0%B0%D0%BB%D1%96%D0%B7%D0%BC/1-1.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B%D0%9A%D0%98/%D0%9C%D1%96%D0%BD%D1%96%D0%BC%D0%B0%D0%BB%D1%96%D0%B7%D0%BC/2-1.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%A4%D0%A3%D0%A2%D0%91%D0%9E%D0%9B%D0%9A%D0%98/%D0%9C%D1%96%D0%BD%D1%96%D0%BC%D0%B0%D0%BB%D1%96%D0%B7%D0%BC/MAIN-1.jpg"
+      ],
+      "description": "MINIMALISM T-SHIRT",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "threepercent-panama-z-eko-shkiri-uniseks",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "TANGERINE 5 PANEL CAP Terracotta",
+      "source_url": "https://three-percent.com/shop/panama-z-eko-shkiri-uniseks/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [],
+      "price_uah": 1899,
+      "sale_price_uah": 1499,
+      "in_stock": true,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%9A%D0%95%D0%9F%D0%9A%D0%98/%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%B0/1.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%9A%D0%95%D0%9F%D0%9A%D0%98/%D1%82%D0%B5%D1%80%D0%B0%D0%BA%D0%BE%D1%82%D0%B0/3.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%9A%D0%95%D0%9F%D0%9A%D0%98/%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%82/1.webp"
+      ],
+      "description": "TANGERINE 5 PANEL CAP",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "threepercent-kangaroo-sweatshirt-2103213618",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "KANGAROO SWEATSHIRT Розмір: S, Колір: Space Grey Cotton",
+      "source_url": "https://three-percent.com/shop/kangaroo-sweatshirt-2103213618/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 1999,
+      "sale_price_uah": 1699,
+      "in_stock": false,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/KANGAROO%20SWEATSHIRT/%D1%81%D1%96%D1%80%D0%B8%D0%B9/IMG_3044.jpg",
+        "https://three-percent.com/Media/shop-31998/KANGAROO%20SWEATSHIRT/%D1%81%D1%96%D1%80%D0%B8%D0%B9/IMG_3055.jpg.webp",
+        "https://three-percent.com/Media/shop-31998/KANGAROO%20SWEATSHIRT/%D1%81%D0%B8%D0%BD%D1%96%D0%B9/IMG_2716.jpg"
+      ],
+      "description": "KANGAROO SWEATSHIRT",
+      "care": "/ Прати в прохолодній воді до 30°С/ Не можна відбілювати/ Прасувати при низькій температурі до 110°С.Особливо обережно поруч із силіконовими бірками/ Сушити у затінку/ Хімчистка заборонена/ Сушити в пральній машині при низькій температурі.",
+      "collections": [
+        "Chapter_1"
+      ]
+    },
+    {
+      "id": "threepercent-adapt-longsleeve-bizhi",
+      "brand": "Three Percent Apparel",
+      "brand_id": "threepercent",
+      "name": "ADAPT LONGSLEEVE \"RUN\" S",
+      "source_url": "https://three-percent.com/eng/shop/adapt-longsleeve-bizhi/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": 1999,
+      "in_stock": false,
+      "photos": [
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/1bizi.webp",
+        "https://three-percent.com/Media/shop-31998/%D0%9B%D0%BE%D0%BD%D0%B3%D0%B8%20%D0%91%D0%91%D0%97/2bizi.webp"
+      ],
+      "description": "ADAPT LONGSLEEVE \"RUN\"",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

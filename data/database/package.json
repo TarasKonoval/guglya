@@ -1,0 +1,11 @@
+{
+  "name": "guglya-database",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scrape.mjs"
+  },
+  "dependencies": {
+    "playwright": "1.65.1"
+  }
+}

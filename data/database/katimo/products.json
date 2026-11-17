@@ -1,0 +1,2826 @@
+{
+  "_meta": {
+    "brand": "Katimo",
+    "brand_id": "katimo",
+    "site": "https://katimo.ua",
+    "extracted_at": "2026-11-17",
+    "mode": "sitemap-products",
+    "count": 109,
+    "found": 192,
+    "candidates": 235,
+    "checked": 235,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "katimo-pickle-trench-coat",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Pickle Trench Coat",
+      "source_url": "https://katimo.ua/uk/product/pickle-trench-coat/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22497,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_157-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Деталі: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Stella McCartney) Колір: оливковий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Stella McCartney) Колір: оливковий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001677 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-salt-and-pepper-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Salt and Pepper Jacket",
+      "source_url": "https://katimo.ua/uk/product/salt-and-pepper-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17519,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_59-scaled.jpg"
+      ],
+      "description": "Склад: 65% вовна, 23% шовк, 10% віскоза, 2% льон Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні Style:KT-001683 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-fall-coat",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Fall Coat",
+      "source_url": "https://katimo.ua/uk/product/fall-coat/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 29622,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_5-scaled.jpg"
+      ],
+      "description": "Склад: 51% вовна, 49% кашемір Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S. Модель повномірна, обирайте на розмір менше за ваш стандартний. Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S. Модель повномірна, обирайте на розмір менше за ваш стандартний. Вироблено в Україні Style:KT-001676 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-o-calfskin-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "O Calfskin Jacket",
+      "source_url": "https://katimo.ua/uk/product/o-calfskin-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 42505,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_17-scaled.jpg"
+      ],
+      "description": "Склад: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001678 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-bay-leaf-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Bay Leaf Jacket",
+      "source_url": "https://katimo.ua/uk/product/bay-leaf-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 21521,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_48-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Деталі: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: оливковий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: оливковий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001680 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-d-coat",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "D Coat",
+      "source_url": "https://katimo.ua/uk/product/d-coat/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 29622,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_130-scaled.jpg"
+      ],
+      "description": "Склад: 100% мериносова вовна Деталі: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Burberry) Колір: сіро-зелений Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Burberry) Колір: сіро-зелений Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001674 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-o-coat",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "O Coat",
+      "source_url": "https://katimo.ua/uk/product/o-coat/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 61976,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_139-scaled.jpg"
+      ],
+      "description": "Склад: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір OS Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір OS Вироблено в Україні Style:KT-001681 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-curcuma-fur-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Curcuma Fur Jacket",
+      "source_url": "https://katimo.ua/uk/product/curcuma-fur-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 56022,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_168-scaled.jpg"
+      ],
+      "description": "Склад: 100% хутро мериносу Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір OS Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір OS Вироблено в Україні Style:KT-001682 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-lou-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Lou Jacket",
+      "source_url": "https://katimo.ua/uk/product/lou-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 8296,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_80-scaled.jpg"
+      ],
+      "description": "Склад: 62% віскоза, 33% поліестер, 5% еластан Підкладка: 100% віскоза Догляд: хімчистка Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001546 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-husbands-coat",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Husband's Coat",
+      "source_url": "https://katimo.ua/uk/product/husbands-coat/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 30988,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_76-scaled.jpg"
+      ],
+      "description": "Склад: 67% вовна, 33% кашемір Догляд: хімчистка Походження тканини: італійський сток (Brunello Cucinelli) Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Brunello Cucinelli) Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001675 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-oxblood-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Oxblood Jacket",
+      "source_url": "https://katimo.ua/uk/product/oxblood-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 20984,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/img_9038-scaled.jpg"
+      ],
+      "description": "Склад: 65% поліестер, 35% бавовна Деталі: 100% теляча шкіра Утеплючвач: Slimtex Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: бордовий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: бордовий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001679 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-ballerina-jacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Ballerina Jacket",
+      "source_url": "https://katimo.ua/uk/product/ballerina-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 16787,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_100-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Деталі: 100% нейлон Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001684 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-milk-softjacket",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Milk Softjacket",
+      "source_url": "https://katimo.ua/uk/product/milk-softjacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 8784,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_52-scaled.jpg"
+      ],
+      "description": "Склад: 100% поліестер Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: молочний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: молочний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні Style:KT-001703 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-salt-and-pepper-trousers",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Salt and Pepper Trousers",
+      "source_url": "https://katimo.ua/uk/product/salt-and-pepper-trousers/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 12493,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_64-scaled.jpg"
+      ],
+      "description": "Склад: 65% вовна, 23% шовк, 10% віскоза, 2% льон Догляд: хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001685 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-moss-wool-zip",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Moss Wool Zip",
+      "source_url": "https://katimo.ua/uk/product/moss-wool-zip/",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8198,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/img_9110-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Догляд: хімчистка Походження тканини: італійський сток Колір: хакі Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: хакі Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001705 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-tux-shorts",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Tux Shorts",
+      "source_url": "https://katimo.ua/uk/product/tux-shorts/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9418,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_151-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001686 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-slash-leather-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Slash Leather Skirt",
+      "source_url": "https://katimo.ua/uk/product/slash-leather-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "price_uah": 24498,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_23-scaled.jpg"
+      ],
+      "description": "Склад: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: чорний, хакі Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: чорний, хакі Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001696 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-caiman-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Caiman Dress",
+      "source_url": "https://katimo.ua/uk/product/caiman-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 14786,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_70-scaled.jpg"
+      ],
+      "description": "Склад: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: зелений Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: зелений Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001708 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-caiman-shorts",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Caiman Shorts",
+      "source_url": "https://katimo.ua/uk/product/caiman-shorts/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2782,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_35.jpg"
+      ],
+      "description": "Склад: 100% віскоза Догляд: хімчистка Колір: зелений Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: зелений Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001731 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-hockey-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Hockey Dress",
+      "source_url": "https://katimo.ua/uk/product/hockey-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 12005,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_112-scaled.jpg"
+      ],
+      "description": "Склад: 36% бавовна, 35% тенсел, 21% нейлон, 8% еластан Догляд: хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001706 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-double-collar-shirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Double Collar Shirt",
+      "source_url": "https://katimo.ua/uk/product/double-collar-shirt/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9809,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_81-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001699 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-shape-jeans-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Shape Jeans - Black",
+      "source_url": "https://katimo.ua/uk/product/shape-jeans-black/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9516,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_39-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001688 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-pistachio-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Pistachio Pants",
+      "source_url": "https://katimo.ua/uk/product/pistachio-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6002,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb46-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: хімчистка Походження тканини: італійський сток (Gucci) Колір: фісташковий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Gucci) Колір: фісташковий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001667 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-shaggy-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Shaggy Pants",
+      "source_url": "https://katimo.ua/uk/product/shaggy-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 5856,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb35_1-scaled.jpg"
+      ],
+      "description": "Склад: 100% віскоза Деталі: 62% віскоза, 33% поліестер, 5% еластан Догляд: хімчистка Походження тканини: італійський сток (Proenza Schouler) Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Proenza Schouler) Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001657 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-cargo-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Cargo Pants",
+      "source_url": "https://katimo.ua/uk/product/cargo-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5173,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb45_1-scaled.jpg"
+      ],
+      "description": "Склад: 78% віскоза, 22% поліестер Догляд: хімчистка Походження тканини: італійський сток (The Row) Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (The Row) Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001656 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-cutout-shirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Cutout Shirt",
+      "source_url": "https://katimo.ua/uk/product/cutout-shirt/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4246,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb26-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: рожевий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: рожевий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001666 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-brothers-shorts",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Brother’s Shorts",
+      "source_url": "https://katimo.ua/uk/product/brothers-shorts/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3611,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb51-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: хімчистка Походження тканини: Туреччина Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Походження тканини: Туреччина Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001662 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-feather-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Feather Pants",
+      "source_url": "https://katimo.ua/uk/product/feather-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8394,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_lb_97_1-scaled.jpg"
+      ],
+      "description": "Склад: 62% віскоза, 33% поліестер, 5% еластан Походження тканини: італійський сток (The Row) Догляд: хімчистка Колір: молочний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Колір: молочний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001612 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-parachute-satin-shorts",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Parachute Satin Shorts",
+      "source_url": "https://katimo.ua/uk/product/parachute-satin-shorts/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 1757,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_pr_9.jpg"
+      ],
+      "description": "Склад: 60% купро, 40% бавовна Походження тканини: італійський сток (Tom Ford) Догляд: хімчистка Колір: білий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001619 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-capri-jeans",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Capri Jeans",
+      "source_url": "https://katimo.ua/uk/product/capri-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3514,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_lb_74-scaled.jpg"
+      ],
+      "description": "Склад: 97% бавовна, 3% еластан Походження тканини: італійський сток (Thom Browne) Догляд: хімчистка Колір: синий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: синий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001622 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-mesh-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Mesh Skirt",
+      "source_url": "https://katimo.ua/uk/product/mesh-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3416,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_lb_70-scaled.jpg"
+      ],
+      "description": "Спереду: 100% бавовна Ззаду: 70% поліестер, 22% шовк, 8% еластан Походження тканини: італійський сток (The Row, Balenciaga) Догляд: хімчистка Колір: чорний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: чорний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001616 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-pop-red-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Pop Red Pants",
+      "source_url": "https://katimo.ua/uk/product/pop-red-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3514,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_lb_21-scaled.jpg"
+      ],
+      "description": "Склад: 71% поліестер, 29% шовк Походження тканини: італійський сток (Jil Sander) Догляд: хімчистка Колір: червоний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Колір: червоний Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001611 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-darling-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Darling Pants",
+      "source_url": "https://katimo.ua/uk/product/darling-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_92-scaled.jpg"
+      ],
+      "description": "Склад: 48% поліестер, 47% віскоза, 5% ацетат Догляд: хімчистка Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001549 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-piano-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Piano Skirt",
+      "source_url": "https://katimo.ua/uk/product/piano-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6881,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_96-scaled.jpg"
+      ],
+      "description": "Склад: 60% купра, 40% бавовна Догляд: хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001559 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-rouge-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Rouge Skirt",
+      "source_url": "https://katimo.ua/uk/product/rouge-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4734,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_24-scaled.jpg"
+      ],
+      "description": "Склад: 51% віскоза, 43% бавовна, 6% металізовані нитки Догляд: хімчистка Колір: червоний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: червоний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001560 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-vestiaire-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Vestiaire Pants",
+      "source_url": "https://katimo.ua/uk/product/vestiaire-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3709,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_42-scaled.jpg"
+      ],
+      "description": "Склад: 92% бавовна, 8% еластан Догляд: хімчистка Колір: білий, зелений Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Колір: білий, зелений Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS-S Вироблено в Україні Style:KT-001553 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-navy-trousers",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Navy Trousers",
+      "source_url": "https://katimo.ua/uk/product/navy-trousers/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "темно-синій"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 11614,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_94-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001690 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-oxblood-cargo-pants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Oxblood Cargo Pants",
+      "source_url": "https://katimo.ua/uk/product/oxblood-cargo-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9321,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_104-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: бордовий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: бордовий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001689 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-milk-softpants",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Milk Softpants",
+      "source_url": "https://katimo.ua/uk/product/milk-softpants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 7222,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_56-scaled.jpg"
+      ],
+      "description": "Склад: 100% поліестер Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: молочний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: молочний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір XS-S Вироблено в Україні Style:KT-001692 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-suit-jampsuit",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Suit Jampsuit",
+      "source_url": "https://katimo.ua/uk/product/suit-jampsuit/",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 14201,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_133-scaled.jpg"
+      ],
+      "description": "Склад: 70% вовна, 30% шовк Догляд: хімчистка Походження тканини: італійський сток (Yves Saint Laurent) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Yves Saint Laurent) Колір: чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001693 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-serpenti-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Serpenti Dress",
+      "source_url": "https://katimo.ua/uk/product/serpenti-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 16202,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_1-scaled.jpg"
+      ],
+      "description": "Склад: 79% бавовна, 18% віскоза, 3% еластан Догляд: хімчистка Походження тканини: італійський сток Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001707 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-boudoir-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Boudoir Dress",
+      "source_url": "https://katimo.ua/uk/product/boudoir-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 8979,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_106-scaled.jpg"
+      ],
+      "description": "Мереживо: 68% поліамід, 20% віскоза, 12% еластан Боді: 60% віскоза 31% поліамід 9% еластан Догляд: хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS Вироблено в Україні Style:KT-001572 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-body-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Body Dress",
+      "source_url": "https://katimo.ua/uk/product/body-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/04/img_6700.jpg"
+      ],
+      "description": "Склад: 90% поліамід 10% еластан Догляд: хімчистка Колір: чорний Посадка: зріст моделі – 180см, параметри – 84/62/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: чорний Посадка: зріст моделі – 180см, параметри – 84/62/88, одягнена в розмір S Вироблено в Україні Style:KT-001065 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-vanity-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Vanity Dress",
+      "source_url": "https://katimo.ua/uk/product/vanity-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 8979,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/04/ss26_lin_pr_11.jpg"
+      ],
+      "description": "Склад: 95% поліамід, 5% еластан Догляд: хімчистка Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір XS Вироблено в Україні Style:KT-001589 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-anthracite-wool-zip",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Anthracite Wool Zip",
+      "source_url": "https://katimo.ua/uk/product/anthracite-wool-zip/",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8198,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_29-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Догляд: хімчистка Походження тканини: італійський сток Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001734 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-split-sleeve-shirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Split Sleeve Shirt",
+      "source_url": "https://katimo.ua/uk/product/split-sleeve-shirt/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9809,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_45-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: блакитний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Alexander McQueen) Колір: блакитний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір M-L Вироблено в Україні Style:KT-001698 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-draw-turtleneck",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Draw Turtleneck",
+      "source_url": "https://katimo.ua/uk/product/draw-turtleneck/",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6978,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_27-scaled.jpg"
+      ],
+      "description": "Склад: 76% віскоза, 16% вовна, 8% еластан Догляд: хімчистка Походження тканини: італійський сток Колір: різнокольоровий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: різнокольоровий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001701 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-mustard-wool-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Mustard Wool Skirt",
+      "source_url": "https://katimo.ua/uk/product/mustard-wool-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "price_uah": 8979,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_155-scaled.jpg"
+      ],
+      "description": "Склад: 100% вовна Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: гірчичний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: гірчичний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001694 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-50-50-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "50/50 Skirt",
+      "source_url": "https://katimo.ua/uk/product/50-50-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9516,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_32-scaled.jpg"
+      ],
+      "description": "Склад: 80% вовна, 20% cashmere Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Max Mara) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Max Mara) Колір: сірий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001695 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-moire-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Moire Skirt",
+      "source_url": "https://katimo.ua/uk/product/moire-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "price_uah": 10492,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_11-scaled.jpg"
+      ],
+      "description": "Склад: 100% шовк Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (Valentino) Колір: червоний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Valentino) Колір: червоний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001697 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-fringed-skirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Fringed Skirt",
+      "source_url": "https://katimo.ua/uk/product/fringed-skirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 10687,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb40-scaled.jpg"
+      ],
+      "description": "Склад: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001661 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-satellite-skirt-white",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Satellite Skirt White",
+      "source_url": "https://katimo.ua/uk/product/satellite-skirt-white/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 6783,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/04/Katimo-lookbook40455-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Склад: 68% поліамід 20% віскоза 12% еластан Догляд: хімчистка Колір: білий Посадка: зріст моделі – 180см, параметри – 84/62/88, одягнена в розмір XS-S Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 180см, параметри – 84/62/88, одягнена в розмір XS-S Вироблено в Україні Style:KT-001672 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-sweetheart-underskirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Sweetheart Underskirt",
+      "source_url": "https://katimo.ua/uk/product/sweetheart-underskirt/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 5514,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/04/ss26_lin_pr_9.jpg"
+      ],
+      "description": "Склад: 70% поліестер, 22% шовк, 8% еластан Догляд: делікатне прання Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "делікатне прання Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001588 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-modal-socks-set-grey-and-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Modal Socks Set - Grey and Black",
+      "source_url": "https://katimo.ua/uk/product/modal-socks-set-grey-and-black/",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "36-38",
+        "39-41"
+      ],
+      "price_uah": 830,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/10/fw_100.jpg"
+      ],
+      "description": "Склад: 70% модал, 28% ПА, 2% еластан Догляд: делікатне прання Колір: темно сірий і чорний Вироблено в Україні",
+      "care": "делікатне прання Колір: темно сірий і чорний Вироблено в Україні Style:KT-000888 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-modal-knee-high-socks-set-grey-and-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Modal Knee-high Socks Set - Grey and Black",
+      "source_url": "https://katimo.ua/uk/product/modal-knee-high-socks-set-grey-and-black/",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "36-38",
+        "39-41"
+      ],
+      "price_uah": 976,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/10/fw_101.jpg"
+      ],
+      "description": "Склад: 72% модал, 28% ПА, 2% еластан Догляд: делікатне прання Колір: темно сірий і чорний Вироблено в Україні",
+      "care": "делікатне прання Колір: темно сірий і чорний Вироблено в Україні Style:KT-000889 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-satellite-shorts",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Satellite Shorts",
+      "source_url": "https://katimo.ua/uk/product/satellite-shorts/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 1806,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/07/59.jpg"
+      ],
+      "description": "Склад: 68% поліамід, 20% віскоза, 12% спандекс Догляд: ручне прання Колір: білий Посадка: зріст моделі - 175см, параметри - 82/60/91, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: білий Посадка: зріст моделі – 175см, параметри – 82/60/91, одягнена в розмір S Вироблено в Україні Style:KT-000764 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-bodysuit-shirt",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Bodysuit Shirt",
+      "source_url": "https://katimo.ua/uk/product/bodysuit-shirt/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9223,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_14-scaled.jpg"
+      ],
+      "description": "Склад: 67% бавовна, 31% поліестер, 2% еластан Догляд: хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний, білий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Balenciaga) Колір: чорний, білий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001700 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-saffron-top",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Saffron Top",
+      "source_url": "https://katimo.ua/uk/product/saffron-top/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 8003,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_37-scaled.jpg"
+      ],
+      "description": "Склад: 84% віскоза, 11% поліамід, 5% еластан Догляд: хімчистка Походження тканини: італійський сток (Marina Rinaldi) Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Marina Rinaldi) Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001704 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-pillow-top",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Pillow Top",
+      "source_url": "https://katimo.ua/uk/product/pillow-top/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 3660,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb31_1-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Деталі: 100% поліестер Догляд: хімчистка Походження тканини: Туреччина Колір: молочний, жовтий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: Туреччина Колір: молочний, жовтий Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001663 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-white-tank",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "White Tank",
+      "source_url": "https://katimo.ua/uk/product/white-tank/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 2098,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_lb_36-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Походження тканини: італійський сток (Fendi) Догляд: хімчистка Колір: білий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 173см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001628 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-v-top",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "V Top",
+      "source_url": "https://katimo.ua/uk/product/v-top/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 7808,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_118-scaled.jpg"
+      ],
+      "description": "Склад: 80% тенсел, 13% поліестер, 7% еластан Догляд: хімчистка Походження тканини: італійський сток Колір: білий, чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: білий, чорний Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001702 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-thin-bodysuit",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Thin Bodysuit",
+      "source_url": "https://katimo.ua/uk/product/thin-bodysuit/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 5807,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb9-scaled.jpg"
+      ],
+      "description": "Склад: 60% віскоза, 31% нейлон, 9% еластан Догляд: хімчистка Походження тканини: Туреччина Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Походження тканини: Туреччина Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001660 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-senso-bodysuit",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Senso Bodysuit",
+      "source_url": "https://katimo.ua/uk/product/senso-bodysuit/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4978,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/03/newpr_12.jpg"
+      ],
+      "description": "Склад: 68% поліамід, 20% віскоза, 12% еластан Догляд: хімчистка Колір: білий Посадка: зріст моделі – 174см, параметри – 85/60/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 174см, параметри – 85/60/88, одягнена в розмір XS Вироблено в Україні Style:KT-001312 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-satellite-bra-top",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Satellite Bra Top",
+      "source_url": "https://katimo.ua/uk/product/satellite-bra-top/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4392,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/07/newpr_04.jpg"
+      ],
+      "description": "Склад: 68% поліамід, 20% віскоза, 12% спандекс Догляд: ручне прання Колір: білий Посадка: зріст моделі - 180см, параметри - 84/62/88, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: білий Посадка: зріст моделі – 180см, параметри – 84/62/88, одягнена в розмір S Вироблено в Україні Style:KT-000758 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-purintsu-bodysuit-pink",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Purintsu Bodysuit - Pink",
+      "source_url": "https://katimo.ua/uk/product/purintsu-bodysuit-pink/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6002,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/05/newpr_01.jpg"
+      ],
+      "description": "Склад: 92% поліамід 8% еластан Догляд: ручне прання Колір: рожевий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: рожевий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні Style:KT-001359 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-purintsu-bodysuit-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Purintsu Bodysuit - Black",
+      "source_url": "https://katimo.ua/uk/product/purintsu-bodysuit-black/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6002,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/05/newpr_03.jpg"
+      ],
+      "description": "Склад: 92% поліамід 8% еластан Догляд: ручне прання Колір: чорний Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: чорний Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні Style:KT-001358 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-purintsu-bodysuit-white",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Purintsu Bodysuit - White",
+      "source_url": "https://katimo.ua/uk/product/purintsu-bodysuit-white/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6002,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/03/newpr_001.jpg"
+      ],
+      "description": "Склад: 92% поліамід 8% еластан Догляд: ручне прання Колір: білий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: білий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір S Вироблено в Україні Style:KT-001327 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-mamba-top",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Mamba Top",
+      "source_url": "https://katimo.ua/uk/product/mamba-top/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2782,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_pr15.jpg"
+      ],
+      "description": "Склад: 100% поліамід Догляд: делікатне прання Колір: молочний, червоний Походження тканини: італійський сток (Roberto Cavalli) Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "делікатне прання Колір: молочний, червоний Походження тканини: італійський сток (Roberto Cavalli) Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001668 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-manequinn-bodysuit",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Manequinn Bodysuit",
+      "source_url": "https://katimo.ua/uk/product/manequinn-bodysuit/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 5612,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/02/newpr_17-1.jpg"
+      ],
+      "description": "Склад: 92% поліамід 8% еластан Догляд: хімчистка Колір: бежевий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Колір: бежевий Посадка: зріст моделі – 172см, параметри – 85/60/88, одягнена в розмір XS Вироблено в Україні Style:KT-001278 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-clout-bodysuit-brown",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Clout Bodysuit - Brown",
+      "source_url": "https://katimo.ua/uk/product/clout-bodysuit-brown/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4880,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/10/newpr_27.jpg"
+      ],
+      "description": "Склад: 90% поліамід 10% еластан Догляд: ручне прання Колір: коричневий Посадка: зріст моделі - 172см, параметри - 86/64/89, одягнена в розмір S Вироблено в Україні",
+      "care": "ручне прання Колір: коричневий Посадка: зріст моделі – 172см, параметри – 86/64/89, одягнена в розмір S Вироблено в Україні Style:KT-001209 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-scented-candle-after-sun",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Scented Candle - After Sun",
+      "source_url": "https://katimo.ua/uk/product/scented-candle-after-sun/",
+      "gender": "female",
+      "category": "Свічки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 4587,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/img_7146.png"
+      ],
+      "description": "Матеріал ємності: гутне скло Склад: віск соєвий (без хімічних домішок, виготовлений у Швеції), аромаолія (натуральна без парабенів, фталатів і інших шкідливих речовин), бавовняний гніт. Ноти аромату: Витончений аромат ірису м'яко огортає простір, як дорогий кашеміровий светр. Деревні нотки кедра додають шляхетності. Це запах доглянутості, чистоти та делікатного спокою. Колір: червоний, рожевий Об’єм: 280мл Час горіння: ~55 годин Термін придатності: 36 місяців Дата виробництва: 08.04.2026",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-scented-candle-moon-light",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Scented Candle - Moon Light",
+      "source_url": "https://katimo.ua/uk/product/scented-candle-moon-light/",
+      "gender": "female",
+      "category": "Свічки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 4587,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/img_7145.png"
+      ],
+      "description": "Матеріал ємності: гутне скло Склад: віск соєвий (без хімічних домішок, виготовлений у Швеції), аромаолія (натуральна без парабенів, фталатів і інших шкідливих речовин), бавовняний гніт. Ноти аромату: Запах мокрої шкіри після дощу несподівано розквітає ніжним жасмином та зігрівається амброю. Контраст брутальності та крихкої квіткової краси, що залишає незабутній стильний шлейф. Колір: білий, чорний Об’єм: 280мл Час горіння: ~55 годин Термін придатності: 36 місяців Дата виробництва: 08.04.2026",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-scented-candle-morning-dew",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Scented Candle - Morning Dew",
+      "source_url": "https://katimo.ua/uk/product/scented-candle-morning-dew/",
+      "gender": "female",
+      "category": "Свічки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 4587,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/img_7147.png"
+      ],
+      "description": "Матеріал ємності: гутне скло Склад: віск соєвий (без хімічних домішок, виготовлений у Швеції), аромаолія (натуральна без парабенів, фталатів і інших шкідливих речовин), бавовняний гніт. Ноти аромату: Складна, багатогранна зелень. Хрустка свіжість листя та соковитість плодів інжиру відтіняються вологою терпкістю пачулі та сухого кедра. Це нішеве, дороге звучання для сучасних інтер'єрів, що постійно відкриває нові грані. Колір: зелений, блакитний Об’єм: 280мл Час горіння: ~55 годин Термін придатності: 36 місяців Дата виробництва: 08.04.2026",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-blanche-denim",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Blanche Denim",
+      "source_url": "https://katimo.ua/uk/product/blanche-denim/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 4002,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/03/ss26_lb_52-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Колір: білий Посадка: зріст моделі – 176см, параметри – 81/61/91, одягнена в розмір S Вироблено в Україні Style:KT-001554 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-woman-t",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Woman T",
+      "source_url": "https://katimo.ua/uk/product/woman-t/",
+      "gender": "female",
+      "category": "Топи",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5222,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb38-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: хімчистка Походження тканини: Туреччина Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні",
+      "care": "хімчистка Походження тканини: Туреччина Колір: молочний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір XS Вироблено в Україні Style:KT-001664 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-wardrobe-pouch-ivory",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Wardrobe Pouch - Ivory",
+      "source_url": "https://katimo.ua/uk/product/wardrobe-pouch-ivory/",
+      "gender": "female",
+      "category": "Шкіряні аксесуари",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3611,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/04/ss26_pr_lin_16.jpg"
+      ],
+      "description": "Склад: 100% шкіра Підкладка 100% поліестер Догляд: – зберігайте аксесуар в сухому місці, подалі від прямих сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – для очищення гладкої шкіри використовуйте м’яку суху тканину або спеціальний засіб для шкіри; – замшеві вставки очищуйте м’якою щіткою для замші або спеціальним гумовим аксесуаром; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: молочний Вироблено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-clay-x-katimo-matcha-club-green-bowl",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Clay x Katimo Matcha Club - Green Bowl",
+      "source_url": "https://katimo.ua/uk/product/clay-x-katimo-matcha-club-green_bowl/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1464,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/06/greencup_clay_1.jpg"
+      ],
+      "description": "Матеріал: напівпорцеляна Виготовлення: ручна робота на гончарному колі Колаборація: Clay × Katimo Matcha Club Зверніть увагу: кожен виріб створюється вручну, тому можливі незначні відмінності у формі, кольорі та фактурі. Кожна чашка є унікальною. Догляд: виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні",
+      "care": "виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні Style:KT-001650 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-clay-x-katimo-matcha-club-green-kusenaoshi",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Clay x Katimo Matcha Club - Green Kusenaoshi",
+      "source_url": "https://katimo.ua/uk/product/clay-x-katimo-matcha-club-green-kusenaoshi/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 537,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/06/standgreen_clay_1.jpg"
+      ],
+      "description": "Матеріал: напівпорцеляна Виготовлення: ручна робота на гончарному колі Колаборація: Clay × Katimo Matcha Club Зверніть увагу: кожен виріб створюється вручну, тому можливі незначні відмінності у формі, кольорі та фактурі. Кожна чашка є унікальною. Догляд: виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні",
+      "care": "виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні Style:KT-001652 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-clay-x-katimo-matcha-club-ivory-bowl",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Clay x Katimo Matcha Club - Ivory Bowl",
+      "source_url": "https://katimo.ua/uk/product/clay-x-katimo-matcha-club-ivory-bowl/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1464,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/06/whitecup_clay_1.jpg"
+      ],
+      "description": "Матеріал: напівпорцеляна Виготовлення: ручна робота на гончарному колі Колаборація: Clay × Katimo Matcha Club Зверніть увагу: кожен виріб створюється вручну, тому можливі незначні відмінності у формі, кольорі та фактурі. Кожна чашка є унікальною. Догляд: виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні",
+      "care": "виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні Style:KT-001651 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-clay-x-katimo-matcha-club-ivory-kusenaoshi",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Clay x Katimo Matcha Club - Ivory Kusenaoshi",
+      "source_url": "https://katimo.ua/uk/product/clay-x-katimo-matcha-club-ivory-kusenaoshi/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 537,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/06/standwhite_clay_1.jpg"
+      ],
+      "description": "Матеріал: напівпорцеляна Виготовлення: ручна робота на гончарному колі Колаборація: Clay × Katimo Matcha Club Зверніть увагу: кожен виріб створюється вручну, тому можливі незначні відмінності у формі, кольорі та фактурі. Кожна чашка є унікальною. Догляд: виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні",
+      "care": "виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні Style:KT-001653 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-insulated-water-bottle",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Insulated Water Bottle",
+      "source_url": "https://katimo.ua/uk/product/insulated-water-bottle/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1318,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/11/merch_fw25_3-scaled.jpg"
+      ],
+      "description": "Склад: нержавіюча сталь Догляд: не можна мити в посудомийній машині Вироблено в Китаї",
+      "care": "не можна мити в посудомийній машині Вироблено в Китаї Style:KT-000660 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-katimo-cafe-travel-cup-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "KATIMO Cafe Travel Cup - Black",
+      "source_url": "https://katimo.ua/uk/product/katimo-cafe-travel-cup-black/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1318,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/06/pr_cup_6.png"
+      ],
+      "description": "Склад: нержавіюча сталь Догляд: не можна мити в посудомийній машині Виготовлено в Китаї",
+      "care": "не можна мити в посудомийній машині Виготовлено в Китаї Style:KT-001132 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-matcha-travel-cup-white",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Matcha Travel Cup - White",
+      "source_url": "https://katimo.ua/uk/product/matcha-travel-cup-white/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1318,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/06/pr_cup_1.png"
+      ],
+      "description": "Склад: нержавіюча сталь Догляд: не можна мити в посудомийній машині Виготовлено в Китаї",
+      "care": "не можна мити в посудомийній машині Виготовлено в Китаї Style:KT-001371 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-katimo-drip-coffee",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Katimo Drip Coffee",
+      "source_url": "https://katimo.ua/uk/product/katimo-drip-coffee/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 293,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/10/drip_01.png"
+      ],
+      "description": "Умови зберігання: зберігати при температурі не вище +20 С та відносної вологості повітря не вище 75% Виробник та адреса потужностей виробництва: ТОВ \"Компанія \"Фуд Пак\", Україна, 07406, Київська область, м. Бровари, вул. Лісова, 22. Вага: 6 дріпів по 12 г",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-katimo-mini-notebook-green",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Katimo Mini Notebook - Green",
+      "source_url": "https://katimo.ua/uk/product/katimo-mini-notebook-green/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 781,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/11/merch_fw25_5-scaled.jpg"
+      ],
+      "description": "Формат: А6 (145x105mm) Обкладинка: книжкова із твердого картону (2мм) Кількість сторінок: 160 (80аркушів) Розмітка: лінія Папір: кремовий Munken Pure 90г Виготовлено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-katimo-matcha-cup-green",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Katimo Matcha Cup - Green",
+      "source_url": "https://katimo.ua/uk/product/katimo-matcha-cup-green/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1464,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/11/pr_cup_9.png"
+      ],
+      "description": "Склад: напівпорцеляна Догляд: виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні",
+      "care": "виріб можна мити вручну та у посудомийній машині з додаванням делікатних миючих засобів. Не використовуйте засоби для чищення з абразивними частинками та жорсткі губки для миття. Дозволяється використання у мікрохвиловій печі. Виготовлено в Україні Style:KT-001496 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-katimo-sketchbook-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "KATIMO Sketchbook - Black",
+      "source_url": "https://katimo.ua/uk/product/katimo-sketchbook-black/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1318,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/11/merch_fw25_6-scaled.jpg"
+      ],
+      "description": "Формат: А4 (210х297мм) Обкладинка: твердий картон чорного кольору з металевою пружиною Кількість сторінок: 100 Розмітка: без друку Папір: кремовий Munken 90г Виготовлено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-strawberry-matcha-keyring",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Strawberry Matcha Keyring",
+      "source_url": "https://katimo.ua/uk/product/strawberry-matcha-keyring/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 781,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/06/matchacupstrawb-scaled.jpg"
+      ],
+      "description": "Матеріал: сплав металів Виготовлено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-woman-necklace",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Woman Necklace",
+      "source_url": "https://katimo.ua/en/product/woman-necklace/",
+      "gender": "female",
+      "category": "EN",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 21814,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_pr_144.jpg"
+      ],
+      "description": "Composition: jewelry brass with gilding To preserve the appearance of your jewelry, please: – Store jewelry in branded packaging. – To slow down metal oxidation, keep products away from moisture. Remove jewelry before any water procedures. – Avoid contact with water, oils, perfumes, alcohol and any another liquid. – If your jewelry gets dirty, wipe the product with a dry cloth. Do not youse abrasive surfaces to wipe the product in any case. Color: gold Made in Ukraine",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-woman-bracellet",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Woman Bracellet",
+      "source_url": "https://katimo.ua/en/product/woman-bracellet/",
+      "gender": "female",
+      "category": "EN",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 12298,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_2.jpg"
+      ],
+      "description": "Composition: jewelry brass with gilding To preserve the appearance of your jewelry, please: – Store jewelry in branded packaging. – To slow down metal oxidation, keep products away from moisture. Remove jewelry before any water procedures. – Avoid contact with water, oils, perfumes, alcohol and any another liquid. – If your jewelry gets dirty, wipe the product with a dry cloth. Do not youse abrasive surfaces to wipe the product in any case. Color: gold Made in Ukraine",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-triple-earrings",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Triple Earrings",
+      "source_url": "https://katimo.ua/en/product/triple-earrings/",
+      "gender": "female",
+      "category": "EN",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 7808,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_pr_17_1.jpg"
+      ],
+      "description": "Composition: jewelry brass with gilding To preserve the appearance of your jewelry, please: – Store jewelry in branded packaging. – To slow down metal oxidation, keep products away from moisture. Remove jewelry before any water procedures. – Avoid contact with water, oils, perfumes, alcohol and any another liquid. – If your jewelry gets dirty, wipe the product with a dry cloth. Do not youse abrasive surfaces to wipe the product in any case. Color: gold Made in Ukraine",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-slash-bag-olive",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Slash Bag - Olive",
+      "source_url": "https://katimo.ua/uk/product/slash-bag-olive/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 14591,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_17.jpg"
+      ],
+      "description": "Склад: 100% шкіра, підкладка 100% поліестер Догляд: – зберігайте сумку в сухому місці, подалі від прямих сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – для очищення гладкої шкіри використовуйте м’яку суху тканину або спеціальний засіб для шкіри; – замшеві вставки очищуйте м’якою щіткою для замші або спеціальним гумовим аксесуаром; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: хакі Вироблено в Україні",
+      "care": null,
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-block-gloves-olive",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Block Gloves - Olive",
+      "source_url": "https://katimo.ua/uk/product/block-gloves-olive/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Рукавички",
+      "slot": "other",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 7222,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_21.jpg"
+      ],
+      "description": "Склад: 100% шкіра, підкладка 100% поліестер Догляд: – зберігайте рукавички в сухому місці, подалі від джерел тепла та сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – очищайте м’якою сухою тканиною або спеціальним засобом для шкіри; – для збереження форми рекомендується зберігати у горизонтальному положенні в чохлі. Колір: сірий, зелений Вироблено в Україні",
+      "care": "– зберігайте рукавички в сухому місці, подалі від джерел тепла та сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – очищайте м’якою сухою тканиною або спеціальним засобом для шкіри; – для збереження форми рекомендується зберігати у горизонтальному положенні в чохлі. Колір: сірий, зелений Вироблено в Україні Style:KT-001718 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-doctor-bag",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Doctor Bag",
+      "source_url": "https://katimo.ua/uk/product/doctor-bag/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 12786,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_14.jpg"
+      ],
+      "description": "Склад: 100% шкіра Підкладка: 100% поліестер Догляд: – зберігайте сумку в сухому місці, подалі від прямих сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – очищуйте поверхню м’якою сухою тканиною або спеціальним засобом для догляду за екзотичною шкірою; – уникайте надмірного тертя та деформації поверхні шкіри; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: чорний Вироблено в Україні",
+      "care": "у за екзотичною шкірою; – уникайте надмірного тертя та деформації поверхні шкіри; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: чорний Вироблено в Україні Style:KT-001724 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-wardrobe-bag",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Wardrobe Bag",
+      "source_url": "https://katimo.ua/uk/product/wardrobe-bag/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 6246,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/whitebigbag_1.jpg"
+      ],
+      "description": "Склад: 100% шкіра Підкладка 100% поліестер Догляд: – зберігайте сумку в сухому місці, подалі від прямих сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – для очищення гладкої шкіри використовуйте м’яку суху тканину або спеціальний засіб для шкіри; – замшеві вставки очищуйте м’якою щіткою для замші або спеціальним гумовим аксесуаром; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: молочний Вироблено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-slash-bag-wine",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Slash Bag - Wine",
+      "source_url": "https://katimo.ua/uk/product/slash-bag-wine/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 14591,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_16.jpg"
+      ],
+      "description": "Склад: 100% шкіра, підкладка 100% поліестер Догляд: – зберігайте сумку в сухому місці, подалі від прямих сонячних променів; – уникайте контакту з водою, жирами та агресивними речовинами; – для очищення гладкої шкіри використовуйте м’яку суху тканину або спеціальний засіб для шкіри; – замшеві вставки очищуйте м’якою щіткою для замші або спеціальним гумовим аксесуаром; – зберігайте сумку в пилозахисному чохлі, наповнивши внутрішній простір для збереження форми. Колір: бордовий Вироблено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-corn-riviere",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Corn Rivière",
+      "source_url": "https://katimo.ua/uk/product/corn-riviere/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Прикраси",
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 9223,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/pr_fw26_20.jpg"
+      ],
+      "description": "Склад: цитрін та ювелірна латунь з родованим покриттям Догляд: – Зберігайте прикраси в фірмовій упаковці. – Щоб уповільнити окислення металу, тримайте вироби подалі від вологи. Знімайте прикраси перед будь-якими водними процедурами. – Уникайте контакту з водою, маслами, парфумами, спиртом та будь-якою іншою рідиною. – Якщо ваша прикраса була забруднена, протріть виріб сухою тканиною. В жодному разі не використовуйте абразивні поверхні для протирання виробу. Колір: жовтий, срібний Вироблено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-salt-riviere",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Salt Rivière",
+      "source_url": "https://katimo.ua/uk/product/salt-riviere/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Прикраси",
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 8491,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/sum26_pr_22.jpg"
+      ],
+      "description": "Склад: білий кварц та ювелірна латунь з родованим покриттям Догляд: – Зберігайте прикраси в фірмовій упаковці. – Щоб уповільнити окислення металу, тримайте вироби подалі від вологи. Знімайте прикраси перед будь-якими водними процедурами. – Уникайте контакту з водою, маслами, парфумами, спиртом та будь-якою іншою рідиною. – Якщо ваша прикраса була забруднена, протріть виріб сухою тканиною. В жодному разі не використовуйте абразивні поверхні для протирання виробу. Колір: білий, срібний Вироблено в Україні",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "katimo-caffeine-club-member-red",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Caffeine Club Member Cap - Red",
+      "source_url": "https://katimo.ua/uk/product/caffeine-club-member-red/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1659,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/29.05_red1.png"
+      ],
+      "description": "Склад: 100% котон Догляд: ручне прання Колір: червоний Вироблено в Україні",
+      "care": "ручне прання Колір: червоний Вироблено в Україні Style:KT-001648 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-hat-red",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Hat - Red",
+      "source_url": "https://katimo.ua/uk/product/hat-red/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1806,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/12/redhat_2905.png"
+      ],
+      "description": "Склад: 55% віскоза, 45% поліамід Догляд: хімчистка Колір: червоний Вироблено в Україні",
+      "care": "хімчистка Колір: червоний Вироблено в Україні Style:KT-001505 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-hat-green",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Hat - Green",
+      "source_url": "https://katimo.ua/uk/product/hat-green/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1806,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/12/greenhat_2905.png"
+      ],
+      "description": "Склад: 55% віскоза, 45% поліамід Догляд: хімчистка Колір: зелений Вироблено в Україні",
+      "care": "хімчистка Колір: зелений Вироблено в Україні Style:KT-001506 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-hat-pink",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Hat - Pink",
+      "source_url": "https://katimo.ua/uk/product/hat-pink/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1806,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2025/12/pinkhat_2905.png"
+      ],
+      "description": "Склад: 55% віскоза, 45% поліамід Догляд: хімчистка Колір: рожевий Вироблено в Україні",
+      "care": "хімчистка Колір: рожевий Вироблено в Україні Style:KT-001507 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-rose-petal-jeans",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Rose Petal Jeans",
+      "source_url": "https://katimo.ua/uk/product/rose-petal-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 9516,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_121-scaled.jpg"
+      ],
+      "description": "Склад: 100% бавовна Догляд: хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сіро-синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (Bottega Veneta) Колір: сіро-синій Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001687 Інформація про доставку",
+      "collections": [
+        "Прейти в магазин"
+      ]
+    },
+    {
+      "id": "katimo-cigarette-pants-yellow",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Cigarette Pants - Yellow",
+      "source_url": "https://katimo.ua/uk/product/cigarette-pants-yellow/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [
+        "S"
+      ],
+      "price_uah": 29524,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/09/fw26_lb_122-scaled.jpg"
+      ],
+      "description": "Склад: 100% теляча шкіра Підкладка: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток Колір: жовтий Посадка: зріст моделі – 172см, параметри – 82/64/90, одягнена в розмір S Вироблено в Україні Style:KT-001691 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-hortense-dress",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Hortense Dress",
+      "source_url": "https://katimo.ua/uk/product/hortense-dress/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 13518,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/07/pf26_lb15-scaled.jpg"
+      ],
+      "description": "Склад: 100% віскоза Догляд: хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні",
+      "care": "хімчистка Походження тканини: італійський сток (The Row) Колір: чорний Посадка: зріст моделі – 176см, параметри – 81/59/88, одягнена в розмір S Вироблено в Україні Style:KT-001665 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-bamboo-socks-set-milk",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Bamboo Socks Set - Milk",
+      "source_url": "https://katimo.ua/uk/product/bamboo-socks-set-milk/",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "36-38",
+        "39-41"
+      ],
+      "price_uah": 830,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2023/10/fw_121.jpg"
+      ],
+      "description": "Склад: 72% бамбук, 26% ПА, 2% еластан Догляд: делікатне прання Колір: молочний Вироблено в Україні",
+      "care": "делікатне прання Колір: молочний Вироблено в Україні Style:KT-000890 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-strawberry-matcha-club-pink",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "Strawberry Matcha Club Cap - Pink",
+      "source_url": "https://katimo.ua/uk/product/strawberry-matcha-club-pink/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1659,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2026/05/29.05_pink1.png"
+      ],
+      "description": "Склад: 100% котон Догляд: ручне прання Колір: рожевий Вироблено в Україні",
+      "care": "ручне прання Колір: рожевий Вироблено в Україні Style:KT-001649 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-no-coffee-cap-green",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "No Coffee Cap - Green",
+      "source_url": "https://katimo.ua/uk/product/no-coffee-cap-green/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "коричневий",
+        "зелений"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1659,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/12/greencapncnw.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: ручне прання Колір: зелений Вироблено в Україні",
+      "care": "ручне прання Колір: зелений Вироблено в Україні Style:KT-001378 Інформація про доставку",
+      "collections": []
+    },
+    {
+      "id": "katimo-no-coffee-cap-black",
+      "brand": "Katimo",
+      "brand_id": "katimo",
+      "name": "No Coffee Cap - Black",
+      "source_url": "https://katimo.ua/uk/product/no-coffee-cap-black/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 1659,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://katimo.ua/wp-content/uploads/2024/11/kc_cap_black_1-scaled.jpg"
+      ],
+      "description": "Склад: 100% котон Догляд: ручне прання Колір: виварений чорний Вироблено в Україні",
+      "care": "ручне прання Колір: виварений чорний Вироблено в Україні Style:KT-001161 Інформація про доставку",
+      "collections": []
+    }
+  ]
+}

@@ -1,0 +1,4582 @@
+{
+  "_meta": {
+    "brand": "Ali Saulidi",
+    "brand_id": "alisaulidi",
+    "site": "https://ali-saulidi.com",
+    "extracted_at": "2026-11-17",
+    "mode": "shopify",
+    "count": 120,
+    "found": 143,
+    "candidates": 143,
+    "checked": 143,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "alisaulidi-nude-segment-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Nude Segment Boots",
+      "source_url": "https://ali-saulidi.com/products/nude-segment-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6C3F7E77-1E01-4081-BA91-93DAE767C259.png?v=1772201092",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7092CB1E-72E5-42B9-966C-88DA49604FE0.png?v=1794831795",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG_1380.jpg?v=1794831657"
+      ],
+      "description": "unisex handcrafted in Ukraine upper: leather & PU stretch leather lining: leather fixation: zipper Outsole: eva light",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-segment-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Segment Boots",
+      "source_url": "https://ali-saulidi.com/products/segment-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG_2258.jpg?v=1794831043",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BA38F56E-00FA-49E0-B119-DD9EF3685A39.jpg?v=1794831138",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F65129F3-C571-4145-9B27-30890A91551E.jpg?v=1794831355"
+      ],
+      "description": "Women upper: leather & neoprene lining: leather fixation: zipper Eva sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-stiletto-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Stiletto Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/stiletto-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/16A64B86-8AE8-4047-8138-67B708832058.png?v=1794044515",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/90339F26-2875-4494-A611-959903F56D9B.jpg?v=1794044514",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E31E6A75-FF87-46C4-81C0-7D044A5E56EA.jpg?v=1794044514"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: zipper heel 14 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26,5 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-squared-toe-dune-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Squared Toe Dune Boots",
+      "source_url": "https://ali-saulidi.com/products/squared-toe-dune-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/D35E4E75-46F4-4112-88B9-1A6F4E8553C5.png?v=1793386473",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C475E5DE-E5C4-41C1-B985-D1BAD50C09D4.jpg?v=1793386473",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BF8C3F65-D86D-4BCD-8623-F49135F35928.jpg?v=1793386472"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper heel 9 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-thigh-boots-burgundy",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Thigh Boots Burgundy",
+      "source_url": "https://ali-saulidi.com/products/overknee-thigh-boots-burgundy",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3EF33364-30BD-467F-AFAF-26B4F4850410.png?v=1792317956",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B1883677-51BD-4DDC-89F0-1930DD56331A.jpg?v=1792317758",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/73C1E3DD-1A78-407F-83A9-50C7843B4215.jpg?v=1792317758"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather stocking: pu leather fixation: zipper Heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 780,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-square-stretched-boots-burgundy",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Square Stretched Boots Burgundy",
+      "source_url": "https://ali-saulidi.com/products/square-stretched-boots-burgundy",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/861CC983-7DE7-4C4E-9F1F-C8E9611F277B.png?v=1792149962",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8A5103A6-C0F9-412C-BC41-8EF3C56064B6.png?v=1792149962"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-square-boots-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Square Boots Black",
+      "source_url": "https://ali-saulidi.com/products/square-boots-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0473.png?v=1792146900",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0474.png?v=1792146900",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0472.png?v=1792146945"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-square-boots-burgundy-copy",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Square Boots Black",
+      "source_url": "https://ali-saulidi.com/products/overknee-square-boots-burgundy-copy",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0409.png?v=1791816651",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0408.png?v=1791816651",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0411.png?v=1791817259"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 520,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-jacquard-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Jacquard Boots",
+      "source_url": "https://ali-saulidi.com/products/jacquard-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_8d65b09e-f9f7-4056-bec8-8b6971130959.jpg?v=1791627645",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3F11ED49-045A-4E90-8C29-B09AC028484A.png?v=1791626715",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7CF168FA-1795-4DB4-877E-04CDE794E3C0.png?v=1791626715"
+      ],
+      "description": "women 100% handcrafted jacquard upper leather lining fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 420,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-curtain-sneakers-leopard",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Curtain Sneakers Leopard",
+      "source_url": "https://ali-saulidi.com/products/curtain-sneakers-leopard",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9964.png?v=1790761358",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9965.png?v=1790761358",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9963.png?v=1790761358"
+      ],
+      "description": "100% handcrafted upper: suede lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-square-boots-burgundy",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Square Boots Burgundy",
+      "source_url": "https://ali-saulidi.com/products/square-boots-burgundy",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BEE4E233-C557-4B9C-80F4-707ABA87D773.png?v=1790165303",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/AD56A7BA-FD02-4B6E-A60F-CA1D91EBCF0E.png?v=1790165303",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/66F3C608-4E0C-4896-89D8-9795629BAF41.png?v=1790165303"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-square-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Square Boots Burgundy",
+      "source_url": "https://ali-saulidi.com/products/overknee-square-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F60E9CE0-D182-43C4-B416-8E67330D8BBC.png?v=1790165178",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A7D862D8-E3CA-440B-9988-ABE23FDE4529.png?v=1790165178",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A429F44A-44D2-449B-9A67-1F5E00DF2225.jpg?v=1790165179"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 520,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-barefoot-loafers-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Barefoot Loafers White",
+      "source_url": "https://ali-saulidi.com/products/barefoot-loafers-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6EF2FF93-6AE1-4118-9AEC-7E867FEBC626.jpg?v=1789637955",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/D7DFC601-B5ED-48EA-B597-23850B4BA75F.jpg?v=1789637969",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E064276F-A4FB-4AE4-A432-73AD3C1540D6.jpg?v=1789637932"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 6 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pointed-mules-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pointed Mules White",
+      "source_url": "https://ali-saulidi.com/products/pointed-mules-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/49333153-685B-440D-925A-1F2993C73053.png?v=1789637438",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3249ACBD-E757-4669-9B5B-8EF3E1AA1259.jpg?v=1789637529",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/5CFE54CB-AC48-4476-B5FF-291EE418C8BF.jpg?v=1789637403"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 8 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pointed-mules",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pointed Mules",
+      "source_url": "https://ali-saulidi.com/products/pointed-mules",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5597.png?v=1789638939",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5593.png?v=1776598784",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5595.png?v=1776598761"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 8 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-mickey-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Mickey Sneakers Ivory",
+      "source_url": "https://ali-saulidi.com/products/copy-mickey-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/26D356B7-7D6A-4C55-AEB9-FE6891E76DFE.png?v=1773009097",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7E3CB1E5-F340-439E-B8CF-28E647B5730B.png?v=1773009097",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/03802724-6AEE-434E-B0ED-097EFD238A9A.png?v=1773009097"
+      ],
+      "description": "removable upper details 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-mickey-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Mickey Sneakers",
+      "source_url": "https://ali-saulidi.com/products/mickey-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8DE215A0-A5B2-4A89-90BC-E4BC403CA736.png?v=1773009209",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7A624EB6-A0FF-4D85-8B4C-D709551545B9.png?v=1773009209",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/10E7D284-4D83-497C-9F57-028E4761E1CB.png?v=1773009209"
+      ],
+      "description": "removable upper details 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-curtain-sneakers-high-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Curtain Sneakers High White",
+      "source_url": "https://ali-saulidi.com/products/curtain-sneakers-high-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/295D58B2-B05C-4D7F-9976-E4C988B08FFD.png?v=1772966272",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/D64D4B58-8681-4A05-868A-B87D26E1B2F1.jpg?v=1772966272",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/52D74764-DD4D-4881-919F-E53E8FCF2AD9.png?v=1772966272"
+      ],
+      "description": "100% handcrafted upper: leather lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-gemini-ii-matted-leather",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Collapse Sneakers",
+      "source_url": "https://ali-saulidi.com/products/copy-gemini-ii-matted-leather",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_21d4721a-0074-4477-8e1f-cd99bce4d634.jpg?v=1767616333",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_43597fe3-e80f-4c4b-b2dd-2cf3b3e1bc03.jpg?v=1767616363",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_27662574-ce59-4db1-b845-363db66827e6.jpg?v=1767616363"
+      ],
+      "description": "100% handcrafted upper: suede lining: leather fixation: laces / elastic band",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-kitten-heel-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Kitten Heel Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/kitten-heel-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/156B2267-710D-43B9-A0F6-6BA32C8415F7.jpg?v=1762004476",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/0CDFE4FF-E080-4833-B4EF-A7F388B8B155.jpg?v=1762004475",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/21250249-8565-4484-9148-9F42A40D17A5.jpg?v=1762004475"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper heel 4 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-square-stretched-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Square Stretched Boots",
+      "source_url": "https://ali-saulidi.com/products/square-stretched-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9766.png?v=1790246523",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9765.png?v=1790246637",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/2DFECF50-4866-4534-9EAE-253FC50DC870.jpg?v=1761749016"
+      ],
+      "description": "women 100% handcrafted leather upper leather lining stocking pu leather fixation: zipper heel 5 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-squared-toe-knee-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Squared Toe Knee Boots",
+      "source_url": "https://ali-saulidi.com/products/squared-toe-knee-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-9763.png?v=1790246170",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/1F87F0BE-77D4-4146-B1D0-D12D35AFED45.jpg?v=1761747856",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B2FDF478-345C-4441-A8A1-33F2848AADB1.jpg?v=1761747856"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper heel 9 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-curtain-sneakers-high",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Curtain Sneakers High",
+      "source_url": "https://ali-saulidi.com/products/curtain-sneakers-high",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B46C92CE-1B6C-49FC-A437-1D4E389CCB28.jpg?v=1761574453",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/46276D42-F60D-4185-AFD0-9D468A6073E9.jpg?v=1761574453",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7B2834A4-7364-4236-BB44-6564E9A39BE7.jpg?v=1761574453"
+      ],
+      "description": "100% handcrafted upper: leather lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 420,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-combat-platform-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Platform Boots",
+      "source_url": "https://ali-saulidi.com/products/combat-platform-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F622408E-730B-4C23-ADB1-E58DF0A100D3.jpg?v=1761909522",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/25349E40-8268-496A-800D-881BE470E037.jpg?v=1761909522",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/496A99E1-C693-4095-A79B-E9173A56B719.jpg?v=1761909522"
+      ],
+      "description": "Fall / Winter boots made of black matted leather and leather lining. Outsole with slip resistance shoe - grip and zipper on the heel. 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-curtain-sneakers-ivory",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Curtain Sneakers Ivory",
+      "source_url": "https://ali-saulidi.com/products/curtain-sneakers-ivory",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/38DF4228-022C-46B9-8E48-340F11053362.jpg?v=1745667902",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/81B7DD4F-CA0F-4880-BFA1-2B7AE939B31E.jpg?v=1745667903",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E58595C2-6451-4113-968E-83BD2FB97AAC.jpg?v=1745667902"
+      ],
+      "description": "100% handcrafted upper: leather lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-curtain-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Curtain Sneakers",
+      "source_url": "https://ali-saulidi.com/products/curtain-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C01F02B1-367B-42C0-9DD3-6285381A8F52.jpg?v=1744283818",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4037A1EF-CE81-47D8-B2DA-989A1912011A.jpg?v=1744283817",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BA668C9E-3B50-4D6B-A176-B260D66C24A0.jpg?v=1744283817"
+      ],
+      "description": "100% handcrafted upper: leather lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-platform-pumps",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Platform Pumps",
+      "source_url": "https://ali-saulidi.com/products/platform-pumps",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Взуття",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4E205D74-9231-4170-B8FF-6FDEB39BCED3.jpg?v=1743853230",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/59C7C060-F206-47EC-A486-ED15986430E8.jpg?v=1743853230",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/60373D2D-5347-4C8C-BA6F-210346C95B38.jpg?v=1743853230"
+      ],
+      "description": "Sculptural black leather shoes with a geometric sole and seamless design. A bold yet minimal statement by Ali Saulidi — crafted for comfort and presence. 100% handcrafted upper: leather lining: leather sole: eva 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-black-loafers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Loafers",
+      "source_url": "https://ali-saulidi.com/products/black-loafers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6DECB0D9-5A45-4924-BD20-728C64A24D99.jpg?v=1743442722",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B7DD61AE-020D-442A-B4ED-9A55537B0983.jpg?v=1743442722",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FCCA60E1-8DA7-42F5-835E-0F722DC86D11.jpg?v=1743442722"
+      ],
+      "description": "100% handcrafted upper: matted leather lining: leather sole: eva 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-platform-trainers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Sahara Sneakers",
+      "source_url": "https://ali-saulidi.com/products/copy-platform-trainers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DEB96C6F-8D97-4B63-9AC3-E943CFFA81BB.jpg?v=1742324305",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A5DD1DFC-EE47-456B-8227-DD74350E770C.jpg?v=1742324305",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A02E8318-4EAD-4E1A-AABF-54A733F27115.jpg?v=1742324305"
+      ],
+      "description": "women 100% handcrafted upper: leather / suede lining: leather fixation: laces sole: EVA 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-black-mules",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Mules",
+      "source_url": "https://ali-saulidi.com/products/black-mules",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/217AAD40-0630-473C-A35B-24FB857261DD.jpg?v=1774004799",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/394EF782-B2B8-4280-82C8-47ADBDCDBE6F.jpg?v=1774004799",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/D87DBCD2-2867-4A05-A6DE-6A674C51C907.jpg?v=1774004799"
+      ],
+      "description": "Unisex 100% handcrafted upper: leather lining: leather",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-raptor-beige-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Raptor Beige Sneakers",
+      "source_url": "https://ali-saulidi.com/products/raptor-beige-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/8CB5E3D4-3755-4050-A9A6-BEBE7F180800.jpg?v=1587469511",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/060E581C-3DA1-484C-BE97-5DCEC57C17B1.jpg?v=1587469524",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/469627A8-CF10-4F11-A390-3C1C2EB312EC.jpg?v=1587469524"
+      ],
+      "description": "unisex 100% handcrafted upper: leather, textile lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-transformer-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Transformer Sneakers",
+      "source_url": "https://ali-saulidi.com/products/transformer-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/9DAB4D3F-BBAB-4D14-9C77-BF8B7F2090E9.jpg?v=1741693431",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/29D63210-28B2-4065-A50E-82B690FABA42.jpg?v=1741693431",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/935CD3C8-6791-45F4-B65D-AC4917EEF2B3.jpg?v=1741693431"
+      ],
+      "description": "100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-raptor-sneakers-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Raptor Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/raptor-sneakers-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/43E3CC18-706E-4119-8DFC-184E7856C27B.jpg?v=1734004695",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/CF9498BF-67FA-4A27-9BFE-35DF9C13597B.jpg?v=1734004695",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/5198E6AB-9458-46A2-AD57-BAD71C895DC2.jpg?v=1734004695"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pineapple-sneakers-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pineapple Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/pineapple-sneakers-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/B3CFC155-5F2E-49A5-9DA7-447C9678D101.jpg?v=1587469912",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/6DD2876F-3842-4409-B335-A10886CEA859.jpg?v=1587469912",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/41B2EFD6-5C42-4DCC-B808-AD1253A5D282.jpg?v=1587469912"
+      ],
+      "description": "unisex 100% handcrafted upper: pineapple eco leather / recyclable plastic lining: leather or eco leather fixation: elastic bands PU x EVA sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hyperloop-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hyperloop boots",
+      "source_url": "https://ali-saulidi.com/products/hyperloop-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/5BC0FB02-074C-4CD2-B109-952045C318BD.jpg?v=1730801460",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/CF4F3117-141F-4621-A8FE-4DB2C2E06C84.jpg?v=1730801460",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/580E6205-9968-4695-8EFE-8C1F4FE62FE0.jpg?v=1730801460"
+      ],
+      "description": "Fall / Winter boots made of black matted leather with extruded pattern on the upper. Outsole with slip resistance shoe - grip and zipper on the heel. 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-dual-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Dual Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/dual-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F9D60076-DD2D-4855-8B72-D35820CD1C0D.jpg?v=1730389481",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/41485C19-9E00-4BA3-853C-4ADC66F6DE89.jpg?v=1730389481",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/66F3957B-FBA8-4153-924F-806F442EAB06.jpg?v=1730389481"
+      ],
+      "description": "The squared toe ankle boots with removable upper part. You can choose and switch your favorite configuration. women 100% handcrafted Leather upper and lining fixation: zipper heel: 8 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-tight-boots-black-ii",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Thigh Boots Black",
+      "source_url": "https://ali-saulidi.com/products/overknee-tight-boots-black-ii",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8F0A2F0C-3EFD-4E09-AF3C-2ADC24C2A588.jpg?v=1761736377",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8056AFAC-DEC6-41C8-BFAD-60B794237548.webp?v=1761736377",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/105C645F-5AEE-4319-A5BE-13FCCD4C9381.jpg?v=1761736377"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather stocking: pu leather fixation: zipper Heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 780,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-supersound-sneakers-grey",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Supersound Sneakers White",
+      "source_url": "https://ali-saulidi.com/products/supersound-sneakers-grey",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E5D11F4B-7F01-4729-80F1-A2A09849E6C1.jpg?v=1716905498",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/0C0C51E9-5E39-438B-A343-7698415961EF.jpg?v=1716905497",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DCAD47E6-BC66-4F09-8215-1162BCD64F54.jpg?v=1716905497"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-synth-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Synth Sneakers",
+      "source_url": "https://ali-saulidi.com/products/synth-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/96AF735C-F54F-4D66-820D-94D742DDC857.jpg?v=1716828417",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/0FBB9353-3976-4A73-9B60-54E25718B069.jpg?v=1716828417",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C094576B-DE08-4B59-8C3C-D52BC685369C.jpg?v=1716828417"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pointed-toe-black-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pointed Toe Black Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/pointed-toe-black-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8F017910-C246-41F1-B579-D28047876DB3.webp?v=1712562939",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A922B41F-FC64-482B-B8A3-B669749EA2E9.webp?v=1712562937",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F9EFCF08-0EC8-4E8B-8263-2C0784D09F3E.webp?v=1712562938"
+      ],
+      "description": "women 100% handcrafted Leather pu upper Leather lining fixation: zipper heel: 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-slingback-mules-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Slingback Mules Black",
+      "source_url": "https://ali-saulidi.com/products/slingback-mules-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DE46AA35-4663-4748-8566-8C13DD4CD050.png?v=1711710933",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3B978534-36E2-46F2-A96A-C038C834F0A5.jpg?v=1711711119",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/AA6B1418-F4CA-41D5-ADFE-9694AD5F3D48.jpg?v=1711711119"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: buckle heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-baggy-black-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Baggy Black Boots",
+      "source_url": "https://ali-saulidi.com/products/baggy-black-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/88112F1D-F736-43B5-8F6F-95BB4BD844F3.jpg?v=1709202865",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B3165E91-11B8-421B-8FB3-A1E3C3BB7ED3.jpg?v=1709202864",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/04E33B4A-30DE-4ABA-946C-24688A0CB94D.jpg?v=1709202865"
+      ],
+      "description": "Women boots made of waterproof Cordura and matted leather. With chunky stitched outsole and zipper on the heel. 100% handcrafted upper: Cordura / nubuck lining: leather fixation: zipper Жіночі черевики виготовлені з водовідштовхуючої кордури та матової шкіри. Підкладка зі шкіри. Підошва: прошита, виготовлена з TR, висока підошва з протектором, в середині металевий супінатор. Система фіксації: застібка блискавка для швидкого одягання, ремінець з фастексом для регулювання фіксації зверху.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 380,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-cream-chelsea-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Cream Chelsea Boots",
+      "source_url": "https://ali-saulidi.com/products/cream-chelsea-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "кремовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4E00CF66-A9D3-43CE-AE3B-1721330AAE3F.jpg?v=1763556473",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/1F196F65-5844-416C-A58E-7C3A656F6C83.jpg?v=1763556473",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4F60F228-3C91-4177-A19E-193EAF768A03.jpg?v=1763556473"
+      ],
+      "description": "Women Chelsea demi-season boots with combo fasteners: elastic bands and zipper. Made of cream colored leather 100% handcrafted upper: leather lining: leather fixation: elastic bands / zipper Жіночі черевики виготовлені з кремової шкіри. Підошва: прошита, виготовлена з EVA висока підошва з протектором, в середині металевий супінатор. Система фіксації: вісковані шнурки, застібка блискавка для швидкого одягання, вшиті резинки в язичок для ліпшої фіксації і прилягання до стопи. Підкладка: шкіряна 35 = 22,5см 36 = 23,5см 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26см 41 = 26,5см",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": 175,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-lacquer-boots-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Lacquer Boots Black",
+      "source_url": "https://ali-saulidi.com/products/overknee-lacquer-boots-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8E14DEEA-7266-4632-9ADE-FB0353BA5935.jpg?v=1792404407",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3878BE20-08FC-4809-AAB5-74DB25369A61.jpg?v=1702810139",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E3A79AD9-1967-4A33-9340-D3A08C696E25.jpg?v=1702810138"
+      ],
+      "description": "women 100% handcrafted Lacquer upper Leather lining fixation: zipper heel: 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pointed-toe-bordeaux-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pointed Toe Bordeaux Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/pointed-toe-bordeaux-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E1D7BD8C-FA52-49EC-A3B8-C7780BC4C88A.jpg?v=1702809917",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/2B4814CF-986E-4C75-BEC1-C7849FE1CDE0.jpg?v=1702809917",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F9D7CE67-9751-47C9-90FC-A4EC02FECE17.jpg?v=1702809917"
+      ],
+      "description": "women 100% handcrafted Leather pu upper Leather lining fixation: zipper heel: 10cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-chelsea-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Bark Chelsea Boots",
+      "source_url": "https://ali-saulidi.com/products/chelsea-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B058328A-A152-4272-8635-812A3F51C6CF.jpg?v=1703013014",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/34FCAA82-5ADF-42D6-B9DC-D727835A646E.jpg?v=1703013014",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/D64BC972-7437-4647-A2FD-641D5CAFF284.jpg?v=1703013014"
+      ],
+      "description": "Women Chelsea fall / winter boots with combo fasteners: elastic bands and zipper. Made of textured leather. 100% handcrafted upper: leather lining: leather fixation: elastic bands / zipper Жіночі черевики виготовлені з чорної шкіри. Підошва: прошита, виготовлена з EVA висока підошва з протектором, в середині металевий супінатор. Система фіксації: вісковані шнурки, застібка блискавка для швидкого одягання, вшиті резинки в язичок для ліпшої фіксації і прилягання до стопи. Підкладка: шкіряна або утеплена з байки. 36 = 23,5см 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26см 41 = 26,5см * будь ласка уточнюйте щодо підкладки (байка / шкіра) після оформлення замовленн в коментарях в листі email. Базова - підкладка зі шкіри. * please choose your lining via email after the order. Leather lining is basic.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-chelsea-knee-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Chelsea Knee Boots",
+      "source_url": "https://ali-saulidi.com/products/chelsea-knee-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BF525C41-2A99-421F-9BE9-99AF027FAAC7.jpg?v=1698829774",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/40219F3B-C25A-448A-AFB6-4C19B8A60CA9.jpg?v=1698829773",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6FC5C671-AB19-4B8D-BA53-D196D4B6DF5E.jpg?v=1698829774"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper / laces",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-baggy-beige-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Baggy Beige Boots",
+      "source_url": "https://ali-saulidi.com/products/baggy-beige-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/00EBBFDF-2D34-42DA-A4DF-4159BB040FFC.jpg?v=1697554391",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/1B486703-16C1-4F0A-BC15-C0691B00BC83.jpg?v=1697554392",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/444E1A3B-12B4-4614-AA67-46208A09D431.jpg?v=1697554392"
+      ],
+      "description": "Women boots made of waterproof Cordura and nubuck. With chunky stitched outsole and zipper on the heel. 100% handcrafted upper: Cordura / nubuck lining: leather fixation: zipper Жіночі черевики виготовлені з водовідштовхуючої кордури та нубуку. Підкладка зі шкіри. Підошва: прошита, виготовлена з TR, висока підошва з протектором, в середині металевий супінатор. Система фіксації: застібка блискавка для швидкого одягання, ремінець з фастексом для регулювання фіксації зверху.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 380,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-tight-boots-black-1",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Boots Black",
+      "source_url": "https://ali-saulidi.com/products/overknee-tight-boots-black-1",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7386BAD0-7337-4801-A8EC-B4DCD99CA092.jpg?v=1759953365",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/55FFAB66-1AFA-4468-B578-D06F4A93B4F9.jpg?v=1759953365",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C227D290-D908-448E-80BF-43FCA5BFEC07.jpg?v=1759953365"
+      ],
+      "description": "women 100% handcrafted upper: leather / pu leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-segment-ankle-boots-beige",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Segment Ankle Boots Beige",
+      "source_url": "https://ali-saulidi.com/products/segment-ankle-boots-beige",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/51D4303A-5B90-413E-9F26-56F5B5469FD8.jpg?v=1712564009",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C79C5EF4-E3A9-46FD-9163-51DF36269446.jpg?v=1712564009",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C9225BA7-0B70-4C75-A6B3-05102FE28C67.jpg?v=1712564009"
+      ],
+      "description": "women 100% handcrafted neoprene upper & leather lining fixation: zipper heel: 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": 300,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hybrid-flip-flop-sneakers-black-1",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hybrid Flip - Flop Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/hybrid-flip-flop-sneakers-black-1",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/5386505E-EDCD-4E41-93AF-D5BC65C39D21.jpg?v=1694790239",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BBA07BB0-9EA8-4B74-B1CE-5727C4A25874.jpg?v=1694790239",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/081BE481-FFCD-4EE3-A36B-FF62EC03462C.jpg?v=1694790239"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-gemeni-ii-matted-leather",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Gemini II Matted Leather",
+      "source_url": "https://ali-saulidi.com/products/gemeni-ii-matted-leather",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B8798242-C7C2-4CF6-8FAE-666E70196AD4.jpg?v=1694791963",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C38A9948-DFF8-4C70-A3D0-51872CDEA71C.jpg?v=1694791963",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/185E0A6A-388F-4CEA-B3AA-B109DAF054C4.jpg?v=1694791963"
+      ],
+      "description": "Fall / Winter sneakers 100% handcrafted upper: leather lining: leather fixation: laces",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-assault-koyote-kevlar-boots-copy",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Assault Coyote kevlar boots",
+      "source_url": "https://ali-saulidi.com/products/assault-koyote-kevlar-boots-copy",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/076C118F-A7CF-4D7E-9E4B-D8A461BA2258.jpg?v=1693844029",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F4B00599-03D7-40CB-876D-A46DE3E6AC3D.jpg?v=1693844027",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/9086455F-5EF4-4EC5-B1BE-D8AC5C3C5C39.jpg?v=1693844029"
+      ],
+      "description": "Assault Coyote kevlar boots - Штурмові черевики - Верх з водовідштовхуючого нубуку - Посиленні прорезинені п‘ятка на носок - Шкіряна підкладка / або утеплена байкова - Вузол підошви та устілки здубльований італійським кевларом Pointex AP - Антипрокольна кевлврова устілка - Зйомна вкладна устілка із EVA - Прошита підошва - Металевий супінатор 36 = 23,5см 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26,5 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см 46 = 31см * Дана модель під замовлення. Терміни 7-10 робочих днів. - Модель під замовлення підлягає обміну на інший розмір, але поверненню не підлягає. - Доставка по Україні Новою поштою за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 185,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-pointed-toe-matted-leather-shoes",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Pointed Toe Matted Leather Shoes",
+      "source_url": "https://ali-saulidi.com/products/pointed-toe-matted-leather-shoes",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Взуття",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_1f0fc356-5d4c-4d54-b734-92b583267173.jpg?v=1691489578",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_45670566-bc38-4ca0-817e-d8f0d1eedaac.jpg?v=1691489578",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_3d283623-d70f-459a-8fdc-f134cdaa0760.jpg?v=1691489433"
+      ],
+      "description": "Made of black matted leather with plastic fasteners. 100% handcrafted upper: leather lining: leather fixation: laces / fastener",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-assault-camo-tactical-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Assault Camo kevlar boots",
+      "source_url": "https://ali-saulidi.com/products/assault-camo-tactical-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_9546f602-b6f6-4ea9-b935-62d762b91305.jpg?v=1689762391",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_26bc465e-121a-4147-a578-1046bcaf7d6b.jpg?v=1689762391",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_557f56a7-602f-4f62-981d-be3848efdb02.jpg?v=1689762391"
+      ],
+      "description": "Assault Camo kevlar boots - Штурмові черевики - Верх з камуфляжного водовідштовхуючого нубуку - Посиленні прорезинені п‘ятка на носок - Шкіряна підкладка - Укомплектовані карабінами та напівкільцями для зручного транспортування / підвіски - Вузол підошви та устілки здубльований італійським кевларом Pointex AP - Антипрокольна кевлврова устілка - Зйомна вкладна устілка із EVA - Прошита підошва - Металевий супінатор 40 = 26,5 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см * Дана модель під замовлення. Терміни 7-10 робочих днів. - Модель під замовлення підлягає обміну на інший розмір, але поверненню не підлягає. - Доставка по Україні Новою поштою за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 185,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-raptor-sneakers-black-x-red",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Raptor Sneakers Black x Red",
+      "source_url": "https://ali-saulidi.com/products/raptor-sneakers-black-x-red",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "червоний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_39618bee-1627-4780-930d-1d6462f8b5bc.jpg?v=1685533813",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_0ebb9b17-2e52-4f95-bf84-76833cbb76dd.jpg?v=1685533864",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_2148b117-16e2-4f21-bf15-80f5e2646cef.jpg?v=1685533875"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hybrid-flip-flop-sneakers-red",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hybrid Flip - Flop Sneakers Red",
+      "source_url": "https://ali-saulidi.com/products/hybrid-flip-flop-sneakers-red",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/5A5E131E-8C16-47E5-A4CB-5EBBB62865A5.jpg?v=1577275748",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/19B77EB1-6BFC-421A-BA6B-9299F4718BBF.jpg?v=1577275748",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/CB6A42D9-C166-48F7-92DD-1961A7FF934C.jpg?v=1577275748"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 475,
+        "sale": 470,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-puffer-flats-beige",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Puffer Flats Nude",
+      "source_url": "https://ali-saulidi.com/products/puffer-flats-beige",
+      "gender": null,
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_192ec91f-2489-48c8-9128-cccccb1a2c7c.jpg?v=1684440545",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_2ea6f48b-5925-42bd-af4c-4c145e88b90f.jpg?v=1684440545",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_7b967cc0-8948-4010-b7dc-646a0caf0762.jpg?v=1684440537"
+      ],
+      "description": "Puffer Flats - very soft and comfy summer flats. You can wear with any type of look. 100% handcrafted upper: pu leather lining: pu leather sole: eva",
+      "care": null,
+      "collections": [
+        "Half circle collection"
+      ],
+      "price_foreign": {
+        "amount": 180,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-puffer-flats-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Puffer Flats Black",
+      "source_url": "https://ali-saulidi.com/products/puffer-flats-black",
+      "gender": null,
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_30f20687-42ee-41b9-b87e-79e42ee0a444.jpg?v=1684440290",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_0977b63e-5602-4784-999c-8df6dcc3abb2.jpg?v=1684440290",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_9472fe91-16df-4f21-b9a6-4b54364c664b.jpg?v=1684440275"
+      ],
+      "description": "Puffer Flats - very soft and comfy summer flats. You can wear with any type of look. 100% handcrafted upper: pu leather lining: pu leather sole: eva",
+      "care": null,
+      "collections": [
+        "Half circle collection"
+      ],
+      "price_foreign": {
+        "amount": 180,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-half-circle-hightops-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Half circle Lowtops White",
+      "source_url": "https://ali-saulidi.com/products/half-circle-hightops-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_dcee31e9-a849-4787-906e-0311e824bb99.jpg?v=1745841523",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_3c8c6254-10a0-4350-a403-b480620c79ab.jpg?v=1745841523",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_fa9d41c8-c71a-4ee9-8959-0c4f822158b3.jpg?v=1681982489"
+      ],
+      "description": "Low tops made of matted leather with extruded details on the toe and heel unisex 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [
+        "Half circle collection"
+      ],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ua-liberator",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "UA Liberator",
+      "source_url": "https://ali-saulidi.com/products/ua-liberator",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_e669a4ca-4c33-40e4-b7e8-cc0fd3707a34.jpg?v=1661157126",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_74e507a0-e67c-49cd-a720-45db6a629dbc.jpg?v=1661157126",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_4ab5953f-b2db-44c2-8d87-78109033d65b.jpg?v=1660913577"
+      ],
+      "description": "UA Liberator carbon boots - Штурмові черевики - Верх зі шкіри з карбоновим покриттям - Темно зелена прорезинена шкіра - Посиленні прорезинені п‘ятка на носок - Шкіряна підкладка - Вузол підошви та устілки здубльований високовуглицевою тканиною Carbon Fiberpreg - Антипрокольна металева устілка - Зйомна вкладна устілка із EVA - Прошита підошва - Пом‘якшеный глибокий протектор підошви, для стрибків з висоти та десантування - Металевий супінатор - Сезон: осінь/весна 40 = 26,5 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см * Дана модель під замовлення. Терміни 7-10 робочих днів. - Модель під замовлення підлягає обміну на інший розмір, але поверненню не підлягає. - Доставка по Україні Новою поштою за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ghg",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Half Circle Lowtops",
+      "source_url": "https://ali-saulidi.com/products/ghg",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_e0fa0a28-b90d-4400-9a5d-b2a108fe36e0.jpg?v=1679912677",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_0246ff83-8ca8-44d9-b033-c536c5ed9e35.jpg?v=1679912226",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_02057eaf-fdd6-4620-971e-281e7a89c223.jpg?v=1679912226"
+      ],
+      "description": "Hightops made of matted pu leather with extruded details on the toe and metallic nipple. unisex 100% handcrafted upper: leather / pu leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [
+        "Half circle collection"
+      ],
+      "price_foreign": {
+        "amount": 320,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-vibe-sneakers-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Supersound Sneakers",
+      "source_url": "https://ali-saulidi.com/products/vibe-sneakers-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_4a783376-69b4-453f-bdc1-b2cbc513c94e.jpg?v=1741779532",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_4cbd22bd-c994-47f6-bd95-d274690b9511.jpg?v=1741779532",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_8b737dad-1254-4139-b5ef-e05ec7dd4e48.jpg?v=1741779532"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole Size chart: 36 = 23,5см 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26,5см 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см",
+      "care": null,
+      "collections": [
+        "Half circle collection"
+      ],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ua-defender-iii",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "UA DEFENDER III",
+      "source_url": "https://ali-saulidi.com/products/ua-defender-iii",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_f10c6cd1-5960-45dc-a5b6-18b63386d0ad.jpg?v=1678796704",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_01b44700-4161-46f7-b0c6-40da4d9409d7.jpg?v=1678796707",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_b35c1ca9-6158-416d-b9ce-8a715f4bd7a4.jpg?v=1678796710"
+      ],
+      "description": "UA DEFENDER III - new technological and improved tactical boots in olive - beige color. To conduct combat missions in extreme conditions. UA DEFENDER III - нові технологічні та вдосконалені тактичні черевики оливково - бежевого кольору. Апгрейд та основні характеристики: Підошва: прошита зносостійка вулканізована резина. Не плавиться, не нагрівається в спеку. Забезпечує підвищене зчеплення з різними поверхнями. Верх з натуральної шкіри та нубуку, посилені носок, п‘ятка та бокові частини, водовідштовхуюча кордура. Підкладка мембрана: дихає але не пропускає вологу Анатомічна вкладна устілка з EVA: не пропускає і не втягує вологу, має підвищені гігієнічні властивості. Система шнурівки: петлі та гачки для швидкого шнурування, додаткова петля на язичку, для кращої фіксації. Посилений верхній кант для захисту щиколотки Температурний режим: від - 10 до 30С Вага одного черевика 500 грам 40 = 26,5см 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см 46 = 31см Зверніть увагу! Відправлення протягом 3-5 робочих днів. Наш сайт був створений для роботи з іноземними клієнтами, тому інтерфейс на англійській мові і валюта долар. У строці де адреса вказуйте номер відділення Нової пошти. Доставка / обмін та повернення за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 95,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ua-defender-black-force",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "UA DEFENDER Black Force",
+      "source_url": "https://ali-saulidi.com/products/ua-defender-black-force",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image.png?v=1676651698",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_0250e4af-3c77-43d3-af6b-e7df4c3f6fbc.png?v=1676651698",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_8b6e3306-6fec-430b-865d-c22afdd1ff14.jpg?v=1676651698"
+      ],
+      "description": "Тактичні черевики UA Defender в чорному кольорі. Основні характеристики: легкість, гнучкість, гарна фіксація на нозі, дихаючі але міцні матеріали та зносостійка підкладка. Також здубльований м‘який кант, для захисту кісточки. Black Force: посилений прорезинений носок та п’ятка Матеріали верху: водовідштовхуюча кордура, шкіра, нубук Підкладка: шкіра, дихаюча мембрана Устілка: подвійна основна устілка + металевий супінатор. Вкладна устілка шкіра + латекс Підошва: трекова із гнучкої терморезини з підвищеною зносостійкістю Температурний режим: від 0 до 30С Вага одного черевика: 495g 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см Зверніть увагу! Відправлення замовлень протягом 3 робочих днів після оформлення. А ще: Наш сайт був створений для роботи з іноземними клієнтами, тому інтерфейс на англійській мові і валюта долар. У строці де адреса вказуйте реквізити Нової пошти. Доставка / обмін та повернення за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 85,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-black-leather-zipped-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Leather Zipped Boots",
+      "source_url": "https://ali-saulidi.com/products/black-leather-zipped-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4C2506C9-5BA4-4394-9529-CF0ADC18013A.webp?v=1763562343",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3D502314-26E2-4066-B67D-2F72584CADFC.webp?v=1763562330",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/60AF6905-8BC5-458B-A691-2C0756044B9F.webp?v=1763562126"
+      ],
+      "description": "Women winter boots with combo fasteners: laces and zipper. With stitched outsole and warm insole. 100% handcrafted upper: leather lining: leather fixation: laces / zipper Жіночі черевики виготовлені з чорної шкіри. Підошва: прошита, виготовлена з EVA висока підошва з протектором, в середині металевий супінатор. Система фіксації: вісковані шнурки, застібка блискавка для швидкого одягання, вшиті резинки в язичок для ліпшої фіксації і прилягання до стопи. 36 = 23,5см 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26,5см 41 = 27см",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 290,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-chelsea-alien-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Alien Chelsea Boots",
+      "source_url": "https://ali-saulidi.com/products/chelsea-alien-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_6a9f5cd3-fb5a-46da-b286-be141d39e3a5.jpg?v=1668687530",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_c2fb9488-e954-47b9-b14f-d6059ab09feb.jpg?v=1668684563",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_ff1c7a25-5827-4971-ba63-dc445dcd3f07.jpg?v=1668684563"
+      ],
+      "description": "Made of black matted leather with extruded pattern on the upper. Outsole with slip resistance shoe - grip and zipper on the heel.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ua-defender-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "UA DEFENDER",
+      "source_url": "https://ali-saulidi.com/products/ua-defender-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image.jpg?v=1661942599",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/BB651AD4-1706-42C3-9C99-84C041D4A72B.jpg?v=1676575489",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/image_c7a7060c-e08f-4a09-9f40-ae14139ff7e8.jpg?v=1676575489"
+      ],
+      "description": "Тактичні черевики UA Defender. Основні характеристики: легкість, гнучкість, гарна фіксація на нозі, дихаючі але міцні матеріали та зносостійка підкладка. Також здубльований м‘який кант, для захисту кісточки. Матеріали верху: водовідштовхуюча кордура, шкіра, нубук. Підкладка: шкіра, дихаюча мембрана Устілка: подвійна основна устілка + металевий супінатор. Вкладна устілка шкіра + латекс Підошва: трекова із гнучкої терморезини з підвищеною зносостійкістю Температурний режим: від 0 до 30С Вага одного черевика: 495g 37 = 24,5см 38 = 25см 39 = 25,5см 40 = 26,5см 41 = 27см 42 = 28см 43 = 28,5см 44 = 29см 45 = 30см Зверніть увагу! Взуття в наявності. Відправлення замовлень протягом 3 робочих днів після оформлення. А ще: Наш сайт був створений для роботи з іноземними клієнтами, тому інтерфейс на англійській мові і валюта долар. У строці де адреса вказуйте реквізити Нової пошти. Доставка / обмін та повернення за рахунок отримувача.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 85,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-tight-boots-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Tight Boots White",
+      "source_url": "https://ali-saulidi.com/products/overknee-tight-boots-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/ALI36385.jpg?v=1640692185",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/ALI36322.jpg?v=1640692185",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/ALI36354.jpg?v=1640692185"
+      ],
+      "description": "women 100% handcrafted upper: leather / pu leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-laced-up-knee-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Laced Up Knee Boots",
+      "source_url": "https://ali-saulidi.com/products/laced-up-knee-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/DE982F37-8952-40EA-B5C5-FD0CA9C40412copy.jpg?v=1637236713",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/A61153E3-E884-43E7-BDEC-5B0B03DED01D.jpg?v=1637236713",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/C0FDC0E6-6D76-4FD4-95E5-8F1D25B03182.jpg?v=1637236713"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper / laces",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-u-disc-sneakers-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "U Disc Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/u-disc-sneakers-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/4BA7EC30-E562-4AB2-AE5A-3ABE208B310C.jpg?v=1633435745",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/022CE3FF-0E2C-41F7-9B0A-146AB92C8804.jpg?v=1633435745",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/301E9029-4BB1-4FE1-8865-E2E53EED2819.jpg?v=1633435744"
+      ],
+      "description": "removable upper details 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-carabine-zipped-boots-white",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Carabine Zipped Boots White",
+      "source_url": "https://ali-saulidi.com/products/carabine-zipped-boots-white",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/0F56C72C-D6BB-468D-8758-7DC84B8FC840.jpg?v=1633435447",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/121C4CE6-F256-4A5E-A056-FEA869A3FF58.jpg?v=1633435447",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/3505C6DD-46D8-4485-B41E-6ADD9490E1D6.jpg?v=1633435447"
+      ],
+      "description": "women 100% handcrafted upper: PU leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 360,
+        "sale": 108,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-carabine-zipped-boots-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Carabine Zipped Boots Black",
+      "source_url": "https://ali-saulidi.com/products/carabine-zipped-boots-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/E1F9331C-31AF-4AA0-90EA-5083B1516639.jpg?v=1633435296",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/3B69AA41-F057-41D4-AFB6-5BA78A1ECC46.jpg?v=1633435295",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/05B551CF-2A20-4CAE-B6FF-40147B1BB999.jpg?v=1633435295"
+      ],
+      "description": "women 100% handcrafted upper: PU leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 360,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-u-disc-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "U Disc Sneakers",
+      "source_url": "https://ali-saulidi.com/products/u-disc-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/IMG_9054.jpg?v=1633436304",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/26_AliSaulidi15_05311.jpg?v=1633436304",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/IMG_9057.jpg?v=1633436304"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-mascaron-sneakers-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Mascaron Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/mascaron-sneakers-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_a63e7419-3fbe-4f69-b947-9dd504117059.jpg?v=1685540231",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_94ceadec-f9e5-4198-98d2-8e626d31dd57.jpg?v=1685540231",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/image_dbfac1d9-6a94-4cef-8895-d2fd1e481940.jpg?v=1685540231"
+      ],
+      "description": "unisex 100% handcrafted upper: leather / textile lining: leather fixation:laces / elastic bands",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-overknee-tight-sneakers-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Overknee Tight Sneakers Black",
+      "source_url": "https://ali-saulidi.com/products/overknee-tight-sneakers-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0511.png?v=1792404684",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_b0786735-b135-4251-9ba6-ca1cd40d8831.jpg?v=1763568385",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_9c5b9761-0548-4b70-9005-ad40b1c93e7e.jpg?v=1763568385"
+      ],
+      "description": "women 100% handcrafted upper: leather stocking pu leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-segment-knee-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Segment Knee Boots",
+      "source_url": "https://ali-saulidi.com/products/segment-knee-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/8C82264A-FBE1-4B5D-93A5-1FC726799F3A.jpg?v=1604750370",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/88C38D76-7FAD-48D1-9823-0E9E3884B525.jpg?v=1604750370",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/5968B720-EFDD-4B4B-BE7D-4977AB0E32FE.jpg?v=1604750370"
+      ],
+      "description": "women 100% handcrafted upper: pu / leather / neoprene lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-squared-toe-ankle-boots-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Squared Toe Ankle Boots Black",
+      "source_url": "https://ali-saulidi.com/products/squared-toe-ankle-boots-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/0F36D0C7-D6B5-45AC-8A36-3679E9B6A1CF.jpg?v=1766316225",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/85672B0C-3DB2-41A6-88B9-ACDBBD1A9CAA.jpg?v=1766316225",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/285C70CE-D590-4874-9F6E-7C63A807CB9F.jpg?v=1766316225"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper Heel 8cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hybrid-zipped-boots-black-1",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hybrid Zipped Boots Black",
+      "source_url": "https://ali-saulidi.com/products/hybrid-zipped-boots-black-1",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/749F8A12-039A-4075-A666-CE564C6D627D.jpg?v=1604749772",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/C81CC00D-D49A-4456-A3D6-36DC81E5C65A.jpg?v=1604749772",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/97EBFAF6-EB76-45BB-B76C-64BF8D768B8C.jpg?v=1604749772"
+      ],
+      "description": "women 100% handcrafted upper: PU leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-melted-heel-loafers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Melted Heel Loafers",
+      "source_url": "https://ali-saulidi.com/products/melted-heel-loafers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/95F8EA4C-2399-4483-938D-ECB876532A4F.jpg?v=1587470141",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/49DEBAEA-A969-4F18-9E12-79D0EB8F37AD.jpg?v=1587470141",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/F4E7509E-DD74-439D-AF50-FF526C3A36DD.jpg?v=1587470141"
+      ],
+      "description": "unisex 100% handcrafted upper: leather / recyclable plastic lining: leather fixation: heel Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-raptor-sneakers-red-x-lime",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Raptor Sneakers Red x Lime",
+      "source_url": "https://ali-saulidi.com/products/raptor-sneakers-red-x-lime",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/C701F675-6FFF-49AC-B74F-2D4E6EF82891.jpg?v=1587469662",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/258448F0-2BF3-4FB4-903A-DE49A3A2747E.jpg?v=1587469662",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/B18E4A00-281F-4DD2-A5E5-2947481AFABC.jpg?v=1587469663"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hybrid-oxfrod-shoes",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hybrid Oxfrod Shoes",
+      "source_url": "https://ali-saulidi.com/products/hybrid-oxfrod-shoes",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Взуття",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/F9947D33-1095-4418-82F1-3EF350B6C0E5.jpg?v=1580039940",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/34427AEE-1C56-459B-8F6D-0E0807B180A8.jpg?v=1580039940",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/D1859D56-0DB3-4CB2-B0D8-4B3BDB383723.jpg?v=1580039940"
+      ],
+      "description": "unisex 100% handcrafted upper: leather lining: leather fixation: laces",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-hybrid-zipped-boots-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Hybrid Zipped Boots",
+      "source_url": "https://ali-saulidi.com/products/hybrid-zipped-boots-black",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/741FD338-528C-4A8A-82C8-23CC3DA1DEC8_2.jpg?v=1580039710",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/1A943D8F-F60D-4A4D-80BD-B5247B12D9FD_2.jpg?v=1580039710",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/15706A75-8763-4EF3-AF25-5C599BE3FE24_2.jpg?v=1580039710"
+      ],
+      "description": "women 100% handcrafted upper: leather lining: leather fixation: zipper",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-segment-leather-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Segment Leather Boots",
+      "source_url": "https://ali-saulidi.com/products/segment-leather-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/1E9C3F0B-D162-4B3E-9B86-41576803CA18.jpg?v=1577275360",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/130C8A75-6B85-4CA7-ACD3-22B6C1A6F67E.jpg?v=1577275360",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/66254A93-C1B3-4F3E-A7E7-2CDAC0415440.jpg?v=1577275360"
+      ],
+      "description": "men 100% handcrafted genuine matted leather upper & leather lining fixation: laces Vibram sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 520,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-gemini-ii-black-x-red-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "GEMINI II Black x Red Sneakers",
+      "source_url": "https://ali-saulidi.com/products/gemini-ii-black-x-red-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "червоний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/530A2875-BFD9-443C-8B21-E2D5D3574121.jpg?v=1578655795",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/C3ABD938-76D3-4822-9061-3E9AA0C4B85E.jpg?v=1578655795",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/1B0E5DCD-479C-4B6F-B32E-05AB758F3A6F.jpg?v=1578655795"
+      ],
+      "description": "unisex 100% handcrafted genuine leather upper & leather lining fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-gemini-ii-black-x-white-sneakers",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "GEMINI II Black x White Sneakers",
+      "source_url": "https://ali-saulidi.com/products/gemini-ii-black-x-white-sneakers",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/2110DD49-B217-4F18-B1FA-4D563E5FB969.jpeg?v=1570204641",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/32C76549-2F47-4513-81A2-1259D89A063E.jpeg?v=1570204648",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/612881EB-17F1-4BCA-9F61-8AC18ACFA891.jpeg?v=1570204654"
+      ],
+      "description": "unisex 100% handcrafted genuine leather upper & leather lining fixation: laces Livetech sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 470,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-exo-black-segment-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Exo Black Segment Boots",
+      "source_url": "https://ali-saulidi.com/products/exo-black-segment-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/42E7571B-35A8-43C7-BB7D-B41020DC7580_2.jpg?v=1551207354",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/AFE1A726-CB9D-41EB-A796-8954C4B6104C_2.jpg?v=1551207357",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/10502EB5-5692-4573-9B6B-74A04B878575_2.jpg?v=1551207359"
+      ],
+      "description": "unisex upper: leather & neoprene lining: leather fixation: zipper Vibram sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-earth-wholecut-leather-oxford-shoes",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "EARTH Wholecut Leather Oxford Shoes",
+      "source_url": "https://ali-saulidi.com/products/earth-wholecut-leather-oxford-shoes",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/IMG_0843_3.jpg?v=1545757802",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/46084732_254682058482591_3216928498954272768_n.jpg?v=1545757802",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/IMG_0838_3.jpg?v=1545757802"
+      ],
+      "description": "unisex 100% handcrafted genuine matted leather upper & leather lining fixation: laces Vibram sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 450,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-python-black-clutch",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Python Black Clutch",
+      "source_url": "https://ali-saulidi.com/products/python-black-clutch",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0902.png?v=1794044866",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0904.png?v=1794044753",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-0905.png?v=1794044753"
+      ],
+      "description": "Black clutch crafted from natural leather with a python texture, finished with an alcantara lining and Italian hardware. Size: 45 x 3 x 20 cm Upper: leather Lining: alcantara",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-caiman-sand-clutch",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Caiman Dune Clutch",
+      "source_url": "https://ali-saulidi.com/products/caiman-sand-clutch",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/CE673AB1-0C1D-4B14-9DBD-B34D44B038DA.jpg?v=1793384735",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/82D6CF2C-711F-4AE0-B5C8-8CC90AFD0EDA.jpg?v=1793384735",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/2EC386FE-112F-4AD6-B1DD-E8D6B81A8A88.jpg?v=1793384735"
+      ],
+      "description": "Beige clutch crafted from natural leather with a caiman texture, finished with an alcantara lining and Italian hardware. Size: 45 x 3 x 20 cm Upper: leather Lining: alcantara",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-caiman-burgundy-clutch",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Caiman Burgundy Clutch",
+      "source_url": "https://ali-saulidi.com/products/caiman-burgundy-clutch",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_bf29fa91-4614-4305-80fc-fb1b33d31518.jpg?v=1793385097",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3D963827-22B1-4C6D-84ED-0E87AB54EAEA.jpg?v=1791192510",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/E1D3AB63-1AF5-470E-A874-FD68DF6B8DEA.jpg?v=1791192539"
+      ],
+      "description": "Burgundy clutch crafted from natural leather with a caiman texture, finished with an alcantara lining and Italian hardware. Size: 45 x 3 x 20 cm Upper: leather Lining: alcantara",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-flying-base-clutch-beige",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Flying Base Clutch Beige",
+      "source_url": "https://ali-saulidi.com/products/flying-base-clutch-beige",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A89C3A30-35DD-4635-A8B6-31B9E19122C2.png?v=1786095688",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6C6CB0D7-64D1-40CF-8ECA-841BF7498562.jpg?v=1786095688",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C25F85AF-EE37-45CB-8697-D31892A04D37.jpg?v=1786095688"
+      ],
+      "description": "Comfortable clutch with flat bottom and two symmetrical platforms. Features YKK zipper and adjustable strap which you can remove.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-purple-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Purple Sabo",
+      "source_url": "https://ali-saulidi.com/products/purple-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/EDA0FA90-0679-4B0A-9419-E39F0B1AD638.png?v=1781772399",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/779B164C-BDA5-46D8-B488-7D6E8C39D74E.png?v=1781772427",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/843B3387-45E4-413F-972F-8B3D6F8E78CC.png?v=1781772360"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-folded-sabo-brown",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Folded Sabo Brown",
+      "source_url": "https://ali-saulidi.com/products/folded-sabo-brown",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-7013.png?v=1781169609",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-7014.png?v=1781169609",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-7015.png?v=1781169609"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-kitten-heel-lime",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Kitten Heel Lime",
+      "source_url": "https://ali-saulidi.com/products/kitten-heel-lime",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8AF25357-C149-4176-87C1-18CE75841451.png?v=1780485086",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6FCEEF2C-AAC7-4026-945A-184C0C17C6FD.png?v=1780485045",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DA39DEE6-942A-4745-9610-DBBA2DBB0D76.png?v=1780485045"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 4cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm 42 = 27,5 cm 43 = 28 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-knee-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Knee Sandals",
+      "source_url": "https://ali-saulidi.com/products/knee-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BB163898-AFFA-4526-A95A-0C6EC17B2A88.png?v=1778245794",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/33CC387A-B6A2-4BFC-B7B7-500A38042C02.jpg?v=1778245793",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/6C9DE722-74BE-453F-A0FB-F93F691E3D43.jpg?v=1778245793"
+      ],
+      "description": "100% handcrafted leather upper & leather lining stocking pu leather fixation: zipper 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 300,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-folded-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Folded Sabo",
+      "source_url": "https://ali-saulidi.com/products/folded-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5681.png?v=1776773722",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5684.png?v=1776773722",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-5682.png?v=1776773722"
+      ],
+      "description": "100% handcrafted upper: calf leather lining: leather heel 8 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-kitten-heel-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Kitten Heel Folded Sabo",
+      "source_url": "https://ali-saulidi.com/products/copy-kitten-heel-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B8823D5E-9CE8-44F8-A347-F6735EEC3F63.png?v=1776596537",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B78E4F61-AC03-4822-B06B-B6F209C544B4.png?v=1776596474",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/0D6071E8-DBE5-43BD-99D3-B4F7406D4C91.png?v=1776596492"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 4cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm 42 = 27,5 cm 43 = 28 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-kitten-heel-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Kitten Heel Sabo",
+      "source_url": "https://ali-saulidi.com/products/kitten-heel-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8E971D1C-5B7F-421F-BA49-22C360BE144B.jpg?v=1776596292",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/CFCF3C9A-A1CE-42CA-A901-E6F711D03AFF.jpg?v=1776596292",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7A9EAAE3-B585-4BE4-A95B-566C0E06D990.jpg?v=1776596292"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather heel 4cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm 42 = 27,5 cm 43 = 28 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-stiletto-heel-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Basic Heel Sandals",
+      "source_url": "https://ali-saulidi.com/products/copy-stiletto-heel-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B2DB3A31-8481-4158-8139-0B971B200018.png?v=1776596039",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F63EC557-FB74-4DEC-A078-494E0F1DA967.png?v=1776596054",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/791AAF11-C504-449D-915A-F9736781F369.png?v=1776596076"
+      ],
+      "description": "100% handcrafted leather upper & leather lining fixation: buckle heel 9 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-copy-molten-heel-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Stiletto Heel Sandals",
+      "source_url": "https://ali-saulidi.com/products/copy-molten-heel-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B66A06B0-623D-4BEC-8315-BA69FE165B06.png?v=1776595818",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/45FF67F9-3C27-4B43-9B57-5AAA129AD4C0.png?v=1776595830",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C8170C05-45ED-4B9F-88F0-95892B1924D9.png?v=1776595849"
+      ],
+      "description": "100% handcrafted leather upper & leather lining fixation: buckle heel 9 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-prism-clutch",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Prism Clutch",
+      "source_url": "https://ali-saulidi.com/products/prism-clutch",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/4F5FB3C0-2533-4E14-86FD-C50669157618.png?v=1774268756",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B8B942A2-290B-42F3-9F0B-C838538D222B.jpg?v=1774268631",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/EEE13B4D-181E-447C-8AF2-0675815E076F.jpg?v=1774268631"
+      ],
+      "description": "The PRISM Clutch by Ali Saulidi translates architectural surfaces into a wearable object. Its geometric, faceted texture reflects light like a sculptural façade, creating depth and movement within a monochrome palette. Upper: molted pu Lining: 100% leather",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 380,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-sculpt-heel-sandals-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Sculpt Heel Sandals Black",
+      "source_url": "https://ali-saulidi.com/products/sculpt-heel-sandals-black",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FullSizeRender_89713c0b-5739-4ea3-b02b-676435a48309.jpg?v=1774020942",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B4826F00-ECE9-4A92-9002-B908A9791BC9.png?v=1774020254",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8CF17B86-24EC-468A-818A-078912DA5B2C.png?v=1774020254"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: zipper heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-sculpt-heel-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Sculpt Heel Sandals",
+      "source_url": "https://ali-saulidi.com/products/sculpt-heel-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/5F2A88F3-3ED4-4C18-9120-BDA639C3CFB1.jpg?v=1774031183",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/9C05FF18-41A9-44CF-A038-5ED75F2249B3.png?v=1774031183",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A188C0A9-8C65-483A-B91B-E36A4255EDE2.png?v=1774031183"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: zipper heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-molten-heel-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Molten Heel Sandals",
+      "source_url": "https://ali-saulidi.com/products/molten-heel-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/14AEB5DA-EFE3-4EAC-8E92-B92DCD432CB2.png?v=1773082743",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8C665730-501B-411C-AF39-41DDB6821F88.png?v=1773082743",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/B13E3917-2666-4D0A-A62C-B04ACBCB6D73.png?v=1773082743"
+      ],
+      "description": "Sandals with decorative molten carbon detail. 100% handcrafted leather upper & leather lining fixation: buckle heel 8 cm molten carbon heel 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 550,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-architectural-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Architectural Sandals",
+      "source_url": "https://ali-saulidi.com/products/architectural-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/16CFE941-7075-484F-A6D7-834A0FEE4F16.png?v=1773082060",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/707160E0-2019-4641-BE67-B2F727AC553D.png?v=1773082060",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C650C9E9-AF04-4F08-A2F2-5F448B8CAF7A.png?v=1773082060"
+      ],
+      "description": "100% handcrafted leather upper & leather lining fixation: buckle heel 8 cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-gift-card",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "GIFT CERTIFICATE",
+      "source_url": "https://ali-saulidi.com/products/gift-card",
+      "gender": null,
+      "category": "Gift Cards",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-2478.png?v=1765969565",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/IMG-2477.png?v=1765969565"
+      ],
+      "description": "The Ali Saulidi Gift Certificate is a refined way to share unique design and timeless style. The Ali Saulidi Gift Certificate is non-refundable and cannot be exchanged or returned. The Gift Certificate cannot be redeemed for cash or exchanged for money. The Gift Certificate is valid for 6 months from the date of purchase.",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-soft-leather-large-clutch",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Soft Leather Large Clutch",
+      "source_url": "https://ali-saulidi.com/products/soft-leather-large-clutch",
+      "gender": null,
+      "category": "Accessories",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/EBC3E432-4C88-4D0E-9525-21C4D0B876DC.jpg?v=1763410916",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/67096CDE-509A-49E0-9EE1-9C9277AE50BA.jpg?v=1763410916",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/884A4AA0-52BF-47EA-B28E-61DB16182048.jpg?v=1763410916"
+      ],
+      "description": "Trapezoidal shaped clutch made of very soft leather. With chromed lock on it. Alcantara lining",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-slingback-lacquer-shoes",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Slingback Lacquer Pumps",
+      "source_url": "https://ali-saulidi.com/products/slingback-lacquer-shoes",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/1CD3B21E-4F6C-425F-8A36-A5C154F94EFE.png?v=1757419049",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/58242D1A-154F-4706-BB36-0F6D7C52E12F.jpg?v=1757419049",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/03DEC834-CE6E-4772-9EDA-3F173378052F.png?v=1757419050"
+      ],
+      "description": "women 100% handcrafted Lacquer upper & leather lining fixation: buckle heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-g-elastic-sandals-black",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "G-elastic Sandals Black",
+      "source_url": "https://ali-saulidi.com/products/g-elastic-sandals-black",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/F532B9DA-4B63-43A2-AA26-454A4A80402B.JPG?v=1559490410",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/68491D22-07F0-4CDB-AF30-F381DF8DCA5B.JPG?v=1559490410",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/02DE0606-BC23-444E-82B8-C90888276B20.JPG?v=1559490410"
+      ],
+      "description": "unisex handcrafted in Ukraine upper: elastic bands lining: leather fixation: elastic bands Vibram sole 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26,5 cm 41 = 27 cm 42 = 27,5 cm 43 = 28,5 cm 44 = 29 cm 45 = 30 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-g-elastic-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "G-elastic Sandals Black x White",
+      "source_url": "https://ali-saulidi.com/products/g-elastic-sandals",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/B715BD03-4C4F-4D51-AFB1-0F05D75A1C31.jpg?v=1559490412",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/AB4CC711-0301-4611-A9C0-E37EBE496E66_2.jpg?v=1559490412",
+        "https://cdn.shopify.com/s/files/1/2285/0079/products/ECE9E7AA-654F-4E20-92A9-687B80AE0BB1.jpg?v=1559490412"
+      ],
+      "description": "unisex handcrafted in Ukraine upper: elastic bands lining: leather fixation: elastic bands Vibram sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-clean-heel-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Clean Heel Sandals",
+      "source_url": "https://ali-saulidi.com/products/clean-heel-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/95FF414D-156F-4353-A26A-857616034CD0.jpg?v=1750517836",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DB5E0B33-65F9-4F2D-B18A-8FC65C6677F7.jpg?v=1750517836",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7C97B0EC-AB86-41D1-AB83-5BF1B9D05C32.jpg?v=1750517836"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: buckle heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 400,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-men-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Men Sabo",
+      "source_url": "https://ali-saulidi.com/products/men-sabo",
+      "gender": "male",
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/FDB9722C-776B-4AC4-A324-CED3999DE87D.jpg?v=1750329017",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/23136AAA-6B92-49C9-9E07-DD71B71EC59B.jpg?v=1750329017",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3040F615-036F-4B9A-80F4-7D9875466E96.jpg?v=1750329017"
+      ],
+      "description": "100% handcrafted upper: calf leather lining: leather 41 = 27 cm 42 = 27,5 cm 43 = 28,5 cm 44 = 29 cm 45 = 30 cm 46 = 31 cm 47 = 32 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 280,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-black-leather-flip-flops",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Leather Flip Flops",
+      "source_url": "https://ali-saulidi.com/products/black-leather-flip-flops",
+      "gender": null,
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/1BD7F012-740D-4E98-B3FF-FA834D3B3AC2.jpg?v=1749557212",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/251FC4EA-60F0-461C-9C30-F553B0B53EAA.png?v=1749557363",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/D2C85EE1-D529-48EA-8905-8AB2CE2F9896.png?v=1749557363"
+      ],
+      "description": "Black Leather Flip Flops - soft and comfortable leather summer flats. You can wear with any type of look. 100% handcrafted upper: leather lining: leather sole: eva 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm 42 = 27,5 cm 43 = 28 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 175,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-tractor-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Tractor Sandals",
+      "source_url": "https://ali-saulidi.com/products/tractor-sandals",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/10675396-1E98-47C0-8948-758FC5EC6D64.png?v=1749557566",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BB9F5C14-593D-4919-B98C-95E52A2FFA08.png?v=1749557566",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/13C0DB2F-CB8B-4D22-8EE8-374E300F8296.jpg?v=1749557566"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining fixation: buckle EVA sole",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 300,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-stiletto-knee-sandals",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Stiletto Knee Sandals",
+      "source_url": "https://ali-saulidi.com/products/stiletto-knee-sandals",
+      "gender": null,
+      "category": "Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3F64C0DA-8B9E-4137-86C4-0F22D9F325BA.jpg?v=1745490204",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/DE249A48-D005-4A88-B09D-B068641A65DD.jpg?v=1745490204",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/A2027171-F40C-4A9E-891C-805D5D5752F3.jpg?v=1745490204"
+      ],
+      "description": "women 100% handcrafted leather upper & leather lining stocking pu leather fixation: zipper heel 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26,5 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 490,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-ivory-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Ivory Sabo",
+      "source_url": "https://ali-saulidi.com/products/ivory-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/74EF7FB2-1FDF-4184-8914-9444465A6BA6.jpg?v=1742813478",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/2B87E3B4-77E4-4055-96E1-D36A77E6FDF0.jpg?v=1742813478",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/524B6B6D-6602-4180-A003-2F6AE8F95D5E.jpg?v=1742813478"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 275,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-black-sabo",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Black Sabo",
+      "source_url": "https://ali-saulidi.com/products/black-sabo",
+      "gender": null,
+      "category": "sandals",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/C016A615-6BF1-49E3-9B0E-E9A36CF4FE96.jpg?v=1742721690",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/7F9BC3FC-C7E6-4C33-8C60-C3DFE9E6C0FE.jpg?v=1742721690",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/BDF8C081-7219-45BB-9C17-52F074BBADE8.jpg?v=1742721690"
+      ],
+      "description": "100% handcrafted upper: soft calf leather lining: leather 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm 42 = 27,5 cm 43 = 28 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 275,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-mirage-ankle-boots",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "Mirage Ankle Boots",
+      "source_url": "https://ali-saulidi.com/products/mirage-ankle-boots",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/58C2CA13-CBF9-44A6-89AE-42094D617A20.jpg?v=1729510005",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/71E1DCBC-EE66-47B0-9CB7-561054310BC3.jpg?v=1729510005",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/3B648D54-3270-4B87-A403-C378BB083C43.jpg?v=1729510005"
+      ],
+      "description": "women 100% handcrafted Leather upper and lining fixation: zipper heel: 10cm 35 = 22,5 cm 36 = 23,5 cm 37 = 24,5 cm 38 = 25cm 39 = 25,5 cm 40 = 26 cm 41 = 27 cm",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "USD"
+      }
+    },
+    {
+      "id": "alisaulidi-u-disc-sneakers-grey",
+      "brand": "Ali Saulidi",
+      "brand_id": "alisaulidi",
+      "name": "U Disc Sneakers Grey",
+      "source_url": "https://ali-saulidi.com/products/u-disc-sneakers-grey",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/F33BCCAB-04BE-407A-9055-20B5F491CF1E.jpg?v=1697554441",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/8B3932D6-12FF-4349-9C39-DCBE859A45DB.jpg?v=1697554441",
+        "https://cdn.shopify.com/s/files/1/2285/0079/files/73500A32-BB53-48A2-B5CC-B2A0ADD072B1.jpg?v=1696341707"
+      ],
+      "description": "women removable upper details 100% handcrafted upper: leather lining: leather fixation: laces sole: EVA",
+      "care": null,
+      "collections": [],
+      "price_foreign": {
+        "amount": 460,
+        "sale": null,
+        "currency": "USD"
+      }
+    }
+  ]
+}

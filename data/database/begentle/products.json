@@ -1,0 +1,3987 @@
+{
+  "_meta": {
+    "brand": "BEGENTLE",
+    "brand_id": "begentle",
+    "site": "https://begentle.ua",
+    "extracted_at": "2026-11-17",
+    "mode": "sitemap-products (partial: site throttled)",
+    "count": 104
+  },
+  "products": [
+    {
+      "id": "begentle-karamelnyj-fakturnyj-svetr-iz-vysokym-komirom-ta-blyskavkoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Карамельний фактурний светр із високим коміром та блискавкою",
+      "source_url": "https://begentle.ua/product/karamelnyj-fakturnyj-svetr-iz-vysokym-komirom-ta-blyskavkoyu/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman2634.webp"
+      ],
+      "description": "Колір: Карамельний Комір: Високий комір із блискавкою Крій: Вільний крій, окантовка в рубчик знизу та на рукавах Виробництво: Україна Догляд: Ручне Прання До 30º Склад: 38% вовна / 30% поліамід / 10% шеніл / 22% акрил Розмір моделі: М",
+      "care": "Ручне Прання До 30º Склад: 38% вовна / 30% поліамід / 10% шеніл / 22% акрил Розмір моделі: М",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-mokko-dvobortne-palto-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Мокко двобортне пальто з вовною",
+      "source_url": "https://begentle.ua/product/mokko-dvobortne-palto-z-vovny/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "price_uah": 10290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman0489.webp"
+      ],
+      "description": "Колір: Мокко Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Чотири ґудзики, Крій: Прямий крій Розріз: Ззаду внизу Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale",
+        "Верхній одяг",
+        "Пальто"
+      ]
+    },
+    {
+      "id": "begentle-siro-chornyj-dvostronnij-bomber-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сіро-чорний двостронній бомбер з вовною",
+      "source_url": "https://begentle.ua/product/siro-chornyj-dvostronnij-bomber-z-vovny/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "price_uah": 8990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman1819.webp"
+      ],
+      "description": "Колір: Сіро-чорний Кишені: (зовнішні) чотири кишені бокові кишені Застібка: Двонаправлена блискавка, Крій: Еластичний манжети знизу та на рукавах Виробництво: Україна Догляд: Суха чистка Склад: 40% вовна / 60% поліестер Розмір моделі: 50",
+      "care": "Суха чистка Склад: 40% вовна / 60% поліестер Розмір моделі: 50",
+      "collections": [
+        "Sale",
+        "Верхній одяг",
+        "Бомбери"
+      ]
+    },
+    {
+      "id": "begentle-karamelne-palto-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Карамельне пальто з вовною",
+      "source_url": "https://begentle.ua/product/karamelne-palto-z-vovny/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "price_uah": 10290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman0057.webp"
+      ],
+      "description": "Колір: Карамельний Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Три ґудзики Крій: Прямий крій Розріз: ззаду внизу Виробництво: Україна Догляд: Суха чистка Склад: 85% вовна / 15% поліестер Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 85% вовна / 15% поліестер Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale",
+        "Верхній одяг",
+        "Пальто"
+      ]
+    },
+    {
+      "id": "begentle-zelenyj-vodolazka-z-vovnoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Зелена водолазка з вовною",
+      "source_url": "https://begentle.ua/product/zelenyj-vodolazka-z-vovnoyu/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman2780.webp"
+      ],
+      "description": "Колір: Зелений Комір: Високий еластичний Декор: Окантовка в рубчик знизу та на рукавах Виробництво: Україна Догляд: Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "care": "Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "collections": [
+        "Sale",
+        "Водолазки"
+      ]
+    },
+    {
+      "id": "begentle-korychnevyj-vodolazka-z-vovnoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Коричнева водолазка з вовною",
+      "source_url": "https://begentle.ua/product/korychnevyj-vodolazka-z-vovnoyu/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman1742.webp"
+      ],
+      "description": "Колір: Коричневий Комір: Високий еластичний Декор: Окантовка в рубчик знизу та на рукавах Виробництво: Україна Догляд: Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "care": "Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "collections": [
+        "Sale",
+        "Водолазки"
+      ]
+    },
+    {
+      "id": "begentle-mokko-vodolazka-z-vovnoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Мокко водолазка з вовною",
+      "source_url": "https://begentle.ua/product/mokko-vodolazka-z-vovnoyu/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman1601.webp"
+      ],
+      "description": "Колір: Мокко Комір: Високий еластичний Декор: Окантовка в рубчик знизу та на рукавах Виробництво: Україна Догляд: Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "care": "Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "collections": [
+        "Sale",
+        "Водолазки"
+      ]
+    },
+    {
+      "id": "begentle-molochnyj-vodolazka-z-vovnoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Молочна водолазка з вовною",
+      "source_url": "https://begentle.ua/product/molochnyj-vodolazka-z-vovnoyu/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman1974-1.webp"
+      ],
+      "description": "Колір: Молочний Комір: Високий еластичний Декор: Окантовка в рубчик знизу та на рукавах Виробництво: Україна Догляд: Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "care": "Ручне Прання До 30º Склад: 70% акрил / 30% вовна Розмір моделі: М",
+      "collections": [
+        "Sale",
+        "Водолазки"
+      ]
+    },
+    {
+      "id": "begentle-indygo-zavuzheni-do-nyzu-dzhynsy-z-varenym-efektom",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Індиго завужені до низу джинси з вареним ефектом",
+      "source_url": "https://begentle.ua/product/indygo-zavuzheni-do-nyzu-dzhynsy-z-varenym-efektom/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman1742.webp"
+      ],
+      "description": "Колір: Індиго Кишені: П'ять кишень Застібка: Блискавка, ґудзик Крій: Завужений до низу крій Виробництво: Україна Догляд: Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "care": "Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "collections": [
+        "Sale",
+        "Джинси"
+      ]
+    },
+    {
+      "id": "begentle-svitli-zavuzheni-do-nyzu-dzhynsy",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Світлі завужені до низу джинси",
+      "source_url": "https://begentle.ua/product/svitli-zavuzheni-do-nyzu-dzhynsy/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman2403-1.webp"
+      ],
+      "description": "Колір: Індиго Кишені: П'ять кишень Застібка: Блискавка, ґудзик Крій: Завужений до низу крій Виробництво: Україна Догляд: Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "care": "Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "collections": [
+        "Sale",
+        "Джинси"
+      ]
+    },
+    {
+      "id": "begentle-temni-zavuzheni-do-nyzu-dzhynsy",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Темні завужені до низу джинси",
+      "source_url": "https://begentle.ua/product/temni-zavuzheni-do-nyzu-dzhynsy/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/11/begentleman2634-1.webp"
+      ],
+      "description": "Колір: Індиго Кишені: П'ять кишень Застібка: Блискавка, ґудзик Крій: Завужений до низу крій Виробництво: Україна Догляд: Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "care": "Прання До 30º Склад: 98% бавовна / 2% еластан Розмір моделі: 31",
+      "collections": [
+        "Sale",
+        "Джинси"
+      ]
+    },
+    {
+      "id": "begentle-chornyj-kostyum-trijka-u-dribnu-czyatku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною чорний з вкрапленням",
+      "source_url": "https://begentle.ua/product/chornyj-kostyum-trijka-u-dribnu-czyatku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 10590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/chornyj-kostyum-trijka-u-dribnu-czyatku-z-vovny-1.jpg"
+      ],
+      "description": "Колір Чорний у дрібну цятку Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siryj-kostyum-trijka-u-korychnevu-smuzhku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною сірий в смужку",
+      "source_url": "https://begentle.ua/product/siryj-kostyum-trijka-u-korychnevu-smuzhku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 9990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/begentle28.1014773-copy.webp"
+      ],
+      "description": "Колір Сірий у коричневу смужку Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siryj-kostyum-trijka-u-dribnu-czyatku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною сірий з вкрапленнями",
+      "source_url": "https://begentle.ua/product/siryj-kostyum-trijka-u-dribnu-czyatku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 10590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/begentle28.1014803-copy.webp"
+      ],
+      "description": "Колір Сірий у дрібну цятку Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-fioletovyj-kostyum-trijka-mono-laczkan-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною фіолетовий",
+      "source_url": "https://begentle.ua/product/fioletovyj-kostyum-trijka-mono-laczkan-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 9990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/begentle28.1014827-copy.webp"
+      ],
+      "description": "Колір Фіолетовий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-synij-kostyum-trijka-u-dribnu-czyatku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною синій з вкрапленнями",
+      "source_url": "https://begentle.ua/product/synij-kostyum-trijka-u-dribnu-czyatku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 10590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/begentle28.1014815-copy.webp"
+      ],
+      "description": "Колір Синій у дрібну цятку Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-bezh-yalynka",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною теракотовий фактурний",
+      "source_url": "https://begentle.ua/product/bezh-yalynka/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/begentle28.1014784-copy.webp"
+      ],
+      "description": "Колір: Бежевий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-synij-kostyum-v-bilu-smuzhku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною синій в смужку",
+      "source_url": "https://begentle.ua/product/synij-kostyum-v-bilu-smuzhku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/d677f4e8-ee91-4936-b78e-746dae590067.jpeg"
+      ],
+      "description": "Колір: Синій в білу смужку Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-synij-kostyum-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною блакитний фактурний",
+      "source_url": "https://begentle.ua/product/synij-kostyum-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/b8da197a-4039-4716-8afa-4b1bfb10b739.jpeg"
+      ],
+      "description": "Колір: синій Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-synij-kostyum-trijka-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною блакитний в клітинку",
+      "source_url": "https://begentle.ua/product/synij-kostyum-trijka-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/blakytnyj-v-klitynku-kostyum-trijka-z-vovny-1.jpg"
+      ],
+      "description": "Колір: синій Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siryj-dvobortnyj-kostyum-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий двобортний костюм з вовною сірий",
+      "source_url": "https://begentle.ua/product/siryj-dvobortnyj-kostyum-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 7590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/dsc_1989-scaled.jpg"
+      ],
+      "description": "Колір: Сірий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siryj-kostyum-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною сірий фактурний",
+      "source_url": "https://begentle.ua/product/siryj-kostyum-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/b213920d-9fca-473c-89f1-93fa4aba4327.jpeg"
+      ],
+      "description": "Колір: Сірий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siryj-kostyum-trijjka-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною сірий в клітинку",
+      "source_url": "https://begentle.ua/product/siryj-kostyum-trijjka-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/siryj-v-klitynku-kostyum-trijka-z-vovny-1.jpg"
+      ],
+      "description": "Колір: Сірий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-terakotovyj-kostyum-v-smuzhku-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чоловічий костюм-трійка з вовною коричневий в клітинку",
+      "source_url": "https://begentle.ua/product/terakotovyj-kostyum-v-smuzhku-z-vovny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 8490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/dsc_1866-scaled.jpg"
+      ],
+      "description": "Колір: Теракотовий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-blakytnyj-pidzhak-tensel",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Блакитний піджак з тенселю",
+      "source_url": "https://begentle.ua/product/blakytnyj-pidzhak-tensel/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 3590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3644.jpg"
+      ],
+      "description": "Колір Блакитний Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 100% тенсель Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 100% тенсель Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-olyvkovyj-pidzhak-tensel",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Фісташковий піджак з тенселю",
+      "source_url": "https://begentle.ua/product/olyvkovyj-pidzhak-tensel/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 3590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3582.jpg"
+      ],
+      "description": "Колір Оливковий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 100% тенсель Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 100% тенсель Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-pisochnyj-pidzhak",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Бежевий піджак",
+      "source_url": "https://begentle.ua/product/pisochnyj-pidzhak/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3759.jpg"
+      ],
+      "description": "Колір Пісочний Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% шерсть, 28% віскоза, 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 70% шерсть, 28% віскоза, 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-temno-siryj-pidzhak-z-vovny",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Графітовий піджак з вовною",
+      "source_url": "https://begentle.ua/product/temno-siryj-pidzhak-z-vovny/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3779.jpg"
+      ],
+      "description": "Колір Темно-сірий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Догляд: Суха чистка Склад: 70% шерсть, 28% віскоза, 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 70% шерсть, 28% віскоза, 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-krosivky-shkiryani-zi-vstavkamy-terakotovi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Кросівки шкіряні зі вставками теракотові",
+      "source_url": "https://begentle.ua/product/krosivky-shkiryani-zi-vstavkamy-terakotovi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 6290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/10/frame-23.webp"
+      ],
+      "description": "• Натуральна замша та шкіра • Усередині: текстиль • Легка рифлена підошва EVA • Класична шнурівка • Колір: коричнево-білий",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-krosivky-shkiryani-zi-vstavkamy-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Кросівки шкіряні зі вставками чорні",
+      "source_url": "https://begentle.ua/product/krosivky-shkiryani-zi-vstavkamy-chorni/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 6290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/10/frame-24.webp"
+      ],
+      "description": "• Натуральна замша та шкіра • Усередині: текстиль • Легка рифлена підошва EVA • Класична шнурівка • Чорно-білий",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-siri-espadrylyi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сірі Еспадрильї",
+      "source_url": "https://begentle.ua/product/siri-espadrylyi/",
+      "gender": "male",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 3490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/08/dsc_5376.webp"
+      ],
+      "description": "Колір : Сірий Виробництво : Україна Висота підбора : 2 см Догляд : Спеціалізована чистка Підошва : Каучук, Джут Внутрішнє оздоблення : Замша, Джут Склад : Замша Устілка : Джут Розмір на моделі : 44",
+      "care": "Спеціалізована чистка Підошва : Каучук, Джут Внутрішнє оздоблення : Замша, Джут Склад : Замша Устілка : Джут Розмір на моделі : 44",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-chorni-derbi-iz-rezynkoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чорні з резиновими вставками дербі",
+      "source_url": "https://begentle.ua/product/chorni-derbi-iz-rezynkoyu/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 4590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3856.jpg"
+      ],
+      "description": "Колір : Чорний Виробництво : Україна Застібка : Шнурівка Декор : Резинка Висота підбора : 3 см Догляд : Спеціалізована чистка Підошва : Шкіра / інші матеріали Внутрішнє оздоблення : Шкіра Склад : Шкіра Устілка : Шкіра Розмір на моделі : 44",
+      "care": "Спеціалізована чистка Підошва : Шкіра / інші матеріали Внутрішнє оздоблення : Шкіра Склад : Шкіра Устілка : Шкіра Розмір на моделі : 44",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-llyani-iz-zashhypamy-bezhevi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою лляні із защипами бежеві",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-llyani-iz-zashhypamy-bezhevi/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311986-copy-2.webp"
+      ],
+      "description": "Колір: Молочний Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій: Прямий Виробництво: Україна Склад: 100% льон Розмір моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Sale",
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-chorni-lofery-iz-rezynkoyu-na-zashhepi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чорні з защіпом лофери",
+      "source_url": "https://begentle.ua/product/chorni-lofery-iz-rezynkoyu-na-zashhepi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 4590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3869.jpg"
+      ],
+      "description": "Колір : Чорний Виробництво : Україна Декор : Защіп на резинці Висота підбора : 3 см Догляд : Спеціалізована чистка Підошва : Шкіра / інші матеріали Внутрішнє оздоблення : Шкіра Склад : Шкіра Устілка : Шкіра Розмір на моделі : 44",
+      "care": "Спеціалізована чистка Підошва : Шкіра / інші матеріали Внутрішнє оздоблення : Шкіра Склад : Шкіра Устілка : Шкіра Розмір на моделі : 44",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-llyani-iz-zashhypamy-molochni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою лляні із защипами білі",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-llyani-iz-zashhypamy-molochni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311473-copy-2.webp"
+      ],
+      "description": "Колір: Білий Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій: Прямий Виробництво: Україна Склад: 100% льон Розмір моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Sale",
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-syni-shtany-iz-zashhipamy-z-vovnoyu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сині штани із защіпами з вовною",
+      "source_url": "https://begentle.ua/product/syni-shtany-iz-zashhipamy-z-vovnoyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2024/06/0406e24743.webp"
+      ],
+      "description": "Колір: Синій Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Декор: Із защіпами спереду. Накладний клапан спереду на поясі Крій: Завужений до низу крій. Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 48",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 48",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-asfaltni-shtany-kargo",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Графітові штани карго",
+      "source_url": "https://begentle.ua/product/asfaltni-shtany-kargo/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc06715.webp"
+      ],
+      "description": "Колір: Асфальт Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 3 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду, дві кишені з клапанами по боках Склад: 70% вовна, 28% віскоза, 2% еластан Розмір на моделі: 50 Зріст: 185",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 3 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду, дві кишені з клапанами по боках Склад: 70% вовна, 28% віскоза, 2% еластан Розмір на моделі: 50 Зріст: 185",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-chorni-shtany-kargo",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чорні штани карго",
+      "source_url": "https://begentle.ua/product/chorni-shtany-kargo/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc06720.webp"
+      ],
+      "description": "Колір: Чорний Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 3 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду, дві кишені з клапанами по боках Склад: 70% вовна, 28% віскоза, 2% еластан Розмір на моделі: 50 Зріст: 185",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 3 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду, дві кишені з клапанами по боках Склад: 70% вовна, 28% віскоза, 2% еластан Розмір на моделі: 50 Зріст: 185",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-korychneva-bavovnyana-futbolka-2",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Коричнева бавовняна футболка",
+      "source_url": "https://begentle.ua/product/korychneva-bavovnyana-futbolka-2/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0753-copy-1.webp"
+      ],
+      "description": "Крій: Regular Fit Виробництво: Україна Догляд: Ручне або машинне прання Склад: 100% бавовна Розмір моделі: S",
+      "care": "Ручне або машинне прання Склад: 100% бавовна Розмір моделі: S",
+      "collections": [
+        "Sale",
+        "Футболки"
+      ]
+    },
+    {
+      "id": "begentle-bezheva-futbolka-bavovnyana",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Бежева футболка бавовняна",
+      "source_url": "https://begentle.ua/product/bezheva-futbolka-bavovnyana/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2024/04/9-1.webp"
+      ],
+      "description": "Крій: Regular Fit Виробництво: Туреччина Догляд: Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 95% бавовна, 5% еластан Розмір моделі: L",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 95% бавовна, 5% еластан Розмір моделі: L",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-teksturovana-sorochka-polo-synya",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Текстурована сорочка-поло синя",
+      "source_url": "https://begentle.ua/product/teksturovana-sorochka-polo-synya/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2024/04/5-1-e1714384205803.webp"
+      ],
+      "description": "Футболка-поло з класичним коміром і короткими рукавами Колір: Синій Крій:Slim Fit Виробництво: Туреччина Догляд: Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 50 % бавовна,50% поліестер Розмір моделі: L",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 50 % бавовна,50% поліестер Розмір моделі: L",
+      "collections": [
+        "Sale",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-trykotazhna-sorochka-polo-bila",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Трикотажна сорочка-поло біла",
+      "source_url": "https://begentle.ua/product/trykotazhna-sorochka-polo-bila/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2024/04/8-1-e1714384112349.webp"
+      ],
+      "description": "Сорочка з коміром-поло та короткими рукавами. Застібається на ґудзики спереду. Колір: Біла Крій:Slim Fit Виробництво: Туреччина Догляд: Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 50 % бавовна,50% поліестер Розмір моделі: L",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 50 % бавовна,50% поліестер Розмір моделі: L",
+      "collections": [
+        "Sale",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-fakturna-trykotazhna-sorochka-polo",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Фактурна трикотажна сорочка-поло",
+      "source_url": "https://begentle.ua/product/fakturna-trykotazhna-sorochka-polo/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 2850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2024/04/6-1.webp"
+      ],
+      "description": "Сорочка зі штапельної бавовни з коміром-поло та короткими рукавами. Застібається на ґудзики спереду. Окантовка в рубчик по краях. Колір: Чорний Крій: Regular Fit Виробництво: Туреччина Догляд: Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 100 % бавовна Розмір моделі: L",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад: 100 % бавовна Розмір моделі: L",
+      "collections": [
+        "Sale",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-futbolka-bezheva",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Бежева футболка",
+      "source_url": "https://begentle.ua/product/futbolka-bezheva/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3736.jpg"
+      ],
+      "description": "Колір Бежевий Крій: Slim Fit Виробництво: Україна Догляд: Ручне прання Склад: 50% Район, 50% Віскоза Розмір моделі: М",
+      "care": "Ручне прання Склад: 50% Район, 50% Віскоза Розмір моделі: М",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-futbolka-polo-sira",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сіра футболка поло",
+      "source_url": "https://begentle.ua/product/futbolka-polo-sira/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2023/05/dsc_3513.jpg"
+      ],
+      "description": "Колір Сірий Крій: Slim Fit Виробництво: Україна Догляд: Ручне прання Склад: 50% Район, 50% Віскоза Розмір моделі: М",
+      "care": "Ручне прання Склад: 50% Район, 50% Віскоза Розмір моделі: М",
+      "collections": [
+        "Sale",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-teksturovana-sorochka-polo-chorna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Текстурована сорочка - поло чорна",
+      "source_url": "https://begentle.ua/product/teksturovana-sorochka-polo-chorna/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0494-copy.webp"
+      ],
+      "description": "Футболка-поло з класичним коміром і короткими рукавами Колір: Чорний Крій: Slim Fit Виробництво: Україна Догляд: Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад:100 % бавовна Розмір моделі: L",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку Склад:100 % бавовна Розмір моделі: L",
+      "collections": [
+        "Sale",
+        "Resort 2025",
+        "Футболки",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-shorty-llyani-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Шорти лляні чорні",
+      "source_url": "https://begentle.ua/product/shorty-llyani-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0524-copy.webp"
+      ],
+      "description": "Колір: Чорний Виробництво: Україна Догляд: Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "care": "Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "collections": [
+        "Sale",
+        "Шорти"
+      ]
+    },
+    {
+      "id": "begentle-shorty-llyani-korychnevi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Шорти лляні коричневі",
+      "source_url": "https://begentle.ua/product/shorty-llyani-korychnevi/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0599-copy-1.webp"
+      ],
+      "description": "Колір: Коричневий Виробництво: Україна Догляд: Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "care": "Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "collections": [
+        "Sale",
+        "Шорти"
+      ]
+    },
+    {
+      "id": "begentle-shorty-llyani-olyvkovi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Шорти лляні оливкові",
+      "source_url": "https://begentle.ua/product/shorty-llyani-olyvkovi/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0558-copy.webp"
+      ],
+      "description": "Колір: Оливковий Виробництво: Україна Догляд: Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "care": "Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "collections": [
+        "Sale",
+        "Шорти"
+      ]
+    },
+    {
+      "id": "begentle-olyvkova-sorochka-z-korotkym-rukavom",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Оливкова сорочка з коротким рукавом",
+      "source_url": "https://begentle.ua/product/olyvkova-sorochka-z-korotkym-rukavom/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0558-copy.webp"
+      ],
+      "description": "Колір: Оливковий Застібка: ґудзики / ґудзики Виробництво: Україна Догляд: Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "care": "Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-chorna-sorochka-z-korotkym-rukavom",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Чорна сорочка з коротким рукавом",
+      "source_url": "https://begentle.ua/product/chorna-sorochka-z-korotkym-rukavom/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 2790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0519-copy.webp"
+      ],
+      "description": "Колір: Чорний Застібка: ґудзики / ґудзики Виробництво: Україна Догляд: Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "care": "Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-bila-bavovnyana-sorochka-2",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Біла сорочка під метелик бавовняна",
+      "source_url": "https://begentle.ua/product/bila-bavovnyana-sorochka-2/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 1800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2022/11/dsc_1993-1-1.jpg"
+      ],
+      "description": "Колір: Білий Застібка: ґудзики / ґудзики Виробництво: Україна Догляд: Ручне або машинне прання, сухе чищення Склад: 95% бавовна, 5% еластан Розмір на моделі: 41 Зріст: 186 см",
+      "care": "Ручне або машинне прання, сухе чищення Склад: 95% бавовна, 5% еластан Розмір на моделі: 41 Зріст: 186 см",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-oksford-chorna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка-оксфорд чорна",
+      "source_url": "https://begentle.ua/product/sorochka-oksford-chorna/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311938-copy-2-1.webp"
+      ],
+      "description": "Колір: Чорний Застібка: ґудзики / ґудзики Довгі рукави з манжетами на ґудзиках Сорочковий комір Склад: 100% бавовна Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": []
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-na-osnovi-bavovny-iz-zashhypamy-molochni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою на основі бавовни із защипами молочні",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-na-osnovi-bavovny-iz-zashhypamy-molochni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311938-copy-2.webp"
+      ],
+      "description": "Колір: Молочний Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій: Прямий Виробництво: Україна Склад: 70% бавовна 30% поліестр Розмір на моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-sira-zi-100-go-italijskogo-lonu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка сіра зі 100%-го італійського льону",
+      "source_url": "https://begentle.ua/product/sorochka-sira-zi-100-go-italijskogo-lonu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311414-copy-2-1.webp"
+      ],
+      "description": "Сорочка зі 100%-го італійського льону. Довгі рукави з манжетами на ґудзиках. Сорочковий комір. Колір сірий Застібається на ґудзики спереду. Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-trykotazhna-sorochka-polo-zelena",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Трикотажна сорочка-поло зелена",
+      "source_url": "https://begentle.ua/product/trykotazhna-sorochka-polo-zelena/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311960-copy-2-1.jpg"
+      ],
+      "description": "Трикотажна сорочка-поло . Короткі рукава. Комір поло з ґудзиками. Колір Зелений Крій: Slim Fit Виробництво: Україна Склад: 65% Район, 28% Поліамід Розмір моделі: М Догляд Ручне прання",
+      "care": null,
+      "collections": [
+        "Футболки",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-oksford-blakytna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка-оксфорд блакитна",
+      "source_url": "https://begentle.ua/product/sorochka-oksford-blakytna/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311859-copy-2.webp"
+      ],
+      "description": "Колір: Блакитний Застібка: ґудзики / ґудзики Довгі рукави з манжетами на ґудзиках Сорочковий комір Одна накладна кишеня на грудях Склад: 100% бавовна Розмір на моделі: M Зріст: 185 см Догляд Догляд: Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Догляд: Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": []
+    },
+    {
+      "id": "begentle-kepka-z-logo-molochna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Кепка з лого молочна",
+      "source_url": "https://begentle.ua/product/kepka-z-logo-molochna/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311885-copy-2.webp"
+      ],
+      "description": "Склад: Зовнішня частина: Бавовна 98%, Еластан 2% Догляд Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "care": "Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "collections": [
+        "Аксесуари"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-oksford-lymonna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка-оксфорд лимонна",
+      "source_url": "https://begentle.ua/product/sorochka-oksford-lymonna/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311853-copy-2-1.webp"
+      ],
+      "description": "Колір: Жовтий Застібка: ґудзики / ґудзики Довгі рукави з манжетами на ґудзиках Сорочковий комір Одна накладна кишеня на грудях Склад: 100% бавовна Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-shtany-zavuzheni-do-nyzu-na-osnovi-vovny-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани завужені до низу на основі вовни чорні",
+      "source_url": "https://begentle.ua/product/shtany-zavuzheni-do-nyzu-na-osnovi-vovny-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/09/dsc05487.webp"
+      ],
+      "description": "Колір: Чорний Виробництво: Україна Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 70% вовна 28% віскоза 2% еластан Розмір на моделі: 50 Зріст: 184 Догляд Ручне прання, сухе чищення",
+      "care": "Ручне прання, сухе чищення",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-shtany-pryamogo-kroyu-llyani-siri",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани прямого крою лляні сірі",
+      "source_url": "https://begentle.ua/product/shtany-pryamogo-kroyu-llyani-siri/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0312031-copy-2.webp"
+      ],
+      "description": "Колір: Сірий Виробництво: Україна Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 100% льон Розмір на моделі: 50 Зріст: 184 Догляд Ручне прання, сухе чищення",
+      "care": "Ручне прання, сухе чищення",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-trykotazhna-sorochka-polo-molochna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Трикотажна сорочка-поло молочна",
+      "source_url": "https://begentle.ua/product/trykotazhna-sorochka-polo-molochna/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0312083-copy-2-1.jpg"
+      ],
+      "description": "Трикотажна сорочка-поло Короткі рукава Комір поло з ґудзиками Колір Молочний Крій: Slim Fit Виробництво: Україна Склад: 65% Район, 28% Поліамід Розмір моделі: М Догляд Ручне прання",
+      "care": null,
+      "collections": [
+        "Футболки",
+        "Поло"
+      ]
+    },
+    {
+      "id": "begentle-shtany-zavuzheni-do-nyzu-bavovnyani-molochni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани завужені до низу бавовняні молочні",
+      "source_url": "https://begentle.ua/product/shtany-zavuzheni-do-nyzu-bavovnyani-molochni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311279-copy-2.webp"
+      ],
+      "description": "Колір: Молочний Виробництво: Україна Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад:70% бавовна 30% поліестр Розмір на моделі: 50 Зріст: 184 Догляд Ручне прання, сухе чищення",
+      "care": "Ручне прання, сухе чищення",
+      "collections": []
+    },
+    {
+      "id": "begentle-sorochka-olyvkova-zi-100-go-italijskogo-lonu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка оливкова зі 100%-го італійського льону",
+      "source_url": "https://begentle.ua/product/sorochka-olyvkova-zi-100-go-italijskogo-lonu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311406-copy-2.webp",
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311406-copy-2-683x1024.webp"
+      ],
+      "description": "Сорочка зі 100%-го італійського льону. Довгі рукави з манжетами на ґудзиках. Сорочковий комір. Колір оливковий Застібається на ґудзики спереду. Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-terakotova-zi-100-go-italijskogo-lonu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка теракотова зі 100%-го італійського льону",
+      "source_url": "https://begentle.ua/product/sorochka-terakotova-zi-100-go-italijskogo-lonu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311326-copy-2-1.webp"
+      ],
+      "description": "Сорочка зі 100%-го італійського льону. Довгі рукави з манжетами на ґудзиках. Сорочковий комір. Колір теракотовий. Застібається на ґудзики спереду. Розмір на моделі: M Зріст: 185см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-blido-zhovta-zi-100-go-italijskogo-lonu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка блідо-жовта зі 100%-го італійського льону",
+      "source_url": "https://begentle.ua/product/sorochka-blido-zhovta-zi-100-go-italijskogo-lonu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311279-copy-2-1.webp"
+      ],
+      "description": "Сорочка зі 100%-го італійського льону. Довгі рукави з манжетами на ґудзиках. Сорочковий комір. Колір блідо-жовтий. Застібається на ґудзики спереду. Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-sorochka-bila-zi-100-go-italijskogo-lonu",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сорочка біла зі 100%-го італійського льону",
+      "source_url": "https://begentle.ua/product/sorochka-bila-zi-100-go-italijskogo-lonu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311473-copy-2-1.webp"
+      ],
+      "description": "Сорочка зі 100%-го італійського льону. Довгі рукави з манжетами на ґудзиках. Сорочковий комір. Колір білий Застібається на ґудзики спереду. Розмір на моделі: M Зріст: 185 см Догляд Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "care": "Делікатне Машинне Прання До 30 ºc (86 ºf) Не Відбілювати Прасування До 110 ºc (230 ºf) Не Сушити В Сушарці Хімчистка Тетрахлоретиленом",
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-siri",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою на основі вовни із защипами сірі",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-siri/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014517-copy-2.webp"
+      ],
+      "description": "Колір: Сірий Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій: Прямий Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-kopiyakepka-z-logo-chorna",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Кепка з лого чорна",
+      "source_url": "https://begentle.ua/product/kopiyakepka-z-logo-chorna/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014714-copy.webp"
+      ],
+      "description": "Склад: Зовнішня частина: Бавовна 98%, Еластан 2%. Догляд: Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "care": "Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "collections": [
+        "Аксесуари"
+      ]
+    },
+    {
+      "id": "begentle-palto-z-vovnoyu-vilnogo-kroyu-chorne",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Пальто з вовною вільного крою чорне",
+      "source_url": "https://begentle.ua/product/palto-z-vovnoyu-vilnogo-kroyu-chorne/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "price_uah": 15800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014541-copy.webp"
+      ],
+      "description": "Колір: Чорний Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Чотири ґудзики, Крій: Вільний крій. Розріз: Ззаду внизу Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Верхній одяг",
+        "Пальто"
+      ]
+    },
+    {
+      "id": "begentle-palto-z-vovnoyu-vilnogo-kroyu-bezheve",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Пальто з вовною вільного крою бежеве",
+      "source_url": "https://begentle.ua/product/palto-z-vovnoyu-vilnogo-kroyu-bezheve/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "price_uah": 15800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014446-copy.webp"
+      ],
+      "description": "Колір: Бежевий Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Чотири ґудзики, Крій: Вільний крій. Розріз: Ззаду внизу Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 30% віскоза Підкладка: 100% віскоза Розмір моделі: 50",
+      "collections": [
+        "Верхній одяг",
+        "Пальто"
+      ]
+    },
+    {
+      "id": "begentle-shtany-chinosy-pryamogo-kroyu-haki",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани-чіноси прямого крою хакі",
+      "source_url": "https://begentle.ua/product/shtany-chinosy-pryamogo-kroyu-haki/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014635-copy.webp"
+      ],
+      "description": "Колір: Оливковий Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: еластан Розмір на моделі: 50 Зріст: 187",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: еластан Розмір на моделі: 50 Зріст: 187",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-shtany-chinosy-pryamogo-kroyu-korychnevi",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани-чіноси прямого крою коричневі",
+      "source_url": "https://begentle.ua/product/shtany-chinosy-pryamogo-kroyu-korychnevi/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014601-copy.webp"
+      ],
+      "description": "Колір: Коричневий Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 58% модал 39% котон 3% еластан Розмір на моделі: 50 Зріст: 184",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 58% модал 39% котон 3% еластан Розмір на моделі: 50 Зріст: 184",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-shtany-chinosy-pryamogo-kroyu-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани-чіноси прямого крою чорні",
+      "source_url": "https://begentle.ua/product/shtany-chinosy-pryamogo-kroyu-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014678-copy.webp"
+      ],
+      "description": "Колір: Оливковий Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад еластан Розмір на моделі: 50 Зріст: 187",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад еластан Розмір на моделі: 50 Зріст: 187",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою на основі вовни із защипами чорні",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014565-copy-1.webp"
+      ],
+      "description": "Колір: Чорний Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій: Прямий Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-shokoladni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани вільного крою на основі вовни із защипами шоколадні",
+      "source_url": "https://begentle.ua/product/shtany-vilnogo-kroyu-na-osnovi-vovny-iz-zashhypamy-shokoladni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014729-copy.webp"
+      ],
+      "description": "Колір: Шоколадний Кишені: Дві бічні кишені, дві кишені ззаду Застібка: Блискавка, три ґудзики Крій:Прямий Виробництво: Україна Догляд: Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "care": "Суха чистка Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50",
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-dvobortnyj-light-beige",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм двобортний Light beige",
+      "source_url": "https://begentle.ua/product/kostyum-dvobortnyj-light-beige/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 16490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014406-copy.webp"
+      ],
+      "description": "Колір: Бежевий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Догляд: Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": []
+    },
+    {
+      "id": "begentle-kepka-z-logo-olyvkova-vyvarena",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Кепка з лого оливкова виварена",
+      "source_url": "https://begentle.ua/product/kepka-z-logo-olyvkova-vyvarena/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/frame-3.webp"
+      ],
+      "description": "Склад: Зовнішня частина Бавовна 98%, Еластан 2%. Догляд: Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "care": "Ручне Прання До 30 ºc (86 ºf) Не Відбілювати Не Прасувати Не Використовувати Хімчистку Не Сушити В Сушарці",
+      "collections": []
+    },
+    {
+      "id": "begentle-kopiyakostyum-dvobortnyj-shadow-grey",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм двобортний Shadow grey",
+      "source_url": "https://begentle.ua/product/kopiyakostyum-dvobortnyj-shadow-grey/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 16490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/11/begentle28.1014370-copy.webp"
+      ],
+      "description": "Колір: Сірий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Догляд: Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "care": "Суха чистка Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52",
+      "collections": []
+    },
+    {
+      "id": "begentle-kostyum-trijka-zi-100-shersti-chornogo-koloru",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка зі 100% шерсті чорного кольору",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-zi-100-shersti-chornogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 18490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0310985-2.webp"
+      ],
+      "description": "Костюм-трійка Колір: Чорний Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 98 вовна / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-trijka-cocoa-brown-2",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Cocoa brown",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-cocoa-brown-2/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311760-2.webp"
+      ],
+      "description": "Теплий коричневий із м’якою глибиною. Альтернатива класичним темним відтінкам — виглядає свіжо, але зберігає статусність. Добре поєднується: молочний, беж, чорний Куди: щодень, зустрічі, smart casual Колір коричневий. Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-sand-stripe-double-dvobortnyj-bezh-v-smuzhku",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм Sand Stripe Double двобортний беж в смужку",
+      "source_url": "https://begentle.ua/product/kostyum-sand-stripe-double-dvobortnyj-bezh-v-smuzhku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "пісочний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 17490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0310910-2.webp"
+      ],
+      "description": "Колір: Бежевий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Склад: 98%вовна / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-cocoa-brown-double-dvobortnyj-korychnevyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм Cocoa Brown Double двобортний коричневий",
+      "source_url": "https://begentle.ua/product/kostyum-cocoa-brown-double-dvobortnyj-korychnevyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311493-2.webp"
+      ],
+      "description": "Колір: Коричневий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-roast-double-dvobortnyj-mokka",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм Roast Double двобортний мокка",
+      "source_url": "https://begentle.ua/product/kostyum-roast-double-dvobortnyj-mokka/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311208-2.webp"
+      ],
+      "description": "Колір: Мокка Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-obsidian-double-dvobortnyj-chornyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм Obsidian Double двобортний чорний",
+      "source_url": "https://begentle.ua/product/kostyum-obsidian-double-dvobortnyj-chornyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311086-2-2.webp"
+      ],
+      "description": "Колір: Чорний Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Relaxed Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-trijka-obsidian-black",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Obsidian Black",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-obsidian-black/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311701-2.webp"
+      ],
+      "description": "Глибокий чорний із м’яким відтінком. Базовий костюм, який виглядає сучасно і дорого. Добре поєднується: все Куди: події, класика, універсальноКишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластанПідкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "begentle-kostyum-trijka-coffee-dust",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Coffee Dust",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-coffee-dust/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311793-2.webp"
+      ],
+      "description": "М’який коричневий із припиленим ефектом. Розслаблений варіант мокко для більш casual образів. Добре поєднується: беж, молочний, сірий Куди: щодень, теплий сезонКишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластанПідкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Костюми"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-trijka-classie-mocha-zi-100-shersti",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Classie Mocha зі 100% шерсті",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-classie-mocha-zi-100-shersti/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 18490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311818-2.webp"
+      ],
+      "description": "Збалансований мокко — теплий і універсальний. Ідеальна база для щоденного гардеробу. Добре поєднується: молочний, чорний, беж Куди: офіс, щоденьКишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 100% вовна Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "begentle-longsliv-bilyj-prytalenyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Лонгслів білий приталений",
+      "source_url": "https://begentle.ua/product/longsliv-bilyj-prytalenyj/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 2750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311931-copy-2.webp"
+      ],
+      "description": "Крій: Slim Fit Виробництво: Україна Склад: 100% бавовна Тканина: стокова тканина з колекцій Balenciaga Розмір моделі: M Догляд Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку",
+      "care": "Ручне або машинне прання Машинне прання при макс. 30 ºC із коротким циклом віджимання Не можна використовувати лужні засоби / відбілювач Прасування при макс. 110 ºC Не використовувати сушарку",
+      "collections": [
+        "Водолазки"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-trijka-cream-beige",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Cream Beige",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-cream-beige/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "кремовий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311602-2.webp"
+      ],
+      "description": "Світлий кремовий беж із чистим відтінком. Легкий, свіжий і універсальний варіант для теплої пори. Добре поєднується: коричневий, оливковий, білий Куди: весна/літо, події. Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 70%вовна / 28% віскоза / 2% еластан Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "begentle-kostyum-trijka-deep-moss-zi-100-shersti",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Deep Moss зі 100% шерсті",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-deep-moss-zi-100-shersti/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 18490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311722-2.webp"
+      ],
+      "description": "Насичений зелений із природною глибиною. Більш виразний варіант оливкової палітри, що додає характеру образу. Добре поєднується: молочний, чорний, беж Куди: smart casual, вечірКишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 100%вовна Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "begentle-pidzhak-vilnogo-kroyu-siryj-v-smuzhku",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Піджак вільного крою сірий в смужку",
+      "source_url": "https://begentle.ua/product/pidzhak-vilnogo-kroyu-siryj-v-smuzhku/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "72"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110717.avif"
+      ],
+      "description": "Колір: Сірий Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Два ґудзики Декор: Манжети з чотирма ґудзиками Крій: Вільний крій. Дві шліци ззаду Виробництво: Україна Склад: 100% вовна Розмір моделі: 50",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-trijka-shadow-olive-zi-100-shersti",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм-трійка Shadow Olive зі 100% шерсті",
+      "source_url": "https://begentle.ua/product/kostyum-trijka-shadow-olive-zi-100-shersti/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 18490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/04/bg31.0311523-2.webp"
+      ],
+      "description": "Темна оливка з глибоким відтінком. Стриманий, але нетривіальний варіант для тих, хто хоче відійти від класики. Добре поєднується: беж, коричневий, білий Куди: офіс, щодень, події Колір оливковий Кишені (зовнішні): Нагрудна кишеня , дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Slim Fit Виробництво: Україна Склад: 100%вовна Підкладка: 100% віскоза Розмір моделі: 52 Догляд Суха чистка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "begentle-pidzhak-vilnogo-kroyu-siryj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Піджак вільного крою сірий",
+      "source_url": "https://begentle.ua/product/pidzhak-vilnogo-kroyu-siryj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66",
+        "68",
+        "70",
+        "72"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110371.avif"
+      ],
+      "description": "Колір: Сірий Кишені: (зовнішні) дві бокові кишені, (внутрішні) дві кишені Застібка: Два ґудзики Декор: Манжети з чотирма ґудзиками Крій: Вільний крій. Дві шліци ззаду Виробництво: Україна Склад: 100% вовна Розмір моделі: 50",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "begentle-trykotazhnyj-svetr-iz-kruglym-vyrizom-temno-siryj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Трикотажний светр із круглим вирізом темно-сірий",
+      "source_url": "https://begentle.ua/product/trykotazhnyj-svetr-iz-kruglym-vyrizom-temno-siryj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 4500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110216.avif"
+      ],
+      "description": "Колір: Темно-сірий Комір: Круглий Крій: Вільний крій, окантовка в рубчик знизу та на рукавах Виробництво: Україна Склад: 60% вовна 25% віскоза 15% поліамід Серед светрів немає більш універсальних, ніж класичний джемпер з круглим вирізом. Цей джемпер оверсайзного крою зі спущеними плечима та вільними рукавами. Він створений із тактильно м'якої вовни та перероблених волокон, які зігріють вас у холодну пору. Догляд Ручне прання до 30 ºc (86 ºf), не відбілювати, прасування до 110 ºc (230 ºf), не сушити в сушарці.",
+      "care": "Ручне прання до 30 ºc (86 ºf), не відбілювати, прасування до 110 ºc (230 ºf), не сушити в сушарці.",
+      "collections": [
+        "Нові надходження",
+        "Трикотаж",
+        "Светри"
+      ]
+    },
+    {
+      "id": "begentle-odnobortnyj-pidzhak-svitlo-bezhevyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Однобортний піджак світло-бежевий",
+      "source_url": "https://begentle.ua/product/odnobortnyj-pidzhak-svitlo-bezhevyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 9600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110317.avif"
+      ],
+      "description": "Світло-бежевий чоловічий піджак із делікатною фактурою тканини. Класичні лацкани, застібка на два ґудзики та накладні кишені формують стриманий силует. Універсальний відтінок дозволяє поєднувати піджак із класичними штанами, сорочками, поло та трикотажем. Підходить для ділових і повсякденних образів у стилі smart casual. Колір: Світло-бежевий Кишені: (зовнішні) дві накладні кишені, (внутрішні) дві кишені Застібка: Два ґудзики Декор: Манжети з чотирма ґудзиками Крій: Приталений крій. Дві шліци ззаду Виробництво: Україна Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "begentle-vovnyanyj-pidzhak-siryj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Вовняний піджак сірий",
+      "source_url": "https://begentle.ua/product/vovnyanyj-pidzhak-siryj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 9600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110274.avif"
+      ],
+      "description": "Сірий чоловічий піджак із виразною фактурою тканини та лаконічним дизайном. Модель із класичними лацканами, застібкою на два ґудзики та накладними кишенями. Завдяки нейтральному відтінку легко поєднується з класичними штанами, денімом і трикотажем. Універсальна модель для сучасного чоловічого гардероба, яка поєднує елементи класичного та повсякденного стилю. Колір: Сірий Кишені: (зовнішні) дві накладні кишені, (внутрішні) дві кишені Застібка: Два ґудзики Декор: Манжети з чотирма ґудзиками Крій: Приталений крій. Дві шліци ззаду Виробництво: Україна Склад: 70% вовна / 28% віскоза / 2% еластан Розмір моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "begentle-trykotazhnyj-svetr-iz-kruglym-vyrizom-synij",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Трикотажний светр із круглим вирізом синій",
+      "source_url": "https://begentle.ua/product/trykotazhnyj-svetr-iz-kruglym-vyrizom-synij/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "price_uah": 4500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110415-1.avif"
+      ],
+      "description": "Серед светрів немає більш універсальних, ніж класичний джемпер з круглим вирізом. Цей джемпер оверсайзного крою зі спущеними плечима та вільними рукавами. Він створений із тактильно м'якої вовни та перероблених волокон, які зігріють вас у холодну пору Колір: Синій Комір: Круглий Крій: Вільний крій, окантовка в рубчик знизу та на рукавах Виробництво: Україна Склад: 60% вовна 25% віскоза 15% поліамід Догляд Ручне прання до 30 ºc (86 ºf), не відбілювати, прасування до 110 ºc (230 ºf), не сушити в сушарці",
+      "care": "Ручне прання до 30 ºc (86 ºf), не відбілювати, прасування до 110 ºc (230 ºf), не сушити в сушарці",
+      "collections": [
+        "Нові надходження",
+        "Трикотаж",
+        "Светри"
+      ]
+    },
+    {
+      "id": "begentle-pidzhak-zi-100-vovnoyu-korychnevyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Піджак зі 100% вовною коричневий",
+      "source_url": "https://begentle.ua/product/pidzhak-zi-100-vovnoyu-korychnevyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2026/11/begentle4.110451.avif"
+      ],
+      "description": "Сірий чоловічий піджак із виразною фактурою тканини та лаконічним дизайном. Модель із класичними лацканами, застібкою на два ґудзики та накладними кишенями. Завдяки нейтральному відтінку легко поєднується з класичними штанами, денімом і трикотажем. Універсальна модель для сучасного чоловічого гардероба, яка поєднує елементи класичного та повсякденного стилю. Колір: Коричневий Кишені: (зовнішні) дві накладні кишені, (внутрішні) дві кишені Застібка: Два ґудзики Декор: Манжети з чотирма ґудзиками Крій: Приталений крій. Дві шліци ззаду Виробництво: Україна Склад: 100% вовна Розмір моделі: 50 Догляд Суха чистка",
+      "care": null,
+      "collections": [
+        "Нові надходження",
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "begentle-bila-sorochka-llyana-2",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Біла сорочка лляна",
+      "source_url": "https://begentle.ua/product/bila-sorochka-llyana-2/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0355-copy-1.webp"
+      ],
+      "description": "Колір: Білий Застібка: ґудзики / ґудзики Виробництво: Україна Догляд: Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "care": "Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "collections": [
+        "Resort 2025"
+      ]
+    },
+    {
+      "id": "begentle-shtany-llyani-chorni",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Штани лляні чорні",
+      "source_url": "https://begentle.ua/product/shtany-llyani-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 3890,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0753-copy.webp"
+      ],
+      "description": "Колір: Чорний Виробництво: Україна Догляд: Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "care": "Ручне або машинне прання, сухе чищення Застібка: Блискавка, ґудзик, пояс на шнурку Кишені: Дві бічні кишені, дві кишені ззаду з одним клапаном Склад: 100%льон Розмір на моделі: 50 Зріст: 186",
+      "collections": [
+        "Resort 2025",
+        "Штани"
+      ]
+    },
+    {
+      "id": "begentle-zelena-sorochka-llyana",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Зелена сорочка лляна",
+      "source_url": "https://begentle.ua/product/zelena-sorochka-llyana/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL",
+        "5XL"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0399-copy.webp"
+      ],
+      "description": "Колір: Зелений Застібка: ґудзики / ґудзики Виробництво: Україна Догляд: Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "care": "Ручне прання, сухе чищення Склад: 100% льон Розмір на моделі: М Зріст: 185 см",
+      "collections": [
+        "Resort 2025"
+      ]
+    },
+    {
+      "id": "begentle-siri-shtany-chinosy",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Сірі штани-чіноси",
+      "source_url": "https://begentle.ua/product/siri-shtany-chinosy/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38",
+        "40",
+        "42",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 3690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0390-copy.webp"
+      ],
+      "description": "Колір: Сірий Виробництво: Україна Догляд: Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 95% бавовна, 5% еластан Розмір на моделі: 50 Зріст: 187",
+      "care": "Ручне прання, сухе чищення Застібка: Блискавка, 2 ґудзики Кишені: Дві бічні кишені, дві кишені ззаду Склад: 95% бавовна, 5% еластан Розмір на моделі: 50 Зріст: 187",
+      "collections": [
+        "Resort 2025"
+      ]
+    },
+    {
+      "id": "begentle-kostyum-llyanyj-korychnevyj",
+      "brand": "BEGENTLE",
+      "brand_id": "begentle",
+      "name": "Костюм лляний коричневий",
+      "source_url": "https://begentle.ua/product/kostyum-llyanyj-korychnevyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62",
+        "64",
+        "66"
+      ],
+      "price_uah": 15490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://begentle.ua/wp-content/uploads/2025/05/beg0908-copy.webp"
+      ],
+      "description": "Колір Коричневий Кишені (зовнішні): Нагрудна кишеня, дві бокові кишені з клапанами Кишені (внутрішні): Дві кишені Застібка: Ґудзик / ґудзик, гачок, блискавка Кишені штанів: Дві бокових кишені, дві кишені позаду з ґудзиками Декор: Англійська шліца / неаполітанський лацкан Крій: Regular Fit Виробництво: Україна Догляд: Суха чистка Склад: 100% льон Підкладка: 100% віскоза Розмір 52",
+      "care": "Суха чистка Склад: 100% льон Підкладка: 100% віскоза Розмір 52",
+      "collections": [
+        "Resort 2025"
+      ]
+    }
+  ]
+}
