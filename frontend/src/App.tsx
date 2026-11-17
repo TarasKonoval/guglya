@@ -86,7 +86,7 @@ export default function App() {
         )}
       </header>
       <Routes>
-        <Route path="/" element={<FeedPage />} />
+        <Route path="/" element={<FeedPage onFeedback={() => openFeedback("manual")} />} />
         <Route path="/outfit/:id" element={<OutfitPage />} />
         <Route path="/saved" element={<SavedPage />} />
         <Route path="/demo/:productId" element={<DemoProductPage />} />

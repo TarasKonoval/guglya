@@ -152,7 +152,7 @@ body.has-bar .fab .fab-label { display: none; }
 /* Outfit page */
 .outfit-layout { max-width: 1280px; margin: 0 auto; padding-bottom: 160px; }
 .outfit-visual { background: #ece2d4; } /* matches the cover background */
-.outfit-visual .cover { max-height: 58vh; aspect-ratio: auto; height: 58vh; object-fit: contain; margin: 0 auto; }
+.outfit-visual .cover { background: transparent; max-height: 58vh; aspect-ratio: auto; height: 58vh; object-fit: contain; margin: 0 auto; }
 .outfit-visual .collage { max-width: 420px; margin: 0 auto; aspect-ratio: 4 / 5; height: auto; }
 .outfit-panel { min-width: 0; }
 .outfit-panel-head { display: flex; align-items: center; gap: 8px; padding: 14px 8px 6px; }
@@ -233,6 +233,64 @@ body.has-bar .fab .fab-label { display: none; }
 .demo-product h1 { font-family: var(--display); font-size: 34px; font-weight: 600; }
 .price.big { font-size: 24px; font-weight: 700; }
 .notice { background: var(--soft); border-left: 3px solid var(--accent); padding: 14px 16px; border-radius: 8px; }
+
+/* Reels feed (mobile): one outfit per screen, vertical snap, swipe left -> outfit page */
+body.reels-mode { overflow: hidden; }
+body.reels-mode .footer, body.reels-mode .fab { display: none; }
+.reels {
+  position: relative; height: calc(100dvh - var(--header-h)); overflow-y: auto; overscroll-behavior: contain;
+  scroll-snap-type: y mandatory; scrollbar-width: none; background: #ece2d4;
+}
+.reels::-webkit-scrollbar { display: none; }
+.reels-toolbar { position: sticky; top: 0; z-index: 5; height: 0; }
+.reels-toolbar .chips { margin: 0; padding: 10px 12px; }
+.reels-toolbar .chip { background: rgba(255,255,255,.88); backdrop-filter: blur(6px); border-color: transparent; }
+.reels-toolbar .chip.on { background: var(--ink); color: #fff; }
+.reel {
+  position: relative; height: calc(100dvh - var(--header-h)); scroll-snap-align: start; scroll-snap-stop: always;
+  overflow: hidden; touch-action: pan-y;
+}
+.reel.skeleton { height: 100%; }
+.reel-under {
+  position: absolute; inset: 0; background: var(--ink); color: #fff; display: flex; flex-direction: column;
+  align-items: flex-end; justify-content: center; gap: 8px; padding: 16px 18px;
+}
+.reel-under span { font-weight: 600; font-size: 14px; margin-bottom: 4px; }
+.reel-under img { width: 64px; height: 80px; object-fit: cover; border-radius: 8px; }
+.reel-card { position: absolute; inset: 0; background: #ece2d4; transition: transform .25s ease; }
+.reel-card.dragging { transition: none; }
+.reel-card.leaving { transform: translateX(-100%); transition: transform .18s ease-in; }
+.reel-cover { display: block; width: 100%; height: 100%; }
+.reel-cover .cover { width: 100%; height: 100%; aspect-ratio: auto; object-fit: contain; padding: 52px 0 150px; background: transparent; }
+.reel-cover .collage { height: auto; aspect-ratio: 4 / 5; margin: 60px 16px 0; padding: 0; }
+.reel-info {
+  position: absolute; left: 0; right: 0; bottom: 0; padding: 72px 84px calc(18px + env(safe-area-inset-bottom)) 16px;
+  color: #fff; background: linear-gradient(to top, rgba(20,18,16,.82) 0%, rgba(20,18,16,.55) 55%, rgba(20,18,16,0) 100%);
+}
+.reel-tag { font-size: 13px; font-weight: 600; color: #ffb4a3; }
+.reel-info h2 { font-family: var(--display); font-size: 32px; font-weight: 600; line-height: 1.05; margin: 2px 0 6px; }
+.reel-check { margin: 0 0 8px; font-size: 15px; }
+.reel-check strong { font-size: 19px; }
+.reel-check .check-label { color: #ffb4a3; }
+.reel-brands { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; color: rgba(255,255,255,.8); }
+.reel-actions {
+  position: absolute; right: 8px; bottom: calc(24px + env(safe-area-inset-bottom)); display: grid; gap: 14px; z-index: 2;
+}
+.reel-action { display: grid; justify-items: center; gap: 4px; color: #fff; font-size: 11px; font-weight: 600; min-width: 64px; }
+.reel-icon {
+  width: 48px; height: 48px; border-radius: 50%; display: grid; place-items: center;
+  background: rgba(255,255,255,.18); backdrop-filter: blur(8px);
+}
+.reel-icon svg { width: 24px; height: 24px; }
+.reel-icon.arrow { font-size: 22px; background: var(--accent); }
+.reel-action.on .reel-icon { color: var(--accent); background: #fff; }
+.reel-hint {
+  position: absolute; right: 12px; top: 50%; transform: translateY(-50%); background: rgba(20,18,16,.75); color: #fff;
+  font-size: 12px; font-weight: 600; padding: 8px 12px; border-radius: 999px; pointer-events: none;
+  animation: nudge 1.6s ease-in-out 3, fadeout .4s ease 5s forwards;
+}
+@keyframes nudge { 0%, 100% { transform: translate(0, -50%); } 50% { transform: translate(-10px, -50%); } }
+@keyframes fadeout { to { opacity: 0; } }
 
 @media (max-width: 359px) { .hide-xs { display: none; } }
 
