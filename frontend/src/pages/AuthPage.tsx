@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { signIn, signUp } from "aws-amplify/auth";
 import { authErrorMessage } from "../lib/auth";
+import GoogleButton from "../components/GoogleButton";
 
 export default function AuthPage() {
   const [params, setParams] = useSearchParams();
@@ -43,6 +44,7 @@ export default function AuthPage() {
           <button type="button" role="tab" aria-selected={mode === "signin"} className={mode === "signin" ? "on" : ""}
             onClick={() => switchTo("signin")}>Вхід</button>
         </div>
+        <GoogleButton />
         <label>Email
           <input type="email" autoComplete="email" inputMode="email" value={email}
             onChange={(e) => setEmail(e.target.value)} required />

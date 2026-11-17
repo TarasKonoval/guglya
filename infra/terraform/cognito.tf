@@ -79,9 +79,52 @@ resource "aws_cognito_user_pool_client" "web" {
     "ALLOW_REFRESH_TOKEN_AUTH",
   ]
   prevent_user_existence_errors = "ENABLED"
+
+  # OAuth (authorization code + PKCE) for "Увійти через Google"
+  supported_identity_providers         = local.google_enabled ? ["COGNITO", "Google"] : ["COGNITO"]
+  allowed_oauth_flows_user_pool_client = true
+  allowed_oauth_flows                  = ["code"]
+  allowed_oauth_scopes                 = ["openid", "email", "profile"]
+  callback_urls                        = local.oauth_urls
+  logout_urls                          = local.oauth_urls
+
+  depends_on = [aws_cognito_identity_provider.google]
 }
 
 # The backend Lambda has no internet access, so Terraform hands it the signing keys.
 data "http" "cognito_jwks" {
   url = "https://cognito-idp.${var.region}.amazonaws.com/${aws_cognito_user_pool.main.id}/.well-known/jwks.json"
+}
+
+# Hosted domain for OAuth (Google sign-in redirects through it). Classic hosted UI: no branding needed.
+resource "aws_cognito_user_pool_domain" "main" {
+  domain                = "${var.project}-auth"
+  user_pool_id          = aws_cognito_user_pool.main.id
+  managed_login_version = 1
+}
+
+locals {
+  google_enabled = var.google_client_id != ""
+  site_url       = "https://${aws_cloudfront_distribution.frontend.domain_name}"
+  oauth_urls     = ["${local.site_url}/", "http://localhost:5173/"]
+}
+
+resource "aws_cognito_identity_provider" "google" {
+  count         = local.google_enabled ? 1 : 0
+  user_pool_id  = aws_cognito_user_pool.main.id
+  provider_name = "Google"
+  provider_type = "Google"
+
+  provider_details = {
+    client_id        = var.google_client_id
+    client_secret    = var.google_client_secret
+    authorize_scopes = "openid email profile"
+  }
+
+  attribute_mapping = {
+    email          = "email"
+    email_verified = "email_verified"
+    name           = "name"
+    username       = "sub"
+  }
 }

@@ -15,6 +15,8 @@ VITE_AWS_REGION=$AWS_REGION
 VITE_COGNITO_USER_POOL_ID=$(out user_pool_id)
 VITE_COGNITO_CLIENT_ID=$(out client_id)
 VITE_API_URL=$(out api_url)
+VITE_COGNITO_DOMAIN=$(out cognito_domain)
+VITE_GOOGLE_ENABLED=$(out google_enabled)
 VITE_DONATE_URL=${VITE_DONATE_URL:-}
 ENV
 

@@ -98,6 +98,12 @@ body.has-bar .fab .fab-label { display: none; }
 }
 .auth-form input:focus, .modal textarea:focus { outline: none; border-color: var(--ink); }
 
+.google { display: grid; gap: 14px; }
+.google-btn { width: 100%; gap: 10px; border: 1.5px solid var(--line); background: #fff; font-weight: 600; }
+.google-btn:hover { border-color: var(--ink); }
+.divider { display: flex; align-items: center; gap: 12px; color: var(--muted); font-size: 13px; }
+.divider::before, .divider::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+
 /* Segmented control + chips */
 .seg { display: inline-flex; background: var(--soft); border-radius: 999px; padding: 4px; }
 .seg.full { display: flex; }

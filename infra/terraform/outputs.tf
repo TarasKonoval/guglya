@@ -37,3 +37,16 @@ output "backend_function_name" {
 output "database_url_ssm_parameter" {
   value = aws_ssm_parameter.database_url.name
 }
+
+output "cognito_domain" {
+  value = "${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com"
+}
+
+output "google_redirect_uri" {
+  description = "Paste into Google Cloud Console -> OAuth client -> Authorized redirect URIs"
+  value       = "https://${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com/oauth2/idpresponse"
+}
+
+output "google_enabled" {
+  value = local.google_enabled
+}

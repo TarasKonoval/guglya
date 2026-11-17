@@ -1,3 +1,6 @@
 # cp terraform.tfvars.example terraform.tfvars   (terraform.tfvars is gitignored — never commit it)
 budget_email = "you@example.com"
 my_ip_cidr   = "203.0.113.10/32" # echo "$(curl -s https://checkip.amazonaws.com)/32"
+# Optional: Google sign-in (Google Cloud Console -> APIs & Services -> Credentials -> OAuth client ID, type "Web application")
+google_client_id     = ""
+google_client_secret = ""
