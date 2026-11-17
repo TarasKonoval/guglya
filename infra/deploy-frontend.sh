@@ -7,7 +7,7 @@ export AWS_REGION=${AWS_REGION:-eu-central-1}
 out() { terraform -chdir=terraform output -raw "$1"; }
 BUCKET=$(out frontend_bucket)
 DIST=$(out cloudfront_distribution_id)
-SITE=$(out cloudfront_url)
+SITE=$(out site_url)
 
 # gitignored; regenerated on every deploy
 cat > ../frontend/.env.production <<ENV

@@ -14,7 +14,7 @@ resource "aws_acm_certificate" "site" {
   count                     = local.domain_active ? 1 : 0
   provider                  = aws.us_east_1
   domain_name               = var.domain_name
-  subject_alternative_names = ["www.${var.domain_name}"]
+  subject_alternative_names = ["www.${var.domain_name}", "auth.${var.domain_name}"]
   validation_method         = "DNS"
 
   lifecycle {
@@ -85,6 +85,29 @@ resource "aws_route53_record" "www" {
   alias {
     name                   = aws_cloudfront_distribution.frontend.domain_name
     zone_id                = aws_cloudfront_distribution.frontend.hosted_zone_id
+    evaluate_target_health = false
+  }
+}
+
+# auth.guglya.studio: Cognito custom domain, so Google's consent screen shows our domain.
+# Cognito requires the parent domain to resolve first, hence depends_on the apex A record.
+resource "aws_cognito_user_pool_domain" "custom" {
+  count                 = local.domain_active ? 1 : 0
+  domain                = "auth.${var.domain_name}"
+  user_pool_id          = aws_cognito_user_pool.main.id
+  certificate_arn       = aws_acm_certificate_validation.site[0].certificate_arn
+  managed_login_version = 1
+  depends_on            = [aws_route53_record.site]
+}
+
+resource "aws_route53_record" "auth" {
+  count   = local.domain_active ? 1 : 0
+  zone_id = aws_route53_zone.main[0].zone_id
+  name    = "auth.${var.domain_name}"
+  type    = "A"
+  alias {
+    name                   = aws_cognito_user_pool_domain.custom[0].cloudfront_distribution
+    zone_id                = aws_cognito_user_pool_domain.custom[0].cloudfront_distribution_zone_id
     evaluate_target_health = false
   }
 }

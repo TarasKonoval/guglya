@@ -38,13 +38,19 @@ output "database_url_ssm_parameter" {
   value = aws_ssm_parameter.database_url.name
 }
 
+locals {
+  prefix_auth_domain = "${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com"
+  auth_domain        = local.domain_active ? "auth.${var.domain_name}" : local.prefix_auth_domain
+}
+
+# The frontend uses this one; the prefix domain keeps working too.
 output "cognito_domain" {
-  value = "${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com"
+  value = local.auth_domain
 }
 
 output "google_redirect_uri" {
   description = "Paste into Google Cloud Console -> OAuth client -> Authorized redirect URIs"
-  value       = "https://${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com/oauth2/idpresponse"
+  value       = "https://${local.auth_domain}/oauth2/idpresponse"
 }
 
 output "google_enabled" {
