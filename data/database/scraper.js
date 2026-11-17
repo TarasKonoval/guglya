@@ -176,7 +176,7 @@
   };
   const careFrom = (text) => {
     const m = text.match(/(Про догляд|Догляд за виробом|Догляд за річчю|Рекомендації (?:з|по) догляду|Догляд|Уход за изделием|Care)\s*:?\s*(.{15,450}?)(?=\s*(Доставка|Оплата|Повернення|Обмін|Розмірна сітка|Таблиця розмір|Опис|Характеристики|СУПУТНІ|Схожі|Вам також|Відгуки|Додати в кошик|$))/i);
-    return m && !/[{}"\\]/.test(m[2]) ? m[2].trim() : null;
+    return m && !/[{}"\\]/.test(m[2]) && m[2].trim().length >= 25 && !/^(Таблиц|Розмір|Размер)/i.test(m[2].trim()) ? m[2].trim() : null;
   };
   const slugOf = (u) => {
     try { const p = new URL(u).pathname.split('/').filter(Boolean); return decodeURIComponent(p[p.length - 1] || 'item').toLowerCase().replace(/\.html?$/, '').replace(/[^a-z0-9а-яіїєґ]+/gi, '-').replace(/^-|-$/g, '').slice(0, 80); }
@@ -190,7 +190,7 @@
     const cls = classify(o.name, [labelsTxt, o.extra].filter(Boolean).join(' | '));
     let category = cls && cls.category, item_type = cls && cls.item_type, slot = cls ? cls.slot : 'other';
     if (!cls) {
-      const lab = (o.labels || []).find((l) => l && l.length < 40 && !PROMO.test(l));
+      const lab = (o.labels || []).map((l) => l && l.replace(/\s+\/.*$/, '').trim()).find((l) => l && l.length < 40 && !PROMO.test(l));
       category = lab || null; item_type = null;
     }
     let price = o.price, sale = null;
@@ -203,7 +203,7 @@
       source_url: o.url,
       gender: genderFrom([o.name, labelsTxt, o.extra, decodeURIComponent(o.url)].join(' | ')),
       category, item_type, slot,
-      colors: uniq((o.colors && o.colors.length ? colorsFrom(o.colors) : []).concat(o.colors && o.colors.length ? [] : colorsFrom([o.name]))),
+      colors: (() => { const c = colorsFrom(o.colors || []); return c.length ? c : colorsFrom([o.name]); })(),
       sizes: uniq((o.sizes || []).map((s) => String(s).trim().toUpperCase()).filter((s) => SIZE_RE.test(s))),
       price_uah: uah ? price || null : null,
       sale_price_uah: uah ? sale : null,
@@ -334,7 +334,8 @@
     if (!P && !/product/i.test(ogType) && !wixReg && !meta(doc, 'product:price:amount')) return null;
     // розміри з DOM
     if (!sizes.length) {
-      doc.querySelectorAll('[class*="size" i] label,[class*="size" i] button,[class*="size" i] option,[class*="size" i] span,[class*="size" i] li,[data-size],[class*="rozmir" i] *,[id*="size" i] option,select[name*="size" i] option, select[name*="rozm" i] option').forEach((e) => {
+      const box = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i]') || doc.querySelector('main');
+      if (box) box.querySelectorAll('[class*="size" i] label,[class*="size" i] button,[class*="size" i] option,[class*="size" i] span,[class*="size" i] li,[data-size],[class*="rozmir" i] *,[id*="size" i] option,select[name*="size" i] option, select[name*="rozm" i] option').forEach((e) => {
         const t = clean(e.getAttribute('data-size') || e.textContent);
         if (t && t.length <= 9) sizes.push(t);
       });
@@ -429,12 +430,15 @@
     G.mode = 'generic';
     const [{ prod, other }, mm] = await Promise.all([sitemapUrls(), menuMap()]);
     const catSet = new Set(mm.cats);
-    let cand = prod.length ? prod : other.filter((u) => !NOT_PRODUCT.test(u) && new URL(u).pathname.length > 2);
+    let cand = prod.length >= 30 ? prod : prod.concat(other).filter((u) => !NOT_PRODUCT.test(u) && new URL(u).pathname.length > 2);
     if (!cand.length) cand = Object.keys(mm.map).filter((u) => !catSet.has(u) && !NOT_PRODUCT.test(u) && mm.map[u].length >= 1 && new URL(u).pathname.length > 3);
     else G.mode = prod.length ? 'sitemap-products' : 'sitemap';
     cand = uniq(preferLang(cand.map((u) => u.split('#')[0]))).filter((u) => !catSet.has(u.split('?')[0]));
     // перемішати, щоб не взяти лише одну категорію
     for (let i = cand.length - 1; i > 0; i--) { const j = (i * 7919 + 13) % (i + 1); [cand[i], cand[j]] = [cand[j], cand[i]]; }
+    // спершу URL, на які посилаються сторінки категорій (це майже завжди товари)
+    const linked = cand.filter((u) => mm.map[u.split(/[?#]/)[0]]), rest = cand.filter((u) => !mm.map[u.split(/[?#]/)[0]]);
+    if (linked.length >= 20) cand = linked.concat(rest);
     G.candidates = cand.length;
     await pool(cand.slice(0, MAX_CHECK), 4, async (u) => {
       G.checked++;
