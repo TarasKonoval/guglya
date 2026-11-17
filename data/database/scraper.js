@@ -130,13 +130,20 @@
   const abs = (u) => { try { return new URL(u, ORIGIN).href; } catch (e) { return null; } };
   const uniq = (a) => [...new Set(a.filter(Boolean))];
   const sameHost = (u) => { try { return new URL(u).hostname.replace(/^www\./, '') === HOST; } catch (e) { return false; } };
-  async function get(u, type = 'text') {
-    const c = new AbortController(); const t = setTimeout(() => c.abort(), 20000);
-    try {
-      const r = await fetch(u, { signal: c.signal, credentials: 'include' });
-      if (!r.ok) throw new Error(r.status + ' ' + u);
-      return type === 'json' ? await r.json() : await r.text();
-    } finally { clearTimeout(t); }
+  const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+  async function get(u, type = 'text', tries = 5) {
+    for (let a = 0; ; a++) {
+      const c = new AbortController(); const t = setTimeout(() => c.abort(), 25000);
+      try {
+        const r = await fetch(u, { signal: c.signal, credentials: 'include' });
+        if ((r.status === 429 || r.status >= 500) && a < tries) { await sleep(2000 * (a + 1) + Math.random() * 1500); continue; }
+        if (!r.ok) throw new Error(r.status + ' ' + u);
+        return type === 'json' ? await r.json() : await r.text();
+      } catch (e) {
+        if (e.name === 'AbortError' && a < 2) continue;
+        throw e;
+      } finally { clearTimeout(t); }
+    }
   }
   async function pool(items, n, fn, stop) {
     let i = 0;
@@ -169,7 +176,7 @@
   };
   const careFrom = (text) => {
     const m = text.match(/(Про догляд|Догляд за виробом|Догляд за річчю|Рекомендації (?:з|по) догляду|Догляд|Уход за изделием|Care)\s*:?\s*(.{15,450}?)(?=\s*(Доставка|Оплата|Повернення|Обмін|Розмірна сітка|Таблиця розмір|Опис|Характеристики|СУПУТНІ|Схожі|Вам також|Відгуки|Додати в кошик|$))/i);
-    return m ? m[2].trim() : null;
+    return m && !/[{}"\\]/.test(m[2]) ? m[2].trim() : null;
   };
   const slugOf = (u) => {
     try { const p = new URL(u).pathname.split('/').filter(Boolean); return decodeURIComponent(p[p.length - 1] || 'item').toLowerCase().replace(/\.html?$/, '').replace(/[^a-z0-9а-яіїєґ]+/gi, '-').replace(/^-|-$/g, '').slice(0, 80); }
@@ -295,6 +302,7 @@
     const bl = items.find((o) => isT(o, 'BreadcrumbList'));
     if (bl && bl.itemListElement) [].concat(bl.itemListElement).forEach((e) => crumbs.push(clean((e.item && e.item.name) || e.name)));
     if (!crumbs.length) doc.querySelectorAll('[class*="breadcrumb" i] a,[class*="breadcrumb" i] span,nav[aria-label*="breadcrumb" i] a').forEach((a) => crumbs.push(clean(a.textContent)));
+    doc.querySelectorAll('script,style,noscript,template,svg').forEach((e) => e.remove());
     const text = clean(doc.body ? doc.body.textContent : '');
     let name = P && clean(P.name) || clean((doc.querySelector('h1') || {}).textContent) || clean(meta(doc, 'og:title'));
     const ogType = meta(doc, 'og:type') || '';
@@ -428,7 +436,7 @@
     // перемішати, щоб не взяти лише одну категорію
     for (let i = cand.length - 1; i > 0; i--) { const j = (i * 7919 + 13) % (i + 1); [cand[i], cand[j]] = [cand[j], cand[i]]; }
     G.candidates = cand.length;
-    await pool(cand.slice(0, MAX_CHECK), 6, async (u) => {
+    await pool(cand.slice(0, MAX_CHECK), 4, async (u) => {
       G.checked++;
       const h = await get(u);
       const r = parseProduct(h, u.split('?')[0], (mm.map[u.split(/[?#]/)[0]] || []).slice(0, 6));
@@ -440,7 +448,7 @@
   function select(list) {
     const seen = new Set();
     list = list.filter((p) => { const k = p.source_url; if (seen.has(k)) return false; seen.add(k); return true; });
-    const pr = { [OUT]: 1, [KNIT]: 2, [TOP]: 2, [SET]: 2, [DRESS]: 2, [BOT]: 2, [ETNO]: 2, [SHOES]: 2, [TEE]: 3, [BODY]: 3, [ACC]: 5, [UND]: 6, [SWIM]: 6 };
+    const pr = { [OUT]: 1, [KNIT]: 2, [TOP]: 2, [SET]: 2, [DRESS]: 2, [BOT]: 2, [ETNO]: 2, [SHOES]: CFG.kind === 'shoes' ? 1 : 3, [TEE]: 3, [BODY]: 3, [ACC]: 5, [UND]: 6, [SWIM]: 6 };
     const capHat = CFG.kind === 'hats' ? LIMIT : 20, capOther = CFG.kind === 'hats' ? LIMIT : 30;
     const sorted = list.map((p, i) => [p, i]).sort((a, b) =>
       (a[0].in_stock === false) - (b[0].in_stock === false) ||
