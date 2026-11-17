@@ -204,7 +204,7 @@
       photos: uniq((o.photos || []).map(abs)).slice(0, 3),
       description: o.description ? clean(o.description).slice(0, 1500) : null,
       care: o.care ? clean(o.care).slice(0, 500) : null,
-      collections: uniq((o.labels || []).filter((l) => l && PROMO.test(l) && l.length < 40)).slice(0, 5),
+      collections: uniq((o.labels || []).filter((l) => l && PROMO.test(l) && l.length < 40 && !/^(головна|home|каталог|catalog|весь асортимент|всі товари|all|shop|магазин)/i.test(l.trim())).map((l) => l.replace(/\s+\/.*$/, ''))).slice(0, 5),
     };
     if (!uah && price) rec.price_foreign = { amount: price, sale: sale, currency: o.currency };
     if (!rec.photos.length || !(rec.price_uah || rec.price_foreign)) return null;
@@ -331,6 +331,17 @@
         if (t && t.length <= 9) sizes.push(t);
       });
     }
+    // розміри/кольори з JSON у сирому HTML (Wix, Horoshop тощо рендерять їх скриптом)
+    const near = (re) => {
+      const out = []; let m; const rx = new RegExp(re, 'gi'); let k = 0;
+      while ((m = rx.exec(html)) && k++ < 6) {
+        const chunk = html.slice(m.index, m.index + 2500);
+        for (const q of chunk.matchAll(/"(?:value|description|title|name|label)"\s*:\s*"([^"]{1,20})"/g)) out.push(q[1]);
+      }
+      return out;
+    };
+    if (!sizes.length) sizes = near('"(?:Розмір|Размер|Size|SIZE|Розміри)"').filter((t) => SIZE_RE.test(t.trim()));
+    if (!colors.length) colors = near('"(?:Колір|Цвет|Color|Colour|Колiр)"');
     if (!colors.length) {
       doc.querySelectorAll('[class*="color" i] [title],[class*="color" i] [aria-label],[class*="colour" i] [title]').forEach((e) => colors.push(e.getAttribute('title') || e.getAttribute('aria-label')));
     }
@@ -385,9 +396,13 @@
     let html; try { html = await get('/'); } catch (e) { return { map, cats }; }
     const doc = new DOMParser().parseFromString(html, 'text/html');
     const seen = new Set();
-    doc.querySelectorAll('header a[href], nav a[href], [class*="menu" i] a[href]').forEach((a) => {
+    const CATP = /\/(category|categories|collections?|catalog|katalog|kategori\w*|c|shop|women|men|zhinkam|cholovikam|zhinoche|cholovache|woman|man)(\/|$)/i;
+    doc.querySelectorAll('a[href]').forEach((a) => {
       const u = abs(a.getAttribute('href')); const t = clean(a.textContent);
       if (!u || !sameHost(u) || NOT_PRODUCT.test(u) || seen.has(u) || !t || t.length > 40) return;
+      const inNav = a.closest('header, nav, [class*="menu" i], [class*="nav" i]');
+      if (!inNav && !CATP.test(new URL(u).pathname)) return;
+      if (/\/(product|products|product-page|p)\//i.test(u)) return;
       const path = new URL(u).pathname; if (path === '/' || path.split('/').filter(Boolean).length > 4) return;
       seen.add(u); cats.push([u.split('#')[0], t]);
     });
