@@ -1,0 +1,212 @@
+{
+  "_meta": {
+    "status": "partial",
+    "brand": "OSLO",
+    "site": "https://www.oslo-wear.com",
+    "extracted_on": "2026-11-17",
+    "count": 25,
+    "note": "Частина з 145 товарів. Поля gender, category, description, sizes ще не заповнені. Фото — посилання на CDN бренду, самі файли не зберігаються."
+  },
+  "products": [
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/pukhovyk-puff-siryi",
+      "name": "Пуховик PUFF — Сірий",
+      "price_uah": 4399,
+      "sale_price_uah": 4099,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_067b9f81501d4704b4ffcfb679852e76~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/sportyvnyi-kostium-na-flisi-pisochnyi",
+      "name": "Спортивний костюм на флісі пісочний",
+      "price_uah": 3599,
+      "sale_price_uah": 2999,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_d6f7f5be6d3b40028113035d3ec7e17d~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/pukhovyk-puff-chornyi",
+      "name": "Пуховик PUFF — Чорний",
+      "price_uah": 4399,
+      "sale_price_uah": 4099,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_b2ac34b9087148c7934c804ff98d7881~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/sportyvnyi-kostium-na-flisi-shokoladnyi",
+      "name": "Спортивний костюм на флісі шоколадний",
+      "price_uah": 3599,
+      "sale_price_uah": 3399,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_f29817a1cda04c829e25db5afa15b342~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/v-yazanyi-kardyhan-molochnyi",
+      "name": "В'язаний кардиган - молочний",
+      "price_uah": 1999,
+      "sale_price_uah": 1690,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_b09e1db38da541f88ef235c7c6ec3061~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/sportyvnyi-kostium-na-flisi-3",
+      "name": "Спортивний костюм на флісі - Меланж",
+      "price_uah": 3599,
+      "sale_price_uah": 3399,
+      "image_url": null
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/піджак-wide-fit",
+      "name": "Піджак Wide Fit - Чорний",
+      "price_uah": 2290,
+      "sale_price_uah": 1690,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_0fc5a7a925964dc38f3fe65e89072ab4~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/класичні-брюки-wide-fit",
+      "name": "Класичні брюки Wide - Білий",
+      "price_uah": 2190,
+      "sale_price_uah": 1990,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_8eb899224b0b4d06bf24bfbe9251cc17~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/bomber-chornyi",
+      "name": "Бомбер - Чорний",
+      "price_uah": 2899,
+      "sale_price_uah": 2700,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_c202398f6a7949f4876d0e0c5b52a9a0~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/zhyletka-bazova",
+      "name": "Жилетка - Чорний",
+      "price_uah": 2490,
+      "sale_price_uah": 2290,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_da029d7906b446a0b31f69c3eb7b98b3~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/dzhynsy-baggy-olyvkovyi",
+      "name": "Джинси Baggy - Оливковий",
+      "price_uah": 1849,
+      "sale_price_uah": 1699,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_5cb2ceaf8547443999066bd0c9d428ab~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/dzhynsy-baggy-balloon-2",
+      "name": "Джинси Baggy Balloon - Графіт",
+      "price_uah": 2390,
+      "sale_price_uah": 2150,
+      "image_url": null
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/dzhynsy-baggy-balloon-1",
+      "name": "Джинси Baggy Balloon - Блакитний",
+      "price_uah": 2390,
+      "sale_price_uah": 2150,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_3658bf56a1e94b3ba58021bd45242698~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/dzhynsy-baggy-balloon",
+      "name": "Джинси Baggy Balloon - Чорний",
+      "price_uah": 2390,
+      "sale_price_uah": 2150,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_addddee5c1a24e3a8f8fda9ae16d8446~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/litni-dzhynsy-baggy",
+      "name": "Джинси Baggy - Коричневий",
+      "price_uah": 1849,
+      "sale_price_uah": 1699,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_28b505b14a7448f98a019a87ecc73712~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/litni-dzhynsy-baggy-1",
+      "name": "Джинси Baggy - Чорний",
+      "price_uah": 1849,
+      "sale_price_uah": 1699,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_215c55a1bac844c88276d20c562d9a90~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/litni-baggy-molochni",
+      "name": "Джинси Baggy - Молочний",
+      "price_uah": 1849,
+      "sale_price_uah": 1699,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_ce7c3e4d84234d16aa41b55cd13483ea~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/klasychni-briuky-wide-bezhevyi",
+      "name": "Класичні брюки Wide - Бежевий",
+      "price_uah": 2190,
+      "sale_price_uah": 1990,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_5ca51f083dea4a29817fc06305564119~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/lliana-sorochka-shokoladnyi-1",
+      "name": "Лляна сорочка - Шоколадний",
+      "price_uah": 1499,
+      "sale_price_uah": 1299,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_62d7997cb70a4061b7012c3b6dfb983b~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/lliana-sorochka-shokoladnyi",
+      "name": "Лляна сорочка - Шоколадний",
+      "price_uah": 1699,
+      "sale_price_uah": 1399,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_d176cb35b00b4e9da068c4f746651e97~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/lliani-briuky-shokoladnyi",
+      "name": "Лляні брюки - Шоколадний",
+      "price_uah": 1849,
+      "sale_price_uah": 1479,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_31cc292632f0475ba147c4806597a994~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/sorochka-kotonova-shokoladnyi",
+      "name": "Сорочка котонова - Шоколадний",
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_1db75ad53bdf4c39834d4ddf1244ff90~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/kotonovyi-kostium-shokoladnyi",
+      "name": "Котоновий костюм - Шоколадний",
+      "price_uah": 3299,
+      "sale_price_uah": 2999,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_dabcb74903164fa3ba8f4ee9ba7a28d6~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/zhinocha-zhyletka-chorna",
+      "name": "Жіноча жилетка чорна",
+      "price_uah": 2490,
+      "sale_price_uah": 2290,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_a2ca8e4a5ea14a60a8ad9605adb50248~mv2.jpg"
+    },
+    {
+      "brand": "OSLO",
+      "source_url": "https://www.oslo-wear.com/product-page/zhinochyi-bomber-chornyi",
+      "name": "Жіночий бомбер чорний",
+      "price_uah": 2899,
+      "sale_price_uah": 2700,
+      "image_url": "https://static.wixstatic.com/media/65a9c1_a8dbe26a2abd48f7acac36d164d9ce83~mv2.jpg"
+    }
+  ]
+}
