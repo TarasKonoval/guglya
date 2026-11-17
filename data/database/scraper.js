@@ -386,8 +386,10 @@
         const o = locs.filter((l) => !p.includes(l) && !/blog|post|news|author|tag|page|categor|collection|image|video/i.test(l));
         q.unshift(...p); q.push(...o);
       } else {
+        const xmls = locs.filter((l) => /\.xml(\.gz)?(\?|$)/i.test(l));
+        if (xmls.length) q.unshift(...xmls.filter((l) => !/[-_/](ru|en|pl|de)[-_.]/i.test(l)).sort((l) => (/(uk|ua)/i.test(l) ? -1 : 1)));
         const isProd = /product|tovar|goods|item/i.test(m) && !/categor/i.test(m);
-        locs.filter(sameHost).forEach((l) => (isProd ? prod : other).add(l));
+        locs.filter((l) => sameHost(l) && !/\.xml(\.gz)?(\?|$)/i.test(l)).forEach((l) => (isProd ? prod : other).add(l));
       }
     }
     return { prod: [...prod], other: [...other] };
