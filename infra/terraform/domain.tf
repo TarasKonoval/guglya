@@ -2,7 +2,8 @@
 locals {
   has_domain    = var.domain_name != ""
   domain_active = local.has_domain && var.domain_delegated
-  site_origins  = concat(["https://${aws_cloudfront_distribution.frontend.domain_name}"], local.domain_active ? ["https://${var.domain_name}"] : [])
+  # With a custom domain, it is the only public origin (the *.cloudfront.net name just redirects to it).
+  site_origins = local.domain_active ? ["https://${var.domain_name}"] : ["https://${aws_cloudfront_distribution.frontend.domain_name}"]
 }
 
 resource "aws_route53_zone" "main" {
@@ -41,23 +42,24 @@ resource "aws_acm_certificate_validation" "site" {
   validation_record_fqdns = [for r in aws_route53_record.cert_validation : r.fqdn]
 }
 
-# www.guglya.studio -> 301 -> guglya.studio
+# www.<domain> and *.cloudfront.net -> 301 -> https://<domain> (only once the custom domain is live)
 resource "aws_cloudfront_function" "www_redirect" {
   name    = "${var.project}-www-redirect"
   runtime = "cloudfront-js-2.0"
   publish = true
   code    = <<-JS
+    var CANONICAL = "${local.domain_active ? var.domain_name : ""}";
     function handler(event) {
       var req = event.request;
-      var host = req.headers.host && req.headers.host.value;
-      if (host && host.indexOf("www.") === 0) {
+      var host = (req.headers.host && req.headers.host.value) || "";
+      if (CANONICAL && host !== CANONICAL) {
         var qs = Object.keys(req.querystring).map(function (k) {
           return k + "=" + encodeURIComponent(req.querystring[k].value);
         }).join("&");
         return {
           statusCode: 301,
           statusDescription: "Moved Permanently",
-          headers: { location: { value: "https://" + host.substring(4) + req.uri + (qs ? "?" + qs : "") } },
+          headers: { location: { value: "https://" + CANONICAL + req.uri + (qs ? "?" + qs : "") } },
         };
       }
       return req;

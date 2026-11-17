@@ -43,7 +43,7 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - Outfit covers for demo outfits are generated flat lays; outfits without a cover render a 2×2 collage.
 
 ## Live
-- Site: https://guglya.studio (also https://d2lxh7fc98a19v.cloudfront.net; www → apex)
+- Site: https://guglya.studio (www.guglya.studio and the *.cloudfront.net name 301-redirect here)
 - Auth domain: https://auth.guglya.studio (Cognito custom domain; Google OAuth redirect URI .../oauth2/idpresponse)
 - API:  https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com
 

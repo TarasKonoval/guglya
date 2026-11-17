@@ -84,7 +84,7 @@ uvicorn app.main:app --reload          # http://localhost:8000/docs
 
 # Frontend
 cd frontend
-cp .env.example .env    # VITE_* з terraform output; VITE_API_URL=http://localhost:8000; VITE_ASSET_BASE_URL=<cloudfront_url>
+cp .env.example .env    # VITE_* з terraform output; VITE_API_URL=http://localhost:8000; VITE_ASSET_BASE_URL=https://guglya.studio
 npm install && npm run dev             # http://localhost:5173
 ```
 
@@ -114,7 +114,7 @@ infra/seed-demo.sh                     # міграції, фото → S3 /img/
 VITE_DONATE_URL=https://send.monobank.ua/jar/XXXX infra/deploy-frontend.sh
 ```
 
-Власний домен: `domain_name` у `terraform.tfvars` → `terraform apply` → у реєстратора вказати nameservers з `terraform output name_servers` → `domain_delegated = true` → `terraform apply` (ACM-сертифікат, CloudFront, `www` → редирект, `auth.<домен>` для Cognito; додайте `https://auth.<домен>` і `/oauth2/idpresponse` у Google OAuth client).
+Власний домен: `domain_name` у `terraform.tfvars` → `terraform apply` → у реєстратора вказати nameservers з `terraform output name_servers` → `domain_delegated = true` → `terraform apply` (ACM-сертифікат, CloudFront, `www` і `*.cloudfront.net` → редирект на домен, `auth.<домен>` для Cognito; додайте `https://auth.<домен>` і `/oauth2/idpresponse` у Google OAuth client).
 
 Оновлення коду: `infra/deploy-backend.sh` (білд arm64 → ECR → Lambda → перевірка `/health`) і `infra/deploy-frontend.sh` (білд → S3 → інвалідація CloudFront). Змінився IP ноутбука? Оновіть `my_ip_cidr` у `terraform.tfvars` і виконайте `terraform apply`.
 
@@ -124,7 +124,7 @@ VITE_DONATE_URL=https://send.monobank.ua/jar/XXXX infra/deploy-frontend.sh
 2. Імпорт і ембединги:
    ```bash
    export DATABASE_URL=$(aws ssm get-parameter --name /guglya/database_url --with-decryption --query Parameter.Value --output text)
-   export IMAGE_BASE_URL=$(terraform -chdir=infra/terraform output -raw cloudfront_url)   # для відносних /img/ шляхів
+   export IMAGE_BASE_URL=$(terraform -chdir=infra/terraform output -raw site_url)   # для відносних /img/ шляхів
    python backend/ml/import_catalog.py --purge-demo data/catalog.csv data/outfits.json
    python backend/ml/embed.py           # рахує лише товари без ембедингу
    ```
