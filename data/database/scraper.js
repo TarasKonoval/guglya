@@ -286,7 +286,8 @@
           out.push(x);
           if (x['@graph']) walk(x['@graph']);
         };
-        walk(JSON.parse(s.textContent));
+        let j; try { j = JSON.parse(s.textContent); } catch (e) { j = JSON.parse(s.textContent.replace(/[\u0000-\u001f]+/g, ' ').replace(/,\s*([}\]])/g, '$1')); }
+        walk(j);
       } catch (e) {}
     });
     return out;
@@ -330,8 +331,25 @@
       const v = el && num(el.textContent);
       if (v && v > price) old = v;
     }
+    const md = doc.querySelector('[itemprop="price"]');
+    const mdPrice = md && num(md.getAttribute('content') || md.textContent);
+    if (!price && mdPrice) price = mdPrice;
+    if (!currency) { const mc = doc.querySelector('[itemprop="priceCurrency"]'); currency = mc && (mc.getAttribute('content') || mc.textContent.trim()) || null; }
+    if (inStock == null) { const ma = doc.querySelector('[itemprop="availability"]'); if (ma) inStock = /InStock|PreOrder/i.test(ma.getAttribute('href') || ma.getAttribute('content') || ''); }
+    const box0 = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i],[class*="product-page" i],[class*="product_page" i],[class*="product-card" i]') || doc.querySelector('main') || doc.body;
+    if (!price && box0) {
+      for (const e of box0.querySelectorAll('[class*="price" i]')) {
+        if (/old|compare|regular|before|was|cross/i.test(e.className)) continue;
+        const t = clean(e.textContent); if (!/\d/.test(t) || t.length > 40) continue;
+        const v = num((t.match(/\d[\d\s\u00a0]*(?:[.,]\d{1,2})?/) || [])[0]); if (v && v >= 50) { price = v; break; }
+      }
+    }
+    if (!price) { const og = (meta(doc, 'og:title') || '') + ' ' + (meta(doc, 'og:description') || ''); const m2 = og.match(/(\d[\d\s\u00a0]{1,8})\s*(₴|грн|uah)/i); if (m2) price = num(m2[1]); }
+    if (!name) name = clean((meta(doc, 'og:title') || '').split(/\s+[|–—]\s+|,\s*артикул|【|\s+-\s+купити/i)[0]);
     if (!name || !price) return null;
-    if (!P && !/product/i.test(ogType) && !wixReg && !meta(doc, 'product:price:amount')) return null;
+    const urlLooksProduct = /\/(product|products|product-page|p|tovar|tovary|goods|item|catalog\/[^/]+\/[^/]+)\/[^/]+/i.test(new URL(url).pathname);
+    const hasSizePicker = !!doc.querySelector('input[name*="size" i],select[name*="size" i],input[name*="rozm" i],[class*="size-product" i]');
+    if (!P && !/product/i.test(ogType) && !wixReg && !meta(doc, 'product:price:amount') && !md && !urlLooksProduct && !hasSizePicker) return null;
     // розміри з DOM
     if (!sizes.length) {
       const box = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i]') || doc.querySelector('main');
@@ -438,9 +456,13 @@
     cand = uniq(preferLang(cand.map((u) => u.split('#')[0]))).filter((u) => !catSet.has(u.split('?')[0]));
     // перемішати, щоб не взяти лише одну категорію
     for (let i = cand.length - 1; i > 0; i--) { const j = (i * 7919 + 13) % (i + 1); [cand[i], cand[j]] = [cand[j], cand[i]]; }
+    const PRODURL = /\/(product|products|product-page|p|tovar|goods|item)\/[^/]+/i;
+    const menuProd = Object.keys(mm.map).filter((u) => !catSet.has(u) && !NOT_PRODUCT.test(u) && PRODURL.test(new URL(u).pathname));
+    cand = uniq(menuProd.concat(cand));
     // спершу URL, на які посилаються сторінки категорій (це майже завжди товари)
     const linked = cand.filter((u) => mm.map[u.split(/[?#]/)[0]]), rest = cand.filter((u) => !mm.map[u.split(/[?#]/)[0]]);
     if (linked.length >= 20) cand = linked.concat(rest);
+    cand = cand.filter((u) => PRODURL.test(new URL(u).pathname)).concat(cand.filter((u) => !PRODURL.test(new URL(u).pathname)));
     G.candidates = cand.length;
     await pool(cand.slice(0, MAX_CHECK), 4, async (u) => {
       G.checked++;
