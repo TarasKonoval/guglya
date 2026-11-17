@@ -96,8 +96,10 @@ data "http" "cognito_jwks" {
   url = "https://cognito-idp.${var.region}.amazonaws.com/${aws_cognito_user_pool.main.id}/.well-known/jwks.json"
 }
 
-# Hosted domain for OAuth (Google sign-in redirects through it). Classic hosted UI: no branding needed.
+# Fallback OAuth domain (<project>-auth.auth.<region>.amazoncognito.com), only when there is no custom domain;
+# otherwise auth.<domain> in domain.tf is used. Classic hosted UI: no branding needed.
 resource "aws_cognito_user_pool_domain" "main" {
+  count                 = local.domain_active ? 0 : 1
   domain                = "${var.project}-auth"
   user_pool_id          = aws_cognito_user_pool.main.id
   managed_login_version = 1

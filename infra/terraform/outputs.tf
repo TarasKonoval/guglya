@@ -39,8 +39,7 @@ output "database_url_ssm_parameter" {
 }
 
 locals {
-  prefix_auth_domain = "${aws_cognito_user_pool_domain.main.domain}.auth.${var.region}.amazoncognito.com"
-  auth_domain        = local.domain_active ? "auth.${var.domain_name}" : local.prefix_auth_domain
+  auth_domain = local.domain_active ? "auth.${var.domain_name}" : "${var.project}-auth.auth.${var.region}.amazoncognito.com"
 }
 
 # The frontend uses this one; the prefix domain keeps working too.

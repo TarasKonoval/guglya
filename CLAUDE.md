@@ -17,7 +17,7 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 
 ## Architecture (AWS eu-central-1, Terraform in infra/terraform, local state)
 - Auth: Cognito User Pool (email username, min 8 chars), pre-sign-up Lambda auto-confirms + verifies email. Public client, no secret.
-  Google sign-in: Cognito Google IdP + hosted domain guglya-auth (OAuth code flow, Amplify signInWithRedirect); Google OAuth
+  Google sign-in: Cognito Google IdP + custom domain auth.guglya.studio (OAuth code flow, Amplify signInWithRedirect); Google OAuth
   client lives in Google Cloud Console, credentials only in terraform.tfvars. Email and Google accounts are not linked.
 - Frontend: React + Vite + TS + aws-amplify v6 → private S3 + CloudFront (OAC, SPA fallback). `infra/deploy-frontend.sh`.
 - Backend: FastAPI (`backend/app`) on Lambda (container, arm64, Mangum) behind API Gateway HTTP API. `infra/deploy-backend.sh`.
