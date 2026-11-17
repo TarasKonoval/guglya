@@ -43,7 +43,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - Outfit covers for demo outfits are generated flat lays; outfits without a cover render a 2×2 collage.
 
 ## Live
-- Site: https://d2lxh7fc98a19v.cloudfront.net
+- Site: https://guglya.studio (also https://d2lxh7fc98a19v.cloudfront.net; www → apex)
+- Auth domain: https://auth.guglya.studio (Cognito custom domain; Google OAuth redirect URI .../oauth2/idpresponse)
 - API:  https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com
 
 ## Checklist (Mon 16 Nov)
@@ -59,5 +60,6 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - [x] 7. UI per spec, Playwright check at 375×812 + desktop, redeployed
 - [x] 8. README, CLAUDE.md, report template
 - [x] Google sign-in (17 Nov) — redirect to Google verified; full login to be confirmed by a human
+- [x] Custom domain guglya.studio + auth.guglya.studio (17 Nov), E2E verified
 - [ ] Later: Monobank jar URL → redeploy frontend with VITE_DONATE_URL
 - [ ] Tue/Wed: test rounds 17 + 18 Nov (stats.py --since/--until), brand interviews, real catalog import

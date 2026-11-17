@@ -14,7 +14,7 @@
 
 **Команда:** Андрій Гуменюк, Тарас Коновал (Український католицький університет).
 
-**Демо:** https://d2lxh7fc98a19v.cloudfront.net · **API:** https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com/health
+**Демо:** https://guglya.studio · **API:** https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com/health
 
 > Зараз на сайті **демо-каталог**: 8 вигаданих брендів, 60 речей, 10 осінніх образів; ілюстрації намальовані нами, а «До бренду →» веде на нашу сторінку `/demo/<id>`. Реальні каталоги додаємо лише від брендів, які дали дозвіл на використання фото.
 
@@ -46,7 +46,7 @@ flowchart LR
 ```
 
 - **Auth:** Cognito (email + пароль від 8 символів). Pre-sign-up Lambda одразу підтверджує акаунт, тож тестувальник входить без коду з пошти.
-  Також «Продовжити з Google»: Cognito федерує вхід через Google OAuth (домен `guglya-auth.auth.eu-central-1.amazoncognito.com`, Amplify `signInWithRedirect`).
+  Також «Продовжити з Google»: Cognito федерує вхід через Google OAuth (домен `auth.guglya.studio`, Amplify `signInWithRedirect`).
 - **Backend:** FastAPI у Lambda (VPC за замовчуванням, без NAT), тому JWKS Cognito і `DATABASE_URL` Terraform передає як змінні середовища. Токен перевіряється за RS256 / `iss` / `aud` / `token_use=id`. CORS налаштований лише у FastAPI.
 - **Дані для звіту:** `users` (кожен запит із токеном оновлює рядок), `events` (`outfit_view`, `swap`, `donate_click`, `feedback_open`), `clicks` (з позначкою `is_alternative`), `feedback` (оцінка, «чи купили б», текст).
 
@@ -114,6 +114,8 @@ infra/seed-demo.sh                     # міграції, фото → S3 /img/
 VITE_DONATE_URL=https://send.monobank.ua/jar/XXXX infra/deploy-frontend.sh
 ```
 
+Власний домен: `domain_name` у `terraform.tfvars` → `terraform apply` → у реєстратора вказати nameservers з `terraform output name_servers` → `domain_delegated = true` → `terraform apply` (ACM-сертифікат, CloudFront, `www` → редирект, `auth.<домен>` для Cognito; додайте `https://auth.<домен>` і `/oauth2/idpresponse` у Google OAuth client).
+
 Оновлення коду: `infra/deploy-backend.sh` (білд arm64 → ECR → Lambda → перевірка `/health`) і `infra/deploy-frontend.sh` (білд → S3 → інвалідація CloudFront). Змінився IP ноутбука? Оновіть `my_ip_cidr` у `terraform.tfvars` і виконайте `terraform apply`.
 
 ## Реальний каталог
@@ -138,7 +140,7 @@ python backend/scripts/stats.py --since 2026-11-17 --until 2026-11-18    # ра�
 
 ## Вартість і видалення
 
-Орієнтовно **~$20/міс**: RDS db.t4g.micro (~$13) + 20 GB gp3 (~$2.5) + публічна IPv4-адреса RDS (~$3.6). Lambda, API Gateway, Cognito (до 10 000 MAU), S3, CloudFront і ECR на нашому обсязі коштують центи. На новому акаунті частину покриває Free Tier. Бюджет-алерт на $30/міс надсилає листи на 50/80/100 %.
+Орієнтовно **~$20/міс**: RDS db.t4g.micro (~$13) + 20 GB gp3 (~$2.5) + публічна IPv4-адреса RDS (~$3.6) + Route 53 зона ($0.50). Lambda, API Gateway, Cognito (до 10 000 MAU), S3, CloudFront і ECR на нашому обсязі коштують центи. На новому акаунті частину покриває Free Tier. Бюджет-алерт на $30/міс надсилає листи на 50/80/100 %.
 
 Видалити все:
 ```bash
