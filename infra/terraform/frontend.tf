@@ -20,6 +20,8 @@ resource "aws_cloudfront_origin_access_control" "frontend" {
 
 resource "aws_cloudfront_distribution" "frontend" {
   enabled             = true
+  aliases             = local.domain_active ? [var.domain_name, "www.${var.domain_name}"] : []
+  is_ipv6_enabled     = true
   default_root_object = "index.html"
   price_class         = "PriceClass_100"
   comment             = "${var.project} frontend"
@@ -37,6 +39,11 @@ resource "aws_cloudfront_distribution" "frontend" {
     cached_methods         = ["GET", "HEAD"]
     compress               = true
     cache_policy_id        = "658327ea-f89d-4fab-a63d-7e88639e58f6" # Managed-CachingOptimized
+
+    function_association {
+      event_type   = "viewer-request"
+      function_arn = aws_cloudfront_function.www_redirect.arn
+    }
   }
 
   # SPA: unknown paths (private bucket answers 403) are served by index.html
@@ -58,7 +65,10 @@ resource "aws_cloudfront_distribution" "frontend" {
   }
 
   viewer_certificate {
-    cloudfront_default_certificate = true
+    cloudfront_default_certificate = !local.domain_active
+    acm_certificate_arn            = local.domain_active ? aws_acm_certificate_validation.site[0].certificate_arn : null
+    ssl_support_method             = local.domain_active ? "sni-only" : null
+    minimum_protocol_version       = local.domain_active ? "TLSv1.2_2021" : "TLSv1"
   }
 }
 

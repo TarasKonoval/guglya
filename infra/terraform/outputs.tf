@@ -50,3 +50,12 @@ output "google_redirect_uri" {
 output "google_enabled" {
   value = local.google_enabled
 }
+
+output "name_servers" {
+  description = "Set these as the domain's nameservers at the registrar"
+  value       = local.has_domain ? aws_route53_zone.main[0].name_servers : []
+}
+
+output "site_url" {
+  value = local.domain_active ? "https://${var.domain_name}" : "https://${aws_cloudfront_distribution.frontend.domain_name}"
+}

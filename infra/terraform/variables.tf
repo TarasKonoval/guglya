@@ -34,3 +34,15 @@ variable "google_client_secret" {
   default   = ""
   sensitive = true
 }
+
+variable "domain_name" {
+  description = "Custom domain for the site (apex), e.g. guglya.studio. Empty = only *.cloudfront.net"
+  type        = string
+  default     = ""
+}
+
+variable "domain_delegated" {
+  description = "Set to true after the registrar's nameservers point at the Route 53 zone (terraform output name_servers)"
+  type        = bool
+  default     = false
+}

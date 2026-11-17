@@ -4,3 +4,6 @@ my_ip_cidr   = "203.0.113.10/32" # echo "$(curl -s https://checkip.amazonaws.com
 # Optional: Google sign-in (Google Cloud Console -> APIs & Services -> Credentials -> OAuth client ID, type "Web application")
 google_client_id     = ""
 google_client_secret = ""
+# Optional custom domain: apply once, set `terraform output name_servers` at the registrar, then domain_delegated = true + apply
+domain_name      = ""
+domain_delegated = false

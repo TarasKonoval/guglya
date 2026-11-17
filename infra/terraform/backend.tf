@@ -56,7 +56,7 @@ resource "aws_lambda_function" "backend" {
       COGNITO_USER_POOL_ID = aws_cognito_user_pool.main.id
       COGNITO_CLIENT_ID    = aws_cognito_user_pool_client.web.id
       COGNITO_JWKS         = data.http.cognito_jwks.response_body
-      CORS_ORIGINS         = "https://${aws_cloudfront_distribution.frontend.domain_name},http://localhost:5173"
+      CORS_ORIGINS         = join(",", concat(local.site_origins, ["http://localhost:5173"]))
     }
   }
 

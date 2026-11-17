@@ -105,8 +105,7 @@ resource "aws_cognito_user_pool_domain" "main" {
 
 locals {
   google_enabled = var.google_client_id != ""
-  site_url       = "https://${aws_cloudfront_distribution.frontend.domain_name}"
-  oauth_urls     = ["${local.site_url}/", "http://localhost:5173/"]
+  oauth_urls     = concat([for o in local.site_origins : "${o}/"], ["http://localhost:5173/"])
 }
 
 resource "aws_cognito_identity_provider" "google" {
@@ -126,5 +125,14 @@ resource "aws_cognito_identity_provider" "google" {
     email_verified = "email_verified"
     name           = "name"
     username       = "sub"
+  }
+
+  # Cognito fills in Google's endpoint defaults; don't fight them on every plan
+  lifecycle {
+    ignore_changes = [
+      provider_details["attributes_url"], provider_details["attributes_url_add_attributes"],
+      provider_details["authorize_url"], provider_details["oidc_issuer"],
+      provider_details["token_request_method"], provider_details["token_url"],
+    ]
   }
 }
