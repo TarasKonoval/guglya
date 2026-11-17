@@ -305,7 +305,7 @@
     if (!crumbs.length) doc.querySelectorAll('[class*="breadcrumb" i] a,[class*="breadcrumb" i] span,nav[aria-label*="breadcrumb" i] a').forEach((a) => crumbs.push(clean(a.textContent)));
     doc.querySelectorAll('script,style,noscript,template,svg').forEach((e) => e.remove());
     const text = clean(doc.body ? doc.body.textContent : '');
-    let name = P && clean(P.name) || clean((doc.querySelector('h1') || {}).textContent) || clean(meta(doc, 'og:title'));
+    let name = P && clean(P.name) || clean((doc.querySelector('h1') || {}).textContent) || clean((meta(doc, 'og:title') || '').split(/\s+[|–—]\s+|,\s*артикул|【|\s+-\s+купити/i)[0]);
     const ogType = meta(doc, 'og:type') || '';
     let price = null, currency = null, inStock = null, sizes = [], colors = [];
     if (P) {
@@ -353,7 +353,7 @@
     // розміри з DOM
     if (!sizes.length) {
       const box = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i]') || doc.querySelector('main');
-      if (box) box.querySelectorAll('[class*="size" i] label,[class*="size" i] button,[class*="size" i] option,[class*="size" i] span,[class*="size" i] li,[data-size],[class*="rozmir" i] *,[id*="size" i] option,select[name*="size" i] option, select[name*="rozm" i] option').forEach((e) => {
+      if (box) box.querySelectorAll('input[name*="size" i] + label,label[for*="size" i],[class*="size" i] label,[class*="size" i] button,[class*="size" i] option,[class*="size" i] span,[class*="size" i] li,[data-size],[class*="rozmir" i] *,[id*="size" i] option,select[name*="size" i] option, select[name*="rozm" i] option').forEach((e) => {
         const t = clean(e.getAttribute('data-size') || e.textContent);
         if (t && t.length <= 9) sizes.push(t);
       });
@@ -379,6 +379,11 @@
     let description = P && P.description ? P.description : null;
     const wixDesc = text.match(/Про товар\s*(.{20,1500}?)(?=\s*(Про догляд|Доставка|СУПУТНІ|$))/);
     if (wixDesc) description = description || wixDesc[1];
+    if (!description) {
+      const de = doc.querySelector('[itemprop="description"],[class*="product-description" i],[class*="product__description" i],[class*="description" i],[class*="opys" i],[id*="description" i]');
+      const dt = de && clean(de.textContent);
+      if (dt && dt.length > 30) description = dt;
+    }
     if (!description) description = meta(doc, 'og:description') || meta(doc, 'description');
     const labels = crumbs.slice(1, -1).concat(menuLabels || []);
     return build({
