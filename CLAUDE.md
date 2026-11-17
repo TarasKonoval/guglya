@@ -17,6 +17,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 
 ## Architecture (AWS eu-central-1, Terraform in infra/terraform, local state)
 - Auth: Cognito User Pool (email username, min 8 chars), pre-sign-up Lambda auto-confirms + verifies email. Public client, no secret.
+  Google sign-in: Cognito Google IdP + hosted domain guglya-auth (OAuth code flow, Amplify signInWithRedirect); Google OAuth
+  client lives in Google Cloud Console, credentials only in terraform.tfvars. Email and Google accounts are not linked.
 - Frontend: React + Vite + TS + aws-amplify v6 → private S3 + CloudFront (OAC, SPA fallback). `infra/deploy-frontend.sh`.
 - Backend: FastAPI (`backend/app`) on Lambda (container, arm64, Mangum) behind API Gateway HTTP API. `infra/deploy-backend.sh`.
   Lambda is in the default VPC without NAT: JWKS and DATABASE_URL come in as env vars from Terraform. CORS only in FastAPI.
@@ -56,5 +58,6 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - [x] 6. Live E2E: sign up → sign out → sign in → /me; test user removed
 - [x] 7. UI per spec, Playwright check at 375×812 + desktop, redeployed
 - [x] 8. README, CLAUDE.md, report template
+- [x] Google sign-in (17 Nov) — redirect to Google verified; full login to be confirmed by a human
 - [ ] Later: Monobank jar URL → redeploy frontend with VITE_DONATE_URL
 - [ ] Tue/Wed: test rounds 17 + 18 Nov (stats.py --since/--until), brand interviews, real catalog import

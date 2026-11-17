@@ -46,6 +46,7 @@ flowchart LR
 ```
 
 - **Auth:** Cognito (email + пароль від 8 символів). Pre-sign-up Lambda одразу підтверджує акаунт, тож тестувальник входить без коду з пошти.
+  Також «Продовжити з Google»: Cognito федерує вхід через Google OAuth (домен `guglya-auth.auth.eu-central-1.amazoncognito.com`, Amplify `signInWithRedirect`).
 - **Backend:** FastAPI у Lambda (VPC за замовчуванням, без NAT), тому JWKS Cognito і `DATABASE_URL` Terraform передає як змінні середовища. Токен перевіряється за RS256 / `iss` / `aud` / `token_use=id`. CORS налаштований лише у FastAPI.
 - **Дані для звіту:** `users` (кожен запит із токеном оновлює рядок), `events` (`outfit_view`, `swap`, `donate_click`, `feedback_open`), `clicks` (з позначкою `is_alternative`), `feedback` (оцінка, «чи купили б», текст).
 
@@ -93,6 +94,9 @@ npm install && npm run dev             # http://localhost:5173
 export AWS_PROFILE=guglya              # IAM-користувач з правами адміністратора (не root)
 cd infra/terraform
 cp terraform.tfvars.example terraform.tfvars   # email для бюджету + ваш IP: echo "$(curl -s https://checkip.amazonaws.com)/32"
+# Вхід через Google (необовʼязково): Google Cloud Console → OAuth client (Web application),
+#   Authorized JavaScript origin = https://<cognito_domain>, redirect URI = terraform output google_redirect_uri;
+#   google_client_id / google_client_secret → terraform.tfvars, потім terraform apply і deploy-frontend.sh
 terraform init
 
 # a) Cognito, S3 + CloudFront, ECR, бюджет
