@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { api, type OutfitSummary } from "../lib/api";
+import { api, img, type OutfitSummary } from "../lib/api";
 import OutfitCard from "../components/OutfitCard";
 
 const BENEFITS = [
@@ -8,16 +8,35 @@ const BENEFITS = [
   ["Тренди цієї осені", "без годин на Pinterest"],
   ["Під будь-який бюджет", "ціна кожної речі й усього образу"],
 ];
+const SLIDE_MS = 4500;
 
 export default function LandingPage() {
-  const [example, setExample] = useState<OutfitSummary | null>(null);
+  const [outfits, setOutfits] = useState<OutfitSummary[] | null>(null);
+  const [slide, setSlide] = useState(0);
 
   useEffect(() => {
-    api<OutfitSummary[]>("/outfits?limit=1").then((r) => setExample(r[0] ?? null)).catch(() => {});
+    api<OutfitSummary[]>("/outfits?limit=12").then(setOutfits).catch(() => setOutfits([]));
   }, []);
 
+  // Phone: look photos fill the screen behind the text and slowly change (like app welcome screens)
+  const photos = (outfits ?? []).filter((o) => o.cover_image_url).slice(0, 6);
+  useEffect(() => {
+    if (photos.length < 2 || matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+    const t = setInterval(() => setSlide((s) => (s + 1) % photos.length), SLIDE_MS);
+    return () => clearInterval(t);
+  }, [photos.length]);
+  const example = outfits?.[0] ?? null;
+
   return (
-    <main className="landing">
+    <main className={`landing ${photos.length ? "has-photos" : ""}`}>
+      {photos.length > 0 && (
+        <div className="landing-bg" aria-hidden>
+          {photos.map((o, i) => (
+            <img key={o.id} src={img(o.cover_image_url!)} alt="" className={i === slide ? "on" : ""}
+              referrerPolicy="no-referrer" loading={i === 0 ? "eager" : "lazy"} />
+          ))}
+        </div>
+      )}
       <header className="landing-top"><span className="logo">Ґуґля</span>
         <Link to="/auth?mode=signin" className="link-strong">Увійти</Link>
       </header>
