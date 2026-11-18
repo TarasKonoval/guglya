@@ -1,5 +1,6 @@
-"""Ukrainian names for products the scraper saved with Russian names (some sites put Russian into JSON-LD even
-on their Ukrainian pages). Opens each such product page and takes the name from <title> / og:title.
+"""Proper names for products the scraper saved with a bad name: Russian (some sites put Russian into JSON-LD even
+on their Ukrainian pages) or just the brand's name (Papaya). Opens each such product page and takes the name
+from <title> / og:title. A trailing ", Розмір ..." is cut from every name.
 
 python3 data/database/ua_names.py <папка>/guglya_<brand>.json [--lang-prefix /ua]
 
@@ -34,8 +35,10 @@ def main(path: str, prefix: str = "") -> None:
     doc = json.loads(f.read_text(encoding="utf-8"))
     fixed = dropped = 0
     keep = []
+    brand = (doc.get("_meta", {}).get("brand") or "").strip().lower()
     for p in doc["products"]:
-        if RUSSIAN.search(p.get("name") or ""):
+        p["name"] = re.sub(r",\s*Розмір\b.*$", "", p.get("name") or "").strip()
+        if RUSSIAN.search(p["name"]) or not p["name"] or p["name"].lower() == brand:
             url = p["source_url"]
             if prefix and prefix not in url:
                 url = re.sub(r"^(https?://[^/]+)", r"\1" + prefix, url)
@@ -45,7 +48,7 @@ def main(path: str, prefix: str = "") -> None:
                 print("  fail", url, e)
                 name = None
             time.sleep(0.4)
-            if name and not RUSSIAN.search(name):
+            if name and not RUSSIAN.search(name) and name.lower() != brand:
                 p["name"], p["source_url"] = name, url
                 fixed += 1
             else:
@@ -54,7 +57,7 @@ def main(path: str, prefix: str = "") -> None:
         keep.append(p)
     doc["products"] = keep
     f.write_text(json.dumps(doc, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"{f.name}: {fixed} renamed to Ukrainian, {dropped} dropped (still Russian), {len(keep)} kept")
+    print(f"{f.name}: {fixed} renamed from the product page, {dropped} dropped (no usable name), {len(keep)} kept")
 
 
 if __name__ == "__main__":

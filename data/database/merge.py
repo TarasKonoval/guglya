@@ -53,7 +53,11 @@ def clean_product(p, brand_id):
     p = dict(p)
     p["brand_id"] = brand_id
     p["brand"] = BRANDS.get(brand_id, {}).get("name", p.get("brand"))
-    name = re.split(r",\s*артикул|【|\s+[|–—]\s+|\s+-\s+купити", p.get("name") or "", flags=re.I)[0].strip()
+    # "Назва | Brand", "Brand | Назва" (Papaya), "Назва, артикул ...", "Назва, Розмір 36": keep the product name only
+    brand = (BRANDS.get(brand_id, {}).get("name") or "").strip().lower()
+    parts = [x.strip() for x in re.split(r",\s*артикул|【|\s+[|–—]\s+|\s+-\s+купити", p.get("name") or "", flags=re.I)]
+    name = next((x for x in parts if x and x.lower() != brand), parts[0] if parts else "")
+    name = re.sub(r",\s*Розмір\b.*$", "", name).strip()
     p["name"] = name
     cat = p.get("category")
     if cat and ("/" in cat or len(cat) > 40):
