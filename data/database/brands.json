@@ -1145,5 +1145,16 @@
     "segment": null,
     "default_gender": "female",
     "kind": "scarves"
+  },
+  {
+    "id": "papaya",
+    "name": "Papaya",
+    "site": "https://papaya.ua",
+    "instagram": null,
+    "brand_type": "Жіночий одяг",
+    "audience": "Жінкам",
+    "segment": "Масмаркет",
+    "default_gender": "female",
+    "kind": "clothes"
   }
 ]

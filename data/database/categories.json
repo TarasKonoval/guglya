@@ -255,6 +255,11 @@
     "item_types": []
   },
   {
+    "category": "Beauty",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "10% OFF",
     "slot": "other",
     "item_types": []
