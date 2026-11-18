@@ -1090,5 +1090,60 @@
     "segment": null,
     "default_gender": "male",
     "kind": "bags"
+  },
+  {
+    "id": "famo",
+    "name": "Famo",
+    "site": "https://famo.ua",
+    "instagram": "https://instagram.com/famo.ua",
+    "brand_type": "Шарфи та хустки",
+    "audience": "Ж + Ч",
+    "segment": "Масмаркет",
+    "default_gender": null,
+    "kind": "scarves"
+  },
+  {
+    "id": "bobkova",
+    "name": "Bobkova",
+    "site": "https://bobkova.ua",
+    "instagram": "https://instagram.com/bobkova_official",
+    "brand_type": "Шарфи та хустки",
+    "audience": "Жінкам",
+    "segment": "Преміум",
+    "default_gender": "female",
+    "kind": "scarves"
+  },
+  {
+    "id": "oliz",
+    "name": "OLIZ",
+    "site": "https://oliz.com.ua",
+    "instagram": "https://instagram.com/oliz_brand",
+    "brand_type": "Шарфи та хустки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "scarves"
+  },
+  {
+    "id": "dolya",
+    "name": "DOLYA",
+    "site": "https://dolya.com.ua",
+    "instagram": "https://instagram.com/dolya_brand",
+    "brand_type": "Шарфи та хустки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "scarves"
+  },
+  {
+    "id": "myscarf",
+    "name": "My Scarf",
+    "site": "https://myscarf.com.ua",
+    "instagram": "https://instagram.com/myscarf_craft",
+    "brand_type": "Шарфи та хустки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "scarves"
   }
 ]

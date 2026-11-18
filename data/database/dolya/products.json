@@ -1,0 +1,178 @@
+{
+  "_meta": {
+    "brand": "DOLYA",
+    "brand_id": "dolya",
+    "site": "https://www.dolya.com.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 7,
+    "found": 7,
+    "candidates": 116,
+    "checked": 116,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "dolya-sala-mandra",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "Sala mandra",
+      "source_url": "https://www.dolya.com.ua/product/sala-mandra/",
+      "gender": "female",
+      "category": "United Ukraine",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2024/12/s-print.jpg"
+      ],
+      "description": "Саламандра стала центральним образом колекції через її символічний зв’язок із незламністю та здатністю виживати в найекстремальніших умовах. У міфах ця істота вважається такою, що може жити у вогні, долаючи руйнівну силу стихії. Для українського народу саламандра є ідеальним символом стійкості, відновлення та сили духу, які проявляються навіть у найскладніші часи. Її здатність перетворювати виклики на джерело сили перегукується з боротьбою і прагненням до нового життя, притаманними нашій культурі. Хустка з колекції \"Саламандра: символ незламності\" стане ідеальним подарунком: Жінці, яка надихає — мамі, сестрі, подрузі чи наставниці, яка демонструє силу духу та підтримує інших. Патріотці — тій, хто з гордістю носить символи України і цінує національну ідентичність. Жінкам-лідеркам — підприємницям, активісткам чи творчим особистостям, які прагнуть змін і надихають інших. Тим, хто пережив складний період — хустка стане символом підтримки і нагадуванням про силу відродження. Закордонним друзям України — як елегантний і символічний подарунок, що представляє українську культуру і незламність. Ця хустка — не лише стильний аксесуар, але й глибокий символ, який підкреслить унікальність і силу духу кожної жінки.",
+      "care": null,
+      "collections": [
+        "Колекції"
+      ]
+    },
+    {
+      "id": "dolya-little-friends-blue",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "Little Friends Blue",
+      "source_url": "https://www.dolya.com.ua/product/little-friends-blue/",
+      "gender": "female",
+      "category": "Little Friends",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2024/08/23.jpg"
+      ],
+      "description": "Колекція присвячена нашим маленьким друзям та їх прихільницям. Обрані 16 популярних порід собак- Вест Хайленд Терʼєр, Джек Рассел Терʼєр, Французький бульдог, Левретка, Сіба-іну, Бернський Зенненгунд, Далматин, Самоїд, Померанський шпіц, Пудель, Хаскі, Афганський Хорт, Вельш Коргі, Йокшір Терʼєр, Мальтіпу, Чихуахуа. Іллюстрації- Ольга Дворянська",
+      "care": null,
+      "collections": [
+        "Колекції"
+      ]
+    },
+    {
+      "id": "dolya-winner-2",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "WINNER",
+      "source_url": "https://www.dolya.com.ua/product/winner-2/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2025/12/winner-s-blue.jpg"
+      ],
+      "description": "WINNER — легенда перемоги Колись перемога була не нагородою, а станом духу. Її впізнавали по ході коня, по напрузі повіддя, по тиші перед ривком. WINNER народився з цієї ідеї. Кінь тут — символ свободи й сили. Ремені — знак контролю над власною долею. Рух — як вибір не зупинятися. Це шовкова хустка для тих, хто не доводить — а йде й бере своє. Для тих, хто знає: справжня перемога починається всередині. WINNER — коли стиль говорить замість слів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "dolya-winner",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "WINNER",
+      "source_url": "https://www.dolya.com.ua/product/winner/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2025/12/winner-s-b.jpg"
+      ],
+      "description": "WINNER — легенда перемоги Колись перемога була не нагородою, а станом духу. Її впізнавали по ході коня, по напрузі повіддя, по тиші перед ривком. WINNER народився з цієї ідеї. Кінь тут — символ свободи й сили. Ремені — знак контролю над власною долею. Рух — як вибір не зупинятися. Це шовкова хустка для тих, хто не доводить — а йде й бере своє. Для тих, хто знає: справжня перемога починається всередині. WINNER — коли стиль говорить замість слів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "dolya-passion",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "Passion",
+      "source_url": "https://www.dolya.com.ua/product/passion/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2025/05/love-scarf-white-s.jpg"
+      ],
+      "description": "\"Passion\" — витончений шовковий аксесуар, прикрашений маками — символом пристрасті, сили та вразливості. У центрі композиції — пара в танці: жінка і чоловік, що втілюють енергію тяжіння та глибокого емоційного зв’язку. Ця модель з колекції Passion розповідає історію про чуттєвість, рух і силу почуттів, виражених мовою шовку. Нехай ваш стиль говорить про почуття. Додайте цю історію до свого гардеробу вже зараз.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "dolya-astro-diva",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "Astro Diva",
+      "source_url": "https://www.dolya.com.ua/product/astro-diva/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3900,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2024/12/scarf-astro-s.jpg"
+      ],
+      "description": "\"Астрологічна Діва\" — це нова колекція хусток бренду DOLYA, що об’єднує магію зірок і витончену естетику. На кожній хустці зображено 12 знаків зодіаку, вплетених у гармонійний танець космічної енергії. Унікальні ілюстрації поєднують символіку астрології з сучасним дизайном, створюючи містичну і водночас стильну атмосферу. Ця колекція — ідеальний вибір для тих, хто вірить у силу зірок і прагне підкреслити свій зв’язок із Всесвітом через елегантні аксесуари.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "dolya-little-friends-brown",
+      "brand": "DOLYA",
+      "brand_id": "dolya",
+      "name": "Little Friends Brown",
+      "source_url": "https://www.dolya.com.ua/product/little-friends-brown/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://www.dolya.com.ua/wp-content/uploads/2024/08/22.jpg"
+      ],
+      "description": "Колекція присвячена нашим маленьким друзям та їх прихільницям. Обрані 16 популярних порід собак- Вест Хайленд Терʼєр, Джек Рассел Терʼєр, Французький бульдог, Левретка, Сіба-іну, Бернський Зенненгунд, Далматин, Самоїд, Померанський шпіц, Пудель, Хаскі, Афганський Хорт, Вельш Коргі, Йокшір Терʼєр, Мальтіпу, Чихуахуа. Іллюстрації- Ольга Дворянська",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

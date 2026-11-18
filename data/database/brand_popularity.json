@@ -592,5 +592,35 @@
     "instagram": null,
     "instagram_followers": null,
     "checked_on": "2026-11-18"
+  },
+  "famo": {
+    "name": "Famo",
+    "instagram": "https://instagram.com/famo.ua",
+    "instagram_followers": 319000,
+    "checked_on": "2026-11-18"
+  },
+  "bobkova": {
+    "name": "Bobkova",
+    "instagram": "https://instagram.com/bobkova_official",
+    "instagram_followers": 36000,
+    "checked_on": "2026-11-18"
+  },
+  "oliz": {
+    "name": "OLIZ",
+    "instagram": "https://instagram.com/oliz_brand",
+    "instagram_followers": 44000,
+    "checked_on": "2026-11-18"
+  },
+  "dolya": {
+    "name": "DOLYA",
+    "instagram": "https://instagram.com/dolya_brand",
+    "instagram_followers": 11000,
+    "checked_on": "2026-11-18"
+  },
+  "myscarf": {
+    "name": "My Scarf",
+    "instagram": "https://instagram.com/myscarf_craft",
+    "instagram_followers": 9671,
+    "checked_on": "2026-11-18"
   }
 }
