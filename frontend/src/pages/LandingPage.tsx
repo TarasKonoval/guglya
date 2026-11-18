@@ -10,13 +10,31 @@ const BENEFITS = [
 ];
 const SLIDE_MS = 4500;
 const WALL_COLUMNS = 3;
+const CACHE_KEY = "guglya-landing"; // last outfits: a returning visitor sees the photos at once
+
+function cached(): OutfitSummary[] | null {
+  try {
+    return JSON.parse(localStorage.getItem(CACHE_KEY) ?? "null");
+  } catch {
+    return null;
+  }
+}
 
 export default function LandingPage() {
-  const [outfits, setOutfits] = useState<OutfitSummary[] | null>(null);
+  const [outfits, setOutfits] = useState<OutfitSummary[] | null>(cached);
   const [slide, setSlide] = useState(0);
 
   useEffect(() => {
-    api<OutfitSummary[]>("/outfits?limit=12").then(setOutfits).catch(() => setOutfits([]));
+    api<OutfitSummary[]>("/outfits?limit=12")
+      .then((o) => {
+        setOutfits(o);
+        try {
+          localStorage.setItem(CACHE_KEY, JSON.stringify(o));
+        } catch {
+          /* private mode: no cache */
+        }
+      })
+      .catch(() => setOutfits((o) => o ?? []));
   }, []);
 
   // Phone: look photos fill the screen behind the text and slowly change (like app welcome screens)
@@ -34,7 +52,8 @@ export default function LandingPage() {
   const columns = Array.from({ length: WALL_COLUMNS }, (_, c) => tiles.filter((_, i) => i % WALL_COLUMNS === c));
 
   return (
-    <main className={`landing ${photos.length ? "has-photos" : ""}`}>
+    // the photo layout from the first frame (also while loading): no flash of the plain layout
+    <main className={`landing ${outfits === null || photos.length ? "has-photos" : ""}`}>
       {photos.length > 0 && (
         <div className="landing-bg" aria-hidden>
           {photos.map((o, i) => (
@@ -59,7 +78,7 @@ export default function LandingPage() {
           </div>
         </section>
       </div>
-      {tiles.length > 0 && (
+      {(outfits === null || tiles.length > 0) && (
         <div className="landing-wall" aria-hidden>
           {columns.map((col, c) => (
             // each column twice: moving it by exactly half loops seamlessly

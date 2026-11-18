@@ -1,6 +1,9 @@
 """Зводить файли guglya_<brand>.json (вихід scraper.js) в одну базу.
 
-python3 data/database/merge.py <папка з guglya_*.json>
+python3 data/database/merge.py <папка з guglya_*.json> [--keep]
+
+--keep: решта брендів (яких немає в папці) лишаються з поточного products.json — так можна додати чи
+перезібрати кілька брендів без сирих файлів усіх інших. Бренди, видалені з brands.json, випадають.
 
 Пише:
   data/database/products.json        — уся база (бренди + товари)
@@ -71,7 +74,7 @@ def clean_product(p, brand_id):
     return {k: p.get(k) for k in FIELDS} | ({"price_foreign": p["price_foreign"]} if p.get("price_foreign") else {})
 
 
-def main(src):
+def main(src, keep=False):
     files = sorted(Path(src).glob("guglya_*.json"))
     best = {}
     for f in files:
@@ -100,10 +103,20 @@ def main(src):
         report.append((bid, len(uniq)))
 
     for bid, (meta, prods) in per_brand.items():
+        if not prods:
+            continue
         d = HERE / bid
         d.mkdir(exist_ok=True)
         meta = {**meta, "brand_id": bid, "brand": BRANDS.get(bid, {}).get("name", meta.get("brand")), "count": len(prods)}
         (d / "products.json").write_text(json.dumps({"_meta": meta, "products": prods}, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    if keep:
+        old = json.loads((HERE / "products.json").read_text(encoding="utf-8"))
+        kept = [p for p in old["products"] if p["brand_id"] not in per_brand and p["brand_id"] in BRANDS]
+        for bid in sorted({p["brand_id"] for p in kept}):
+            per_brand.setdefault(bid, ({}, []))  # brands_with_products / products_count below; folder stays as is
+        all_products += kept
+        print(f"kept {len(kept)} products of {len({p['brand_id'] for p in kept})} brands from products.json")
 
     cats = defaultdict(lambda: {"slot": Counter(), "types": Counter()})
     for p in all_products:
@@ -115,7 +128,8 @@ def main(src):
                   for c, v in sorted(cats.items(), key=lambda x: -sum(x[1]["slot"].values()))]
     (HERE / "categories.json").write_text(json.dumps(categories, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    brands = [b | {"products_count": len(per_brand.get(b["id"], ({}, []))[1])} for b in BRANDS.values()]
+    counts = Counter(p["brand_id"] for p in all_products)
+    brands = [b | {"products_count": counts.get(b["id"], 0)} for b in BRANDS.values()]
     db = {
         "_meta": {"name": "Ґуґля — база товарів українських брендів", "built_on": date.today().isoformat(),
                   "brands_with_products": len(per_brand), "products_count": len(all_products)},
@@ -129,4 +143,5 @@ def main(src):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1] if len(sys.argv) > 1 else ".")
+    args = [a for a in sys.argv[1:] if a != "--keep"]
+    main(args[0] if args else ".", keep="--keep" in sys.argv)

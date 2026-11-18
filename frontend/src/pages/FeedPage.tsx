@@ -33,8 +33,8 @@ function sorted(outfits: OutfitSummary[], sort: Sort) {
 }
 
 export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
-  const [gender, setGender] = useState<Gender>(() => (localStorage.getItem(GENDER_KEY) as Gender | null) ?? "women");
-  const [outfits, setOutfits] = useState<OutfitSummary[] | null>(null);
+  const [chosen, setGender] = useState<Gender | null>(() => localStorage.getItem(GENDER_KEY) as Gender | null);
+  const [all, setAll] = useState<OutfitSummary[] | null>(null); // every published outfit, split by tab below
   const [sort, setSort] = useState<Sort>(() => (sessionStorage.getItem(SORT_KEY) as Sort) ?? "popular");
   const [color, setColor] = useState(() => sessionStorage.getItem(COLOR_KEY) ?? "");
   const [filtersOpen, setFiltersOpen] = useState(false);
@@ -42,9 +42,14 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
   const reels = useMediaQuery("(max-width: 719px)");
 
   useEffect(() => {
-    setOutfits(null);
-    api<OutfitSummary[]>(`/outfits?season=autumn&gender=${gender}`).then(setOutfits).catch(() => setOutfits([]));
-  }, [gender]);
+    api<OutfitSummary[]>("/outfits?season=autumn").then(setAll).catch(() => setAll([]));
+  }, []);
+
+  // Only tabs that have outfits; the feed opens on the remembered tab if it has any, else the first one that does
+  const forTab = (g: Gender) => (all ?? []).filter((o) => o.gender === g || (o.gender === "unisex" && g !== "couple"));
+  const tabs = all?.length ? GENDERS.filter((g) => forTab(g.id).length) : GENDERS;
+  const gender: Gender = tabs.some((g) => g.id === chosen) ? chosen! : tabs[0].id;
+  const outfits = all && forTab(gender);
 
   // Reels mode: the feed fills the screen, no page scroll / footer / floating button
   useEffect(() => {
@@ -77,7 +82,7 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
   const chips = (
     <div className="chips feed-toolbar">
       <div className="seg" role="group" aria-label="Чиї образи">
-        {GENDERS.map((g) => (
+        {tabs.map((g) => (
           <button key={g.id} className={gender === g.id ? "on" : ""} aria-pressed={gender === g.id}
             onClick={() => pickGender(g.id)}>{g.label}</button>
         ))}

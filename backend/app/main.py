@@ -121,6 +121,50 @@ SAME_TYPE_BONUS = 0.06    # кеди -> кеди before кеди -> череви
 MIN_SIMILARITY = 0.6      # below this it's a different kind of item: better no alternative than a wrong one
 
 
+# Alternatives stay within the item's kind: trousers vs sweatpants vs jeans, loafers vs boots vs sneakers...
+# (falls back to the whole slot only when the group has fewer than MIN_GROUP candidates).
+TYPE_GROUPS = {
+    "coat": ["Пальто", "Тренч", "Шуба", "Дублянка"],
+    "jacket": ["Куртка", "Бомбер", "Пуховик", "Парка", "Вітрівка", "Косуха"],
+    "knit": ["Светр", "Джемпер", "Гольф", "Водолазка", "Кардиган"],
+    "sweatshirt": ["Світшот", "Худі"],
+    "shirt": ["Сорочка", "Блуза", "Вишиванка"],
+    "tee": ["Футболка", "Лонгслів", "Поло", "Майка"],
+    "fitted_top": ["Топ", "Боді", "Корсет"],
+    "trousers": ["Брюки", "Чіноси", "Штани"],
+    "jeans": ["Джинси"],
+    "sweatpants": ["Спортивні штани", "Легінси", "Джогери"],
+    "dress_shoes": ["Туфлі", "Лофери", "Мюлі", "Дербі", "Оксфорди", "Монки"],
+    "boots": ["Черевики", "Чоботи"],
+    "sneakers": ["Кросівки", "Кеди"],
+    "sandals": ["Сандалі", "Капці", "Шльопанці"],
+    "dress": ["Сукня", "Комбінезон"],
+    "suit": ["Класичний костюм", "Костюм"],
+    "tracksuit": ["Спортивний костюм"],
+    "beanie": ["Шапка", "Балаклава"],
+    "cap": ["Кепка", "Бейсболка"],
+    "brimmed": ["Капелюх", "Панама"],
+}
+GROUP_OF = {t.lower(): g for g, types in TYPE_GROUPS.items() for t in types}
+# Shop types are sometimes too broad ("Брюки" for fleece joggers, "Взуття" for anything): the title decides first
+TITLE_GROUPS = [
+    ("bottom", "спортивн|фліс|джогер|jogger|sweatpant|трикотажн|тринитк|трьохнитк|футер", "sweatpants"),
+    ("bottom", "джинс|denim|jeans", "jeans"),
+    ("top", "світшот|худі|hoodie|sweatshirt|фліс|тринитк|футер", "sweatshirt"),
+    ("shoes", "черевик|чобот|boots|ботильйон|челсі", "boots"),
+    ("shoes", "кросівк|кеди|sneaker|trainer", "sneakers"),
+    ("shoes", "лофер|loafer|туфл|дербі|derby|оксфорд|oxford|монки|мокасин", "dress_shoes"),
+]
+MIN_GROUP = 3
+
+
+def type_group(a: str) -> str:
+    """SQL: the item-type group of product alias `a` (title rules first, then its item_type)."""
+    rules = " ".join(f"when {a}.category = '{cat}' and {a}.title ~* '{rx}' then '{g}'" for cat, rx, g in TITLE_GROUPS)
+    types = " ".join(f"when lower({a}.item_type) = '{t}' then '{g}'" for t, g in GROUP_OF.items())
+    return f"(case {rules} {types} else {a}.item_type end)"
+
+
 def gender_ok(target: str) -> str:
     """SQL condition on p.gender for an outfit for `target`: men's outfits get men's items only,
     women's outfits women's + unisex; anything else (couple person of unknown gender) everything."""
@@ -131,26 +175,30 @@ def gender_ok(target: str) -> str:
 
 @app.get("/outfits/{outfit_id}/similar/{slot}")
 def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = None, limit: int = 5):
-    """AI alternatives: same category, in stock, other brands (one per brand first), for the outfit's gender
-    (a couple look: the original item's gender); ranked by CLIP similarity with bonuses for the same item type
-    (кеди -> кеди) and popular brands. Clearly different items (similarity < MIN_SIMILARITY) are left out."""
+    """AI alternatives: same category and the same kind of item (trousers vs sweatpants, loafers vs boots...; the
+    whole category only if that kind has < MIN_GROUP candidates), in stock, other brands (one per brand first), for
+    the outfit's gender (a couple look: the original item's gender); ranked by CLIP similarity with bonuses for the
+    exact item type and popular brands. Clearly different items (similarity < MIN_SIMILARITY) are left out."""
     return fetch_all(
         f"""with hero as (
-              select p.id, p.brand_id, p.embedding, p.category, p.price_uah, p.item_type,
+              select p.id, p.brand_id, p.embedding, p.category, p.price_uah, p.item_type, {type_group("p")} as grp,
                      case when o.gender in ('men', 'women') then o.gender else p.gender end as target
               from outfit_items oi join outfits o on o.id = oi.outfit_id join products p on p.id = oi.product_id
               where oi.outfit_id = %(outfit)s and oi.person = %(person)s and oi.slot = %(slot)s
-            ), pop as ({BRAND_POPULARITY}), ranked as (
+            ), pop as ({BRAND_POPULARITY}), pool as (
               select {PRODUCT_COLS},
                      p.price_uah - hero.price_uah as price_diff,
                      1 - (p.embedding <=> hero.embedding) as similarity,
                      coalesce(pop.score, 0) as brand_score,
-                     (p.item_type is not distinct from hero.item_type) as same_type
+                     (p.item_type is not distinct from hero.item_type) as same_type,
+                     ({type_group("p")} is not distinct from hero.grp) as same_group
               from products p join brands b on b.id = p.brand_id left join pop on pop.brand_id = p.brand_id, hero
               where p.category = hero.category and p.in_stock and p.brand_id <> hero.brand_id
                 and p.embedding is not null and {gender_ok("hero.target")}
-                and (%(color)s::text is null or p.color = %(color)s)
                 and 1 - (p.embedding <=> hero.embedding) >= {MIN_SIMILARITY}
+            ), ranked as (
+              select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
+              where (same_group or n_group < {MIN_GROUP}) and (%(color)s::text is null or color = %(color)s)
             ), scored as (
               select *, similarity + {SAME_TYPE_BONUS} * same_type::int + {POPULARITY_WEIGHT} * brand_score as score
               from ranked
@@ -309,7 +357,8 @@ def admin_match(body: MatchIn, _: dict = Depends(admin_user)):
                      1 - (p.embedding <=> %(vec)s::vector) as similarity,
                      coalesce(pop.score, 0) as brand_score,
                      (p.color is not distinct from %(color)s) as same_color,
-                     (p.item_type is not distinct from %(item_type)s) as same_type
+                     (p.item_type is not distinct from %(item_type)s) as same_type,
+                     ({type_group("p")} is not distinct from %(group)s) as same_group
               from products p join brands b on b.id = p.brand_id left join pop on pop.brand_id = p.brand_id
               where p.category = %(slot)s and p.in_stock and not p.is_demo and p.embedding is not null
                 and {gender_ok("%(gender)s")}
@@ -317,9 +366,11 @@ def admin_match(body: MatchIn, _: dict = Depends(admin_user)):
               order by p.embedding <=> %(vec)s::vector
               limit 200
             ), scored as (
+              -- the AI's kind of item only (whole slot if it has < MIN_GROUP matches or the kind is unknown)
               select *, similarity + 0.02 * same_color::int + 0.03 * same_type::int
                         + {POPULARITY_WEIGHT} * brand_score as score
-              from ranked
+              from (select *, count(*) filter (where same_group) over () as n_group from ranked) g
+              where %(group)s::text is null or same_group or n_group < {MIN_GROUP}
             )
             select id, title, brand, category, color, price_uah, old_price_uah, image_url, product_url, item_type,
                    round(similarity::numeric, 3)::float as similarity
@@ -327,7 +378,8 @@ def admin_match(body: MatchIn, _: dict = Depends(admin_user)):
             order by brand_rank, score desc
             limit %(limit)s""",
         {"vec": str(body.vector), "slot": body.slot, "gender": body.gender, "color": body.color,
-         "only_color": body.only_color, "item_type": body.item_type, "limit": body.limit},
+         "only_color": body.only_color, "item_type": body.item_type,
+         "group": GROUP_OF.get((body.item_type or "").strip().lower()), "limit": body.limit},
     )
 
 

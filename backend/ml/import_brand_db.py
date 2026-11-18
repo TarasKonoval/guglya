@@ -10,10 +10,12 @@ Popularity (Instagram followers) comes from data/database/brand_popularity.json 
 
 Admin-hidden products stay hidden. Run backend/ml/embed.py, then backend/ml/classify_gender.py after an import.
 
-Skipped: accessories (slot "other"), products without a (plausible) UAH price, products marked out of stock.
+Skipped: accessories (slot "other"), products without a (plausible) UAH price, products marked out of stock,
+Russian product names.
 """
 import json
 import os
+import re
 import sys
 from pathlib import Path
 
@@ -40,6 +42,8 @@ DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спо
 OUTER_TYPES = {"Пальто", "Куртка", "Бомбер", "Пуховик", "Тренч", "Шуба", "Парка", "Вітрівка", "Дублянка", "Косуха"}
 JACKET_TYPES = {"Піджак"}  # "jacket" slot (migration 007)
 MIN_PRICE = 100  # below this the scraper misread the price (e.g. "8 990" -> 8)
+# Russian product names never go on the site (scrape the Ukrainian version of the brand's site instead)
+RUSSIAN = re.compile(r"[ыэъё]|\b(мужск|женск|платье|юбк|рубашк|свитер|джинсы|шорты|брюки\s+(с|из)\b)|\bв\s+цвете\b|\bс\s+(принтом|карманами|воротником)", re.I)
 GENDER = {"female": "women", "male": "men", "unisex": "unisex"}
 AUDIENCE = {"Жінкам": "women", "Жінкам (зараз)": "women", "Чоловікам": "men"}
 
@@ -52,7 +56,7 @@ def to_row(p: dict, brand: dict) -> tuple | None:
     if p.get("slot") not in ("hat", "top", "bottom", "shoes") or p.get("in_stock") is False:
         return None
     price, sale = p.get("price_uah"), p.get("sale_price_uah")
-    if not price or price < MIN_PRICE or not p.get("photos"):
+    if not price or price < MIN_PRICE or not p.get("photos") or RUSSIAN.search(p.get("name") or ""):
         return None
     on_sale = bool(sale) and MIN_PRICE <= sale < price
     kind = p.get("item_type")

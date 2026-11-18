@@ -16,7 +16,8 @@
 
 **Демо:** https://guglya.studio · **API:** https://bn43uwfr9f.execute-api.eu-central-1.amazonaws.com/health
 
-> Зараз на сайті **демо-каталог**: 8 вигаданих брендів, 60 речей, 10 осінніх образів; ілюстрації намальовані нами, а «До бренду →» веде на нашу сторінку `/demo/<id>`. Реальні каталоги додаємо лише від брендів, які дали дозвіл на використання фото.
+> **Каталог:** реальні товари **37 українських брендів — 7 469 речей** (одяг, взуття, головні убори) з цінами в гривнях, зібрані з сайтів брендів (див. [docs/catalog.md](docs/catalog.md)). Образи збираємо самі в адмінці `/admin`: фото образу → AI знаходить схожі речі в каталозі → перевіряємо й публікуємо. Покупка відбувається на сайті бренду (перехід із кошика).
+> **Фото брендів:** факультет погодив із бізнесами показ фото товарів на етапі студентського проєкту; перед публічним запуском пишемо кожному бренду окремо (шаблон листа в docs/catalog.md).
 
 | Стрічка | Образ і заміни | АутфітЧек |
 | --- | --- | --- |
@@ -26,9 +27,10 @@
 
 ## Як працює AI-підбір
 
-1. Для кожного фото товару офлайн рахуємо ембединг моделлю **FashionCLIP** (`patrickjohncyh/fashion-clip`, CLIP, донавчений на фото одягу): нормалізований вектор на 512 чисел, що кодує крій, колір і фактуру (`backend/ml/embed.py`, на Mac працює на GPU через MPS).
+1. Для кожного фото товару офлайн рахуємо ембединг моделлю **FashionCLIP** (`patrickjohncyh/fashion-clip`, CLIP, донавчений на фото одягу): нормалізований вектор на 512 чисел, що кодує крій, колір і фактуру (`backend/ml/embed.py`). Ним же сортуємо «унісекс»-товари на жіночі/чоловічі (`classify_gender.py`).
 2. Вектори зберігаються в Postgres у колонці `products.embedding` (розширення **pgvector**).
-3. `GET /outfits/{id}/similar/{slot}` бере оригінальну річ образу й шукає найближчі за косинусною відстанню (`<=>`) речі тієї ж категорії, що є в наявності, **лише в інших брендів**, спершу по одній від кожного бренду. Є опційний фільтр кольору, а також різниця в ціні з оригіналом.
+3. `GET /outfits/{id}/similar/{slot}` бере оригінальну річ образу й шукає найближчі за косинусною відстанню (`<=>`) речі **того ж виду** (брюки ≠ спортивні штани ≠ джинси, лофери ≠ черевики ≠ кросівки; увесь слот — лише якщо такого виду < 3), що є в наявності, **лише в інших брендів** (спершу по одній від кожного), для статі образу; схожість ≥ 0.6; бонуси за той самий тип речі й популярність бренду (Instagram + наші кліки). Є фільтр кольору й різниця в ціні з оригіналом.
+4. **Конструктор образів** (`/admin`, лише група Cognito `admins`): фото образу → Claude Sonnet 4.6 (Amazon Bedrock) перелічує речі (слот, тип, колір, опис англійською, назва й тег образу) → FashionCLIP перетворює опис у вектор → пошук по каталогу → адмін перевіряє, замінює й публікує.
 
 ## Архітектура
 
@@ -42,7 +44,8 @@ flowchart LR
   APIGW --> L[Lambda: FastAPI<br/>container arm64 + Mangum]
   L -->|SSL, приватно у VPC| RDS[(RDS PostgreSQL 16<br/>+ pgvector)]
   ECR[(ECR)] -.->|образ| L
-  DEV[Ноутбук: migrate.py,<br/>import_catalog.py, embed.py,<br/>stats.py] -->|SSL, лише з IP розробника| RDS
+  DEV[Ноутбук: migrate.py,<br/>import_brand_db.py, embed.py,<br/>stats.py] -->|SSL, лише з IP розробника| RDS
+  U -->|адмін: фото образу| AG[Lambda агент<br/>Function URL] -->|Converse| BR[Bedrock<br/>Claude Sonnet 4.6]
 ```
 
 - **Auth:** Cognito (email + пароль від 8 символів). Pre-sign-up Lambda одразу підтверджує акаунт, тож тестувальник входить без коду з пошти.
@@ -54,14 +57,18 @@ flowchart LR
 
 ```
 backend/            FastAPI (app/), Lambda handler, Dockerfile (локально) і Dockerfile.lambda
-  ml/               import_catalog.py (CSV/JSON → БД), embed.py (FashionCLIP → pgvector)
+  agent/            Lambda-агент конструктора образів (Bedrock + FashionCLIP), infra/deploy-agent.sh
+  ml/               import_brand_db.py (каталог брендів → БД), embed.py (FashionCLIP → pgvector),
+                    classify_gender.py, import_catalog.py (демо)
   scripts/          migrate.py (міграції), stats.py (цифри для звіту)
 frontend/           React + Vite + TypeScript, aws-amplify v6
 infra/
   terraform/        уся AWS-інфраструктура (Cognito, RDS, Lambda, API GW, S3, CloudFront, ECR, SSM, Budget)
   db/migrations/    SQL-схема
   deploy-backend.sh, deploy-frontend.sh, seed-demo.sh, docker-compose.yml
-data/demo/          генератор демо-каталогу, catalog.csv, outfits.json, img/
+data/database/      збирач каталогу (scrape.mjs + scraper.js, Андрій), brands.json, brand_popularity.json,
+                    merge.py → products.json (див. docs/catalog.md)
+data/demo/          старий демо-каталог (приховано на сайті)
 docs/               шаблон звіту, скріншоти
 ```
 
@@ -118,17 +125,21 @@ VITE_DONATE_URL=https://send.monobank.ua/jar/XXXX infra/deploy-frontend.sh
 
 Оновлення коду: `infra/deploy-backend.sh` (білд arm64 → ECR → Lambda → перевірка `/health`) і `infra/deploy-frontend.sh` (білд → S3 → інвалідація CloudFront). Змінився IP ноутбука? Оновіть `my_ip_cidr` у `terraform.tfvars` і виконайте `terraform apply`.
 
-## Реальний каталог
+## Каталог брендів
 
-1. Заповнити `data/catalog.csv` (колонки: `brand, brand_site, title, category, color, price_uah, image_url, product_url, in_stock`; `category` ∈ hat/top/bottom/shoes) і `data/outfits.json` (`title, season, cover_image_url, style_tag, items {slot: product_url}`; шапка необовʼязкова). Приклади: `data/catalog.example.csv`, `data/outfits.example.json`. Лише фото брендів, які дали дозвіл.
-2. Імпорт і ембединги:
-   ```bash
-   export DATABASE_URL=$(aws ssm get-parameter --name /guglya/database_url --with-decryption --query Parameter.Value --output text)
-   export IMAGE_BASE_URL=$(terraform -chdir=infra/terraform output -raw site_url)   # для відносних /img/ шляхів
-   python backend/ml/import_catalog.py --purge-demo data/catalog.csv data/outfits.json
-   python backend/ml/embed.py           # рахує лише товари без ембедингу
-   ```
-   `--purge-demo` ховає демо-дані (знімає з публікації, «немає в наявності»), але не видаляє їх, щоб кліки й події з демо залишились у звіті.
+Повний опис і чек-лист нового бренду: **[docs/catalog.md](docs/catalog.md)**. Коротко:
+
+```bash
+cd data/database && npm ci
+node scrape.mjs --out <папка> --only <id>        # бренд із brands.json → <папка>/guglya_<id>.json
+python3 merge.py <папка> --keep                   # → products.json (решта брендів лишаються)
+cd ../..
+export DATABASE_URL=$(aws ssm get-parameter --name /guglya/database_url --with-decryption --query Parameter.Value --output text)
+backend/.venv/bin/python backend/ml/import_brand_db.py   # бренди + товари (лише ціни в ₴, без аксесуарів і російських назв)
+backend/.venv/bin/python backend/ml/embed.py             # FashionCLIP-вектори нових фото
+backend/.venv/bin/python backend/ml/classify_gender.py   # унісекс → жіноче/чоловіче за фото
+```
+Образи: `/admin` на сайті (фото → AI → перевірка → публікація, редагування опублікованих). Старий демо-каталог прихований (`import_catalog.py --purge-demo`), його кліки й події лишились у звіті.
 
 ## Статистика для звіту
 
@@ -152,11 +163,15 @@ terraform -chdir=infra/terraform destroy    # RDS без фінального с
 | Метод | Шлях | Auth | Що |
 | --- | --- | --- | --- |
 | GET | `/health` | — | перевірка |
-| GET | `/me` | так | поточний користувач (+ реєстрація в `users`) |
 | GET | `/outfits?season=autumn` | — | стрічка: образи із сумою та прев'ю речей |
 | GET | `/outfits/{id}` | — | образ з оригінальними речами по слотах |
 | GET | `/outfits/{id}/similar/{slot}?color=&limit=5` | — | AI-альтернативи (pgvector) з різницею ціни |
-| GET | `/products/{id}` | — | товар (для сторінки `/demo/:id`) |
+| GET | `/products/{id}` | — | товар |
+| GET/PUT | `/me` | так | профіль (імʼя, прізвище, телефон) |
+| GET/POST/DELETE | `/cart[/{product_id}]` | так | кошик; з нього — перехід на сайт бренду |
+| POST | `/admin/match` | admins | товари каталогу для вектора речі (конструктор) |
+| GET/POST/PUT/PATCH | `/admin/outfits[/{id}]` | admins | створити / редагувати / сховати образ, обкладинка |
+| PATCH | `/admin/products/{id}` | admins | сховати товар з каталогу |
 | POST | `/clicks` | опц. | логує клік, повертає URL бренду з UTM |
 | POST | `/events` | опц. | `outfit_view` / `swap` / `donate_click` / `feedback_open` |
 | GET/POST/DELETE | `/saved[/{outfit_id}]` | так | збережені образи |
