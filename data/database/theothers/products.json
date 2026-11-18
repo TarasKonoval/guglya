@@ -1,0 +1,3446 @@
+{
+  "_meta": {
+    "brand": "The Others",
+    "brand_id": "theothers",
+    "site": "https://theothers.com.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 143,
+    "found": 143,
+    "candidates": 163,
+    "checked": 163,
+    "errors": [
+      "TypeError: Failed to fetch"
+    ]
+  },
+  "products": [
+    {
+      "id": "theothers-baletky-z-khutra-veracamel",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Балетки з хутра VeraCamel",
+      "source_url": "https://theothers.com.ua/product/baletky-z-khutra-veracamel/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 1900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/e5b91ea5-2691-4d2d-80ec-73baf5cb349e.jpeg"
+      ],
+      "description": "Верх: бавовна Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-milablack02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки MilaBlack02",
+      "source_url": "https://theothers.com.ua/product/milablack02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1712148574-7.jpeg"
+      ],
+      "description": "Верх: замша 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-sophiearia",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки SophieAria",
+      "source_url": "https://theothers.com.ua/product/sophiearia/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_1010.jpeg"
+      ],
+      "description": "Верх: замша 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-elinbrown02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки ElinBrown02",
+      "source_url": "https://theothers.com.ua/product/elinbrown02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1712148626.jpeg"
+      ],
+      "description": "Верх: замша 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-clairesand",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки з фурніторою ClaireSand",
+      "source_url": "https://theothers.com.ua/product/clairesand/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_1002.jpeg"
+      ],
+      "description": "Верх: замша 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-ellepist",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки EllePist",
+      "source_url": "https://theothers.com.ua/product/ellepist/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/1.jpg"
+      ],
+      "description": "Верх: шкіра 100%Підклад: шкіра 100%Підошва: туніт3637383940412323,524,525,526,527,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-hopeblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки з застібкою HopeBlack",
+      "source_url": "https://theothers.com.ua/product/hopeblack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3450,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1716335289-6.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-hopebordo",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки з застібкою HopeBordo",
+      "source_url": "https://theothers.com.ua/product/hopebordo/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3450,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1712159371.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-beletki-sophiec",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бежеві балетки SophieC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-beletki-sophiec/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/650ed852-affa-4a5d-b24f-f2d53ae34add-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-bezhevye-baletki-s-kvadratnym-noskom-verac",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бежеві балетки з квадратним носком VeraC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-bezhevye-baletki-s-kvadratnym-noskom-verac/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_7750.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт Сделано в Украине 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-bordovye-baletki-s-kvadratnym-noskom-verabordo",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бордові балетки з квадратним носком VeraBordo",
+      "source_url": "https://theothers.com.ua/product/kozhanye-bordovye-baletki-s-kvadratnym-noskom-verabordo/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_6410.jpeg"
+      ],
+      "description": "Верх: шкіра 100%Підклад: шкіра 100%Підошва: туніт3637383940412323,524,525,526,527,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-ingridc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні туфлі IngridC",
+      "source_url": "https://theothers.com.ua/product/ingridc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1712149292-2.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevi-miuli-aronsand",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві клоги AronSand",
+      "source_url": "https://theothers.com.ua/product/zamshevi-miuli-aronsand/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5302990687693818278_w.jpg"
+      ],
+      "description": "Верх: замша Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-siennasiepe",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві клоги SiennaSiepe",
+      "source_url": "https://theothers.com.ua/product/siennasiepe/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0892.jpeg"
+      ],
+      "description": "Верх: замша Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-zamshevi-miuli-zi-shvom-speredu-vitaolive02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі зі швом спереду VitaOlive02",
+      "source_url": "https://theothers.com.ua/product/zamshevi-miuli-zi-shvom-speredu-vitaolive02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_6415.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-loren",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Мюлі з квадратним носком LorenB",
+      "source_url": "https://theothers.com.ua/product/loren/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5404491613985686910_y.jpg"
+      ],
+      "description": "Верх: шкіра та замша Підклад: шкіра Устілка: шкіра Підошва: туніт",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-bezhevye-shlepki-s-rezinkoj-na-podeme-beverlyc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бежеві шльопанці з резинкою на підйомі BeverlyC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-bezhevye-shlepki-s-rezinkoj-na-podeme-beverlyc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2700,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/0d40ce49-2841-4abe-8015-ebaab3ffc482-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-mjuli-s-perekresnymi-remeshkami-siac",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні мюлі з перехресними ремінцями SiaC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-mjuli-s-perekresnymi-remeshkami-siac/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9351_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-mjuli-na-ploskoj-podoshve-maddieb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні мюлі на плоскій підошві MaddieB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-mjuli-na-ploskoj-podoshve-maddieb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/maddieb5.jpeg"
+      ],
+      "description": "Верх: 100% шкіраПідклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-pletenye-bosonozhki-giac",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні плетені босоніжки GiaC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-pletenye-bosonozhki-giac/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_7680.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт Сделано в Украине 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-krasnogo-cveta-samred",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці червоного кольору SamRed",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-krasnogo-cveta-samred/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_7740.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-shlopantsi-tkanevi-z-bakhromoiu-deboraml63",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шльопанці тканеві з бахромою DeboraML63",
+      "source_url": "https://theothers.com.ua/product/shlopantsi-tkanevi-z-bakhromoiu-deboraml63/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/01dc65e2-1100-4568-98eb-9ae1acf3064e.jpeg"
+      ],
+      "description": "Верх: 100% бавовна Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-bezhevye-mjuli-gracec",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бежеві мюлі GraceC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-bezhevye-mjuli-gracec/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/24afa5f9-c689-4c70-8c73-171dbd8a8143-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-belye-mjuli-gracew",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні білі мюлі GraceW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-belye-mjuli-gracew/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/ea72a6fd-b8ef-4ab8-850c-4b32a1c1bfe1-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-bosonozhki-na-kalbuke-s-tonkimi-remeshkami-chrisbr",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Босоніжки на калбуку із тонкими ремінцями ChrisBr",
+      "source_url": "https://theothers.com.ua/product/bosonozhki-na-kalbuke-s-tonkimi-remeshkami-chrisbr/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9488_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-gracearia02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі GraceAria02",
+      "source_url": "https://theothers.com.ua/product/gracearia02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-1.jpg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": [
+        "Літня колекція",
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-mjuli-s-perekrestnymi-remeshkami-3",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі з перехресними ремінцями MiaLime02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-mjuli-s-perekrestnymi-remeshkami-3/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": 1600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9392_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: замша 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-zamshevi-miuli-zi-shvom-speredu-vitabrown02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі зі швом спереду VitaBrown02",
+      "source_url": "https://theothers.com.ua/product/zamshevi-miuli-zi-shvom-speredu-vitabrown02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/vitaolive026.jpg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": [
+        "Літня колекція",
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevi-chervoni-tufli-na-pidborakh-susanred02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві червоні туфлі на підборах SusanRed02",
+      "source_url": "https://theothers.com.ua/product/zamshevi-chervoni-tufli-na-pidborakh-susanred02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/5373322164440260117.jpg"
+      ],
+      "description": "Верх: замша Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-susanblack02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві чорні туфлі на підборах SusanBlack02",
+      "source_url": "https://theothers.com.ua/product/susanblack02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1712159366-2.jpeg"
+      ],
+      "description": "Верх: замша Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Літня колекція"
+      ]
+    },
+    {
+      "id": "theothers-miuli-z-tkanyny-vitaml63",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Мюлі з тканини VitaML63",
+      "source_url": "https://theothers.com.ua/product/miuli-z-tkanyny-vitaml63/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/f75dbe02-4ada-40cc-900b-ef111b9e045d.jpeg"
+      ],
+      "description": "Верх: бавовна Підклад: шкіра Устілка: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": [
+        "Літня колекція",
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-strejchevye-botilony-sennib",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Стрейчові ботильйони SenniB",
+      "source_url": "https://theothers.com.ua/product/strejchevye-botilony-sennib/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/d5378a1e-4b8f-444b-bba5-c43fb3a99c9c.jpeg"
+      ],
+      "description": "Верх: шкіра 50%, інші матеріали 50% Підклад: байка Каблук: 7 см Підошва: туніт",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-susanwhite",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні туфлі на підборах SusanWhite",
+      "source_url": "https://theothers.com.ua/product/susanwhite/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-3.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-tufli-lodochki-na-ustojchivom-kabluke-paigeb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні туфлі човники на стійких підборах PaigeB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-tufli-lodochki-na-ustojchivom-kabluke-paigeb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2850,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/0-02-05-677d780799051b78af03b3e56f2a62cca4ad63fac11f8d4b4371845e31eb7bcb_dfcf8391690e124f.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-bezhevye-tufli-iz-kozhi-na-ustojchivom-kabluke-catc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Бежеві туфлі зі шкіри на стійких підборах CatC",
+      "source_url": "https://theothers.com.ua/product/bezhevye-tufli-iz-kozhi-na-ustojchivom-kabluke-catc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/bezymjannyj-07905.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-belye-tufli-catwhite",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Білі туфлі CatWhite",
+      "source_url": "https://theothers.com.ua/product/belye-tufli-catwhite/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9675_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-tufli-na-ustojchivom-kabluke",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні туфлі на стійких підборах TracyB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-tufli-na-ustojchivom-kabluke/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 1200,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_5516-1.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-haki-tufli-iz-kozhi-na-ustojchivom-kabluke-catkh",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Хакі туфлі зі шкіри на стійких підборах CatKH",
+      "source_url": "https://theothers.com.ua/product/haki-tufli-iz-kozhi-na-ustojchivom-kabluke-catkh/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/d130197d-2c7e-4421-b109-a72f5cd13d0c.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-chernye-kozhanye-tufli-na-ustojchivom-kabluke-catblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Чорні шкіряні туфлі на стійких підборах CatBlack",
+      "source_url": "https://theothers.com.ua/product/chernye-kozhanye-tufli-na-ustojchivom-kabluke-catblack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/catb4.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-mayashore",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві Мері Джейн MayaShore",
+      "source_url": "https://theothers.com.ua/product/mayashore/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_1001.jpeg"
+      ],
+      "description": "Верх: Замша Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-mayatoffe",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві Мері Джейн MayaToffe",
+      "source_url": "https://theothers.com.ua/product/mayatoffe/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0986.jpeg"
+      ],
+      "description": "Верх: замша Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-mayaaria",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві Мері Джейн MayaAria",
+      "source_url": "https://theothers.com.ua/product/mayaaria/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0995.jpeg"
+      ],
+      "description": "Верх: Замша Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-mayapalude",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві Мері Джейн MayaPalude",
+      "source_url": "https://theothers.com.ua/product/mayapalude/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": 3700,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0985.jpeg"
+      ],
+      "description": "Верх: Замша Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-vysokie-kazaki-amandatoffi",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі замшеві козаки AmandaToffi",
+      "source_url": "https://theothers.com.ua/product/zamshevye-vysokie-kazaki-amandatoffi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": 4700,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-5.jpg"
+      ],
+      "description": "Верх: 100% замша Підклад: байка Устілка: байка Підошва: ТЕП Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-gabbyblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі замшеві черевики GabbyBlack",
+      "source_url": "https://theothers.com.ua/product/gabbyblack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-6.jpg"
+      ],
+      "description": "Верх: замша Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-gabbytoffi",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі замшеві черевики GabbyToffi",
+      "source_url": "https://theothers.com.ua/product/gabbytoffi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9274.jpeg"
+      ],
+      "description": "Верх: замша Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-polubotinki-s-molnijami-rebeccatoffi",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві черевики з блискавками RebeccaToffi",
+      "source_url": "https://theothers.com.ua/product/zamshevye-polubotinki-s-molnijami-rebeccatoffi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": 3200,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_2788.jpg"
+      ],
+      "description": "Верх: 100% замшаПідклад: 100% байка Устілка: 100% байка Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-strechevye-botynky-leslieb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Стрейчеві черевики LeslieB",
+      "source_url": "https://theothers.com.ua/product/strechevye-botynky-leslieb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2c51e445-d085-4944-b27d-de70f36aabc7.jpeg"
+      ],
+      "description": "Верх: шкіра 50%, інші матеріали 50% Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-cherevyky-z-khutrom-macyb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Черевики з хутром MacyB",
+      "source_url": "https://theothers.com.ua/product/cherevyky-z-khutrom-macyb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": 1900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_6934.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: байка Підошва: ТЕП Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-drewb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні байкерські чоботи DrewB",
+      "source_url": "https://theothers.com.ua/product/drewb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4900,
+      "sale_price_uah": 4500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9279.jpeg"
+      ],
+      "description": "Верх: шкіра Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-bezhevye-botilony-na-shnurkah-dianac",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні бежеві ботильйони на шнурках DianaC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-bezhevye-botilony-na-shnurkah-dianac/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3800,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_2946.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП Каблук 3,5 см 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-zimnie-botinki-na-gruboj-podoshve-leeww",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні зимові черевики на грубій підошві LeeWW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-zimnie-botinki-na-gruboj-podoshve-leeww/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/af65d1b3-5249-4f0d-8930-a53268f70061.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 26,5",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-shkiriani-napivcherevyky-na-bajtsi-galab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні напівчеревики на байці GalaB",
+      "source_url": "https://theothers.com.ua/product/shkiriani-napivcherevyky-na-bajtsi-galab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9403.jpeg"
+      ],
+      "description": "Верх: шкіра Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-vysokie-kozhanye-botinki-na-shnurkah-jillblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі шкіряні черевики на шнурках JillBlack",
+      "source_url": "https://theothers.com.ua/product/vysokie-kozhanye-botinki-na-shnurkah-jillblack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/f67626db-8236-4aaf-9c93-37d0cd52480b.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-strejchevye-botfordy",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Стрейчові ботфорди SalmaB",
+      "source_url": "https://theothers.com.ua/product/strejchevye-botfordy/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_2902.jpg"
+      ],
+      "description": "Верх: шкіра Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-zimnie-sapogi-na-gruboj-podoshve-collinbw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні зимові чоботи на грубій підошві CollinBW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-zimnie-sapogi-na-gruboj-podoshve-collinbw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4900,
+      "sale_price_uah": 3900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_3208.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка, хутро(еврозима) Підошва: теп 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-briannab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чоботи жокейські BriannaB",
+      "source_url": "https://theothers.com.ua/product/briannab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": 4700,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11.jpg"
+      ],
+      "description": "Натуральна шкіра Утеплювач байка Підбори 4 см Висота 47 см Обхват 38 см",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevi-botyljony-na-rezyntsi-elizab02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві ботильйони на резинці ElizaB02",
+      "source_url": "https://theothers.com.ua/product/zamshevi-botyljony-na-rezyntsi-elizab02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": 2990,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/23540b37-9891-4c02-be5a-fcfd737ff591.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Утеплювач: байка Підошва: термоэластопласт Каблук 3,5 см 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-kazaki-rudytoffi",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві козаки RudyToffi",
+      "source_url": "https://theothers.com.ua/product/zamshevye-kazaki-rudytoffi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": 4500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_3160.jpg"
+      ],
+      "description": "Верх: замша 100% Подклад: байка Підошва: термоэластопласт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-botilony-belogo-cveta-na-mehu-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони білого кольору на хутрі TayWW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-belogo-cveta-na-mehu-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/tayw4.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: хутро Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-botilony-na-mehu-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони на хутрі TayBW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-na-mehu-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4900,
+      "sale_price_uah": 1900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/E58B9CD0-6013-4B06-B5DA-544BC33096AB.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: хутро Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-vysokie-kozhanye-chelsi-na-gruboj-podoshve-annab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі шкіряні челсі на грубій підошві AnnaB",
+      "source_url": "https://theothers.com.ua/product/vysokie-kozhanye-chelsi-na-gruboj-podoshve-annab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 2100,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_7887.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-baletki",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки SophieOr",
+      "source_url": "https://theothers.com.ua/product/zamshevye-baletki/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/656d4f7d-f2e6-4462-9bc2-11c69eae87d1.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-baletki-s-rezinkoj-na-pjatke-ruthbrown02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки з резинкою на п'ятці RuthBrown02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-baletki-s-rezinkoj-na-pjatke-ruthbrown02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_4257-scaled.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-baletki-s-remeshkom-na-podeme-natalieblack02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки з ремінцем на підйомі NatalieBlack02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-baletki-s-remeshkom-na-podeme-natalieblack02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_5286.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблиця розмірів 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-baletki-s-setkoj-polab02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки із сіткою PolaB02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-baletki-s-setkoj-polab02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_3875-scaled.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблиця розмірів 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-botinki-s-mehom",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві черевики з хутром AliceMocco",
+      "source_url": "https://theothers.com.ua/product/zamshevye-botinki-s-mehom/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/15776060-8494-4938-9e6d-b2af4be3c75e.jpeg"
+      ],
+      "description": "Верх: замша Підклад: хутро Підошва: ТЕП",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-mokko-tufli-na-ustojchivom-kabluke",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Мокко туфлі на стійких підборах CatMocco",
+      "source_url": "https://theothers.com.ua/product/mokko-tufli-na-ustojchivom-kabluke/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/ed80c19cbfe74c4177ff33390a20.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Устілка: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-chernye-tufli-iz-dvuh-chastej-na-ploskoj-podoshve",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Чорні туфлі на плоскій підошві KiraBlack",
+      "source_url": "https://theothers.com.ua/product/chernye-tufli-iz-dvuh-chastej-na-ploskoj-podoshve/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_6616.jpeg"
+      ],
+      "description": "Верх: замша, шкіра Підклад: шкіра Устілка: шкіра Підошва: туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-baletki-2",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки SophieBlack",
+      "source_url": "https://theothers.com.ua/product/kozhanye-baletki-2/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0885-scaled.jpg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-baletki-sophiewhite",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки SophieWhite",
+      "source_url": "https://theothers.com.ua/product/kozhanye-baletki-sophiewhite/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/071e6546-bb5a-4c05-9c0d-881314433a0a.jpeg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-baletki-s-kontrastnym-noskom-nicolec",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки з контрастним носком NicoleC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-baletki-s-kontrastnym-noskom-nicolec/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_5251.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-baletki-so-zmeinym-printom-sophiesnake",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки зі зміїним принтом SophieSnake",
+      "source_url": "https://theothers.com.ua/product/kozhanye-baletki-so-zmeinym-printom-sophiesnake/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/untitled-02208.jpg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-molochnye-botinki-na-bajke-cortney",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні білі черевики на байці CortneyMB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-molochnye-botinki-na-bajke-cortney/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": 3200,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/03c50eb28c41efd4a30a72142d6e.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-zimnie-botinki-na-gruboj-podoshve-leebw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні зимові черевики на грубій підошві LeeBW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-zimnie-botinki-na-gruboj-podoshve-leebw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/c522d0e90ad76a9090b48b591830.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: хутро Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-mjuli-s-perekrestnymi-remeshkami-kyliew",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні мюлі з перехресними ремінцями KylieW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-mjuli-s-perekrestnymi-remeshkami-kyliew/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/eeb6bfeb-a283-4439-b305-847c84f0718e-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-zamshevye-mjuli-na-ploskoj-podoshve-3",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні мюлі на плоскій підошві ZoeC",
+      "source_url": "https://theothers.com.ua/product/zamshevye-mjuli-na-ploskoj-podoshve-3/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 3200,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/f075cec0-6e87-4d7b-bfa2-b664152892c0-scaled.jpeg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-tufly-na-ploskoj-podoshve-helgab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні туфлі на плоскій підошві HelgaB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-tufly-na-ploskoj-podoshve-helgab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/48049342-b16e-40d0-8ea9-7bd05346cd35.jpeg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-botinki-na-bajke-cortney",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні черевики на байці CortneyB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botinki-na-bajke-cortney/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": 3280,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/cortneyb-1.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-demi-botinki-na-gruboj-podoshve-leeb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні черевики на грубій підошві LeeB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-demi-botinki-na-gruboj-podoshve-leeb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3300,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/d0443438-d324-4ff1-9c0f-4f374e72c657.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepancy-s-t-obraznym-vyrezom-verablack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні балетки з квадратним носком VeraBlack",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepancy-s-t-obraznym-vyrezom-verablack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_7767.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт Сделано в Украине 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-chernye-baletki-na-zapah-hannab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні балетки на запах HannaB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-baletki-na-zapah-hannab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3400,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_3952-scaled.jpeg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-chernye-mjuli-s-ostrym-nosom",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні мюлі з гострим носом ZoeBlack",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-mjuli-s-ostrym-nosom/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 3200,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/08ac0a0d86fc7bff3fe7bc0b17d6.jpg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-chernye-sandalii-s-anatomicheskim-vkladyshem",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні сандалі з анатомічним вкладишем MartinBB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-sandalii-s-anatomicheskim-vkladyshem/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/martinbb.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-chernye-tufli-m-jay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні туфлі M-Jay",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-tufli-m-jay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 1600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5427288754932009671_y.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Устілка: шкіра Підошва: EVA Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-chernye-tufli-na-shnurkah-s-furnituroj-billb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні туфлі на шнурках з фурнітурою BillB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-tufli-na-shnurkah-s-furnituroj-billb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/0-02-05-f69107ce0cf38353cdbfe10eac51760cc6c7c1d343d2374cc75596d74dc8a0f1_c6ddcbcaaef1eda2.jpg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% ТЕП &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-bezhevogo-cveta-samc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанки бежевого кольору SamC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-bezhevogo-cveta-samc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/cf45dcd9592bad8c29c0379e6f53.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-chernogo-cveta-samb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанки чорного кольору SamB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-chernogo-cveta-samb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/9fc9a7164ae6f2007e3b888356bb.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-belogo-cveta-samw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці білого кольору SamW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-belogo-cveta-samw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/16ecf7bb3577d70630570f287ad7.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з декоративною пряжкою AbbyB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/f504175e-42f2-4c8e-8bdf-33b55251ebee-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-s-perekrestnymi-remeshkami-kylieb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з перехресними ремінцями KylieB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-s-perekrestnymi-remeshkami-kylieb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/eab1249e1f358a840f03e7c3744a.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanye-shlepancy-s-pleteniem-monicac",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з плетінням MonicaC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepancy-s-pleteniem-monicac/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/f0afbb24-2f16-48cf-ae67-72c14b8eff3c-scaled.jpeg"
+      ],
+      "description": "Верх: 100% шкіра Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-kozhanie-shlepki-s-zmeinym-printom-samsnake",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці зі зміїним принтом SamSnake",
+      "source_url": "https://theothers.com.ua/product/kozhanie-shlepki-s-zmeinym-printom-samsnake/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/8e07665c-a0e6-45e3-b750-56d33390a6be.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "theothers-pudrovye-kozhanye-tufli-na-ustojchivom-kabluke-cat",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Пудрові шкіряні туфлі на стійких підборах CatBlush",
+      "source_url": "https://theothers.com.ua/product/pudrovye-kozhanye-tufli-na-ustojchivom-kabluke-cat/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_5696.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 7 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botinki-na-mehu-cortney",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні черевики на хутрі CortneyBW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botinki-na-mehu-cortney/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/cortneybw2.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: хутро Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-belye-mjuli-na-kabluke-kitten-hills",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні білі мюлі на підборах кіттен хіллс LindaW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-belye-mjuli-na-kabluke-kitten-hills/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_5667.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Каблук: 5 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-lofery",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні лофери GwenB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-lofery/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_5539.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Устілка: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-chernye-mjuli-na-kabluke-kitten-hills",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві чорні мюлі на підборах кіттен хіллс LindaBlack02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-chernye-mjuli-na-kabluke-kitten-hills/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 3600,
+      "in_stock": true,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/lindablak02-1-scaled.jpg"
+      ],
+      "description": "Верх: замша100% Підклад: шкіра 100% Каблук: 5 см Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-ellered",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні балетки ElleRed",
+      "source_url": "https://theothers.com.ua/product/ellered/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-2.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-baletki-2",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві балетки SophieGrenn02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-baletki-2/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 2500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/sophiegreen2.jpg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт &nbsp; Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2 &nbsp;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-sapogi-na-bajke-patw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чоботи на байці PatW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-sapogi-na-bajke-patw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": 1800,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/IMG_7742.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-nelatoffi",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві напівчоботи NelaToffi",
+      "source_url": "https://theothers.com.ua/product/nelatoffi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 4150,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-7.jpg"
+      ],
+      "description": "Верх: замша Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-belye-miuly-gracebrown02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі GraceBrown02",
+      "source_url": "https://theothers.com.ua/product/kozhanye-belye-miuly-gracebrown02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/efe2b844-ae72-4f55-859b-e3ac8681b553.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-chernye-mjuli-s-ostrym-nosom",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві чорні мюлі із гострим носом ZoeBlack02",
+      "source_url": "https://theothers.com.ua/product/zamshevye-chernye-mjuli-s-ostrym-nosom/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 3200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_0893-1-scaled.jpg"
+      ],
+      "description": "Верх: 100% Замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблиця розмірів: 36 37 38 39 40 41 22,5 23 23,5 24,5 25,5 26,5",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-botilony-so-zmeinoj-vstavkoj-speredi-joansnake",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні ботильйони зі зміїною вставкою спереду JoanSnake",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-botilony-so-zmeinoj-vstavkoj-speredi-joansnake/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 1800,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_7542.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-mjuli-s-bantom",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Мюлі з бантом YaniB",
+      "source_url": "https://theothers.com.ua/product/mjuli-s-bantom/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 990,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_4888-1.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з декоративною пряжкою AbbyW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/d29f876f6fc7ddadbe1af1252ee2.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-rileyb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні високі челсі RileyB",
+      "source_url": "https://theothers.com.ua/product/rileyb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 2100,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9400.jpeg"
+      ],
+      "description": "Верх: шкіра Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-colinb-trashed",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чоботи на грубій підошві CollinB",
+      "source_url": "https://theothers.com.ua/product/colinb__trashed/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4900,
+      "sale_price_uah": 3900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/cab626c6-afaa-4b72-a385-3a38a2356148.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botilony-chernogo-cveta-na-utojchivom-kabluke-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони чорного кольору на витонченому підборі TayB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-chernogo-cveta-na-utojchivom-kabluke-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 2200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/C0911CD2-E74A-4270-8422-11787DE90B66.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-botilony-na-shnurkah-dianab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні ботильйони на шнурках DianaB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-botilony-na-shnurkah-dianab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3800,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_2142.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-lofery-iz-zamshi-gwenb02",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві чорні лофери GwenB02",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-lofery-iz-zamshi-gwenb02/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/8030eecc-a90b-48dd-a441-debc88875a3f.jpeg"
+      ],
+      "description": "Верх: замша Підклад: шкіра Устілка: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-chorni-shkiriani-sandalii-dakotab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Чорні шкіряні сандалії DakotaB",
+      "source_url": "https://theothers.com.ua/product/chorni-shkiriani-sandalii-dakotab/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 3200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5302990687693818323_w.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botilony-belogo-cveta-na-uctojchivom-kabluke-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони білого кольору на стійких підборах TayW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-belogo-cveta-na-uctojchivom-kabluke-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/tayw5.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botilony-karamelnogo-cveta-na-mehu-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони на хутрі TayCW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-karamelnogo-cveta-na-mehu-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/tayc.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: хутро Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-khutriani-miuli-aronfurc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Хутряні мюлі AronFurC",
+      "source_url": "https://theothers.com.ua/product/khutriani-miuli-aronfurc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 990,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9811.jpeg"
+      ],
+      "description": "Верх: бавовна Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-sapogi-na-bajke-patc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чоботи на байці PatC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-sapogi-na-bajke-patc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Чоботи",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": 5200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/IMG_7874.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-tufli-lodochki-na-kabluke-kitten-hills-2",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Туфлі човника на підборах кіттен хіллс SandraB",
+      "source_url": "https://theothers.com.ua/product/tufli-lodochki-na-kabluke-kitten-hills-2/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 1920,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/2019/02/IMG_4894-1.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-belye-sandalii-s-anatomicheskim-vkladyshem",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Білі шкіряні сандалі з анатомічним вкладишем MartinWB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-belye-sandalii-s-anatomicheskim-vkladyshem/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": 990,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/martinwb2.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botilony-karamelnogo-cveta-na-utojchivom-kabluke-tay",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони на стійких підборах TayC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-karamelnogo-cveta-na-utojchivom-kabluke-tay/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/taycw.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-botilony-krasnogo-cveta-na-utojchivom-kabluke",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні ботильйони червоного кольору на витонченому підборі TayR",
+      "source_url": "https://theothers.com.ua/product/kozhanye-botilony-krasnogo-cveta-na-utojchivom-kabluke/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/825c5619aeec8fda98c5df720c92-1.jpg"
+      ],
+      "description": "Верх: шкіра 100% Подклад: байка Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-vysokie-kozhanye-chelsi-na-gruboj-podoshve-annabrown",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі шкіряні челсі на грубій підошві AnnaBrown",
+      "source_url": "https://theothers.com.ua/product/vysokie-kozhanye-chelsi-na-gruboj-podoshve-annabrown/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 4200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_3271.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: теп 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-baletky-z-khutra-chorni-verablackfur",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Балетки з хутра чорні VeraBlackFur",
+      "source_url": "https://theothers.com.ua/product/baletky-z-khutra-chorni-verablackfur/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": 1900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1709593277-1.jpeg"
+      ],
+      "description": "Верх: бавовна Підклад: шкіра Підошва: туніт Таблиця розмірів: 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyc",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з декоративною пряжкою AbbyC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-s-dekorativnoj-prjazhkoj-abbyc/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/a8cd6b712baf987f0fcbeaa5bb7a-2.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-vysokie-kozhanye-bltinki-na-shnurkah-s-mehom-jillbw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі шкіряні черевики на шнурках із хутром JillBW",
+      "source_url": "https://theothers.com.ua/product/vysokie-kozhanye-bltinki-na-shnurkah-s-mehom-jillbw/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": 3400,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/8a203c40ef8ece9a7e51c417f1c9.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: хутро Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-botinki-s-mehom-aliceblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві черевики з хутром AliceBlack",
+      "source_url": "https://theothers.com.ua/product/zamshevye-botinki-s-mehom-aliceblack/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/9e38752c-adfa-4c01-b020-fcee7c4273e8.jpeg"
+      ],
+      "description": "Верх: замша Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-hazelb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні черевики на високій підошві HazelB",
+      "source_url": "https://theothers.com.ua/product/hazelb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9412.jpeg"
+      ],
+      "description": "Верх: шкіра Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-jessica",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з контрастним швом JessicaB",
+      "source_url": "https://theothers.com.ua/product/jessica/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1400,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1709593307-1.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-connor",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Черевики чоловічі з бежевого замшу ConnorSand",
+      "source_url": "https://theothers.com.ua/product/connor/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "бежевий",
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5388637575436157842_y.jpg"
+      ],
+      "description": "Верх: замша, шкіра Підклад: байка Підошва: ТЕП",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-cholovichi-cherevyky-stobani-finb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Чоловічі черевики стьобані FinB",
+      "source_url": "https://theothers.com.ua/product/cholovichi-cherevyky-stobani-finb/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo_5361720036139582133_y.jpg"
+      ],
+      "description": "Верх: шкіра, інші матеріали Підклад: байка Підошва: туніт",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-demi-botinki-na-gruboj-podoshve-leew",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні демісезонні черевики на грубій підошві LeeW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-demi-botinki-na-gruboj-podoshve-leew/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3300,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/0b75bc20-6262-4cda-8718-f82e603d30ad.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevye-mjuli-s-perekresnymi-remeshkami",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві мюлі з перехресними ремінцями MiaKH",
+      "source_url": "https://theothers.com.ua/product/zamshevye-mjuli-s-perekresnymi-remeshkami/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": 1800,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_6422.jpeg"
+      ],
+      "description": "Верх: 100% замша Підклад: 100% шкіра Устілка: 100% шкіра Підошва: 100% туніт Таблица размеров 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-shlepki-s-perekrestnymi-remeshkami-kyliec",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні шльопанці з перехресними ремінцями KylieC",
+      "source_url": "https://theothers.com.ua/product/kozhanye-shlepki-s-perekrestnymi-remeshkami-kyliec/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/7c91a5431390f21c4652dbe8405b.jpg"
+      ],
+      "description": "Верх: шкіра 100%Підклад: шкіра 100%Підошва: туніт3637383940412323,524,525,526,527,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-karamelnye-sandalii-s-anatomicheskim-vkladyshem",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні сандалі з анатомічним вкладишем MatinCB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-karamelnye-sandalii-s-anatomicheskim-vkladyshem/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 990,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/482a6510a246bbb21e95d3df2184.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-mjuli-graceb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні мюлі GraceB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-mjuli-graceb/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/99dfe82c-501f-4242-b747-db7f2cd59a07-scaled.jpeg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-zamshevi-klohy-siennasand",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві клоги SiennaSand",
+      "source_url": "https://theothers.com.ua/product/zamshevi-klohy-siennasand/",
+      "gender": "female",
+      "category": "Продовжити покупки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": 1600,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/woocommerce-placeholder.jpg"
+      ],
+      "description": "Інтернет магазин дизайнерського взуття THE OTHERS - Замшеві клоги SiennaSand",
+      "care": null,
+      "collections": [
+        "Знижки",
+        "Продовжити покупки"
+      ]
+    },
+    {
+      "id": "theothers-rudyblack",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві козаки RudyBlack",
+      "source_url": "https://theothers.com.ua/product/rudyblack/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": 4500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/11-4.jpg"
+      ],
+      "description": "Верх: шкіра 100% Підклад: байка Підошва: термоэластопласт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-sienabrown",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Замшеві клоги SienaBrown",
+      "source_url": "https://theothers.com.ua/product/sienabrown/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": 3300,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/photo1716335289-3.jpeg"
+      ],
+      "description": "Верх: замша Підклад: шкіра 100% Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-belye-vetnamki-ninaw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні білі в'єтнамки NinaW",
+      "source_url": "https://theothers.com.ua/product/kozhanye-belye-vetnamki-ninaw/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": 2500,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9744_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-cholovichi-cherevyzy-z-nubuku-robkh",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Чоловічі черевизи з нубуку RobKH",
+      "source_url": "https://theothers.com.ua/product/cholovichi-cherevyzy-z-nubuku-robkh/",
+      "gender": "male",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5300,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/rob-1.jpg"
+      ],
+      "description": "Верх: нубук, шкіра Підклад: байка Підошва: ТЕП Таблиця розмірів: 40 41 42 43 44 45 26,5 27 28 28,5 29 30",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-chernye-vetnamki-ninaw",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні в'єтнамки NinaB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-chernye-vetnamki-ninaw/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": 1800,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/mg_9627_phnastasia-scaled.jpg"
+      ],
+      "description": "Верх: шкіра Підклад: шкіра Підошва: туніт 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-kozhanye-vysokie-kazaki-amandab",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Високі шкіряні козаки AmandaB",
+      "source_url": "https://theothers.com.ua/product/kozhanye-vysokie-kazaki-amandab/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": 4900,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/8df88b46-f7f3-4e90-b895-ded9b9d50117.jpeg"
+      ],
+      "description": "Натуральна шкіра Підклад байка 5 см висота підборів Застібка на блискавку",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theothers-angelb",
+      "brand": "The Others",
+      "brand_id": "theothers",
+      "name": "Шкіряні чорні козаки з фурнітурою AngelB",
+      "source_url": "https://theothers.com.ua/product/angelb/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 2200,
+      "in_stock": false,
+      "photos": [
+        "https://theothers.com.ua/wp-content/uploads/img_9269.jpeg"
+      ],
+      "description": "Верх: шкіра Утеплювач: байка Підошва: ТЕП 36 37 38 39 40 41 23 23,5 24,5 25,5 26,5 27,2",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

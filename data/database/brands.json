@@ -815,5 +815,170 @@
     "segment": null,
     "default_gender": "female",
     "kind": "clothes"
+  },
+  {
+    "id": "babylon",
+    "name": "Babylon",
+    "site": "https://babylon.net.ua",
+    "instagram": "https://instagram.com/babylon.sneakers.ua",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": "Середній",
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "nugaia",
+    "name": "Nugaia",
+    "site": "https://nugaia.com.ua",
+    "instagram": "https://instagram.com/nugaiaworld",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": "Преміум",
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "kadar",
+    "name": "Kadar",
+    "site": "https://kadar.ua",
+    "instagram": "https://instagram.com/kadarshoes",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": "Масмаркет",
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "mida",
+    "name": "Mida",
+    "site": "https://mida-online.com.ua",
+    "instagram": "https://instagram.com/mida.online",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": "Масмаркет",
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "bistfor",
+    "name": "Bistfor",
+    "site": "https://bistfor.com.ua",
+    "instagram": "https://instagram.com/bistfor.shoes",
+    "brand_type": "Взуття",
+    "audience": "Чоловікам",
+    "segment": null,
+    "default_gender": "male",
+    "kind": "shoes"
+  },
+  {
+    "id": "tueams",
+    "name": "Tueam's",
+    "site": "https://tueams.com",
+    "instagram": "https://instagram.com/tueams",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": null,
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "ikos",
+    "name": "Ikos",
+    "site": "https://ikos-style.com.ua",
+    "instagram": "https://instagram.com/ikos_shoes",
+    "brand_type": "Взуття",
+    "audience": "Ж + Ч",
+    "segment": null,
+    "default_gender": null,
+    "kind": "shoes"
+  },
+  {
+    "id": "marsala",
+    "name": "Marsala",
+    "site": "https://marsala.com.ua",
+    "instagram": "https://instagram.com/marsalaofficial",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": "Преміум",
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "theothers",
+    "name": "The Others",
+    "site": "https://theothers.com.ua",
+    "instagram": "https://instagram.com/theothersshoes",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "emmeliedelage",
+    "name": "Emmelie Delage",
+    "site": "https://emmeliedelage.com",
+    "instagram": "https://instagram.com/emmelie_delage",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "woaw",
+    "name": "Woaw",
+    "site": "https://woaw.com.ua",
+    "instagram": "https://instagram.com/woaw.ua",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "artell",
+    "name": "Artell",
+    "site": "https://artellshoes.com",
+    "instagram": "https://instagram.com/artell_shoes",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "lookie",
+    "name": "Lookie Atelier",
+    "site": "https://lookie.com.ua",
+    "instagram": "https://instagram.com/lookie_atelier",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "jecome",
+    "name": "Jecome",
+    "site": "https://jecomestudio.com",
+    "instagram": "https://instagram.com/jecome.studio",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": "Преміум",
+    "default_gender": "female",
+    "kind": "shoes"
+  },
+  {
+    "id": "kasandra",
+    "name": "Kasandra",
+    "site": "https://kasandra.ua",
+    "instagram": "https://instagram.com/kasandra_shoes.ua",
+    "brand_type": "Взуття",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "shoes"
   }
 ]

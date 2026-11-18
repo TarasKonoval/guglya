@@ -13,6 +13,22 @@
     ]
   },
   {
+    "category": "Взуття",
+    "slot": "shoes",
+    "item_types": [
+      "Черевики",
+      "Туфлі",
+      "Сандалі",
+      "Кеди",
+      "Взуття",
+      "Кросівки",
+      "Чоботи",
+      "Мюлі",
+      "Лофери",
+      "Капці"
+    ]
+  },
+  {
     "category": "Верх",
     "slot": "top",
     "item_types": [
@@ -42,13 +58,13 @@
       "Куртка",
       "Пальто",
       "Бомбер",
-      "Тренч",
       "Пуховик",
+      "Тренч",
       "Шуба",
       "Парка",
+      "Косуха",
       "Вітрівка",
-      "Дублянка",
-      "Косуха"
+      "Дублянка"
     ]
   },
   {
@@ -69,37 +85,21 @@
     ]
   },
   {
-    "category": "Взуття",
-    "slot": "shoes",
-    "item_types": [
-      "Черевики",
-      "Туфлі",
-      "Сандалі",
-      "Взуття",
-      "Лофери",
-      "Кросівки",
-      "Кеди",
-      "Мюлі",
-      "Чоботи",
-      "Капці"
-    ]
-  },
-  {
     "category": "Аксесуари",
     "slot": "other",
     "item_types": [
       "Шапка",
       "Сумка",
       "Кепка",
+      "Шкарпетки",
       "Ремінь",
       "Шарф",
-      "Шкарпетки",
       "Капелюх",
       "Прикраси",
       "Рукавички",
-      "Панама",
       "Окуляри",
       "Гаманець",
+      "Панама",
       "Хустка",
       "Балаклава"
     ]
@@ -155,6 +155,11 @@
     "item_types": []
   },
   {
+    "category": "Човники",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "WOMEN",
     "slot": "other",
     "item_types": []
@@ -166,6 +171,16 @@
   },
   {
     "category": "Товари за бонуси",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Slingback",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ВЕСНА/ЛІТО 2026",
     "slot": "other",
     "item_types": []
   },
@@ -210,6 +225,16 @@
     "item_types": []
   },
   {
+    "category": "Слінгбеки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "SS26",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Book",
     "slot": "other",
     "item_types": []
@@ -235,12 +260,37 @@
     "item_types": []
   },
   {
+    "category": "Sandals and slippers",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Для навчання",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "Аксесуари > Резинки для волосся",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ЧОЛОВІКАМ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ЖІНКАМ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Men",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Ballerinas",
     "slot": "other",
     "item_types": []
   },
@@ -261,6 +311,11 @@
   },
   {
     "category": "Біжутерія",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "WOAW",
     "slot": "other",
     "item_types": []
   },
@@ -340,6 +395,16 @@
     "item_types": []
   },
   {
+    "category": "Foot Devices",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Uncategorized",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "ALL - PRODUCTS - FOR - PRE ORDER",
     "slot": "other",
     "item_types": []
@@ -411,6 +476,36 @@
   },
   {
     "category": "Summer mood",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "КЛОГИ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Засоби догляду",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Ботфорти",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Secret Garden",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "High Heels",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Продовжити покупки",
     "slot": "other",
     "item_types": []
   },
