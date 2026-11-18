@@ -31,7 +31,9 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - Real catalog: `data/database/products.json` (Andrii's scraper, `data/database/merge.py`) -> `backend/ml/import_brand_db.py`
   (accessories, no-UAH-price and out-of-stock items skipped; colours mapped to the site's keys; "dress" slot = сукня/комплект/
   комбінезон/костюм, replaces top+bottom). Brand popularity = Instagram followers in `data/database/brand_popularity.json`.
-- Alternatives ranking: CLIP similarity + 0.05 × brand popularity (70% followers, 30% our clicks), same gender, one per brand first.
+- Alternatives ranking: CLIP similarity + 0.06 same item type + 0.05 × brand popularity (70% followers, 30% our clicks),
+  outfit's gender (men: men only; women: women + unisex), similarity >= 0.6, one per brand first.
+- Adding brands / how the catalog pipeline works: docs/catalog.md.
 - Feed: Жінкам / Чоловікам / Парам toggle (outfits.gender); couple outfits = two looks (outfit_items.person 1/2).
   Sort/colour filters in a «Фільтри» sheet. Header: saved ♡, profile (name, surname, phone in users), cart (cart_items).
   Brand pages open only from the cart (clicks are still logged via /clicks).
