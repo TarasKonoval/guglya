@@ -137,11 +137,13 @@ body.has-bar .fab .fab-label { display: none; }
 .feed-head p { margin: 0 0 16px; font-size: 15px; line-height: 1.45; }
 .feed { display: grid; gap: 20px; padding: 8px 16px; }
 
-.outfit-card { position: relative; border-radius: 18px; overflow: hidden; background: var(--soft); }
-.outfit-card-link { display: block; }
+/* cards in a row are equally tall (grid stretch); the cover grows to fill, trimming only the photo's sides */
+.outfit-card { position: relative; border-radius: 18px; overflow: hidden; background: var(--soft); display: flex; flex-direction: column; }
+.outfit-card-link { display: flex; flex-direction: column; flex: 1; }
+.outfit-card .cover { flex: 1 1 auto; min-height: 0; }
 .cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; background: var(--soft); }
 /* look photos fill the card at their own proportions: nothing cropped, no empty sides; collages stay 2:3 */
-.outfit-card img.cover { aspect-ratio: auto; height: auto; }
+.outfit-card img.cover { aspect-ratio: auto; height: auto; object-fit: cover; }
 .collage { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px; overflow: hidden; }
 .collage img { width: 100%; height: 100%; min-height: 0; object-fit: cover; }
 .collage.pair { gap: 8px; }
