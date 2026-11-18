@@ -1,0 +1,4105 @@
+{
+  "_meta": {
+    "brand": "Marsala",
+    "brand_id": "marsala",
+    "site": "https://marsala.com.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 120,
+    "found": 120,
+    "candidates": 120,
+    "checked": 120,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "marsala-sirenmule-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Mule Wine",
+      "source_url": "https://marsala.com.ua/products/sirenmule-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 13930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_aea2737a-c4a4-40fa-ad86-3bedb102fba6.jpg?v=1794869271",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_8b5f1d10-f03a-40c0-be8c-7addd770831b.jpg?v=1794869280",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_d4384b34-0242-40d6-8c34-8ee46aced1cc.jpg?v=1794869276"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-scarlett-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Scarlett Wine",
+      "source_url": "https://marsala.com.ua/products/scarlett-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 22000,
+      "sale_price_uah": 13200,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_ac77cbf7-7b7a-496f-a604-e1aba6709a3b.jpg?v=1794869283",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_8c5e9cb3-d056-4f13-bc62-d83b3678b5b0.jpg?v=1794869289",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_7588fc33-6c0d-48b3-b574-ac57544348bc.jpg?v=1794869285"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-blush",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Blush",
+      "source_url": "https://marsala.com.ua/products/grace-blush",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 12675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_7309d5f8-46dd-4dd2-a65c-485226719ea4.jpg?v=1794869210",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_0ab05846-4342-4b5a-882f-0a9f5b862881.jpg?v=1794869212",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_d6f5ce58-1d0e-4eb3-9995-e0293a8bb7eb.jpg?v=1794869212"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-nude",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Nude",
+      "source_url": "https://marsala.com.ua/products/grace-nude",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 12675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_63e5c28d-8226-45fa-b4ad-94f66994b3ca.jpg?v=1794869216",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_84ac070c-50b2-41e7-94aa-cf8cfceb09d0.jpg?v=1794869224",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_17ffc097-5e28-4066-95f2-d19431c32c98.jpg?v=1794869221"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-merlot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Merlot",
+      "source_url": "https://marsala.com.ua/products/selene-merlot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 16875,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_706a810e-5a88-426c-97fd-e626f1d0fa23.jpg?v=1794925192",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_644e49b3-8b85-4262-af19-383bc23072ef.jpg?v=1794925192",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_cdd7a6a3-25f4-44bc-9273-3108977a0f24.jpg?v=1794925192"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-kaia-kitten-black-silk",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Kitten Black Silk",
+      "source_url": "https://marsala.com.ua/products/kaia-kitten-black-silk",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "39"
+      ],
+      "price_uah": 19100,
+      "sale_price_uah": 14325,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_6dce6984-097d-4d67-a59b-e623535b5abf.jpg?v=1794924530",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_19baae53-68ce-4408-9e35-c7e65498ed44.jpg?v=1794924530",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_08c68e84-3ed1-4744-8f4f-93208c94381e.jpg?v=1794924530"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-leia-black-silk",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia Black Silk",
+      "source_url": "https://marsala.com.ua/products/leia-black-silk",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 14625,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/05_1.jpg?v=1794923744",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/05_2.jpg?v=1794923744",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/05_3.jpg?v=1794923744"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-jamie-coral",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Jamie Coral",
+      "source_url": "https://marsala.com.ua/products/jamie-coral",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 20900,
+      "sale_price_uah": 10450,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_-_coral_-_side.jpg?v=1785769328",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/JamieSample_-_coral_-_front.jpg?v=1782924402",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/JamieSample_-_coral_-_back.jpg?v=1782924412"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-twinkl",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Twinkl",
+      "source_url": "https://marsala.com.ua/products/siren-twinkl",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 9950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_twinkl_-_side.jpg?v=1786707865",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_twinkl_-_front.jpg?v=1782924858",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_twinkl_-_back.jpg?v=1782924872"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-leia-denim",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia Denim",
+      "source_url": "https://marsala.com.ua/products/leia-denim",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 13650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_938e4e5e-2b01-4c20-a11c-7eb6c194c20b.jpg?v=1794869460",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_bc14ce47-6672-46cb-bacb-6854de328e08.jpg?v=1794869460",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_c60b4105-a49a-4cb6-96c9-99497aa224d5.jpg?v=1794869461"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-nymph-forest",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Nymph Forest",
+      "source_url": "https://marsala.com.ua/products/nymph-forest",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 13900,
+      "sale_price_uah": 8340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_forest_-_side_099e0226-cfdc-463b-bfc1-e87f533bc1b0.jpg?v=1785769326",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_forest_-_front.jpg?v=1763465897",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_forest_-_back.jpg?v=1763465897"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-nymph-olive",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Nymph Olive",
+      "source_url": "https://marsala.com.ua/products/nymph-olive",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 13900,
+      "sale_price_uah": 8340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_olive_-_side.jpg?v=1786707515",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_olive_-_front.jpg?v=1763465945",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_olive_-_back.jpg?v=1763465945"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-nymph-satin-in-khaki",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Nymph Khaki",
+      "source_url": "https://marsala.com.ua/products/nymph-satin-in-khaki",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 13900,
+      "sale_price_uah": 8340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_khaki_-_side.jpg?v=1786707534",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_khaki_-_front.jpg?v=1763466253",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Nymph_-_khaki_-_back.jpg?v=1763466253"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-kaia-blush",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Blush",
+      "source_url": "https://marsala.com.ua/products/kaia-blush",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/04_1_c805bc97-1239-4601-80cc-b3208bfcc1bd.jpg?v=1791804455",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/04_2_709f389a-b4fd-4fcd-910f-65591bfe3922.jpg?v=1791804455",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/04_3_5db0ca75-e7c3-468a-8640-5e2874fa17a3.jpg?v=1791804454"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-kaia-black-leather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Black Leather",
+      "source_url": "https://marsala.com.ua/products/kaia-black-leather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/01_01_0ff3cde8-7175-45fb-a163-a68bb8ae94b4.jpg?v=1791804270",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/01_02_05e511a1-e8ec-4cb5-8eac-8318f2e9babc.jpg?v=1791804271",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/01_03_8a46731d-2fe1-465d-833b-1e255a1b4fa9.jpg?v=1791804271"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-kaia-nude",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Nude",
+      "source_url": "https://marsala.com.ua/products/kaia-nude",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2026-08-26_marsala-24.jpg?v=1789663667",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2026-08-26_marsala-26.jpg?v=1789663667",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2026-08-26_marsala-25.jpg?v=1789663667"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-rosalia-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Rosalia Wine",
+      "source_url": "https://marsala.com.ua/products/rosalia-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/06.jpg?v=1791891646",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/IMG_8100_copy.jpg?v=1791903948",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/IMG_8099_copy.jpg?v=1791903948"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-nude",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Nude",
+      "source_url": "https://marsala.com.ua/products/sylvie-nude",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie-blackleather-side.jpg?v=1788796030",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/MARSALA7705.jpg?v=1788796042",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/MARSALA7676.jpg?v=1788796045"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-sylvie-blackleather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Black Leather",
+      "source_url": "https://marsala.com.ua/products/sylvie-blackleather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie-nudepatent-side.jpg?v=1788795643",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2_7a2a18d2-d95b-483d-8986-7e76b63deb5a.jpg?v=1788795808",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/3_4d54e404-02de-41dd-be8e-172833f6f208.jpg?v=1788795808"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-jamie-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Jamie Black",
+      "source_url": "https://marsala.com.ua/products/jamie-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20900,
+      "sale_price_uah": 15675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_-_black_-_side.jpg?v=1788795590",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2_bc707b28-1a7d-4c58-a3aa-3a966c4e1a78.jpg?v=1788721442",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/3_75cfc070-9432-449f-84b5-bf058b69221e.jpg?v=1788721442"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-black-leather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Black Leather",
+      "source_url": "https://marsala.com.ua/products/selene-black-leather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_leather_-_side_1.jpg?v=1788276687",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_leather_-_front_1.jpg?v=1788276687",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_leather_-_back_1.jpg?v=1788276687"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-selene-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Wine",
+      "source_url": "https://marsala.com.ua/products/selene-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_wine_-_side.jpg?v=1788377286",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2.jpg?v=1787924555",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/3.jpg?v=1787924555"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-kaia-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Black",
+      "source_url": "https://marsala.com.ua/products/kaia-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20500,
+      "sale_price_uah": 15375,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_-_black_patent_-_side.jpg?v=1786703320",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_-_black_patent_-_front.jpg?v=1786703335",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_-_black_patent_-_back.jpg?v=1786703347"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-kaiakitten-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Kitten Black",
+      "source_url": "https://marsala.com.ua/products/kaiakitten-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19100,
+      "sale_price_uah": 15280,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_Kitten_-_black_patent_-_side.jpg?v=1786703687",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_Kitten_-_black_patent_-_front.jpg?v=1786703663",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_Kitten_-_black_patent_-_back.jpg?v=1786703677"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-vittoria-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Vittoria Black",
+      "source_url": "https://marsala.com.ua/products/vittoria-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 25000,
+      "sale_price_uah": 20000,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_black_-_side.jpg?v=1786710452",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_black_-_front.jpg?v=1786710473",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_black_-_back.jpg?v=1786710492"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION",
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margo-milky",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margo MIlky",
+      "source_url": "https://marsala.com.ua/products/margo-milky",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 11250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_white_-_side.jpg?v=1786710508",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_white_-_front.jpg?v=1786710522",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_white_-_back.jpg?v=1786710537"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margo-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margo Black",
+      "source_url": "https://marsala.com.ua/products/margo-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 16875,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_blacksilk_-_side.jpg?v=1786710556",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_blacksilk_-_front.jpg?v=1786710583",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margo_-_blacksilk_-_back.jpg?v=1786710600"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION",
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-rouge",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Rouge",
+      "source_url": "https://marsala.com.ua/products/selene-rouge",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_rouge_-_side.jpg?v=1786710614",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_rouge_-_front.jpg?v=1786710635",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_rouge_-_back.jpg?v=1786710652"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-viola-rouge",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Viola Rouge",
+      "source_url": "https://marsala.com.ua/products/viola-rouge",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22900,
+      "sale_price_uah": 17175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_rouge_-_side.jpg?v=1786710817",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_rouge_-_front.jpg?v=1784295313",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_rouge_-_back.jpg?v=1784295326"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION",
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-powder",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Powder",
+      "source_url": "https://marsala.com.ua/products/grace-powder",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 13520,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_powder_-_side.jpg?v=1786707501",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_powder_-_front.jpg?v=1784295429",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_powder_-_back.jpg?v=1784295447"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-viola-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Viola Black",
+      "source_url": "https://marsala.com.ua/products/viola-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22900,
+      "sale_price_uah": 17175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_black_-_side.jpg?v=1786707475",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_black_-_front.jpg?v=1784295461",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_black_-_back.jpg?v=1783522764"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION",
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-viola-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Viola White",
+      "source_url": "https://marsala.com.ua/products/viola-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22900,
+      "sale_price_uah": 17175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_white_-_side.jpg?v=1786710793",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_white_-_front.jpg?v=1783522735",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Viola_-_white_-_back.jpg?v=1783522785"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION",
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-terracotta",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie Terracotta",
+      "source_url": "https://marsala.com.ua/products/sofie-terracotta",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "40"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 9450,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_terracotta_sample_-_side.jpg?v=1786708248",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_terracotta_sample_-_front.jpg?v=1781881559",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_terracotta_sample_-_back.jpg?v=1781881559"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-viola-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Viola Red",
+      "source_url": "https://marsala.com.ua/products/viola-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 22900,
+      "sale_price_uah": 16030,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/ViolaSample_-_lightred_-_side.jpg?v=1786710778",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/ViolaSample_-_lightred_-_front.jpg?v=1783369895",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/ViolaSample_-_lightred_-_back.jpg?v=1783369905"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-rosalia-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Rosalia Red",
+      "source_url": "https://marsala.com.ua/products/rosalia-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "38"
+      ],
+      "price_uah": 24900,
+      "sale_price_uah": 17430,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/RosaliaSample_-_lightred_-_side.jpg?v=1786710984",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/RosaliaSample_-_lightred_-_front.jpg?v=1783369946",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/RosaliaSample_-_lightred_-_back.jpg?v=1783369961"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-powder",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Powder",
+      "source_url": "https://marsala.com.ua/products/sylvie-powder",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": 11760,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/SylvieSample_-_powder_-_side.jpg?v=1786710888",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/SylvieSample_-_powder_-_-front.jpg?v=1783370043",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/SylvieSample_-_powder_-_back.jpg?v=1783370056"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-blackleather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Black Leather",
+      "source_url": "https://marsala.com.ua/products/grace-blackleather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 12675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_leather_-_side.jpg?v=1786707833",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_leather_-_front.jpg?v=1783370102",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_leather_-_back.jpg?v=1781881533"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-milky-patent",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Milky Patent",
+      "source_url": "https://marsala.com.ua/products/selene-milky-patent",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "36"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 15750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_milky_patent_-_side.jpg?v=1786707442",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_milky_patent_-_front.jpg?v=1781881549",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_milky_patent_-_back.jpg?v=1781881548"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-boots-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Boots Wine",
+      "source_url": "https://marsala.com.ua/products/sylvie-boots-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 25900,
+      "sale_price_uah": 15540,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_wine_-_side.jpg?v=1786708220",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_wine_-_front.jpg?v=1763463865",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_wine_-_back.jpg?v=1763463865"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-leia-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia Pink",
+      "source_url": "https://marsala.com.ua/products/leia-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 14625,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_pink_-_side.jpg?v=1785423065",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_pink_-_front.jpg?v=1783370146",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_pink_-_back.jpg?v=1783370157"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margot-white-copy",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margot Milky",
+      "source_url": "https://marsala.com.ua/products/margot-white-copy",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 11250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_milky_-_side.jpg?v=1786707453",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_milky_-_front.jpg?v=1782924721",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_milky_-_back.jpg?v=1782924736"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-kaia-lilac",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Kaia Lilac",
+      "source_url": "https://marsala.com.ua/products/kaia-lilac",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37"
+      ],
+      "price_uah": 19300,
+      "sale_price_uah": 12545,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_sample_-_lilac_silk_-_side.jpg?v=1786708160",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_sample_-_lilac_silk_-_front.jpg?v=1786708663",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Kaia_sample_-_lilac_silk_-_back.jpg?v=1786708677"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-boots-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Boots Black",
+      "source_url": "https://marsala.com.ua/products/sylvie-boots-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 25900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_black_-_side.jpg?v=1786707686",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_black_-_front.jpg?v=1763463764",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_Boots_-_black_-_back.jpg?v=1763463764"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-gia-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Gia Black",
+      "source_url": "https://marsala.com.ua/products/gia-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16000,
+      "sale_price_uah": 12800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_black_new_-_side.jpg?v=1786707843",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_black_new_-_front.jpg?v=1780582058",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_black_new_-_back.jpg?v=1780582057"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-rosа-lia-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Rosalia Black",
+      "source_url": "https://marsala.com.ua/products/rosа́lia-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Rosalia_-_black_-_additional_2.jpg?v=1780583799",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/IMG_4890.jpg?v=1779806706",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/IMG_0163.jpg?v=1780583850"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-leia-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia Black",
+      "source_url": "https://marsala.com.ua/products/leia-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 13650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_black_-_side.jpg?v=1785423077",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_black_-_front.jpg?v=1779449317",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_black_-_back.jpg?v=1779449328"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-lorie-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Lorie Pink",
+      "source_url": "https://marsala.com.ua/products/lorie-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 13930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_pink_-_side.jpg?v=1786708398",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_pink_-_front.jpg?v=1779096840",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_pink_-_back.jpg?v=1779096854"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-leia-lilac",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia Lilac",
+      "source_url": "https://marsala.com.ua/products/leia-lilac",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 13650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_lilac_-_side.jpg?v=1785423050",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_lilac_-_front.jpg?v=1779275378",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_lilac_-_back.jpg?v=1779096747"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-leia-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Leia White",
+      "source_url": "https://marsala.com.ua/products/leia-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 13650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_white_-_side.jpg?v=1785423036",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_white_-_front.jpg?v=1779096808",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Leia_-_white_-_back.jpg?v=1779096791"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-carrot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Carrot",
+      "source_url": "https://marsala.com.ua/products/selene-carrot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 13500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_carrot_-_side.jpg?v=1786707802",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_carrot_-_front.jpg?v=1778597042",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_carrot_-_back.jpg?v=1778597066"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-lorie-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Lorie White",
+      "source_url": "https://marsala.com.ua/products/lorie-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 14400,
+      "sale_price_uah": 13930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_white_-_side.jpg?v=1786710709",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_white_-_front.jpg?v=1786710739",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lorie_-_white_-_back.jpg?v=1786710727"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-jamie-nude",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Jamie Nude",
+      "source_url": "https://marsala.com.ua/products/jamie-nude",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20900,
+      "sale_price_uah": 16720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_-_milky_-_side.jpg?v=1786707642",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_-_milky_-_front.jpg?v=1776956298",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_-_milky_-_back.jpg?v=1776956307"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-gia-white-copy",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Gia White",
+      "source_url": "https://marsala.com.ua/products/gia-white-copy",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16000,
+      "sale_price_uah": 12800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_white_new_-_side.jpg?v=1786707402",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_white_new_-_front.jpg?v=1776261576",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_white_new_-_back.jpg?v=1776261585"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Wine",
+      "source_url": "https://marsala.com.ua/products/siren-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 13930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_wine_-_side.jpg?v=1786708233",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_wine_-_front.jpg?v=1776261540",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_wine_-_back.jpg?v=1776261530"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-pink-patent",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Pink Patent",
+      "source_url": "https://marsala.com.ua/products/siren-pink-patent",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 13930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_patent_-_side.jpg?v=1786708534",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_patent_-_front.jpg?v=1776261503",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_patent_-_back.jpg?v=1776261491"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-ayla-gold",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Ayla Gold",
+      "source_url": "https://marsala.com.ua/products/ayla-gold",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 9750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_gold_-_additional.jpg?v=1774874421",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_gold_-_side.jpg?v=1786707581",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_gold_-_front.jpg?v=1776261400"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-ayla-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Ayla Black",
+      "source_url": "https://marsala.com.ua/products/ayla-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 9750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_black_-_additional.jpg?v=1774874408",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_black_-_side.jpg?v=1786707619",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_black_-_front.jpg?v=1774874408"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-silk-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie Black Silk",
+      "source_url": "https://marsala.com.ua/products/sofie-silk-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 15120,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_silk_-_side.jpg?v=1785769335",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_silk_-_front.jpg?v=1776261457",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_silk_-_back.jpg?v=1776261441"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-gia-blue",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Gia Blue",
+      "source_url": "https://marsala.com.ua/products/gia-blue",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16000,
+      "sale_price_uah": 12800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_blue_-_side.jpg?v=1785769333",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_blue_new_-_front.jpg?v=1776261635",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Gia_-_blue_new_-_back.jpg?v=1776261624"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-white-leather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie White Leather",
+      "source_url": "https://marsala.com.ua/products/sofie-white-leather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 15120,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_leather_-_side.jpg?v=1786707569",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_leather_-_front.jpg?v=1776261375",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_leather_-_back.jpg?v=1776261349"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene White",
+      "source_url": "https://marsala.com.ua/products/selene-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_white_-_side.jpg?v=1786710700",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_white_-_front.jpg?v=1786710689",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_white_-_back.jpg?v=1786710674"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-mule-khaki",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Ayla Khaki",
+      "source_url": "https://marsala.com.ua/products/mule-khaki",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 9750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_khaki_-_additional.jpg?v=1773144911",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_khaki_-_side.jpg?v=1786707492",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_-_khaki_-_front.jpg?v=1773144925"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-mule-carrot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Ayla Carrot",
+      "source_url": "https://marsala.com.ua/products/mule-carrot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19500,
+      "sale_price_uah": 9750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_light_-_carrot_-_additional.jpg?v=1774874453",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_light_-_carrot_-_side.jpg?v=1786708474",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Ayla_light_-_carrot_-_front.jpg?v=1774874453"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-mila-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Mila Wine",
+      "source_url": "https://marsala.com.ua/products/mila-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24000,
+      "sale_price_uah": 16800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_wine_-_side.jpg?v=1786707675",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_wine_-_front.jpg?v=1773145135",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_wine_-_back.jpg?v=1773145145"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-coral",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Coral",
+      "source_url": "https://marsala.com.ua/products/selene-coral",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 13500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_coral_light_-_side.jpg?v=1786710863",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_coral_light_-_front.jpg?v=1771243194",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_coral_light_-_back.jpg?v=1771243194"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie Black Patent",
+      "source_url": "https://marsala.com.ua/products/sofie-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 15120,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_patent_-_side.jpg?v=1785769326",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_-_front.jpg?v=1773145180",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_black_-_back.jpg?v=1773145197"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-mila-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Mila White",
+      "source_url": "https://marsala.com.ua/products/mila-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24000,
+      "sale_price_uah": 16800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_white_-_side.jpg?v=1786707558",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_white_-_front.jpg?v=1766498856",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_white_-_back.jpg?v=1766498856"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie Wine",
+      "source_url": "https://marsala.com.ua/products/sofie-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 15120,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_wine_-_side.jpg?v=1786708388",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_wine_-_front.jpg?v=1766490294",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_wine_-_back.jpg?v=1766490280"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-loren-terracotta",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Loren Terracotta",
+      "source_url": "https://marsala.com.ua/products/loren-terracotta",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "теракотовий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 14175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_terracotta_light_-_side.jpg?v=1785769337",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_terracotta_light_-front.jpg?v=1773145095",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_terracotta_light_-_back.jpg?v=1773145111"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie White Patent",
+      "source_url": "https://marsala.com.ua/products/sofie-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 14175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_patent_-_side.jpg?v=1785769287",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_-_front.jpg?v=1773144871",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_white_-_back.jpg?v=1773144882"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sofie-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sofie Pink",
+      "source_url": "https://marsala.com.ua/products/sofie-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 14175,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_pink_-_side.jpg?v=1785769328",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_pink_-_front.jpg?v=1766490457",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sofie_-_pink_-_back.jpg?v=1766490473"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Black",
+      "source_url": "https://marsala.com.ua/products/siren-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 11940,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_black_-_side.jpg?v=1786708522",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_black_-_front.jpg?v=1766490547",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_black_-_back.jpg?v=1766490560"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren White",
+      "source_url": "https://marsala.com.ua/products/siren-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_white_-_side.jpg?v=1786708289",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_white_-_front.jpg?v=1766490502",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_white_-_back.jpg?v=1766490516"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-grace-kitten-heel",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Kitten heel Wine",
+      "source_url": "https://marsala.com.ua/products/grace-kitten-heel",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": 10725,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_wine_-_side.jpg?v=1786707348",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_wine_-_front.jpg?v=1773145223",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_wine_-_back.jpg?v=1773145235"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-tea-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Tea White",
+      "source_url": "https://marsala.com.ua/products/tea-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 12675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_white_-_side.jpg?v=1786710840",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_white_-_front.jpg?v=1766490637",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_white_-_back.jpg?v=1766490653"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Black",
+      "source_url": "https://marsala.com.ua/products/selene-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_-_side.jpg?v=1786708461",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_-_front.jpg?v=1766498937",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_black_-_back.jpg?v=1766498950"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-loren-shiny-olive",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Loren Olive",
+      "source_url": "https://marsala.com.ua/products/loren-shiny-olive",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": 13230,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_olive_-_side.jpg?v=1786708566",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_olive_-_front.jpg?v=1766490962",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Loren_-_olive_-_back.jpg?v=1766490980"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-mila-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Mila Black",
+      "source_url": "https://marsala.com.ua/products/mila-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24000,
+      "sale_price_uah": 16800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_black_-_side.jpg?v=1786707392",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_black_-_front.jpg?v=1766490717",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_black_-_back.jpg?v=1766490734"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-selene-sand-gold",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Selene Gold",
+      "source_url": "https://marsala.com.ua/products/selene-sand-gold",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 22500,
+      "sale_price_uah": 18000,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/3.png?v=1774628315",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_gold_light_-_side.jpg?v=1786710877",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Selene_-_gold_light_-_front.jpg?v=1774628315"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-mila-moss",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Mila Moss",
+      "source_url": "https://marsala.com.ua/products/mila-moss",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 24000,
+      "sale_price_uah": 12000,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_moss_-_side.jpg?v=1786708323",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_moss_-_front.jpg?v=1766490916",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Mila_-_moss_-_back.jpg?v=1766490931"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-tea-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Tea Black",
+      "source_url": "https://marsala.com.ua/products/tea-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 11830,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_black_-_side.jpg?v=1786710805",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_black_-_front.jpg?v=1764339019",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Tea_-_black_-_back.jpg?v=1764339019"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-gracekittenheel-beige",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Kitten heel Beige",
+      "source_url": "https://marsala.com.ua/products/gracekittenheel-beige",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": 10725,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_beige_-_side.jpg?v=1786707361",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_beige_-_front.jpg?v=1773145310",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_Kitten_Heel_-_beige_-_back.jpg?v=1773145322"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margot-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margot Black",
+      "source_url": "https://marsala.com.ua/products/margot-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18200,
+      "sale_price_uah": 10920,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_black_-_side.jpg?v=1786708312",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_black_-_front.jpg?v=1763464013",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_black_-_back.jpg?v=1763464013"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margot-moss",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margot Moss",
+      "source_url": "https://marsala.com.ua/products/margot-moss",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18200,
+      "sale_price_uah": 10920,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_moss_-_side.jpg?v=1786707792",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_moss_-_front.jpg?v=1763464034",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_moss_-_back.jpg?v=1763464034"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-briggite-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Briggite White",
+      "source_url": "https://marsala.com.ua/products/briggite-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 11830,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_white_-_side.jpg?v=1786708496",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_white_-_front.jpg?v=1763464071",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_white_-_back.jpg?v=1763464071"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-briggite-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Briggite Black",
+      "source_url": "https://marsala.com.ua/products/briggite-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 11830,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_black_-_side.jpg?v=1786707822",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_black_-_front.jpg?v=1763464052",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Briggite_-_black_-_back.jpg?v=1763464052"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-lilit-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Lilit Pink",
+      "source_url": "https://marsala.com.ua/products/lilit-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_pink_-_side.jpg?v=1786708555",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_pink_-_front.jpg?v=1766491283",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_pink_-_additional.jpg?v=1766491270"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-lilit-merlot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Lilit Merlot",
+      "source_url": "https://marsala.com.ua/products/lilit-merlot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_merlot.jpg?v=1785769335",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_merlot_-_front.jpg?v=1763464121",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_merlot_-_additional.jpg?v=1763464121"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-lilit-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Lilit Black",
+      "source_url": "https://marsala.com.ua/products/lilit-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_black_-_side.jpg?v=1786707547",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_black_-_front.jpg?v=1763464138",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Lilit_-_black_-_additional.jpg?v=1763464138"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margot-merlot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margot Merlot",
+      "source_url": "https://marsala.com.ua/products/margot-merlot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 18200,
+      "sale_price_uah": 10920,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_merlot_-_side.jpg?v=1786710995",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_merlot_-_front.jpg?v=1763464196",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot2_-_merlot_-_back.jpg?v=1763464196"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Black",
+      "source_url": "https://marsala.com.ua/products/sylvie-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": 13720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_black_-_side.jpg?v=1786708261",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_black_-_front.jpg?v=1763464355",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_black_-_back.jpg?v=1763464355"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-moss",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Moss",
+      "source_url": "https://marsala.com.ua/products/sylvie-moss",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": 13720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_moss_-_side.jpg?v=1786710940",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_moss_-_front.jpg?v=1763464339",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_moss_-_back.jpg?v=1763464339"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-sylvie-merlot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Sylvie Merlot",
+      "source_url": "https://marsala.com.ua/products/sylvie-merlot",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19600,
+      "sale_price_uah": 13720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_merlot_-_side.jpg?v=1786710930",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_merlot_-_front.jpg?v=1763464324",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Sylvie_-_merlot_-_back.jpg?v=1763464324"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Pink Silk",
+      "source_url": "https://marsala.com.ua/products/siren-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 9950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_-_side.jpg?v=1786707781",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_-_front.jpg?v=1766491368",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_pink_-_back.jpg?v=1766491356"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Red",
+      "source_url": "https://marsala.com.ua/products/siren-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 9950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_red_-_side.jpg?v=1786710829",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_red_-_front.jpg?v=1763464280",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_red_-_back.jpg?v=1763464280"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-siren-gold",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Siren Gold",
+      "source_url": "https://marsala.com.ua/products/siren-gold",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 9950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_gold_-_side.jpg?v=1786710849",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_gold_-_front.jpg?v=1776936927",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Siren_-_gold_-_back.jpg?v=1776936895"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-romy-pure-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Romy Pink",
+      "source_url": "https://marsala.com.ua/products/romy-pure-pink",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15900,
+      "sale_price_uah": 11130,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_pink_-_side.jpg?v=1786707753",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_pink_-_front.jpg?v=1766491602",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_pink_-_back.jpg?v=1766491553"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-romy-burning-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Romy Red",
+      "source_url": "https://marsala.com.ua/products/romy-burning-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15900,
+      "sale_price_uah": 11130,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_red_-_side.jpg?v=1786708428",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_red_-_front.jpg?v=1766491635",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_red_-_back.jpg?v=1766491621"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-romy-shadow-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Romy Black",
+      "source_url": "https://marsala.com.ua/products/romy-shadow-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15900,
+      "sale_price_uah": 11130,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_black_-_side.jpg?v=1786708196",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_black_-_front.jpg?v=1763464517",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Romy_-_black_-_back.jpg?v=1763464517"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Black",
+      "source_url": "https://marsala.com.ua/products/grace-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 13520,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_-_side.jpg?v=1786707654",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_-_front.jpg?v=1763464626",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_black_-_back.jpg?v=1763464626"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-grace-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace Wine",
+      "source_url": "https://marsala.com.ua/products/grace-wine",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_wine_-_side.jpg?v=1786707664",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_wine_-_front.jpg?v=1763464596",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_wine_-_back.jpg?v=1763464596"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-grace-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Grace White",
+      "source_url": "https://marsala.com.ua/products/grace-white",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16900,
+      "sale_price_uah": 12675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_white_-_side.jpg?v=1787325684",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_white_-_front.jpg?v=1787325714",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Grace_-_white_-_back.jpg?v=1787325731"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-margot-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Margot Red",
+      "source_url": "https://marsala.com.ua/products/margot-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 15400,
+      "sale_price_uah": 11550,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_birning_red_-_side.jpg?v=1785769336",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_red_-_front.jpg?v=1766491863",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Margot_-_red_-_back.jpg?v=1766491847"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-frolov-red",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Frolov x Marsala Red",
+      "source_url": "https://marsala.com.ua/products/frolov-red",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 11940,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Frolov_-_red_-_side.jpg?v=1786707908",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Frolov_-_red_-_front.jpg?v=1766491068",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Frolov_-_red_-_back.jpg?v=1766491878"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-frolov-in-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Frolov x Marsala Silver Black",
+      "source_url": "https://marsala.com.ua/products/frolov-in-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "срібний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": 11940,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/04-3.jpg?v=1740038609",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Frolov_-_silver_black_-_side.jpg?v=1786708207",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Frolov_-_silver_back_-_front.jpg?v=1763466224"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-milky",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise MIlky",
+      "source_url": "https://marsala.com.ua/products/elise-milky",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 15050,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/11_6866cde6-6807-4305-ac2e-8694942e0b26.jpg?v=1794869203",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/33_3b5e79ed-14c3-46c1-a938-d2b6c108ff7c.jpg?v=1794869209",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/22_5b8d3471-9dac-4474-bd73-0e0a6ba7755b.jpg?v=1794869206"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-сleo-white",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Cleo White",
+      "source_url": "https://marsala.com.ua/products/сleo-white",
+      "gender": "female",
+      "category": "High Heels",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": 8250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Cleo_-_white_-_side.jpg?v=1786708442",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Cleo_-_white_-_front.jpg?v=1763464418",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Cleo_-_white_-_back.jpg?v=1763464418"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-wine",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Wine",
+      "source_url": "https://marsala.com.ua/products/elise-wine",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_wine_-_side.jpg?v=1788377287",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/2_f302b8a5-fcae-4fed-9835-c362645f0fec.jpg?v=1788121708",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/3_18eb965f-adbc-4cd4-9e28-21cc743762a9.jpg?v=1788121708"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-elise-pink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Pink",
+      "source_url": "https://marsala.com.ua/products/elise-pink",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 16125,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise-pink-side.jpg?v=1787924257",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise-pink-front.jpg?v=1787924258",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise-pink-back.jpg?v=1787924256"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-black-leather",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Black Leather",
+      "source_url": "https://marsala.com.ua/products/elise-black-leather",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_black_leather_-_side.jpg?v=1785769334",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_blackleather_-_front.jpg?v=1786707702",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_blackleather_-_back.jpg?v=1786707715"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    },
+    {
+      "id": "marsala-jamie-sling-beige",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Jamie Sling Beige",
+      "source_url": "https://marsala.com.ua/products/jamie-sling-beige",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 20900,
+      "sale_price_uah": 12540,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_sling_-_beige_-_side.jpg?v=1786707608",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_sling_-_beige_-_front.jpg?v=1776956273",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Jamie_sling_-_beige_-_back.jpg?v=1776956281"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-powder",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Powder",
+      "source_url": "https://marsala.com.ua/products/elise-powder",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 16125,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_powder_-_side.jpg?v=1786707465",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_powder_-_front.jpg?v=1783370193",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_powder_-_back.jpg?v=1783370215"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-khaki",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Khaki",
+      "source_url": "https://marsala.com.ua/products/elise-khaki",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_khaki_-_side.jpg?v=1786708173",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_khaki_-_front.jpg?v=1773145012",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_khaki_-_back.jpg?v=1773145030"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "marsala-elise-carrot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Carrot",
+      "source_url": "https://marsala.com.ua/products/elise-carrot",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 10750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_carrot_light_-_side.jpg?v=1786710965",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_carrot_light_-_front.jpg?v=1773144545",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_carrot_light_-_back.jpg?v=1773144545"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-sand-gold",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Gold",
+      "source_url": "https://marsala.com.ua/products/elise-sand-gold",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 17200,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_gold_light_-_side.jpg?v=1785769338",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_gold_light_-_front.jpg?v=1773145047",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_gold_light_-back.jpg?v=1773145065"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-elise-black",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Elise Black",
+      "source_url": "https://marsala.com.ua/products/elise-black",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 21500,
+      "sale_price_uah": 17200,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_black_-_side.jpg?v=1786707415",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_black_-_front.jpg?v=1766574833",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Elise_-_black_-_back.jpg?v=1766574833"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-shade-moss",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Shade Moss",
+      "source_url": "https://marsala.com.ua/products/shade-moss",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_moss_-_side.jpg?v=1786708510",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_moss_-_front.jpg?v=1763464182",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_moss_-_back.jpg?v=1763464182"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-shade-merlot",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Shade Merlot",
+      "source_url": "https://marsala.com.ua/products/shade-merlot",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_merlot_-_side.jpg?v=1786708302",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_merlot_-_front.jpg?v=1763464213",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_merlot_-_back.jpg?v=1763464213"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-shade-purepink",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Shade Pink",
+      "source_url": "https://marsala.com.ua/products/shade-purepink",
+      "gender": "female",
+      "category": "Slingback",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 17500,
+      "sale_price_uah": 10500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_pink_-_side.jpg?v=1786708485",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_pink_-_front.jpg?v=1766491310",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Shade_-_pink_-_back.jpg?v=1766491298"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "marsala-vittoria-rouge",
+      "brand": "Marsala",
+      "brand_id": "marsala",
+      "name": "Vittoria Rouge",
+      "source_url": "https://marsala.com.ua/products/vittoria-rouge",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 25000,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_rouge_-_front.jpg?v=1786710414",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_rouge_-_side.jpg?v=1786864760",
+        "https://cdn.shopify.com/s/files/1/0871/5157/5224/files/Vittoria_-_rouge_-_back.jpg?v=1786710427"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "NEW COLLECTION"
+      ]
+    }
+  ]
+}

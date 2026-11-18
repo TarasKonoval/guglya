@@ -5,7 +5,7 @@ const API = import.meta.env.VITE_API_URL;
 const ASSET_BASE = import.meta.env.VITE_ASSET_BASE_URL ?? "";
 export const DONATE_URL: string = import.meta.env.VITE_DONATE_URL ?? "";
 
-async function authHeaders(): Promise<Record<string, string>> {
+export async function authHeaders(): Promise<Record<string, string>> {
   try {
     const token = (await fetchAuthSession()).tokens?.idToken?.toString();
     return token ? { Authorization: `Bearer ${token}` } : {};
@@ -23,9 +23,17 @@ export async function api<T>(path: string, init: RequestInit = {}): Promise<T> {
   return res.json() as Promise<T>;
 }
 
-export type Slot = "hat" | "top" | "bottom" | "shoes";
-export const SLOTS: Slot[] = ["hat", "top", "bottom", "shoes"];
-export const SLOT_LABELS: Record<Slot, string> = { hat: "Шапка", top: "Верх", bottom: "Низ", shoes: "Взуття" };
+export type Slot = "hat" | "outer" | "jacket" | "top" | "dress" | "bottom" | "shoes";
+export const SLOTS: Slot[] = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"];
+export const SLOT_LABELS: Record<Slot, string> = {
+  hat: "Шапка", outer: "Верхній одяг", jacket: "Піджак", top: "Кофта / сорочка", dress: "Сукня / костюм", bottom: "Низ", shoes: "Взуття",
+};
+/** "dress" is a suit for men and a dress or set for women */
+export function slotLabel(slot: Slot, gender?: string) {
+  if (slot === "dress" && gender === "men") return "Костюм";
+  if (slot === "dress" && gender === "women") return "Сукня / комплект";
+  return SLOT_LABELS[slot];
+}
 
 export type Product = {
   id: string;
@@ -45,13 +53,19 @@ export type OutfitSummary = {
   id: string;
   title: string;
   season: string;
+  gender: "women" | "men" | "unisex" | "couple";
   style_tag: string | null;
   cover_image_url: string | null;
   item_count: number;
   total_uah: number;
-  items: { slot: Slot; image_url: string; brand: string; price_uah: number }[];
+  colors: string[];
+  popularity: number;
+  items: { person: Person; slot: Slot; image_url: string; brand: string; price_uah: number }[];
 };
-export type Outfit = OutfitSummary & { products: Partial<Record<Slot, Product>> };
+/** 1 for a regular outfit; a couple outfit has looks for person 1 and 2. */
+export type Person = 1 | 2;
+export type Look = { person: Person; products: Partial<Record<Slot, Product>> };
+export type Outfit = OutfitSummary & { looks: Look[] };
 
 export type EventType = "outfit_view" | "swap" | "donate_click" | "feedback_open";
 
@@ -61,6 +75,15 @@ export function track(type: EventType, ids: { outfit_id?: string; product_id?: s
 }
 
 export const img = (url: string) => (url.startsWith("/") ? ASSET_BASE + url : url);
+
+/** Normalised product colours (products.color) → [label, swatch]. */
+export const COLORS: Record<string, [string, string]> = {
+  black: ["Чорний", "#262423"], white: ["Білий", "#ece8e0"], grey: ["Сірий", "#8c8c8a"],
+  beige: ["Беж", "#d6c0a0"], brown: ["Коричневий", "#7a5236"], blue: ["Синій", "#344a78"],
+  green: ["Зелений", "#4e6648"], red: ["Червоний", "#a0342e"], burgundy: ["Бордо", "#681e2c"],
+  pink: ["Рожевий", "#e3a6b4"], purple: ["Фіолетовий", "#7a5c9a"], yellow: ["Жовтий", "#e2c04e"],
+  orange: ["Помаранчевий", "#d9773a"],
+};
 
 const nf = new Intl.NumberFormat("uk-UA");
 export const formatUah = (n: number) => `${nf.format(n)} ₴`;

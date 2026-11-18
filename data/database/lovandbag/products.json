@@ -1,0 +1,153 @@
+{
+  "_meta": {
+    "brand": "Lovandbag",
+    "brand_id": "lovandbag",
+    "site": "https://lovandbag.com",
+    "extracted_at": "2026-11-18",
+    "mode": "generic",
+    "count": 6,
+    "found": 6,
+    "candidates": 250,
+    "checked": 250,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "lovandbag-hobo",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Хобо",
+      "source_url": "https://lovandbag.com/shop/hobo/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/IMG_9359-1-4%D1%855_Original_SnapseedCopy.jpeg",
+        "https://lovandbag.com/Media/shop-17608/IMG_8560.jpeg"
+      ],
+      "description": "Хобо — Lovandbag",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-dzhudi",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Джудіт",
+      "source_url": "https://lovandbag.com/shop/dzhudi/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/Tezza-9618.jpeg",
+        "https://lovandbag.com/Media/shop-17608/8M8A9159%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F_Original.jpeg"
+      ],
+      "description": "Всі сумочки шиються під замовлення, строки очікування уточнюйте але в районі 2 місяців Джудіт 27/12/11 см з плетінням спереду з зернистої шкіри 7000 грн З замші без плетіння 6500 грн зі шкіри з тисненням пітон 6500 грн повністю плетена з гладкої чи зернистої шкіри 9000 грн повністю плетена зі шкіри велюр 9500 нрн з плетінням спереду зі шкіри велюр а все інше зерниста шкіра 7500 грн",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-n",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Ніна раунд 3 розміри під замовлення",
+      "source_url": "https://lovandbag.com/shop/n/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/Tezza-8497.jpeg"
+      ],
+      "description": "Будь ласка уточнюйте час виготовлення сумочки на даний момент, наразі орієнтовно чекати в черзі 2 місяці🙏🏻 Ніна раунд гладка шкіра/ шкіра велюр С 31/24 см 9000/9700 грн М 36/31 см 10700/11700 грн М плюс 40/30 см 13000/14000 грн Огляд розмірів https://photos.app.goo.gl/8AXWSWqVAsa36G986",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-jackie",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Jackie",
+      "source_url": "https://lovandbag.com/shop/jackie/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 16000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/IMG_5864_SnapseedCopy.jpeg",
+        "https://lovandbag.com/Media/shop-17608/Tezza-2597.jpeg"
+      ],
+      "description": "Всі сумочки шиються під замовлення та плетуться вручну, уточнюйте строки в інстаграм або лишайте замовлення на сайті і ми вам напишемо Сумочка Jackie - це модель унісекс, має два розміри Л 37/24/12 см помістяться документи, ноутбук 13,14 ( 15 та 16 також але трішки по діагоналі) ціна в повному плетінні 21000 грн, з плетінням спереду (тільки в зернистій шкірі) 16000 грн М 33/21/11 см Повністю плетена 16000 грн з плетінням спереду з зернистої шкіри 11000 грн Палітра для цієї моделі за посиланням https://lovandbag.com/shop/luna-lina-palitra/",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-odry-v-dvoh-rozmirah",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Odry в двох розмірах",
+      "source_url": "https://lovandbag.com/shop/odry-v-dvoh-rozmirah/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/IMG_9051-1_Original_SnapseedCopy.jpeg",
+        "https://lovandbag.com/Media/shop-17608/562198CB-B381-4D38-AB4B-4B4B585DB9F8.jpeg"
+      ],
+      "description": "Сумочки шиються під замовлення, чекати і районі 2 місяців, для уточнення залишайте замовлення і ми з вами звʼяжемось OdryS 25/23/13 cmM 28/25/15 cmНатуральна шкіра і ручне плетіння дуже багато кольорів S 8500 uahM 9500 uah огляд моделі https://photos.app.goo.gl/rYcWpMTv3QTPidrb8",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-diana",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Diana",
+      "source_url": "https://lovandbag.com/shop/diana/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/IMG_2147-1_Original.jpeg",
+        "https://lovandbag.com/Media/shop-17608/Snapseed-5.jpeg"
+      ],
+      "description": "Всі сумочки плетуться вручну і шиються під замовлення в порядку черги, уточнюйте строки в інстграм Діана 23- 21 см Всередині кишеня на молніі",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

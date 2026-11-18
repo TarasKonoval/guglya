@@ -1,26 +1,33 @@
 import { useEffect, useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import { api, formatUah, img, openProduct, SLOT_LABELS, SLOTS, track, type Outfit, type Product, type Slot } from "../lib/api";
+import { Link, useNavigate, useParams } from "react-router-dom";
+import { api, formatUah, img, slotLabel, SLOTS, track, type Outfit, type Person, type Product, type Slot } from "../lib/api";
 import { bump, setCurrentOutfit } from "../lib/feedback";
 import { useSaved } from "../lib/saved";
+import { addToCart, useCart } from "../lib/cart";
 import { BackIcon, HeartIcon } from "../components/Icons";
 import OutfitCover from "../components/OutfitCover";
 import ItemRow from "../components/ItemRow";
 import Sheet from "../components/Sheet";
 
+const LOOK_LABELS: Record<Person, string> = { 1: "Перший образ", 2: "Другий образ" };
+const key = (person: Person, slot: Slot) => `${person}-${slot}`;
+
 export default function OutfitPage() {
   const { id = "" } = useParams();
   const [outfit, setOutfit] = useState<Outfit | null | "missing">(null);
-  const [picked, setPicked] = useState<Partial<Record<Slot, Product>>>({});
+  const [picked, setPicked] = useState<Record<string, Product>>({}); // by key(person, slot)
   const [buyOpen, setBuyOpen] = useState(false);
   const { saved, toggle } = useSaved();
+  const cart = useCart();
+  const navigate = useNavigate();
 
   useEffect(() => {
     setOutfit(null);
     api<Outfit>(`/outfits/${id}`)
       .then((o) => {
         setOutfit(o);
-        setPicked(o.products);
+        setPicked(Object.fromEntries(o.looks.flatMap((l) =>
+          SLOTS.filter((s) => l.products[s]).map((s) => [key(l.person, s), l.products[s]!]))));
         track("outfit_view", { outfit_id: o.id });
         bump("views");
       })
@@ -33,22 +40,25 @@ export default function OutfitPage() {
     };
   }, [id]);
 
-  const slots = outfit && outfit !== "missing" ? SLOTS.filter((s) => outfit.products[s]) : [];
-  const selected = slots.map((s) => [s, picked[s]!] as const);
-  const total = selected.reduce((sum, [, p]) => sum + p.price_uah, 0);
+  const looks = outfit && outfit !== "missing" ? outfit.looks : [];
+  const rows = looks.flatMap((l) => SLOTS.filter((s) => l.products[s]).map((s) => ({ person: l.person, slot: s })));
+  const selected = rows.filter((r) => picked[key(r.person, r.slot)]).map((r) => ({ ...r, p: picked[key(r.person, r.slot)] }));
+  const allInCart = selected.length > 0 && selected.every(({ p }) => cart.some((i) => i.id === p.id));
+  const total = selected.reduce((sum, { p }) => sum + p.price_uah, 0);
 
   if (outfit === null) return <main className="outfit-layout"><div className="skeleton tall" /></main>;
   if (outfit === "missing") return <main className="page pad">Образ не знайдено. <Link to="/" className="link-strong">До образів</Link></main>;
 
-  function swap(slot: Slot, p: Product) {
-    if (picked[slot]?.id === p.id) return;
-    setPicked((x) => ({ ...x, [slot]: p }));
+  function swap(person: Person, slot: Slot, p: Product) {
+    const k = key(person, slot);
+    if (picked[k]?.id === p.id) {
+      // tap the ticked item again: leave this piece out of my version
+      setPicked(({ [k]: _, ...rest }) => rest);
+      return;
+    }
+    setPicked((x) => ({ ...x, [k]: p }));
     track("swap", { outfit_id: id, product_id: p.id });
   }
-  const goToBrand = (p: Product, slot: Slot) => {
-    bump("clicks");
-    openProduct(p, id, slot);
-  };
 
   return (
     <main className="outfit-layout">
@@ -67,18 +77,23 @@ export default function OutfitPage() {
             <HeartIcon filled={saved.has(outfit.id)} />
           </button>
         </div>
-        <p className="hint pad-x">Торкнись речі, щоб замінити її у своїй версії образу.</p>
-        {slots.map((slot) => (
-          <ItemRow key={slot} outfitId={outfit.id} slot={slot} original={outfit.products[slot]!}
-            picked={picked[slot]} onPick={(p) => swap(slot, p)} onBrand={(p) => goToBrand(p, slot)} />
+        <p className="hint pad-x">Торкнись речі, щоб замінити її. Торкнись обраної ще раз, щоб прибрати з образу.</p>
+        {looks.map((l) => (
+          <div key={l.person} className="look">
+            {looks.length > 1 && <h2 className="look-title pad-x">{LOOK_LABELS[l.person]}</h2>}
+            {SLOTS.filter((s) => l.products[s]).map((slot) => (
+              <ItemRow key={key(l.person, slot)} outfitId={outfit.id} person={l.person} gender={outfit.gender} slot={slot}
+                original={l.products[slot]!} picked={picked[key(l.person, slot)]} onPick={(p) => swap(l.person, slot, p)} />
+            ))}
+          </div>
         ))}
       </div>
 
       <aside className="check-bar" aria-label="АутфітЧек">
         <div className="check-items">
-          {selected.map(([slot, p]) => (
-            <div key={slot} className="check-item">
-              <img src={img(p.image_url)} alt="" />
+          {selected.map(({ person, slot, p }) => (
+            <div key={key(person, slot)} className="check-item">
+              <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" />
               <span className="check-brand">{p.brand}</span>
               <span className="check-price">{formatUah(p.price_uah)}</span>
             </div>
@@ -86,7 +101,7 @@ export default function OutfitPage() {
         </div>
         <div className="check-total">
           <div><span className="check-label">АутфітЧек</span><strong>{formatUah(total)}</strong></div>
-          <button className="btn accent" onClick={() => setBuyOpen(true)}>Купити речі</button>
+          <button className="btn accent" disabled={!selected.length} onClick={() => setBuyOpen(true)}>Купити речі</button>
         </div>
       </aside>
 
@@ -94,19 +109,27 @@ export default function OutfitPage() {
         <Sheet onClose={() => setBuyOpen(false)} label="Купити речі">
           <h2>Твій образ</h2>
           <ul className="buy-list">
-            {selected.map(([slot, p]) => (
-              <li key={slot}>
-                <img src={img(p.image_url)} alt="" />
+            {selected.map(({ person, slot, p }) => (
+              <li key={key(person, slot)}>
+                <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" />
                 <div className="grow">
-                  <div className="muted small">{SLOT_LABELS[slot]} · {p.brand}</div>
+                  <div className="muted small">
+                    {looks.length > 1 && `${LOOK_LABELS[person]} · `}{slotLabel(slot, outfit.gender)} · {p.brand}
+                  </div>
                   <div>{p.title}</div>
                   <strong>{formatUah(p.price_uah)}</strong>
                 </div>
-                <button className="btn small primary" onClick={() => goToBrand(p, slot)}>До бренду →</button>
               </li>
             ))}
           </ul>
           <div className="buy-total"><span>Разом</span><strong>{formatUah(total)}</strong></div>
+          <button className="btn primary full"
+            onClick={() => {
+              selected.forEach(({ slot, p }) => addToCart(p, id, slot));
+              navigate("/cart");
+            }}>
+            {allInCart ? "Перейти в кошик →" : "Додати все в кошик"}
+          </button>
         </Sheet>
       )}
     </main>

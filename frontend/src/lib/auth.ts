@@ -36,6 +36,11 @@ const MESSAGES: Record<string, string> = {
   TooManyRequestsException: "Забагато спроб. Спробуй за кілька хвилин.",
   UserAlreadyAuthenticatedException: "Ти вже увійшов(-ла). Онови сторінку.",
   NetworkError: "Немає зʼєднання з інтернетом.",
+  CodeMismatchException: "Невірний код. Перевір лист і спробуй ще раз.",
+  ExpiredCodeException: "Код застарів — надішли новий.",
+  CodeDeliveryFailureException: "Не вдалося надіслати лист. Перевір email або спробуй пізніше.",
+  UserNotConfirmedException: "Email ще не підтверджено — введи код з листа.",
+  AliasExistsException: "Акаунт з таким email вже існує — увійди.",
 };
 
 export function authErrorMessage(e: unknown): string {

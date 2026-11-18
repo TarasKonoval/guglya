@@ -12,6 +12,9 @@ class Settings(BaseSettings):
     # empty locally -> fetched once from Cognito at startup.
     cognito_jwks: str = ""
     cors_origins: str = "http://localhost:5173"
+    # S3 bucket behind the site; admins upload look covers to img/looks/ (empty locally -> uploads disabled)
+    upload_bucket: str = ""
+    region: str = "eu-central-1"
 
     @property
     def cognito_issuer(self) -> str:

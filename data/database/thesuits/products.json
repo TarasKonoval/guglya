@@ -1,0 +1,5476 @@
+{
+  "_meta": {
+    "brand": "The Suits",
+    "brand_id": "thesuits",
+    "site": "https://thesuits.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 176,
+    "found": 197,
+    "candidates": 255,
+    "checked": 255,
+    "errors": [
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch",
+      "TypeError: Failed to fetch"
+    ]
+  },
+  "products": [
+    {
+      "id": "thesuits-palto-koloru-antraczyt",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Пальто кольору антрацит",
+      "source_url": "https://thesuits.ua/product/palto-koloru-antraczyt/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/the-suits182313_web.jpg"
+      ],
+      "description": "Купити 【 Пальто кольору антрацит 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "FW '26"
+      ]
+    },
+    {
+      "id": "thesuits-korychneve-palto-z-komirom-stijkoyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневе пальто з коміром стійкою",
+      "source_url": "https://thesuits.ua/product/korychneve-palto-z-komirom-stijkoyu/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/palo_web.jpg"
+      ],
+      "description": "Купити 【 Коричневе пальто з коміром стійкою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-palto-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Пальто коричневого кольору",
+      "source_url": "https://thesuits.ua/product/palto-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/the-suits182793_web.jpg"
+      ],
+      "description": "Купити 【 Пальто коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bazove-palto-chornogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Базове пальто чорного кольору",
+      "source_url": "https://thesuits.ua/product/bazove-palto-chornogo-koloru/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1483-kopiya.jpg"
+      ],
+      "description": "Купити 【 Базове пальто чорного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorne-palto-z-komirom-stijkoyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорне пальто з коміром стійкою",
+      "source_url": "https://thesuits.ua/product/chorne-palto-z-komirom-stijkoyu/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/thesuits16397_web.jpg"
+      ],
+      "description": "Купити 【 Чорне пальто з коміром стійкою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-palto-dvobortne-korychneve",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Пальто двобортне коричневе",
+      "source_url": "https://thesuits.ua/product/palto-dvobortne-korychneve/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/2b_web.jpg"
+      ],
+      "description": "Купити 【 Пальто двобортне коричневе 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-korychnevyj-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм коричневий прямого крою",
+      "source_url": "https://thesuits.ua/product/kostyum-korychnevyj-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "48"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/11/ts1121-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Костюм коричневий прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-vovnyanyj-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм вовняний",
+      "source_url": "https://thesuits.ua/product/kostyum-vovnyanyj-2/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/11/thesuits6590_web.jpg"
+      ],
+      "description": "Купити 【 Костюм вовняний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-chornyj-kostyum",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний чорний костюм",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-chornyj-kostyum/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/11/ts0951-kopiya.jpg"
+      ],
+      "description": "Купити 【 Двобортний чорний костюм 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-trijka-pryamogo-kroyu-u-smuzhku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм-трійка прямого крою у смужку",
+      "source_url": "https://thesuits.ua/product/kostyum-trijka-pryamogo-kroyu-u-smuzhku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/10/ts0814-kopiya.jpg"
+      ],
+      "description": "Купити 【 Костюм-трійка прямого крою у смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-koloru-burgundi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм кольору бургунді",
+      "source_url": "https://thesuits.ua/product/kostyum-koloru-burgundi/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/10/ts0926-kopiya.jpg"
+      ],
+      "description": "Купити 【 Костюм кольору бургунді 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-smoking-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Смокінг прямого крою",
+      "source_url": "https://thesuits.ua/product/smoking-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 14990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/10/ts0834-kopiya.jpg"
+      ],
+      "description": "Купити 【 Смокінг прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chornyj-dvobortnyj-kostyum-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорний двобортний костюм вільного крою",
+      "source_url": "https://thesuits.ua/product/chornyj-dvobortnyj-kostyum-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5770-kopiya.jpg"
+      ],
+      "description": "Купити 【 Чорний двобортний костюм вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-trijka-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм-трійка коричневого кольору",
+      "source_url": "https://thesuits.ua/product/kostyum-trijka-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits181999_web.jpg"
+      ],
+      "description": "Купити 【 Костюм-трійка коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-dvobortnyj-siryj-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм двобортний сірий зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/kostyum-dvobortnyj-siryj-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits182834_web.jpg"
+      ],
+      "description": "Купити 【 Костюм двобортний сірий зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-kostyum-vilnogo-kroyu-synogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний костюм вільного крою синього кольору",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-kostyum-vilnogo-kroyu-synogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/b0056008.jpg"
+      ],
+      "description": "Купити 【 Двобортний костюм вільного крою синього кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-siryj-dvobortnyj-kostyum-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сірий двобортний костюм вільного крою",
+      "source_url": "https://thesuits.ua/product/siryj-dvobortnyj-kostyum-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5803-kopiya.jpg"
+      ],
+      "description": "Купити 【 Сірий двобортний костюм вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-trijka-synij-v-smuzhku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм-трійка синій в смужку",
+      "source_url": "https://thesuits.ua/product/kostyum-trijka-synij-v-smuzhku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/img_2283.jpeg"
+      ],
+      "description": "Купити 【 Костюм-трійка синій в смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-dvobortnyj-korychnevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак двобортний коричневий",
+      "source_url": "https://thesuits.ua/product/pidzhak-dvobortnyj-korychnevyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 8590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1312-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак двобортний коричневий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kardygan-bezhevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кардиган бежевий",
+      "source_url": "https://thesuits.ua/product/kardygan-bezhevyj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "бежевий"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1138-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Кардиган бежевий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kardygan-korychnevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кардиган коричневий",
+      "source_url": "https://thesuits.ua/product/kardygan-korychnevyj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "бежевий"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 4290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1520-kopiya.jpg"
+      ],
+      "description": "Купити 【 Кардиган коричневий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-gurka-chorni-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки гурка чорні прямого крою",
+      "source_url": "https://thesuits.ua/product/bryuky-gurka-chorni-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий",
+        "зелений",
+        "бежевий",
+        "коричневий",
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1437-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки гурка чорні прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-bezhevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак сірий",
+      "source_url": "https://thesuits.ua/product/pidzhak-bezhevyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1048-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак сірий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-siryj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак бежевий",
+      "source_url": "https://thesuits.ua/product/pidzhak-siryj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1244-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак бежевий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-dvobortnyj-bezhevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак двобортний бежевий",
+      "source_url": "https://thesuits.ua/product/pidzhak-dvobortnyj-bezhevyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0055073.jpg"
+      ],
+      "description": "Купити 【 Піджак двобортний бежевий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevyj-golf",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневий гольф",
+      "source_url": "https://thesuits.ua/product/korychnevyj-golf/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/the-suits182648_web.jpg"
+      ],
+      "description": "Купити 【 Коричневий гольф 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "FW '26"
+      ]
+    },
+    {
+      "id": "thesuits-kardygan-chornyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кардиган чорний",
+      "source_url": "https://thesuits.ua/product/kardygan-chornyj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits1784_web.jpg"
+      ],
+      "description": "Купити 【 Кардиган чорний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "FW '26"
+      ]
+    },
+    {
+      "id": "thesuits-kardygan-siryj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кардиган сірий",
+      "source_url": "https://thesuits.ua/product/kardygan-siryj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits1839_web.jpg"
+      ],
+      "description": "Купити 【 Кардиган сірий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "FW '26"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-dvobortnyj-siryj-kostyum-u-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний двобортний сірий костюм у клітинку",
+      "source_url": "https://thesuits.ua/product/klasychnyj-dvobortnyj-siryj-kostyum-u-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 8290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8282_web.jpg"
+      ],
+      "description": "Купити 【 Класичний двобортний сірий костюм у клітинку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-svitlo-siryj-dvobortnyj-kostyum",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний світло-сірий двобортний костюм",
+      "source_url": "https://thesuits.ua/product/klasychnyj-svitlo-siryj-dvobortnyj-kostyum/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 8290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8447_web.jpg"
+      ],
+      "description": "Купити 【 Класичний світло-сірий двобортний костюм 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-kardygan-mokko",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кардиган мокко",
+      "source_url": "https://thesuits.ua/product/kardygan-mokko/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits1820_web.jpg"
+      ],
+      "description": "Купити 【 Кардиган мокко 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "FW '26"
+      ]
+    },
+    {
+      "id": "thesuits-povsyakdennyj-kostyum-synogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Повсякденний костюм синього кольору",
+      "source_url": "https://thesuits.ua/product/povsyakdennyj-kostyum-synogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 9990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010565_web.jpg"
+      ],
+      "description": "Купити 【 Повсякденний костюм синього кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-kostyum-siryj-u-velyku-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний костюм сірий у велику клітинку",
+      "source_url": "https://thesuits.ua/product/klasychnyj-kostyum-siryj-u-velyku-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 7390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8779_web.jpg"
+      ],
+      "description": "Купити 【 Класичний костюм сірий у велику клітинку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-kostyum-synij-v-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний костюм синій в клітинку",
+      "source_url": "https://thesuits.ua/product/klasychnyj-kostyum-synij-v-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 8290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8541_web.jpg"
+      ],
+      "description": "Купити 【 Класичний костюм синій в клітинку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-kostyum-bordovyj-v-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний костюм бордовий в клітинку",
+      "source_url": "https://thesuits.ua/product/klasychnyj-kostyum-bordovyj-v-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 8890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8420_web.jpg"
+      ],
+      "description": "Купити 【 Класичний костюм бордовий в клітинку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-klasychnyj-svitlo-korychnevyj-kostyum-u-velyku-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний світло-коричневий костюм у велику клітинку",
+      "source_url": "https://thesuits.ua/product/klasychnyj-svitlo-korychnevyj-kostyum-u-velyku-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 7390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits8163_web.jpg"
+      ],
+      "description": "Купити 【 Класичний світло-коричневий костюм у велику клітинку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-cholovichyj-kostyum-korychnevyj-v-klitynku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чоловічий костюм коричневий в смужку",
+      "source_url": "https://thesuits.ua/product/cholovichyj-kostyum-korychnevyj-v-klitynku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits7227_web.jpg"
+      ],
+      "description": "Купити 【 Чоловічий костюм коричневий в смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "thesuits-kostyum-pudrovyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм пудровий",
+      "source_url": "https://thesuits.ua/product/kostyum-pudrovyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0054958.jpg"
+      ],
+      "description": "Купити 【 Костюм пудровий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-kostyum-synogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний костюм синього кольору",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-kostyum-synogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/thesuits6627_web.jpg"
+      ],
+      "description": "Купити 【 Двобортний костюм синього кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevyj-kostyum-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневий костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/korychnevyj-kostyum-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 11880,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/ts5866-kopiya_web.jpg"
+      ],
+      "description": "Купити 【 Коричневий костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-grafitovogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм графітового кольору",
+      "source_url": "https://thesuits.ua/product/kostyum-grafitovogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "сірий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits182583_web.jpg"
+      ],
+      "description": "Купити 【 Костюм графітового кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kopiyapidzhak-synij",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Синій костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/kopiyapidzhak-synij/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 11880,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0055885.jpg"
+      ],
+      "description": "Купити 【 Синій костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chornyj-kostyum-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорний костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/chornyj-kostyum-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11880,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/ts5995-kopiya_web.jpg"
+      ],
+      "description": "Купити 【 Чорний костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-blakytnogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм блакитного кольору",
+      "source_url": "https://thesuits.ua/product/kostyum-blakytnogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5926-kopiya.jpg"
+      ],
+      "description": "Купити 【 Костюм блакитного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-llyanyj-zelenyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм лляний зелений",
+      "source_url": "https://thesuits.ua/product/kostyum-llyanyj-zelenyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "зелений"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0056177.jpg"
+      ],
+      "description": "Купити 【 Костюм лляний зелений 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-llyanyj-fistashkovogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм лляний фісташкового кольору",
+      "source_url": "https://thesuits.ua/product/kostyum-llyanyj-fistashkovogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "50",
+        "56"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6032-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Костюм лляний фісташкового кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-dvobortnyj-olyvkovyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак двобортний оливковий",
+      "source_url": "https://thesuits.ua/product/pidzhak-dvobortnyj-olyvkovyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/img_2289.jpeg"
+      ],
+      "description": "Купити 【 Піджак двобортний оливковий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-dvobortnyj-bilyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак двобортний білий",
+      "source_url": "https://thesuits.ua/product/pidzhak-dvobortnyj-bilyj/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 8590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/ts1498-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак двобортний білий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kopiyapidzhak-dvobortnyj-olyvkovyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний оливковий костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/kopiyapidzhak-dvobortnyj-olyvkovyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11980,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/img_2288.jpeg"
+      ],
+      "description": "Купити 【 Двобортний оливковий костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-synij-kostyum-pryamogo-kroyu-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний синій костюм прямого крою зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-synij-kostyum-pryamogo-kroyu-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts5893-kopiya.jpg"
+      ],
+      "description": "Купити 【 Двобортний синій костюм прямого крою зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kopiyapidzhak-dvobortnyj-bilyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Білий двобортний костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/kopiyapidzhak-dvobortnyj-bilyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12880,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/img_2277.jpeg"
+      ],
+      "description": "Купити 【 Білий двобортний костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kopiyapidzhak-dvobortnyj-bezhevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний бежевий костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/kopiyapidzhak-dvobortnyj-bezhevyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11980,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0055048.jpg"
+      ],
+      "description": "Купити 【 Двобортний бежевий костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-dvobortnyj-synij-u-smuzhku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм двобортний синій у смужку",
+      "source_url": "https://thesuits.ua/product/kostyum-dvobortnyj-synij-u-smuzhku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits7375_web.jpg"
+      ],
+      "description": "Купити 【 Костюм двобортний синій у смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-svitlo-siryj-dvobortnyj-kostyum-pryamogo-kroyu-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Світло-сірий двобортний костюм прямого крою зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/svitlo-siryj-dvobortnyj-kostyum-pryamogo-kroyu-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5951-kopiya.jpg"
+      ],
+      "description": "Купити 【 Світло-сірий двобортний костюм прямого крою зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bezhevyj-dvobortnyj-kostyum-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Бежевий двобортний костюм вільного крою",
+      "source_url": "https://thesuits.ua/product/bezhevyj-dvobortnyj-kostyum-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5827-kopiya.jpg"
+      ],
+      "description": "Купити 【 Бежевий двобортний костюм вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-taup-dvobortnyj-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм тауп двобортний вільного крою",
+      "source_url": "https://thesuits.ua/product/kostyum-taup-dvobortnyj-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/08/ts1147-kopiya.jpg"
+      ],
+      "description": "Купити 【 Костюм тауп двобортний вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevyj-kostyum-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневий костюм вільного крою",
+      "source_url": "https://thesuits.ua/product/korychnevyj-kostyum-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts0987-kopiya-1-e1794400402213.jpg"
+      ],
+      "description": "Купити 【 Коричневий костюм вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-z-lonu-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм з льону вільного крою",
+      "source_url": "https://thesuits.ua/product/kostyum-z-lonu-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151384_web.jpg"
+      ],
+      "description": "Купити 【 Костюм з льону вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-kostyum-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-kostyum-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits182196_web.jpg"
+      ],
+      "description": "Купити 【 Двобортний костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-kostyum-pryamogo-kroyu-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний костюм прямого крою коричневого кольору",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-kostyum-pryamogo-kroyu-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "price_uah": 10990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits150933_web.jpg"
+      ],
+      "description": "Купити 【 Двобортний костюм прямого крою коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-blakytna-llyana-sorochka",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Блакитна лляна сорочка",
+      "source_url": "https://thesuits.ua/product/blakytna-llyana-sorochka/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "білий",
+        "коричневий",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/b0055839.jpg"
+      ],
+      "description": "Купити 【 Блакитна лляна сорочка 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychneva-llyana-sorochka",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричнева лляна сорочка",
+      "source_url": "https://thesuits.ua/product/korychneva-llyana-sorochka/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "білий",
+        "коричневий",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/b0056124.jpg"
+      ],
+      "description": "Купити 【 Коричнева лляна сорочка 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-llyana-sorochka-ajvori",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лляна сорочка айворі",
+      "source_url": "https://thesuits.ua/product/llyana-sorochka-ajvori/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "білий",
+        "коричневий",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/1_web-5.jpg"
+      ],
+      "description": "Купити 【 Лляна сорочка айворі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-llyana-sorochka-bezheva",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лляна сорочка бежева",
+      "source_url": "https://thesuits.ua/product/llyana-sorochka-bezheva/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "білий",
+        "коричневий",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/1_web-4.jpg"
+      ],
+      "description": "Купити 【 Лляна сорочка бежева 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-llyani-chorni-bryuky",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лляні чорні брюки",
+      "source_url": "https://thesuits.ua/product/llyani-chorni-bryuky/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151504_web.webp"
+      ],
+      "description": "Купити 【 Лляні чорні брюки 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-mokko-llyani",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки мокко лляні",
+      "source_url": "https://thesuits.ua/product/bryuky-mokko-llyani/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1553-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки мокко лляні 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-llyani-korychnevi-bryuky",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лляні коричневі брюки",
+      "source_url": "https://thesuits.ua/product/llyani-korychnevi-bryuky/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151081_web.jpg"
+      ],
+      "description": "Купити 【 Лляні коричневі брюки 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-llyanyj-kostyum-bezhevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лляний костюм бежевого кольору",
+      "source_url": "https://thesuits.ua/product/llyanyj-kostyum-bezhevogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "зелений"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/img_2293.jpeg"
+      ],
+      "description": "Купити 【 Лляний костюм бежевого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-z-lonu-vilnogo-kroyu-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм з льону вільного крою",
+      "source_url": "https://thesuits.ua/product/kostyum-z-lonu-vilnogo-kroyu-2/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 12990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151478_web.jpg"
+      ],
+      "description": "Купити 【 Костюм з льону вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-gurka-syni-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки гурка сині прямого крою",
+      "source_url": "https://thesuits.ua/product/bryuky-gurka-syni-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий",
+        "зелений",
+        "бежевий",
+        "коричневий",
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1404-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки гурка сині прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-gurka-siri-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки гурка сірі прямого крою",
+      "source_url": "https://thesuits.ua/product/bryuky-gurka-siri-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий",
+        "зелений",
+        "бежевий",
+        "коричневий",
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/11/ts1080-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки гурка сірі прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-siri-bryuky-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сірі брюки прямого крою",
+      "source_url": "https://thesuits.ua/product/siri-bryuky-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій",
+        "чорний",
+        "коричневий",
+        "сірий"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits183338_web.webp"
+      ],
+      "description": "Купити 【 Сірі брюки прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-gurka-pryamogo-kroyu-korychnevi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки гурка прямого крою коричневі",
+      "source_url": "https://thesuits.ua/product/bryuky-gurka-pryamogo-kroyu-korychnevi/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий",
+        "зелений",
+        "бежевий",
+        "коричневий",
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1297-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Брюки гурка прямого крою коричневі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychni-bryuky-gurka-chornogo-koloru-zi-strukturnoi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичні брюки гурка чорного кольору зі структурноі тканини",
+      "source_url": "https://thesuits.ua/product/klasychni-bryuky-gurka-chornogo-koloru-zi-strukturnoi-tkanyny/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/the-suits182632_web.jpg"
+      ],
+      "description": "Купити 【 Класичні брюки гурка чорного кольору зі структурноі тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-bryuky-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні брюки вільного крою",
+      "source_url": "https://thesuits.ua/product/chorni-bryuky-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5795-kopiya.jpg"
+      ],
+      "description": "Купити 【 Чорні брюки вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-siri-bryuky-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сірі брюки вільного крою",
+      "source_url": "https://thesuits.ua/product/siri-bryuky-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/b0056085-1.jpg"
+      ],
+      "description": "Купити 【 Сірі брюки вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-synogo-koloru-vilnogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки синього кольору вільного крою",
+      "source_url": "https://thesuits.ua/product/bryuky-synogo-koloru-vilnogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5981-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки синього кольору вільного крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bryuky-vilnogo-kroyu-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Брюки вільного крою коричневого кольору",
+      "source_url": "https://thesuits.ua/product/bryuky-vilnogo-kroyu-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий",
+        "сірий",
+        "чорний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6089-kopiya.jpg"
+      ],
+      "description": "Купити 【 Брюки вільного крою коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-syni-bryuky-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сині брюки прямого крою",
+      "source_url": "https://thesuits.ua/product/syni-bryuky-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій",
+        "чорний",
+        "коричневий",
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts1264-kopiya.jpg"
+      ],
+      "description": "Купити 【 Сині брюки прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychni-bryuky-gurka-sirogo-koloru-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичні брюки гурка сірого кольору зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/klasychni-bryuky-gurka-sirogo-koloru-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/the-suits182263_web.jpg"
+      ],
+      "description": "Купити 【 Класичні брюки гурка сірого кольору зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-golf-bezhevyj-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Гольф бежевий",
+      "source_url": "https://thesuits.ua/product/golf-bezhevyj-2/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1338-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Гольф бежевий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bazovyj-chornyj-golf",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Базовий чорний гольф",
+      "source_url": "https://thesuits.ua/product/bazovyj-chornyj-golf/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/1_web-9.jpg"
+      ],
+      "description": "Купити 【 Базовий чорний гольф 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-siryj-golf-z-vysokym-komirom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сірий гольф з високим коміром",
+      "source_url": "https://thesuits.ua/product/siryj-golf-z-vysokym-komirom/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1363-kopiya.jpg"
+      ],
+      "description": "Купити 【 Сірий гольф з високим коміром 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-golf-ajvori",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Гольф айворі",
+      "source_url": "https://thesuits.ua/product/golf-ajvori/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/thesuits16469_web.jpg"
+      ],
+      "description": "Купити 【 Гольф айворі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-temno-synij-golf-z-vysokym-komirom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Темно-синій гольф з високим коміром",
+      "source_url": "https://thesuits.ua/product/temno-synij-golf-z-vysokym-komirom/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/the-suits183381_web.jpg"
+      ],
+      "description": "Купити 【 Темно-синій гольф з високим коміром 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-golf-chornyj-z-vysokym-komirom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Гольф чорний з високим коміром",
+      "source_url": "https://thesuits.ua/product/golf-chornyj-z-vysokym-komirom/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/666_web.jpg"
+      ],
+      "description": "Купити 【 Гольф чорний з високим коміром 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-golf-zelenyj-z-vysokym-komirom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Гольф зелений з високим коміром",
+      "source_url": "https://thesuits.ua/product/golf-zelenyj-z-vysokym-komirom/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/thesuits16254_web.jpg"
+      ],
+      "description": "Купити 【 Гольф зелений з високим коміром 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevyj-golf-z-vysokym-komirom-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневий гольф з високим коміром",
+      "source_url": "https://thesuits.ua/product/korychnevyj-golf-z-vysokym-komirom-2/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/kroc_web.jpg"
+      ],
+      "description": "Купити 【 Коричневий гольф з високим коміром 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-synij",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак синій",
+      "source_url": "https://thesuits.ua/product/pidzhak-synij/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "бежевий",
+        "сірий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0055885.jpg"
+      ],
+      "description": "Купити 【 Піджак синій 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-z-nakladnymy-kyshenyamy",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак з накладними кишенями",
+      "source_url": "https://thesuits.ua/product/pidzhak-z-nakladnymy-kyshenyamy/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 4490,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010711_web.jpg"
+      ],
+      "description": "Купити 【 Піджак з накладними кишенями 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-golf-bezhevyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Гольф бежевий",
+      "source_url": "https://thesuits.ua/product/golf-bezhevyj/",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/thesuits16369_web.jpg"
+      ],
+      "description": "Купити 【 Гольф бежевий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак коричневого кольору",
+      "source_url": "https://thesuits.ua/product/pidzhak-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5859-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-pidzhak-chornogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Піджак чорного кольору",
+      "source_url": "https://thesuits.ua/product/pidzhak-chornogo-koloru/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 7990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6001-kopiya.jpg"
+      ],
+      "description": "Купити 【 Піджак чорного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-corochka-bila-non-iron",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сорочка біла non iron",
+      "source_url": "https://thesuits.ua/product/corochka-bila-non-iron/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ni.jpg"
+      ],
+      "description": "Купити 【 Сорочка біла non iron 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-sorochka-korychnevogo-koloru-z-plankoyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сорочка коричневого кольору з планкою",
+      "source_url": "https://thesuits.ua/product/sorochka-korychnevogo-koloru-z-plankoyu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5881-kopiya.jpg"
+      ],
+      "description": "Купити 【 Сорочка коричневого кольору з планкою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorna-bazova-sorochka-z-plankoyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорна базова сорочка з планкою",
+      "source_url": "https://thesuits.ua/product/chorna-bazova-sorochka-z-plankoyu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-1.jpg"
+      ],
+      "description": "Купити 【 Чорна базова сорочка з планкою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kremova-sorochka-z-plankoyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Кремова сорочка з планкою",
+      "source_url": "https://thesuits.ua/product/kremova-sorochka-z-plankoyu/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5903-kopiya.jpg"
+      ],
+      "description": "Купити 【 Кремова сорочка з планкою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-sorochka-ajvori-non-iron",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сорочка айворі non iron",
+      "source_url": "https://thesuits.ua/product/sorochka-ajvori-non-iron/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/111-6-scaled.jpg"
+      ],
+      "description": "Купити 【 Сорочка айворі non iron 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-sorochka-bila-non-iron",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сорочка біла non iron",
+      "source_url": "https://thesuits.ua/product/sorochka-bila-non-iron/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/ts0905-kopiya.jpg"
+      ],
+      "description": "Купити 【 Сорочка біла non iron 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bila-sorochka-v-dribnu-smuzhku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Біла сорочка в дрібну смужку",
+      "source_url": "https://thesuits.ua/product/bila-sorochka-v-dribnu-smuzhku/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-3.jpg"
+      ],
+      "description": "Купити 【 Біла сорочка в дрібну смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-sorochka-ajvori",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сорочка айворі",
+      "source_url": "https://thesuits.ua/product/sorochka-ajvori/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22_web-2.jpg"
+      ],
+      "description": "Купити 【 Сорочка айворі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychnyj-kostyum-synogo-koloru-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний костюм синього кольору зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/klasychnyj-kostyum-synogo-koloru-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Класичний костюм",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60",
+        "62"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151176_web.jpg"
+      ],
+      "description": "Купити 【 Класичний костюм синього кольору зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-kostyum-korychnevogo-koloru-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний костюм коричневого кольору",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-kostyum-korychnevogo-koloru-2/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 10990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/suits2398-2_web.jpg"
+      ],
+      "description": "Купити 【 Двобортний костюм коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-siryj-dvobortnyj-kostyum-pryamogo-kroyu",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Сірий двобортний костюм прямого крою",
+      "source_url": "https://thesuits.ua/product/siryj-dvobortnyj-kostyum-pryamogo-kroyu/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52"
+      ],
+      "price_uah": 10990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits150818_web.jpg"
+      ],
+      "description": "Купити 【 Сірий двобортний костюм прямого крою 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-cholovichyj-klasychnyj-synij-kostyum",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чоловічий класичний синій костюм",
+      "source_url": "https://thesuits.ua/product/cholovichyj-klasychnyj-synij-kostyum/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 9990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/img_2835_web.jpg"
+      ],
+      "description": "Купити 【 Чоловічий класичний синій костюм 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychnyj-dvobortnyj-kostyum-blakytnogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний двобортний костюм блакитного кольору",
+      "source_url": "https://thesuits.ua/product/klasychnyj-dvobortnyj-kostyum-blakytnogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 10990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/306138843_web.jpg"
+      ],
+      "description": "Купити 【 Класичний двобортний костюм блакитного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-korychnevyj-kostyum-u-smuzhku",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм коричневий костюм у смужку",
+      "source_url": "https://thesuits.ua/product/kostyum-korychnevyj-kostyum-u-smuzhku/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/img_2612_web.jpg"
+      ],
+      "description": "Купити 【 Костюм коричневий костюм у смужку 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-bezhevyj-dvobortnyj-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм бежевий двобортний зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/kostyum-bezhevyj-dvobortnyj-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/306139191_web.jpg"
+      ],
+      "description": "Купити 【 Костюм бежевий двобортний зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-bezhevyj-dvobortnyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм бежевий двобортний",
+      "source_url": "https://thesuits.ua/product/kostyum-bezhevyj-dvobortnyj/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/306139004-%E2%80%94-kopyya_web.webp"
+      ],
+      "description": "Купити 【 Костюм бежевий двобортний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kostyum-svitlo-synogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Костюм світло-синього кольору",
+      "source_url": "https://thesuits.ua/product/kostyum-svitlo-synogo-koloru/",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 11990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5940-kopiya.jpg"
+      ],
+      "description": "Купити 【 Костюм світло-синього кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychni-bryuky-gurka-zi-strukturnoyi-tkanyny",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичні брюки гурка зі структурної тканини",
+      "source_url": "https://thesuits.ua/product/klasychni-bryuky-gurka-zi-strukturnoyi-tkanyny/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "синій",
+        "чорний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits16226_web.jpg"
+      ],
+      "description": "Купити 【 Класичні брюки гурка зі структурної тканини 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevi-zamshevi-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневі замшеві лофери",
+      "source_url": "https://thesuits.ua/product/korychnevi-zamshevi-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "бежевий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/1_web-1-2.jpg"
+      ],
+      "description": "Купити 【 Коричневі замшеві лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-zamshevi-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні замшеві лофери",
+      "source_url": "https://thesuits.ua/product/chorni-zamshevi-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "бежевий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/1_web-2-1.jpg"
+      ],
+      "description": "Купити 【 Чорні замшеві лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-zamshevi-bezhevi-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Замшеві бежеві лофери",
+      "source_url": "https://thesuits.ua/product/zamshevi-bezhevi-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "бежевий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/1_web-1.jpg"
+      ],
+      "description": "Купити 【 Замшеві бежеві лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-lakovani-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Лаковані лофери",
+      "source_url": "https://thesuits.ua/product/lakovani-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-10-scaled.jpg"
+      ],
+      "description": "Купити 【 Лаковані лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-temno-korychnevi-brogy",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Темно-коричневі броги",
+      "source_url": "https://thesuits.ua/product/temno-korychnevi-brogy/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price_uah": 4690,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-7-scaled.jpg"
+      ],
+      "description": "Купити 【 Темно-коричневі броги 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-penni-lofery-na-gladkij-pidoshvi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні пенні-лофери на гладкій підошві",
+      "source_url": "https://thesuits.ua/product/chorni-penni-lofery-na-gladkij-pidoshvi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44"
+      ],
+      "price_uah": 4390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-5-scaled.jpg"
+      ],
+      "description": "Купити 【 Чорні пенні-лофери на гладкій підошві 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-temno-korychnevi-derbi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Темно-коричневі дербі",
+      "source_url": "https://thesuits.ua/product/temno-korychnevi-derbi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-9-scaled.jpg"
+      ],
+      "description": "Купити 【 Темно-коричневі дербі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-penni-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні пенні лофери",
+      "source_url": "https://thesuits.ua/product/chorni-penni-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-6-scaled.jpg"
+      ],
+      "description": "Купити 【 Чорні пенні лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-derbi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні дербі",
+      "source_url": "https://thesuits.ua/product/chorni-derbi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/22-1-scaled.jpg"
+      ],
+      "description": "Купити 【 Чорні дербі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevi-penni-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневі пенні лофери",
+      "source_url": "https://thesuits.ua/product/korychnevi-penni-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/33-3-1-scaled.jpg"
+      ],
+      "description": "Купити 【 Коричневі пенні лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-penni-lofery-na-nyzkij-pidoshvi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні пенні лофери на низькій підошві",
+      "source_url": "https://thesuits.ua/product/chorni-penni-lofery-na-nyzkij-pidoshvi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/33-2-1-scaled.jpg"
+      ],
+      "description": "Купити 【 Чорні пенні лофери на низькій підошві 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevi-penni-lofery-na-nyzkij-pidoshvi",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневі пенні лофери на низькій підошві",
+      "source_url": "https://thesuits.ua/product/korychnevi-penni-lofery-na-nyzkij-pidoshvi/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/33-1-1-scaled.jpg"
+      ],
+      "description": "Купити 【 Коричневі пенні лофери на низькій підошві 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-z-dovgym-rukavom-chornogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло з довгим рукавом чорного кольору",
+      "source_url": "https://thesuits.ua/product/polo-z-dovgym-rukavom-chornogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1272-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло з довгим рукавом чорного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-korychnevogo-koloru-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло з довгим рукавом коричневого кольору",
+      "source_url": "https://thesuits.ua/product/polo-korychnevogo-koloru-2/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1446-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло з довгим рукавом коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-z-dovgym-rukavom-svitlo-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло з довгим рукавом світло-коричневого кольору",
+      "source_url": "https://thesuits.ua/product/polo-z-dovgym-rukavom-svitlo-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1402-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло з довгим рукавом світло-коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-z-dovgym-rukavom-terakotovogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло з довгим рукавом теракотового кольору",
+      "source_url": "https://thesuits.ua/product/polo-z-dovgym-rukavom-terakotovogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3290,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/09/ts1539-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло з довгим рукавом теракотового кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-korychnevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло коричневого кольору",
+      "source_url": "https://thesuits.ua/product/polo-korychnevogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "білий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5845-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло коричневого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bile-polo-bez-gudzykiv",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Біле поло без гудзиків",
+      "source_url": "https://thesuits.ua/product/bile-polo-bez-gudzykiv/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/27thesuits151256_web.jpg"
+      ],
+      "description": "Купити 【 Біле поло без гудзиків 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-bezhevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло бежевого кольору",
+      "source_url": "https://thesuits.ua/product/polo-bezhevogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "білий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6082-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло бежевого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-bilogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло білого кольору",
+      "source_url": "https://thesuits.ua/product/polo-bilogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "білий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6053-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло білого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychne-polo",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичне поло",
+      "source_url": "https://thesuits.ua/product/klasychne-polo/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/000_web-1.jpg"
+      ],
+      "description": "Купити 【 Класичне поло 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-polo-chornogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Поло чорного кольору",
+      "source_url": "https://thesuits.ua/product/polo-chornogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "білий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6092-kopiya.jpg"
+      ],
+      "description": "Купити 【 Поло чорного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorne-polo",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорне поло",
+      "source_url": "https://thesuits.ua/product/chorne-polo/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010432_web.jpg"
+      ],
+      "description": "Купити 【 Чорне поло 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychne-rozheve-polo",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичне рожеве поло",
+      "source_url": "https://thesuits.ua/product/klasychne-rozheve-polo/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010684_web.jpg"
+      ],
+      "description": "Купити 【 Класичне рожеве поло 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-bila",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка біла",
+      "source_url": "https://thesuits.ua/product/futbolka-bila/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "білий",
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1085-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Футболка біла 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-bezheva-bazova",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка бежева базова",
+      "source_url": "https://thesuits.ua/product/futbolka-bezheva-bazova/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "білий",
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/111-2-scaled.jpg"
+      ],
+      "description": "Купити 【 Футболка бежева базова 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-chornogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка чорного кольору",
+      "source_url": "https://thesuits.ua/product/futbolka-chornogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "бежевий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5798-kopiya.jpg"
+      ],
+      "description": "Купити 【 Футболка чорного кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-bezhevogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка бежевого кольору",
+      "source_url": "https://thesuits.ua/product/futbolka-bezhevogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "бежевий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts5984-kopiya.jpg"
+      ],
+      "description": "Купити 【 Футболка бежевого кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-chorna",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка чорна",
+      "source_url": "https://thesuits.ua/product/futbolka-chorna/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "білий",
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/ts1061-kopiya.jpg"
+      ],
+      "description": "Купити 【 Футболка чорна 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-futbolka-olyvkovogo-koloru",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Футболка оливкового кольору",
+      "source_url": "https://thesuits.ua/product/futbolka-olyvkovogo-koloru/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "зелений",
+        "бежевий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/04/ts6070-kopiya-1.jpg"
+      ],
+      "description": "Купити 【 Футболка оливкового кольору 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bila-futbolka",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Біла футболка",
+      "source_url": "https://thesuits.ua/product/bila-futbolka/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010470_web.jpg"
+      ],
+      "description": "Купити 【 Біла футболка 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorna-futbolka",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорна футболка",
+      "source_url": "https://thesuits.ua/product/chorna-futbolka/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits_vol2.010449_web.jpg"
+      ],
+      "description": "Купити 【 Чорна футболка 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bili-bazovi-kedy",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Білі базові кеди",
+      "source_url": "https://thesuits.ua/product/bili-bazovi-kedy/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кеди",
+      "slot": "shoes",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/3-scaled.jpg"
+      ],
+      "description": "Купити 【 Білі базові кеди 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-korychnevi-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Коричневі лофери",
+      "source_url": "https://thesuits.ua/product/korychnevi-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/33-11-scaled.jpg"
+      ],
+      "description": "Купити 【 Коричневі лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-chorni-lofery",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Чорні лофери",
+      "source_url": "https://thesuits.ua/product/chorni-lofery/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 5990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/2-1-scaled.jpg"
+      ],
+      "description": "Купити 【 Чорні лофери 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-dvobortnyj-smoking",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Двобортний смокінг",
+      "source_url": "https://thesuits.ua/product/dvobortnyj-smoking/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 14990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0054899.jpg"
+      ],
+      "description": "Купити 【 Двобортний смокінг 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-smoking-ajvori",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Смокінг айворі",
+      "source_url": "https://thesuits.ua/product/smoking-ajvori/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 21990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/07/b0055493.jpg"
+      ],
+      "description": "Купити 【 Смокінг айворі 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-bilyj-smoking",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Білий смокінг",
+      "source_url": "https://thesuits.ua/product/bilyj-smoking/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 14990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/suits1506_web.jpg"
+      ],
+      "description": "Купити 【 Білий смокінг 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-smoking-z-matovym-laczkanom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Смокінг з матовим лацканом",
+      "source_url": "https://thesuits.ua/product/smoking-z-matovym-laczkanom/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58",
+        "60"
+      ],
+      "price_uah": 13990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits7536_web.jpg"
+      ],
+      "description": "Купити 【 Смокінг з матовим лацканом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychnyj-cholovichyj-smoking-z-atlasnym-laczkanom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний чоловічий смокінг з атласним лацканом",
+      "source_url": "https://thesuits.ua/product/klasychnyj-cholovichyj-smoking-z-atlasnym-laczkanom/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56",
+        "58"
+      ],
+      "price_uah": 10990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits7502_web-1.jpg"
+      ],
+      "description": "Купити 【 Класичний чоловічий смокінг з атласним лацканом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-klasychnyj-smoking-bilyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Класичний смокінг білий",
+      "source_url": "https://thesuits.ua/product/klasychnyj-smoking-bilyj/",
+      "gender": "male",
+      "category": "Смокінги",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "44",
+        "46",
+        "48",
+        "50",
+        "52",
+        "54",
+        "56"
+      ],
+      "price_uah": 7890,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/thesuits7964.jpg"
+      ],
+      "description": "Купити 【 Класичний смокінг білий 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-korychneva-bazova",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка коричнева базова",
+      "source_url": "https://thesuits.ua/product/kravatka-korychneva-bazova/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-24.jpg"
+      ],
+      "description": "Купити 【 Краватка коричнева базова 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-korychneva-teksturna",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка коричнева текстурна",
+      "source_url": "https://thesuits.ua/product/kravatka-korychneva-teksturna/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/190403660_web.jpg"
+      ],
+      "description": "Купити 【 Краватка коричнева текстурна 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-chorna-bazova",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка чорна базова",
+      "source_url": "https://thesuits.ua/product/kravatka-chorna-bazova/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-23.jpg"
+      ],
+      "description": "Купити 【 Краватка чорна базова 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-temno-smaragdova",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка темно-смарагдова",
+      "source_url": "https://thesuits.ua/product/kravatka-temno-smaragdova/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-22.jpg"
+      ],
+      "description": "Купити 【 Краватка темно-смарагдова 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-blakytna-teksturna",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка блакитна текстурна",
+      "source_url": "https://thesuits.ua/product/kravatka-blakytna-teksturna/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-21.jpg"
+      ],
+      "description": "Купити 【 Краватка блакитна текстурна 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-chorna-z-pryntom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка чорна з принтом",
+      "source_url": "https://thesuits.ua/product/kravatka-chorna-z-pryntom/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-19.jpg"
+      ],
+      "description": "Купити 【 Краватка чорна з принтом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-teksturna-synya-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка текстурна синя",
+      "source_url": "https://thesuits.ua/product/kravatka-teksturna-synya-2/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-10.jpg"
+      ],
+      "description": "Купити 【 Краватка текстурна синя 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-teksturna-synya",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка текстурна синя",
+      "source_url": "https://thesuits.ua/product/kravatka-teksturna-synya/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-9.jpg"
+      ],
+      "description": "Купити 【 Краватка текстурна синя 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-teksturna-sira",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка структурна сіра",
+      "source_url": "https://thesuits.ua/product/kravatka-teksturna-sira/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-8.jpg"
+      ],
+      "description": "Купити 【 Краватка структурна сіра 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-strukturna-chorna",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка структурна чорна",
+      "source_url": "https://thesuits.ua/product/kravatka-strukturna-chorna/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-7.jpg"
+      ],
+      "description": "Купити 【 Краватка структурна чорна 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-teksturna-bordova",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка текстурна коричнева",
+      "source_url": "https://thesuits.ua/product/kravatka-teksturna-bordova/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-6.jpg"
+      ],
+      "description": "Купити 【 Краватка текстурна коричнева 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-kravatka-teksturna",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Краватка текстурна",
+      "source_url": "https://thesuits.ua/product/kravatka-teksturna/",
+      "gender": "male",
+      "category": "Краватки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/05/11_web-5.jpg"
+      ],
+      "description": "Купити 【 Краватка текстурна 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-chornyj-4",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик чорний",
+      "source_url": "https://thesuits.ua/product/metelyk-chornyj-4/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-37.jpg"
+      ],
+      "description": "Купити 【 Метелик чорний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-z-pryntom",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик з принтом",
+      "source_url": "https://thesuits.ua/product/metelyk-z-pryntom/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-36.jpg"
+      ],
+      "description": "Купити 【 Метелик з принтом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-blakytnyj-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик блакитний",
+      "source_url": "https://thesuits.ua/product/metelyk-blakytnyj-2/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-35.jpg"
+      ],
+      "description": "Купити 【 Метелик блакитний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-chornyj-3",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик чорний",
+      "source_url": "https://thesuits.ua/product/metelyk-chornyj-3/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-34.jpg"
+      ],
+      "description": "Купити 【 Метелик чорний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-blakytnyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик блакитний",
+      "source_url": "https://thesuits.ua/product/metelyk-blakytnyj/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-33.jpg"
+      ],
+      "description": "Купити 【 Метелик блакитний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-synij",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик синій",
+      "source_url": "https://thesuits.ua/product/metelyk-synij/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-32.jpg"
+      ],
+      "description": "Купити 【 Метелик синій 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-chornyj-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик чорний",
+      "source_url": "https://thesuits.ua/product/metelyk-chornyj-2/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-31.jpg"
+      ],
+      "description": "Купити 【 Метелик чорний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-metelyk-chornyj",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Метелик чорний",
+      "source_url": "https://thesuits.ua/product/metelyk-chornyj/",
+      "gender": "male",
+      "category": "Метелики",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/33_web-30.jpg"
+      ],
+      "description": "Купити 【 Метелик чорний 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-hustynka-synya",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Хустинка синя",
+      "source_url": "https://thesuits.ua/product/hustynka-synya/",
+      "gender": "male",
+      "category": "Хустинки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-34.jpg"
+      ],
+      "description": "Купити 【 Хустинка синя 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-hustynka-z-pryntom-4",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Хустинка з принтом",
+      "source_url": "https://thesuits.ua/product/hustynka-z-pryntom-4/",
+      "gender": "male",
+      "category": "Хустинки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-33.jpg"
+      ],
+      "description": "Купити 【 Хустинка з принтом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-hustynka-z-pryntom-3",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Хустинка з принтом",
+      "source_url": "https://thesuits.ua/product/hustynka-z-pryntom-3/",
+      "gender": "male",
+      "category": "Хустинки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-32.jpg"
+      ],
+      "description": "Купити 【 Хустинка з принтом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "thesuits-hustynka-z-pryntom-2",
+      "brand": "The Suits",
+      "brand_id": "thesuits",
+      "name": "Хустинка з принтом",
+      "source_url": "https://thesuits.ua/product/hustynka-z-pryntom-2/",
+      "gender": "male",
+      "category": "Хустинки",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://thesuits.ua/wp-content/uploads/2026/06/11_web-31.jpg"
+      ],
+      "description": "Купити 【 Хустинка з принтом 】 від бренду The Suits ✨ Трендовий вільний силует, преміальна якість матеріалу та ідеальний стиль 📞 Професійна допомога",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

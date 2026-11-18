@@ -1,0 +1,2799 @@
+{
+  "_meta": {
+    "brand": "Nugaia",
+    "brand_id": "nugaia",
+    "site": "https://nugaia.com.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 77,
+    "found": 90,
+    "candidates": 90,
+    "checked": 90,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-dark-pecan-suede-limited-edition",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-dark-pecan-suede-limited-edition",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena_Dark_Pecan_1.jpg?v=1756903672",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA45_5.jpg?v=1756903672",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena_Dark_Pecan_2.jpg?v=1756903672"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з неймовірно м'якої італійської замші, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-soft-stripes-flex-sneakers-landlight",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Stripes Flex Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-stripes-flex-sneakers-landlight",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Land-Light_1.jpg?v=1759773593",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_LandLight-4_02.jpg?v=1759773593",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneaker_Land-Light-2.jpg?v=1759773593"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-blackleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-blackleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Black-Leather_012511_1.jpg?v=1780858944",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Black-Leather_012511_2.jpg?v=1780858944",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Black-Leather_012511_3.jpg?v=1780858944"
+      ],
+      "description": "Лаконічні легкі шкіряні мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-coldfoamleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-coldfoamleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Leather_012522_1.jpg?v=1780859287",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Leather_012522_2.jpg?v=1780859287",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Leather_012522_3.jpg?v=1780859287"
+      ],
+      "description": "Лаконічні легкі шкіряні мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-peatbrownsuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-peatbrownsuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Peat-Brown-Suede_012503_1.jpg?v=1780859347",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Peat-Brown-Suede_012503_2.jpg?v=1780859346",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Peat-Brown-Suede_012503_3.jpg?v=1780859346"
+      ],
+      "description": "Лаконічні легкі замшеві мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-algaegreensuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-algaegreensuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-AlgaeGreen-Suede_012542_1.jpg?v=1780859617",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-AlgaeGreen-Suede_012542_2.jpg?v=1780859618",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-AlgaeGreen-Suede_012542_3.jpg?v=1780859617"
+      ],
+      "description": "Лаконічні легкі замшеві мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-taupesuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-taupesuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Taupe-Suede_012572_1.jpg?v=1780859682",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Taupe-Suede_012572_2.jpg?v=1780859682",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Taupe-Suede_012572_3.jpg?v=1780859682"
+      ],
+      "description": "Лаконічні легкі замшеві мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-mules-coldfoamsuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Mules",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-mules-coldfoamsuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Suede_012532_1.jpg?v=1780859755",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Suede_012532_2.jpg?v=1780859756",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Allure-Timeless-Mules-Cold-Foam-Suede_012532_3.jpg?v=1780859755"
+      ],
+      "description": "Лаконічні легкі замшеві мюлі з широкий анатомічним мисом. Тонка підошва доповнена антиковзким покриттям, що забезпечує надійне зчеплення з поверхнею без втрати природної легкості руху. Власно розроблена колодка з піднятою зоною великого пальця для зменшення тиску та м'якшого розподілу навантаження. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-black-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-black-leather",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena1.jpg?v=1786817896",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA_45_1.jpg?v=1756903673",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena11.jpg?v=1786817896"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з м'якої італійської шкіри, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-sandshell-suede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-sandshell-suede",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena3.jpg?v=1785926066",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA45.jpg?v=1756903801",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena33.jpg?v=1785926088"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з неймовірно м'якої італійської замші, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-black-chocolate-suede-limited-edition",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-black-chocolate-suede-limited-edition",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena4.jpg?v=1785924848",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA45_7.jpg?v=1756903672",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena44.jpg?v=1785924865"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з неймовірно м'якої італійської замші, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-saddle-brown-suede-limited-edition",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-saddle-brown-suede-limited-edition",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA_45_15.gif?v=1756903925",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena_Saddle_Brown_2.jpg?v=1756903925",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA_45_14.gif?v=1756903925"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з неймовірно м'якої італійської замші, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ksena-open-toe-boots-in-toffe-tart-suede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ksena Open-Toe Boots",
+      "source_url": "https://nugaia.com.ua/products/ksena-open-toe-boots-in-toffe-tart-suede",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 16500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena2.jpg?v=1786817818",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/NUGAIA_45_3.jpg?v=1756903672",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ksena22.jpg?v=1786817818"
+      ],
+      "description": "Мінімалістичні літні barefoot чоботи-сандалії з тонкою підошвою та м’якими ремінцями з пряжками, які фіксують стопу та халяву. Виконані з неймовірно м'якої італійської замші, вони створюють ефект повноцінних чобіт, але з відкритим носком і п’ятою, що ідеально для літніх прохолодних вечорів та довгих прогулянок. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-copy-oysterleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-copy-oysterleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Oyster-Leather_010343_1.jpg?v=1774526519",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers7.jpg?v=1786892927",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Oyster-Leather_010343_2.jpg?v=1774526519"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-copy-peatbrownsuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-copy-peatbrownsuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Peat-Brown-Suede_010365_1.jpg?v=1774526020",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers2.jpg?v=1786893463",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Peat-Brown-Suede_010365_2.jpg?v=1774526020"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-taupesuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-taupesuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_TaupeSuede_010313-1.jpg?v=1774525786",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers8.jpg?v=1786893492",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_TaupeSuede_010313-2.jpg?v=1774525786"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-esspressobrownleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-esspressobrownleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Brown-Leather_010374_1_3ee2c5a0-194e-4fea-a705-a91c4563ebe5.jpg?v=1774525555",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers5.jpg?v=1786893520",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Brown-Leather_010374_2_217f2f17-f7c2-4e0b-a873-705eb0272328.jpg?v=1774525555"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-darkolivesuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-darkolivesuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Dusty-Olive_010303-1.jpg?v=1774524238",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers4.jpg?v=1786893545",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Dusty-Olive_010303-2.jpg?v=1774524238"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-rustleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-rustleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Rust-Leather_010353_1.jpg?v=1774523847",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers1.jpg?v=1786893670",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Rust-Leather_010353_2.jpg?v=1774523847"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-blackleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-blackleather",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_Abyssal-_Black-Leather_010325_1.jpg?v=1774523011",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers6.jpg?v=1786893707",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers66.jpg?v=1786893708"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-allure-timeless-loafers-camelsuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Timeless Loafers",
+      "source_url": "https://nugaia.com.ua/products/allure-timeless-loafers-camelsuede",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "38.5",
+        "39",
+        "39.5",
+        "40",
+        "40.5",
+        "41",
+        "41.5",
+        "42",
+        "42.5",
+        "43",
+        "43.5",
+        "44",
+        "44.5",
+        "45",
+        "46"
+      ],
+      "price_uah": 13000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_CamelSuede_010333-1.jpg?v=1774524717",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers3.jpg?v=1786893750",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Loafers_CamelSuede_010333-2.jpg?v=1774524717"
+      ],
+      "description": "Шкіряні barefoot-лофери з широким мисом і тонкою гнучкою підошвою з антиковзним покриттям поєднують довершений стиль, природну легкість і комфорт. Продумана форма дозволяє стопі рухатися вільно, зберігаючи природну чутливість і баланс та даруючи відчуття свободи з кожним кроком. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-marcus-men-desert-boots-mudleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Marcus Men Desert Boots",
+      "source_url": "https://nugaia.com.ua/products/marcus-men-desert-boots-mudleather",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-MUD-LEATHER-012403-1.jpg?v=1770052855",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-MUD-LEATHER-012403-2.jpg?v=1770052856",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-MUD-LEATHER-012403-3.jpg?v=1770052856"
+      ],
+      "description": "Мінімалістичні чоловічі barefoot-чоботи силуету desert boots. Модель виготовлена з гладкої італійської шкіри глибокого холодного темно-коричневого кольору. Широкий анатомічний носок і пласка підошва забезпечують стабільність і природний рух стопи, імітуючи ходу босоніж. Універсальна форма, яка органічно поєднується з класичними брюками, щільним денімом або структурованим верхнім одягом. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-marcus-men-desert-boots-burntsuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Marcus Men Desert Boots",
+      "source_url": "https://nugaia.com.ua/products/marcus-men-desert-boots-burntsuede",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-BURNT-SUEDE-012413-1.jpg?v=1770052696",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-BURNT-SUEDE-012413-3.jpg?v=1770052802",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-BURNT-SUEDE-012413-2.jpg?v=1770052802"
+      ],
+      "description": "Мінімалістичні чоловічі barefoot-чоботи силуету desert boots. Модель виготовлена з гладкої італійської замші теплого темно-шоколадного кольору. Широкий анатомічний носок і пласка підошва забезпечують стабільність і природний рух стопи, імітуючи ходу босоніж. Універсальна форма, яка органічно поєднується з класичними брюками, щільним денімом або структурованим верхнім одягом. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-marcus-men-desert-boots-taupesuede",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Marcus Men Desert Boots",
+      "source_url": "https://nugaia.com.ua/products/marcus-men-desert-boots-taupesuede",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-NUDE-SUEDE-012422-1.jpg?v=1770052628",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-NUDE-SUEDE-012422-3.jpg?v=1770052628",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/MARCUS-MEN-DESERT-BOOTS-NUDE-SUEDE-012422-2.jpg?v=1770052628"
+      ],
+      "description": "Мінімалістичні чоловічі barefoot-чоботи силуету desert boots. Модель виготовлена з гладкої італійської замші нейтрального пісочного кольору. Широкий анатомічний носок і пласка підошва забезпечують стабільність і природний рух стопи, імітуючи ходу босоніж. Універсальна форма, яка органічно поєднується з класичними брюками, щільним денімом або структурованим верхнім одягом. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-sabi-chelsea-boot-ash",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Sabi Chelsea Boots",
+      "source_url": "https://nugaia.com.ua/products/sabi-chelsea-boot-ash",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-ASH-SUEDE-011532-1_f95d4887-60e3-4dce-978a-d88050257463.jpg?v=1765826564",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-ASH-SUEDE-011532-3.jpg?v=1766583430",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-ASH-SUEDE-011532-4.jpg?v=1766583430"
+      ],
+      "description": "Barefoot-модель класичних міді-челсі, де продумана висота та витягнуті пропорції створюють ефект візуально довшої, стрункішої лінії ноги. Модель виконана у яскравій замші сіро-бежевого кольору, що додає текстурності та мʼякості силуету. Еластичні вставки забезпечують легке взування та комфортну посадку для щоденного носіння. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-sabi-chelsea-boot-dark-pecan",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Sabi Chelsea Boots",
+      "source_url": "https://nugaia.com.ua/products/sabi-chelsea-boot-dark-pecan",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-DARKPECAN-SUEDE-011523-1.jpg?v=1765826025",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/f2d7d93b251daef101f94f56943cb4c8.jpg?v=1766595164",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-DARKPECAN-SUEDE-011523-3.jpg?v=1766595164"
+      ],
+      "description": "Barefoot-модель класичних міді-челсі, де продумана висота та витягнуті пропорції створюють ефект візуально довшої, стрункішої лінії ноги. Модель виконана у яскравій замші темно-коричневого насиченого кольору, що додає текстурності та мʼякості силуету. Еластичні вставки забезпечують легке взування та комфортну посадку для щоденного носіння. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошва з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-sabi-chelsea-boots-cooper",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Sabi Chelsea Boots",
+      "source_url": "https://nugaia.com.ua/products/sabi-chelsea-boots-cooper",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-COOPER-SUEDE-011512-1_a99bc4c3-a9ea-4f35-85af-a67f3db669f8.jpg?v=1765826311",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/8fbdf4cca9d422d30f3d7ef5815e8082.jpg?v=1766595478",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-COOPER-SUEDE-011512-5.jpg?v=1766595478"
+      ],
+      "description": "Barefoot-модель класичних міді-челсі, де продумана висота та витягнуті пропорції створюють ефект візуально довшої, стрункішої лінії ноги. Модель виконана у яскравій замші кольору цегли, що додає текстурності та мʼякості силуету. Еластичні вставки забезпечують легке взування та комфортну посадку для щоденного носіння. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошва з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-roanna-lace-mid-boot-burnt",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Roanna Lace Mid Boots",
+      "source_url": "https://nugaia.com.ua/products/roanna-lace-mid-boot-burnt",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BURNT-LEATHER-011223---1_64401d9d-89d2-4c61-a98a-751d6763caf2.jpg?v=1765824928",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BURNT-LEATHER-011223-3.jpg?v=1766589585",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BURNT-LEATHER-011223---2.jpg?v=1766589585"
+      ],
+      "description": "Barefoot міді-версія високих чоботів ROANNA, створена для щоденного міського носіння. Модель у шкірі темного коричневого кольору з халявою середньої висота та шнурівкою, для кращого балансу між підтримкою й свободою. Стилізуйте шнурування для компанування з різними образами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-roanna-lace-mid-boot-cold-foam",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Roanna Lace Mid Boot",
+      "source_url": "https://nugaia.com.ua/products/roanna-lace-mid-boot-cold-foam",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-COLD-FOAM-LEATHER-011212-1_54603bf5-4656-4192-b953-015b5129ffe2.jpg?v=1765824781",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/25f6ab634619962801dba241252373af.jpg?v=1766595222",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-COLD-FOAM-LEATHER-011212-3.jpg?v=1766595222"
+      ],
+      "description": "Barefoot міді-версія високих чоботів ROANNA, створена для щоденного міського носіння. Модель у шкірі молочного кольору з халявою середньої висота та шнурівкою, для кращого балансу між підтримкою й свободою. Стилізуйте шнурування для компанування з різними образами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-roanna-lace-mid-boot-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Roanna Lace Mid Boots",
+      "source_url": "https://nugaia.com.ua/products/roanna-lace-mid-boot-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BLACK-LEATHER-011201_1a047dd5-91b7-4767-a965-9ac7959ecccf.jpg?v=1765824595",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BLACK-LEATHER-011201-3.jpg?v=1765988592",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-MID-BOOT-BLACK-LEATHER-011201-2.jpg?v=1766581749"
+      ],
+      "description": "Barefoot міді-версія високих чоботів ROANNA, створена для щоденного міського носіння. Модель у шкірі чорного кольору з халявою середньої висота та шнурівкою, для кращого балансу між підтримкою й свободою. Стилізуйте шнурування для компанування з різними образами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-roanna-lace-knee-high-boot-storm",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Roanna Lace Knee-High Boots",
+      "source_url": "https://nugaia.com.ua/products/roanna-lace-knee-high-boot-storm",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-KNEE-HIGH-BOOT-STORM-LEATHER-012311-1_7e9c6e73-e093-4a0f-b7f4-e6e67bceacde.jpg?v=1765823996",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/dd2468ae1882e7fb31e45a053c617a4c.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-KNEE-HIGH-BOOT-STORM-LEATHER-012311-3.jpg?v=1766595411"
+      ],
+      "description": "Висока barefoot-модель, у якій дизайн, пропорції та силует є головною ідеєю. Подовжена форма до коліна створює чітку вертикаль, а шнурівка виступає візуальним елементом, що формує ритм ліній і додає образу характеру, не перевантажуючи форму. Шнурівка фіксується один раз, задаючи індивідуальну посадку, тоді як бічна застібка-блискавка на всю довжину халяви забезпечує легке та швидке взування у щоденному використанні. Таке рішення зберігає чистоту силуету та підкреслює продуману конструкцію моделі. Модель виконана у оливковій шкірі, що формує глибокий, стриманий вигляд і дозволяє чоботам легко інтегруватися як у мінімалістичні, так і в більш експресивні образи. Вони легко стилізуйться з сукнями, спідницями та брюками різних силуетів, залишаючись центральним акцентом образу. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-roanna-lace-knee-high-boots-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Roanna Lace Knee-High Boots",
+      "source_url": "https://nugaia.com.ua/products/roanna-lace-knee-high-boots-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 18900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-KNEE-HIGH-BOOT-BLACK-LEATHER-012301---1_39a71051-1d87-4b5a-8c9f-e4c68bb6a26f.jpg?v=1765822789",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/4545.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ROANNA-LACE-KNEE-HIGH-BOOT-BLACK-LEATHER-012301-5.jpg?v=1766595411"
+      ],
+      "description": "Висока barefoot-модель, у якій дизайн, пропорції та силует є головною ідеєю. Подовжена форма до коліна створює чітку вертикаль, а шнурівка виступає візуальним елементом, що формує ритм ліній і додає образу характеру, не перевантажуючи форму. Шнурівка фіксується один раз, задаючи індивідуальну посадку, тоді як бічна застібка-блискавка на всю довжину халяви забезпечує легке та швидке взування у щоденному використанні. Таке рішення зберігає чистоту силуету та підкреслює продуману конструкцію моделі. Модель виконана у чорній шкірі, що формує глибокий, стриманий вигляд і дозволяє чоботам легко інтегруватися як у мінімалістичні, так і в більш експресивні образи. Вони легко стилізуйться з сукнями, спідницями та брюками різних силуетів, залишаючись центральним акцентом образу. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-allure-mid-loafer-boot-storm",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Mid-Loafer Boots",
+      "source_url": "https://nugaia.com.ua/products/allure-mid-loafer-boot-storm",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 13900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-STORM-LEATHER-011801---1_cd32f0d4-a0ea-4829-a322-4eddf99c793d.jpg?v=1765822060",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/a25508a5504a08f996c5e05b753e2443.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-STORM-LEATHER-011801-4.jpg?v=1766595411"
+      ],
+      "description": "Мінімалістичне barefoot-взуття, що інтерпретує класичний лофер у форматі mid-boot для прохолодної погоди. Чиста форма, мʼяка халява та відсутність зайвих деталей роблять модель універсальною для повсякденного гардероба. Модель виготовлена зі найм'якшої італійської шкіри ягня оливкового кольору, що підкреслює її монолітність і стриманий характер. Вона органічно поєднується як з сукнями та спідницями, так і з офісними костюмами або розслабленими джинсами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Оновлена та удосконалена підошва, з додаванням натурального каучуку, забезпечує антиковзкість на будь-якій поверхні та максимальний захист від вологості. Модель оброблена професійними засобами для захисту від води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-allure-mid-loafer-boot-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Mid-Loafer Boots",
+      "source_url": "https://nugaia.com.ua/products/allure-mid-loafer-boot-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 14900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-BLACK-WOOL-011911---1_bed31b1c-f4ef-4914-8d45-4d3fdf490097.jpg?v=1765821195",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/2f9f0f2e50c2e4d15f8fdd00384aef48.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-BLACK-WOOL-011911-2.jpg?v=1766595411"
+      ],
+      "description": "Barefoot-модель у форматі mid-boot, що поєднує естетику лоферів із природньою свободою руху стопи. Створені для холодного сезону та щоденного міського ритму, коли важливі тепло, комфорт і відчуття легкості. Шкіра у чорному кольорі з поєднанням вовняної вставки у верхній частині халяви, що додає тепла та тактильного комфорту, а лаконічний силует зберігає чисту, сучасну форму. Модель легко інтегрується у образи з вʼязаними сукнями, прямими джинсами чи вовняними костюмами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Оновлена та удосконалена підошва, з додаванням натурального каучуку, забезпечує антиковзкість на будь-якій поверхні та максимальний захист від вологості. Модель оброблена професійними засобами для захисту від води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-allure-mid-loafer-boot-nude",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Mid-Loafer Boots",
+      "source_url": "https://nugaia.com.ua/products/allure-mid-loafer-boot-nude",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 13900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-NUDE-LEATHER-011812-1_0f0e9f0d-43a3-44b8-99e4-6252757179ca.jpg?v=1765820461",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/2103be901a747f4ab54721e9438d0190.jpg?v=1766595412",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-NUDE-LEATHER-011812-3.jpg?v=1766595412"
+      ],
+      "description": "Мінімалістичне barefoot-взуття, що інтерпретує класичний лофер у форматі mid-boot для прохолодної погоди. Чиста форма, мʼяка халява та відсутність зайвих деталей роблять модель універсальною для повсякденного гардероба. Модель виготовлена зі найм'якшої італійської шкіри ягня нюдового кольору, що підкреслює її монолітність і стриманий характер. Вона органічно поєднується як з сукнями та спідницями, так і з офісними костюмами або розслабленими джинсами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Оновлена та удосконалена підошва, з додаванням натурального каучуку, забезпечує антиковзкість на будь-якій поверхні та максимальний захист від вологості. Модель оброблена професійними засобами для захисту від води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-allure-mid-loafer-boot-driftwood",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Allure Mid-Loafer Boots",
+      "source_url": "https://nugaia.com.ua/products/allure-mid-loafer-boot-driftwood",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 14900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-DRIFTWOOD-WOOL-011901---1_4242f650-7d3e-4e3a-8b36-d65689270109.jpg?v=1765821528",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/5fbdb9ee752333091601ecedf2c883e7.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ALLURE-MID-LOAFER-BOOT-DRIFTWOOD-WOOL-011901-2.jpg?v=1766595411"
+      ],
+      "description": "Barefoot-модель у форматі mid-boot, що поєднує естетику лоферів із природньою свободою руху стопи. Створені для холодного сезону та щоденного міського ритму, коли важливі тепло, комфорт і відчуття легкості. Шкіра у кольорі темного шоколаду кольорі з поєднанням вовняної вставки у верхній частині халяви, що додає тепла та тактильного комфорту, а лаконічний силует зберігає чисту, сучасну форму. Модель легко інтегрується у образи з вʼязаними сукнями, прямими джинсами чи вовняними костюмами. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Оновлена та удосконалена підошва, з додаванням натурального каучуку, забезпечує антиковзкість на будь-якій поверхні та максимальний захист від вологості. Модель оброблена професійними засобами для захисту від води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-gaia-knee-high-boots-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Gaia Knee-High Boots",
+      "source_url": "https://nugaia.com.ua/products/iconic-gaia-knee-high-boots-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT--BLACK-LEATHER-012001---1_b09f705a-4324-4652-8f38-79dbb7e23eed.jpg?v=1765819233",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/11_e4f3c989-ef54-4c01-b57c-af9bf04a7a48.jpg?v=1766595412",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT-BLACK-LEATHER-012001-4.jpg?v=1766595412"
+      ],
+      "description": "Знакова barefoot-модель колекції осінь-зима - це високі чоботи-труби з мʼякою формою зроблені з блискучої глянцевої чорної шкіри, що підкреслює глибину силуету, його скульптурність з абсолютною свободою руху. Вільна халява дозволяє стилізувати чоботи з сукнями, спідницями, вузькими або широкими штанами — поверх чи заправленими всередину. Ми зробили ремінець зйомним, що буде зручно для тих, хто цінує універсальність та мінімалізм. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-gaia-knee-high-boots-cooper",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Gaia Knee-High Boots",
+      "source_url": "https://nugaia.com.ua/products/iconic-gaia-knee-high-boots-cooper",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT--COOPER-LEATHER-012022---1_3c269a59-d1ea-4626-a1ee-3c0783825eea.jpg?v=1766592128",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/3_11d4fa10-0619-4f06-8075-94a5d05c373e.jpg?v=1766595411",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT--COOPER-LEATHER-012022-2.jpg?v=1766595411"
+      ],
+      "description": "Знакова barefoot-модель колекції осінь-зима - це високі чоботи-труби з мʼякою формою зроблені зі шкіри насиченого кольору цегли, що підкреслює глибину силуету, його скульптурність з абсолютною свободою руху. Вільна халява дозволяє стилізувати чоботи з сукнями, спідницями, вузькими або широкими штанами — поверх чи заправленими всередину. Ми зробили ремінець зйомним, що буде зручно для тих, хто цінує універсальність та мінімалізм. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-gaia-knee-high-boots-cognac",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Gaia Knee-High Boots",
+      "source_url": "https://nugaia.com.ua/products/iconic-gaia-knee-high-boots-cognac",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 19900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT--COGNAC-LEATHER-012013---4.jpg?v=1766592128",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT--COGNAC-LEATHER-012013---1_e313e2fe-4fdf-4aec-9929-6c5257e770fa.jpg?v=1766592243",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/ICONIC-GAIA-KNEE-HIGH-BOOT-COGNAC-LEATHER-012013-3_04e721c5-cdf3-4fbc-8b4a-72341e87767b.jpg?v=1766592243"
+      ],
+      "description": "Знакова barefoot-модель колекції осінь-зима - це високі чоботи-труби з мʼякою формою зроблені з блискучої глянцевої коричнево-бордової шкіри, що підкреслює глибину силуету, його скульптурність з абсолютною свободою руху. Вільна халява дозволяє стилізувати чоботи з сукнями, спідницями, вузькими або широкими штанами — поверх чи заправленими всередину. Ми зробили ремінець зйомним, що буде зручно для тих, хто цінує універсальність та мінімалізм. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Конструкція не має підтримки склепіння стопи чи жорстких підсилювачів. Верх, підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-flex-men-sneakers-2",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Flex Men Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-flex-men-sneakers-2",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Soft-Flex-Sneakers_Steel.jpg?v=1759779250",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_Steel-4.jpg?v=1759779251",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_Steel-2.jpg?v=1759779250"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-flex-men-sneakers-1",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Flex Men Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-flex-men-sneakers-1",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Soft-Sneakers_Land-Light_1.jpg?v=1759779187",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_LandLight-4_02.jpg?v=1759779187",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_Land-Light-2.jpg?v=1759779187"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-flex-men-sneakers",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Flex Men Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-flex-men-sneakers",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "41",
+        "42",
+        "43",
+        "44",
+        "45"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Soft-Sneakers_Cream_1_fc170514-9386-470a-8bff-5b6ff443b768.jpg?v=1759778741",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_Cream-4_714050f2-f5e5-4013-9b7d-e641da45d17c.jpg?v=1759778742",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Men-Flex-Sneakers_Cream-2_85616e95-001e-425d-b885-31bd92df531e.jpg?v=1759778742"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-stripes-flex-sneakers-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Stripes Flex Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-stripes-flex-sneakers-black",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Black_1.jpg?v=1759776760",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Black-4.jpg?v=1759776824",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Black-2.jpg?v=1759776824"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-stripes-flex-sneakers-darkpecan",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Stripes Flex Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-stripes-flex-sneakers-darkpecan",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Dark-Pecan_1.jpg?v=1759776604",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_DarkPecan-4_02.jpg?v=1759776682",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Dark-Pecan-2.jpg?v=1759776682"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-stripes-flex-sneakers-dark-olive",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Stripes Flex Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-stripes-flex-sneakers-dark-olive",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Dark-Olive_1.jpg?v=1759776551",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_DarkOlive-4_02.jpg?v=1759776551",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_DarkOlive-2.jpg?v=1759776551"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-soft-stripes-flex-sneakers-cream",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Soft Stripes Flex Sneakers",
+      "source_url": "https://nugaia.com.ua/products/soft-stripes-flex-sneakers-cream",
+      "gender": "unisex",
+      "category": "Взуття",
+      "item_type": "Кросівки",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46"
+      ],
+      "price_uah": 9950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Cream-1_467f59a8-c658-44e5-b508-be05649ec4a4.jpg?v=1759776073",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Cream-4_02_3335cf41-f737-417d-8e83-a12702e2f34f.jpg?v=1759776073",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Women-Flex-Sneakers_Cream-2_072968f1-cd35-4a25-836c-6d78f9dc0176.jpg?v=1759776073"
+      ],
+      "description": "Гнучкі barefoot-кросівки створені на еластичній пласкій підошві Vibram, яка не має підйому. Комбінація міцного водовідштовхуючого нейлону та м’якої замші робить модель легкою, витривалою та зручною як щоденного використання, так і для активних прогулянок. Кросівки підлаштовується під природну біомеханіку стопи, що допомагає зняти напругу та забезпечує відчуття свободи стопи та пальців. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям. При виборі пари радимо орієнтуватися на індивідуальну таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-hydra-thong-sandals-blackleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Hydra Thong Sandals",
+      "source_url": "https://nugaia.com.ua/products/hydra-thong-sandals-blackleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Black-Leather-1_93f492fc-7acf-4fd0-9fb9-e03d080870b4.jpg?v=1783095041",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra4.jpg?v=1785680796",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Black-Leather-2.jpg?v=1783105854"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-hydra-thong-sandals-harbosleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Hydra Thong Sandals",
+      "source_url": "https://nugaia.com.ua/products/hydra-thong-sandals-harbosleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Harbor-Leather-1.jpg?v=1783094715",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra1.jpg?v=1785680833",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Harbor-Leather-2.jpg?v=1783105053"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-hydra-thong-sandals-lobsterleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Hydra Thong Sandals",
+      "source_url": "https://nugaia.com.ua/products/hydra-thong-sandals-lobsterleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Lobster-Leather-1_b9b0f2e6-a57c-4a12-9211-39f6d367282e.jpg?v=1783094639",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra5.jpg?v=1785680878",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Lobster-Leather-2.jpg?v=1783105399"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-hydra-thong-sandals-copy-whiteleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Hydra Thong Sandals",
+      "source_url": "https://nugaia.com.ua/products/hydra-thong-sandals-copy-whiteleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-White-Leather-1.jpg?v=1783093910",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra2.jpg?v=1785680903",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-White-Leather-2.jpg?v=1783105748"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-hydra-thong-sandals-metallicsilverleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Hydra Thong Sandals",
+      "source_url": "https://nugaia.com.ua/products/hydra-thong-sandals-metallicsilverleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Silver-Leather-1_370c90a5-ad95-4713-a5f4-ebfeeb78bbe3.jpg?v=1783092552",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra3.jpg?v=1785680931",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Hydra-Thong-Sandals-in-Silver-Leather-2.jpg?v=1783144255"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-nudeleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-nudeleather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria-Thong-Straps-Sandals-in-Nude-Leather-1.jpg?v=1783092314",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria5.jpg?v=1785700741",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria-Thong-Straps-Sandals-in-Nude-Leather-2.jpg?v=1785700720"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-tulum-asymmetric-sandals-mudleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Tulum Asymmetric Sandals",
+      "source_url": "https://nugaia.com.ua/products/tulum-asymmetric-sandals-mudleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Mud-Leather_1.jpg?v=1783091614",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum3.jpg?v=1785700773",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Mud-Leather_4.jpg?v=1783280310"
+      ],
+      "description": "Асиметричні barefoot-сандалі з натуральної шкіри з відкритою конструкцією та м'якими ремінцями, що добре фіксують стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а тонка гнучка підошва з та антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-tulum-asymmetric-sandals-sandleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Tulum Asymmetric Sandals",
+      "source_url": "https://nugaia.com.ua/products/tulum-asymmetric-sandals-sandleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Nude-Leather_1_c43c4587-130a-4f07-8362-835cf2f0dc8e.jpg?v=1783091299",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum4.jpg?v=1785700811",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Nude-Leather_2.jpg?v=1783144849"
+      ],
+      "description": "Асиметричні barefoot-сандалі з натуральної шкіри з відкритою конструкцією та м'якими ремінцями, що добре фіксують стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а тонка гнучка підошва з та антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-tulum-asymmetric-sandals-copy-snakeskinleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Tulum Asymmetric Sandals",
+      "source_url": "https://nugaia.com.ua/products/tulum-asymmetric-sandals-copy-snakeskinleather",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Snakeskin-Leather_1.jpg?v=1783090990",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum2.jpg?v=1785700841",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Snakeskin-Leather_2.jpg?v=1783144724"
+      ],
+      "description": "Асиметричні barefoot-сандалі з натуральної шкіри з відкритою конструкцією та м'якими ремінцями, що добре фіксують стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а тонка гнучка підошва з та антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-tulum-asymmetric-sandals-foamsnakefishleater",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Tulum Asymmetric Sandals",
+      "source_url": "https://nugaia.com.ua/products/tulum-asymmetric-sandals-foamsnakefishleater",
+      "gender": "female",
+      "category": "SS26",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Foam-Snakefish-Leather_1.jpg?v=1783089363",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum1.jpg?v=1785700876",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Tulum-Asymmetric-Sandals-in-Foam-Snakefish-Leather_2.jpg?v=1783144657"
+      ],
+      "description": "Асиметричні barefoot-сандалі з натуральної шкіри з відкритою конструкцією та м'якими ремінцями, що добре фіксують стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а тонка гнучка підошва з та антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-redleather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-redleather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria-Thong-Straps-Sandals-in-Red-Leather-1.jpg?v=1783092179",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria1.jpg?v=1785700915",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria-Thong-Straps-Sandals-in-Red-Leather-2.jpg?v=1783144550"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. Модель створена у співпраці з експертами з подології, ортопедії та біомеханіки, з увагою до природної роботи стопи.",
+      "care": null,
+      "collections": [
+        "NEW"
+      ]
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-in-black-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-in-black-leather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_Black_1.jpg?v=1758200605",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria4.jpg?v=1785701083",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_Black_2.jpg?v=1758200605"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-in-metallic-silver-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-in-metallic-silver-leather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_MetalikSilver_1_7323b802-a582-40fd-b5bf-e7e109e9f072.jpg?v=1758223844",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria2.jpg?v=1785701021",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/RIA_MetalicSilver_2.jpg?v=1758223844"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-in-pine-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-in-pine-leather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_Pine_1.jpg?v=1758200604",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/RIA_Pine_2.jpg?v=1758200604",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_Pine_3.jpg?v=1758200604"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри — з відкритим вільним мисом, тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий мис дає простір пальцям, а тонка шкіряна підошва — легкість і природні відчуття від ходи. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-in-dirty-golden-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-in-dirty-golden-leather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_DirtyGold_1.jpg?v=1758200604",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria3.jpg?v=1785701058",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/RIA_DirtyGold_2.jpg?v=1758200604"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри — з відкритим вільним мисом, тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий мис дає простір пальцям, а тонка шкіряна підошва — легкість і природні відчуття від ходи. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-ria-thong-straps-sandals-in-white-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Ria Thong Straps Sandals",
+      "source_url": "https://nugaia.com.ua/products/ria-thong-straps-sandals-in-white-leather",
+      "gender": "female",
+      "category": "Sandals and slippers",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "35",
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 11800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria_White_1.jpg?v=1758200604",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Ria6.jpg?v=1786877484",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/RIA_White_2.jpg?v=1758200604"
+      ],
+      "description": "Сандалі-босоніжки з натуральної шкіри з відкритим вільним мисом та тонкими ремінцями з пряжками, які легко підлаштовуються під твою стопу. Широкий анатомічний мис залишає достатньо простору для природного положення пальців, а гнучка підошва з антиковзаючим покриттям зберігає легкість і природні відчуття від ходьби. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-astrid-fisherman-slippers-in-black-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Astrid Fisherman Slippers",
+      "source_url": "https://nugaia.com.ua/products/astrid-fisherman-slippers-in-black-leather",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Black_1.jpg?v=1758124266",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Black_2.jpg?v=1758124266",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Black_3.jpg?v=1758124266"
+      ],
+      "description": "Сандалі з відкритою пʼятою із натуральної плетеної шкіри — легкі, дихаючі, створені для комфорту. Ширка анатомічна форма дає тілу простір, а тонка гнучка підошва з натуральної шкіри дозволяє стопі рухатися природно. Тонкий ремінець із мінімалістичною пряжкою м’яко фіксує ногу. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-astrid-fisherman-slippers-in-chalk-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Astrid Fisherman Slippers",
+      "source_url": "https://nugaia.com.ua/products/astrid-fisherman-slippers-in-chalk-leather",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Chalk_1.jpg?v=1758124266",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Chalk_2.jpg?v=1758124266",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_Chalk_3.jpg?v=1758124266"
+      ],
+      "description": "Сандалі з відкритою пʼятою із натуральної плетеної шкіри — легкі, дихаючі, створені для комфорту. Ширка анатомічна форма дає тілу простір, а тонка гнучка підошва з натуральної шкіри дозволяє стопі рухатися природно. Тонкий ремінець із мінімалістичною пряжкою м’яко фіксує ногу. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-astrid-fisherman-slippers-in-dark-pecan-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Astrid Fisherman Slippers",
+      "source_url": "https://nugaia.com.ua/products/astrid-fisherman-slippers-in-dark-pecan-leather",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_DarkPecan_1.jpg?v=1758124314",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_DarkPecan_2.jpg?v=1758124314",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Astrid_DarkPecan_3.jpg?v=1758124314"
+      ],
+      "description": "Сандалі з відкритою пʼятою із натуральної плетеної шкіри — легкі, дихаючі, створені для комфорту. Ширка анатомічна форма дає тілу простір, а тонка гнучка підошва з натуральної шкіри дозволяє стопі рухатися природно. Тонкий ремінець із мінімалістичною пряжкою м’яко фіксує ногу. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-khady-fisherman-sandals-in-black-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Khady Fisherman Sandals",
+      "source_url": "https://nugaia.com.ua/products/khady-fisherman-sandals-in-black-leather",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_Black_1.jpg?v=1758024105",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_Black_2.jpg?v=1758024105",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_Black_3.jpg?v=1758024105"
+      ],
+      "description": "Плетені сандалі з м’якої шкіри із закритим мисом та фіксацією на п’яті — для стабільності та підтримки. Вільна, анатомічна форма переду не стискає пальці, а відкриті боки дозволяють шкірі стоп дихати. Гнучка, тонка шкіряна підошва підтримує природну біомеханіку стопи. Пряжки для регулювання завершують мінімалістичний силует. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-khady-fisherman-sandals-in-white-leather",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Khady Fisherman Sandals",
+      "source_url": "https://nugaia.com.ua/products/khady-fisherman-sandals-in-white-leather",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_White_1.jpg?v=1758023992",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_White_2.jpg?v=1758023992",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_White_3.jpg?v=1758023992"
+      ],
+      "description": "Плетені сандалі з м’якої шкіри із закритим мисом та фіксацією на п’яті — для стабільності та підтримки. Вільна, анатомічна форма переду не стискає пальці, а відкриті боки дозволяють шкірі стоп дихати. Гнучка, тонка шкіряна підошва підтримує природну біомеханіку стопи. Пряжки для регулювання завершують мінімалістичний силует. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-khady-fisherman-sandals-in-black-leather-1",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Khady Fisherman Sandals",
+      "source_url": "https://nugaia.com.ua/products/khady-fisherman-sandals-in-black-leather-1",
+      "gender": "unisex",
+      "category": "Men",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_DarkPecan_1.jpg?v=1758023991",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_DarkPecan_2.jpg?v=1758023991",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Khady_DarkPecan_3.jpg?v=1758023991"
+      ],
+      "description": "Плетені сандалі з м’якої шкіри із закритим мисом та фіксацією на п’яті — для стабільності та підтримки. Вільна, анатомічна форма переду не стискає пальці, а відкриті боки дозволяють шкірі стоп дихати. Гнучка, тонка шкіряна підошва підтримує природну біомеханіку стопи. Пряжки для регулювання завершують мінімалістичний силует. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-toe-resistance-band",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Toe Resistance Band",
+      "source_url": "https://nugaia.com.ua/products/toe-resistance-band",
+      "gender": null,
+      "category": "Foot Devices",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/1111.jpg?v=1747852317",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/2222_40e3b583-02b2-48da-8930-bd33a2481270.jpg?v=1747855890",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/3333_19d0fc26-fea5-440c-bedd-f1801b169197.jpg?v=1747855890"
+      ],
+      "description": "Делікатно відновлює природне положення пальців і зміцнює м’язи стоп — силіконова стрічка для тренування пальців. М’який, але стійкий опір активує рухливість, баланс і загальне здоров’я стоп. Підходить для профілактики та корекції вальгусу, а також зміцнення пальців. – Підтримує природне вирівнювання пальців – Зміцнює й розтягує м’язи стоп – М’який, дихаючий і зносостійкий силікон – Компактна й зручна для тренувань будь-де Детальніше — Основні Аксесуари для Тренування Стоп: Toe Resistance Band",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-toe-separators",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Toe Separators",
+      "source_url": "https://nugaia.com.ua/products/toe-separators",
+      "gender": null,
+      "category": "Foot Devices",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/4444.jpg?v=1747853652",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/5555.jpg?v=1747853652",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/6666.jpg?v=1747853652"
+      ],
+      "description": "Мʼякі силіконові розділювачі для пальців зменшують напругу, покращують баланс і підтримують здоров’я стоп — допомагаючи рухатися так, як задумано природою. – М’який і гнучкий силікон для комфорту – Підходять для йоги, тренувань і відпочинку – Сприяють кращому балансу та поставі – Підтримують при вальгусі, молоткоподібних пальцях і втомі стоп – Компактні й зручні в дорозі – Підходять для носіння із barefoot взуттям Вони м’яко вирівнюють пальці, покращують баланс і додають комфорту. Детальніше — Основні Аксесуари для Тренування Стоп: Toe Separators Більше аксесуарів:",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-land-light",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-land-light",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Sand_2.jpg?v=1756804785",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Sand_1.jpg?v=1756804785",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Sand_3.jpg?v=1756985870"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-storm",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-storm",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Storm_2_2eb46e1b-b7e5-48a5-ba8c-b1d1d53f567b.jpg?v=1756813683",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Storm_1_1.jpg?v=1756813689",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Storm_3.jpg?v=1756985870"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-elden-ring-orange",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-elden-ring-orange",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Orange_2.jpg?v=1756803692",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Orange_1.jpg?v=1756803692",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Orange_3.jpg?v=1756985870"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-cream",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-cream",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Milk_2.jpg?v=1756803655",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Milk_1.jpg?v=1756803655",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Milk_3.jpg?v=1756985870"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-laquer-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-laquer-black",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Black_Laquer_2.jpg?v=1756803403",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Black_Laquer_1.jpg?v=1756803403",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Black_Laquer_3.jpg?v=1756803307"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-iconic-leila-soft-ballerinas-goldfish",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Iconic Leila Soft Ballerinas",
+      "source_url": "https://nugaia.com.ua/products/iconic-leila-soft-ballerinas-goldfish",
+      "gender": "female",
+      "category": "Ballerinas",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 10500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Beige_2.jpg?v=1756802067",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Beige_1.jpg?v=1756802067",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/Leila_Beige_3.jpg?v=1756985870"
+      ],
+      "description": "М’які barefoot балетки Leila виконані з м'якої шкіри ягня – це втілення елегантності і комфорту. Резинка зі збіркою в районі підйому забезпечує надійну фіксацію стопи. Гнучка підошва полегшує рух і позбавляє напруги. Кожен колір балетки оздоблений акцентним хлястиком фірмового блакитного кольору. У створенні цієї моделі взяли участь провідні експерти з подології, ортопедії та біомеханіки руху, щоб кожен крок був не лише красивим, а й здоровим. При виборі розміру обов'язково перевіряйте таблицю розмірів, вказану для кожного товару.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "nugaia-sabi-chelsea-boot-black",
+      "brand": "Nugaia",
+      "brand_id": "nugaia",
+      "name": "Sabi Chelsea Boots",
+      "source_url": "https://nugaia.com.ua/products/sabi-chelsea-boot-black",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43"
+      ],
+      "price_uah": 15000,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-BLACK-LEATHER-011501-1_137d6215-7828-45d5-a176-dc2eb2d56cc8.jpg?v=1765826705",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/91a00d0e732c7ef18e0d442cea8cad9c.jpg?v=1766595164",
+        "https://cdn.shopify.com/s/files/1/0680/9649/1716/files/SABI-CHELSEA-BOOT-BLACK-LEATHER-011501-2.jpg?v=1766595164"
+      ],
+      "description": "Barefoot-модель класичних міді-челсі, де продумана висота та витягнуті пропорції створюють ефект візуально довшої, стрункішої лінії ноги. Модель виконана у класичному чорному кольорі, що додає текстурності та мʼякості силуету. Еластичні вставки забезпечують легке взування та комфортну посадку для щоденного носіння. Ця модель має широкий анатомічний носок, який дозволяє пальцям розташовуватись природно та почуватися вільно; та тонку, гнучку та легку підошву з нульовим підйомом, що підтримує фізіологічне положення стопи. Підкладка та устілка виготовлені з натуральної італійської шкіри. Нова брендована підошва NUGAIA, розроблена на замовлення бренду, має антиковзкий візерунок, містить натуральний каучук і сприяє збереженню тепла. Модель оброблена професійними засобами для захисту від вологи та води. У розробці моделі брали участь експерти з подології, ортопедії та біомеханіки руху, щоб поєднати комфорт зі здоров’ям.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

@@ -4,6 +4,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-01.png",
     "style_tag": "бордо",
+    "gender": "women",
     "items": {
       "hat": "/demo/9c20fe56-a79b-5d39-a4e1-de3d60ab6490",
       "top": "/demo/27e71670-eafd-5e93-8ce8-efa1599a387b",
@@ -16,6 +17,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-02.png",
     "style_tag": "замша",
+    "gender": "women",
     "items": {
       "hat": "/demo/7d02a42d-7307-587d-a81f-313ac6cc3797",
       "top": "/demo/78a7dbcb-37bd-50c4-a8d8-500fa063bfef",
@@ -28,6 +30,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-03.png",
     "style_tag": "класика",
+    "gender": "women",
     "items": {
       "top": "/demo/ce357e99-cba8-5657-b797-ec5319c24237",
       "bottom": "/demo/182ac735-b44a-51b5-90ed-1949e918c1ed",
@@ -39,6 +42,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-04.png",
     "style_tag": "оверсайз",
+    "gender": "men",
     "items": {
       "top": "/demo/4760e98c-ed35-536c-8d3f-c8b1a4fc95e7",
       "bottom": "/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809",
@@ -50,6 +54,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-05.png",
     "style_tag": "шкіра",
+    "gender": "women",
     "items": {
       "hat": "/demo/5e8caacd-8c2b-5ca7-b14e-a2cad3e75de2",
       "top": "/demo/ce77489e-8038-54b1-869d-6d3801545924",
@@ -62,6 +67,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-06.png",
     "style_tag": "тиха розкіш",
+    "gender": "women",
     "items": {
       "hat": "/demo/60aab760-ae3b-5a00-b332-1e5782ac0034",
       "top": "/demo/ecd01d99-cd94-5b66-a685-c93fa5871cb5",
@@ -74,6 +80,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-07.png",
     "style_tag": "преппі",
+    "gender": "women",
     "items": {
       "hat": "/demo/3cc51315-52fd-5f23-9c2c-901cb978c81a",
       "top": "/demo/2ea2fd28-31f5-5bb9-8617-b6f964a581b0",
@@ -86,6 +93,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-08.png",
     "style_tag": "спорт-шик",
+    "gender": "men",
     "items": {
       "hat": "/demo/4ba7e62f-efda-55ee-a37b-efa8adf999b6",
       "top": "/demo/989364ea-9d68-5bb8-b3cd-1834d3f74c26",
@@ -98,6 +106,7 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-09.png",
     "style_tag": "мілітарі",
+    "gender": "men",
     "items": {
       "hat": "/demo/80e31f0d-30ff-5c0f-9866-ef3276fba5af",
       "top": "/demo/0d0e7aee-0180-5d9c-9063-d8251c6ba1c6",
@@ -110,11 +119,73 @@
     "season": "autumn",
     "cover_image_url": "/img/outfit-10.png",
     "style_tag": "монохром",
+    "gender": "men",
     "items": {
       "hat": "/demo/a1bb26c2-e4e5-5a22-bbd9-7710f93871ea",
       "top": "/demo/7372cd3f-4485-533b-a1c9-2de770d8bdde",
       "bottom": "/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809",
       "shoes": "/demo/b6f50f86-7c35-5d2d-973e-01ea866b4cae"
     }
+  },
+  {
+    "title": "Парний беж",
+    "season": "autumn",
+    "gender": "couple",
+    "cover_image_url": null,
+    "style_tag": "для двох",
+    "looks": [
+      {
+        "hat": "/demo/bcdf5b66-5e71-5ed8-ab4f-5cd4aff9cd86",
+        "top": "/demo/bfce057c-489e-5807-bc72-6e28a24a2c72",
+        "bottom": "/demo/493f3034-d160-5a62-9088-679d081c0cdb",
+        "shoes": "/demo/a6b8e8e1-ea5f-511e-a4fa-5ba6658b42fe"
+      },
+      {
+        "top": "/demo/99ce70d7-b53c-5569-bfe9-6f898c0d0235",
+        "bottom": "/demo/9bec9cf8-25f8-5230-bebd-ec1c8a8bf445",
+        "shoes": "/demo/965c8993-a27d-517d-967d-8966fd07c24f"
+      }
+    ]
+  },
+  {
+    "title": "Денім на двох",
+    "season": "autumn",
+    "gender": "couple",
+    "cover_image_url": null,
+    "style_tag": "денім",
+    "looks": [
+      {
+        "top": "/demo/bafcb237-6c66-5416-a278-182dcc1575c9",
+        "bottom": "/demo/98c57195-9905-5ef5-beef-53334c361e0e",
+        "shoes": "/demo/e63098fb-a372-5de2-a642-93dadbf8c39d"
+      },
+      {
+        "hat": "/demo/79c64af1-3aeb-5404-b4b7-58b1f732d8aa",
+        "top": "/demo/ecd01d99-cd94-5b66-a685-c93fa5871cb5",
+        "bottom": "/demo/182ac735-b44a-51b5-90ed-1949e918c1ed",
+        "shoes": "/demo/eaabea45-aa8e-5c37-88b8-c3dc55509a1c"
+      }
+    ]
+  },
+  {
+    "title": "Графіт і чорний",
+    "season": "autumn",
+    "gender": "couple",
+    "cover_image_url": null,
+    "style_tag": "контраст",
+    "looks": [
+      {
+        "hat": "/demo/6afdc461-4f62-5ae7-9e7a-0bc1a0516d03",
+        "top": "/demo/ce77489e-8038-54b1-869d-6d3801545924",
+        "bottom": "/demo/96051d5c-a2e5-5a86-9702-5e13cf6d26ab",
+        "shoes": "/demo/7b30a637-f6ee-50df-ad29-62f3df958d8c"
+      },
+      {
+        "hat": "/demo/4ba7e62f-efda-55ee-a37b-efa8adf999b6",
+        "top": "/demo/989364ea-9d68-5bb8-b3cd-1834d3f74c26",
+        "bottom": "/demo/dd20219b-cc24-5f74-b4e8-f48dfbd94809",
+        "shoes": "/demo/e0a38502-d2f2-5108-89f7-649bd7277efb"
+      }
+    ]
   }
 ]

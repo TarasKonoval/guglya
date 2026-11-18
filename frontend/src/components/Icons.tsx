@@ -24,3 +24,12 @@ export const BackIcon = () => (
 export const MenuIcon = () => (
   <svg {...base} aria-hidden><path d="M4 7h16M4 12h16M4 17h16" /></svg>
 );
+export const FilterIcon = () => (
+  <svg {...base} width={16} height={16} aria-hidden><path d="M4 6h16M7 12h10M10 18h4" /></svg>
+);
+export const UserIcon = () => (
+  <svg {...base} aria-hidden><circle cx="12" cy="8" r="3.6" /><path d="M5 20c.8-3.6 3.6-5.4 7-5.4s6.2 1.8 7 5.4z" /></svg>
+);
+export const BagIcon = () => (
+  <svg {...base} aria-hidden><path d="M5 8h14l-1 12H6zM9 8V6.5a3 3 0 0 1 6 0V8" /></svg>
+);

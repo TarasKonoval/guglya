@@ -18,6 +18,26 @@ type Props = {
 /** Instagram-Reels-style feed: one outfit per screen, vertical snap; swipe left (or tap) opens all its items. */
 export default function ReelsFeed({ outfits, saved, onToggleSave, onFeedback, toolbar }: Props) {
   const box = useRef<HTMLDivElement>(null);
+  const [barAway, setBarAway] = useState(false);
+  const lastTop = useRef(0);
+  const hideTimer = useRef<number>();
+
+  // Quick-return toolbar: hide on scroll down, show on a small scroll up, hide again after a few seconds
+  // (always visible on the first outfit)
+  const onScroll = () => {
+    const el = box.current;
+    if (!el) return;
+    const top = el.scrollTop;
+    const delta = top - lastTop.current;
+    if (Math.abs(delta) < 6) return;
+    lastTop.current = top;
+    window.clearTimeout(hideTimer.current);
+    if (top < 40 || delta < 0) {
+      setBarAway(false);
+      if (top >= 40) hideTimer.current = window.setTimeout(() => setBarAway(true), 3000);
+    } else setBarAway(true);
+  };
+  useEffect(() => () => window.clearTimeout(hideTimer.current), []);
 
   // Come back to the same outfit after visiting its page
   useEffect(() => {
@@ -28,8 +48,8 @@ export default function ReelsFeed({ outfits, saved, onToggleSave, onFeedback, to
   }, [outfits]);
 
   return (
-    <div className="reels" ref={box}>
-      <div className="reels-toolbar">{toolbar}</div>
+    <div className="reels" ref={box} onScroll={onScroll}>
+      <div className={`reels-toolbar ${barAway ? "away" : ""}`}>{toolbar}</div>
       {outfits.map((o, i) => (
         <Reel key={o.id} outfit={o} first={i === 0} saved={saved.has(o.id)}
           onToggleSave={() => onToggleSave(o.id)} onFeedback={onFeedback} />
@@ -81,7 +101,7 @@ function Reel({ outfit, first, saved, onToggleSave, onFeedback }: ReelProps) {
       {/* revealed behind the outfit while swiping left */}
       <div className="reel-under" aria-hidden>
         <span>Усі речі</span>
-        {outfit.items.map((it) => <img key={it.slot} src={img(it.image_url)} alt="" />)}
+        {outfit.items.map((it) => <img referrerPolicy="no-referrer" key={`${it.person}-${it.slot}`} src={img(it.image_url)} alt="" />)}
       </div>
 
       <div className={`reel-card ${dx ? "dragging" : ""} ${leaving ? "leaving" : ""}`}
@@ -98,7 +118,7 @@ function Reel({ outfit, first, saved, onToggleSave, onFeedback }: ReelProps) {
           </p>
           <div className="reel-brands">
             {outfit.items.map((it) => (
-              <span key={it.slot}>{it.brand} · {formatUah(it.price_uah)}</span>
+              <span key={`${it.person}-${it.slot}`}>{it.brand} · {formatUah(it.price_uah)}</span>
             ))}
           </div>
         </div>

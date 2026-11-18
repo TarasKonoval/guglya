@@ -16,7 +16,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 4. Bonus: donations to a Monobank volunteer jar (VITE_DONATE_URL), donate clicks logged.
 
 ## Architecture (AWS eu-central-1, Terraform in infra/terraform, local state)
-- Auth: Cognito User Pool (email username, min 8 chars), pre-sign-up Lambda auto-confirms + verifies email. Public client, no secret.
+- Auth: Cognito User Pool (email username, min 8 chars). Email sign-up is confirmed with a 6-digit code (Cognito default
+  mailer, 50 emails/day; SES is the upgrade path); the pre-sign-up Lambda auto-confirms Google sign-ins only. Public client, no secret.
   Google sign-in: Cognito Google IdP + custom domain auth.guglya.studio (OAuth code flow, Amplify signInWithRedirect); Google OAuth
   client lives in Google Cloud Console, credentials only in terraform.tfvars. Email and Google accounts are not linked.
 - Frontend: React + Vite + TS + aws-amplify v6 → private S3 + CloudFront (OAC, SPA fallback). `infra/deploy-frontend.sh`.
@@ -28,6 +29,20 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
   other brands, one per brand first.
 - Evidence: users, events (outfit_view, swap, donate_click, feedback_open), clicks (is_alternative), feedback (rating, would_buy).
 - Images: demo images are our own illustrations in `data/demo/img`, served from S3/CloudFront under `/img/` (seed-demo.sh).
+- Real catalog: `data/database/products.json` (Andrii's scraper, `data/database/merge.py`) -> `backend/ml/import_brand_db.py`
+  (accessories, no-UAH-price and out-of-stock items skipped; colours mapped to the site's keys; "dress" slot = сукня/комплект/
+  комбінезон/костюм, replaces top+bottom). Brand popularity = Instagram followers in `data/database/brand_popularity.json`.
+- Alternatives ranking: CLIP similarity + 0.06 same item type + 0.05 × brand popularity (70% followers, 30% our clicks),
+  outfit's gender (men: men only; women: women + unisex), similarity >= 0.6, one per brand first.
+- Adding brands / how the catalog pipeline works: docs/catalog.md (scrape.mjs -> ua_names.py -> merge.py --keep ->
+  import_brand_db.py -> embed.py -> classify_gender.py). 70 brands / 12 381 products on the site (18 Nov evening; 105 in brands.json); no Russian names, UAH only.
+  Bag/scarf brands (kind bags/scarves) are in data/database but not imported: no bag/scarf slot yet.
+- Alternatives stay within the item's kind (TYPE_GROUPS + title rules in backend/app/main.py), whole slot if < 3.
+- Feed: Жінкам / Чоловікам / Парам toggle (outfits.gender); couple outfits = two looks (outfit_items.person 1/2).
+  Sort/colour filters in a «Фільтри» sheet. Header: saved ♡, profile (name, surname, phone in users), cart (cart_items).
+  Brand pages open only from the cart (clicks are still logged via /clicks).
+- Fonts: KyivType Titling Bold (logo) + Montserrat (everything else), self-hosted in `frontend/src/assets/fonts`;
+  source archives in `design/fonts/` (gitignored).
 - Budget alarm $30/month (50/80/100%) to the email in terraform.tfvars.
 
 ## Conventions
@@ -35,6 +50,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - AWS CLI profile `guglya` (IAM user guglya-admin; never root). `export AWS_PROFILE=guglya`.
 - Never commit .env*, *.tfstate*, .terraform/, terraform.tfvars, keys. Budget email lives only in terraform.tfvars.
 - Only product photos we may use (brand permission or our own). Demo data: brands/products is_demo=true, links go to /demo/<id>.
+- Brand photos (18 Nov): the faculty confirmed with businesses that brand product photos may be shown at this student-project
+  stage; before going further we write to each brand individually.
 
 ## Decisions / deviations
 - Demo images are generated flat illustrations (no reliable verifiable free photo set for 60 specific items).

@@ -111,18 +111,27 @@ PRODUCTS = {
     ],
 }
 
-# (title, style_tag, {slot: index into PRODUCTS[slot]}); no "hat" key = outfit without a hat
+# (title, style_tag, gender, {slot: index into PRODUCTS[slot]}); no "hat" key = outfit without a hat
 OUTFITS = [
-    ("Бордо з голови до пʼят", "бордо", {"hat": 10, "top": 6, "bottom": 7, "shoes": 7}),
-    ("Замша й мокко", "замша", {"hat": 5, "top": 13, "bottom": 4, "shoes": 2}),
-    ("Тренч і широкі джинси", "класика", {"top": 4, "bottom": 1, "shoes": 3}),
-    ("Оверсайз-піджак", "оверсайз", {"top": 3, "bottom": 0, "shoes": 1}),
-    ("Шкіра й міді", "шкіра", {"hat": 7, "top": 5, "bottom": 3, "shoes": 0}),
-    ("Тиха розкіш у беж", "тиха розкіш", {"hat": 12, "top": 10, "bottom": 4, "shoes": 10}),
-    ("Преппі на пари", "преппі", {"hat": 4, "top": 14, "bottom": 10, "shoes": 3}),
-    ("Спорт-шик", "спорт-шик", {"hat": 3, "top": 2, "bottom": 11, "shoes": 5}),
-    ("Карго та бомбер", "мілітарі", {"hat": 6, "top": 7, "bottom": 9, "shoes": 4}),
-    ("Сірий монохром", "монохром", {"hat": 14, "top": 8, "bottom": 0, "shoes": 11}),
+    ("Бордо з голови до пʼят", "бордо", "women", {"hat": 10, "top": 6, "bottom": 7, "shoes": 7}),
+    ("Замша й мокко", "замша", "women", {"hat": 5, "top": 13, "bottom": 4, "shoes": 2}),
+    ("Тренч і широкі джинси", "класика", "women", {"top": 4, "bottom": 1, "shoes": 3}),
+    ("Оверсайз-піджак", "оверсайз", "men", {"top": 3, "bottom": 0, "shoes": 1}),
+    ("Шкіра й міді", "шкіра", "women", {"hat": 7, "top": 5, "bottom": 3, "shoes": 0}),
+    ("Тиха розкіш у беж", "тиха розкіш", "women", {"hat": 12, "top": 10, "bottom": 4, "shoes": 10}),
+    ("Преппі на пари", "преппі", "women", {"hat": 4, "top": 14, "bottom": 10, "shoes": 3}),
+    ("Спорт-шик", "спорт-шик", "men", {"hat": 3, "top": 2, "bottom": 11, "shoes": 5}),
+    ("Карго та бомбер", "мілітарі", "men", {"hat": 6, "top": 7, "bottom": 9, "shoes": 4}),
+    ("Сірий монохром", "монохром", "men", {"hat": 14, "top": 8, "bottom": 0, "shoes": 11}),
+]
+# Couple outfits: (title, style_tag, [look 1, look 2]); no generated cover, the site shows both looks side by side
+COUPLES = [
+    ("Парний беж", "для двох",
+     [{"hat": 0, "top": 0, "bottom": 4, "shoes": 8}, {"top": 12, "bottom": 14, "shoes": 2}]),
+    ("Денім на двох", "денім",
+     [{"top": 11, "bottom": 8, "shoes": 12}, {"hat": 9, "top": 10, "bottom": 1, "shoes": 1}]),
+    ("Графіт і чорний", "контраст",
+     [{"hat": 2, "top": 5, "bottom": 6, "shoes": 6}, {"hat": 3, "top": 2, "bottom": 0, "shoes": 5}]),
 ]
 COVER_BG = (236, 226, 212)
 
@@ -296,7 +305,7 @@ def main() -> None:
     # Covers: a vertical flat lay of the outfit's items, 2:3
     placement = {"hat": (0.42, 10), "top": (0.82, 190), "bottom": (0.74, 640), "shoes": (0.5, 975)}
     outfits = []
-    for n, (title, tag, picks) in enumerate(OUTFITS, 1):
+    for n, (title, tag, gender, picks) in enumerate(OUTFITS, 1):
         cover = Image.new("RGBA", (900, 1350), (0, 0, 0, 0))
         shift = 0 if "hat" in picks else -90  # no hat: move everything up a bit
         for slot in ("bottom", "top", "shoes", "hat"):
@@ -308,8 +317,13 @@ def main() -> None:
         name = f"outfit-{n:02d}.png"
         on_background(cover, COVER_BG).save(IMG_DIR / name, optimize=True)
         outfits.append({
-            "title": title, "season": "autumn", "cover_image_url": f"/img/{name}", "style_tag": tag,
+            "title": title, "season": "autumn", "gender": gender, "cover_image_url": f"/img/{name}", "style_tag": tag,
             "items": {slot: urls[(slot, i)] for slot, i in picks.items()},
+        })
+    for title, tag, looks in COUPLES:
+        outfits.append({
+            "title": title, "season": "autumn", "gender": "couple", "cover_image_url": None, "style_tag": tag,
+            "looks": [{slot: urls[(slot, i)] for slot, i in look.items()} for look in looks],
         })
     with open(HERE / "outfits.json", "w", encoding="utf-8") as f:
         json.dump(outfits, f, ensure_ascii=False, indent=2)

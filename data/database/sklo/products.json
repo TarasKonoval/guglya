@@ -1,0 +1,1335 @@
+{
+  "_meta": {
+    "brand": "SKLO",
+    "brand_id": "sklo",
+    "site": "https://sklo-wear.com",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 55,
+    "found": 55,
+    "candidates": 62,
+    "checked": 62,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "sklo-shorty-lliani-chorni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти лляні чорні",
+      "source_url": "https://sklo-wear.com/shorty-lliani-chorni/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2290,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/30/1200x1500l95mc0/shorty-lliani-chorni-51150981298600.webp"
+      ],
+      "description": "Шорти вільного крою із повністю натурального льону, без будь-яких домішок. Легка, дихаюча тканина забезпечує комфорт навіть у спеку, а природна текстура льону додає образу стриманої елегантності. Модель має вільний крій, не сковує рухів і підходить як для міста, так і для відпочинку.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-zip-flow-z-uteplenniam-chervonyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Flow з утепленням червоний",
+      "source_url": "https://sklo-wear.com/zip-flow-z-uteplenniam-chervonyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/33/1200x1500l95mc0/zip-flow-z-uteplenniam-chervonyi-54281770152630.webp"
+      ],
+      "description": "Спортивна естетика в мінімалістичному виконанні SKLO. Олімпійка з високим коміром-стійкою, повнорозмірною блискавкою та контрастними лампасами вздовж плечей і рукавів. Продуманий крій формує акуратний силует, а мінімалістичний брендинг додає характеру без зайвих деталей. Для цієї моделі ми використали нову щільну тканину преміальної якості. Матеріал приємний до тіла, добре тримає форму та має якісне утеплення. Особливу увагу приділили внутрішньому шару — він не залишає ворсинок на одязі, який ви носите під олімпійкою. Модель легко поєднується як зі спортивними штанами, так і з джинсами чи іншими повсякденними речами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-flow-uteplenyi-temno-synii",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Flow утеплений темно-синій",
+      "source_url": "https://sklo-wear.com/zip-flow-uteplenyi-temno-synii/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/27/1200x1500l95mc0/zip-flow-uteplenyi-temno-synii-94191070291387.webp"
+      ],
+      "description": "Сучасна інтерпретація спортивної класики з акцентом на комфорт, силует і деталі. Зіп-худі з капюшоном, повнорозмірною блискавкою та контрастними лампасами, які підкреслюють лінію плечей і рукавів. Вільна посадка, зручні кишені та мінімалістичний брендинг SKLO створюють універсальний силует для повсякденного гардероба. Головна особливість моделі — наша нова щільна тканина преміальної якості. Вона добре тримає форму, приємна на дотик та має якісне внутрішнє утеплення, яке не залишає ворсинок на футболках та іншому одязі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shorty-lliani-bezhevi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти лляні бежеві",
+      "source_url": "https://sklo-wear.com/shorty-lliani-bezhevi/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2290,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/28/1200x1500l95mc0/shorty-lliani-bezhevi-98994627323658.webp"
+      ],
+      "description": "Шорти вільного крою із повністю натурального льону, без будь-яких домішок. Легка, дихаюча тканина забезпечує комфорт навіть у спеку, а природна текстура льону додає образу стриманої елегантності. Модель має вільний крій, не сковує рухів і підходить як для міста, так і для відпочинку.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-zip-stiika-flow-z-uteplenniam-chervonyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп стійка Flow з утепленням червоний",
+      "source_url": "https://sklo-wear.com/zip-stiika-flow-z-uteplenniam-chervonyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/31/1200x1500l95mc0/zip-stiika-flow-z-uteplenniam-chervonyi-44294534922947.webp"
+      ],
+      "description": "Сучасна інтерпретація спортивної класики з акцентом на комфорт, силует і деталі. Зіп-худі з капюшоном, повнорозмірною блискавкою та контрастними лампасами, які підкреслюють лінію плечей і рукавів. Вільна посадка, зручні кишені та мінімалістичний брендинг SKLO створюють універсальний силует для повсякденного гардероба. Головна особливість моделі — наша нова щільна тканина преміальної якості. Вона добре тримає форму, приємна на дотик та має якісне внутрішнє утеплення, яке не залишає ворсинок на футболках та іншому одязі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shorty-balance-melanzh",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти balance меланж",
+      "source_url": "https://sklo-wear.com/shorty-balance-melanzh/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1690,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/20/1200x1500l95mc0/shorty-balance-melanzh-46810236555013.webp"
+      ],
+      "description": "Трохи подовжений оверсайз крій формує чисту вертикаль і дає той самий \"зібраний\" силует, який зазвичай складно отримати у шортах. Вони не облягають і не провисають. Тканина: 70% бавовни, 30% поліестеру, який додає зносостійкості і стабільності форми. Пояс на резинці та із бавовням шнурком. Конструкція шортів йде без бокового шву, що дозволило отримати акуратний низ, який не стирчить по сторонам. Радимо обирати із нашими футболками. Заміри по готовому виробу: S/M Півпояс - 36 Довжина 53 Напівобхват стегна 34 L/XL Півпояс - 39 Довжина 55 Напівобхват стегна 36",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-2496",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп світшот Basic з утепленням графіт",
+      "source_url": "https://sklo-wear.com/khudi-zipky/dlya-nogo/2496/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/47/1200x1500l95mc0/80415054986727.webp"
+      ],
+      "description": "Мінімалістична версія нашої базової утепленої зіпки без капюшона. Вільна посадка, спущена лінія плеча та чистий силует без зайвих деталей. Повнорозмірна блискавка дозволяє носити її як самостійну річ або поєднувати з футболкою чи лонгслівом. Лекала базової лінійки SKLO ми вдосконалювали протягом 4–5 років, приділяючи особливу увагу посадці та правильним пропорціям oversize. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-svitshot-basic-z-uteplenniam-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп світшот Basic з утепленням чорний",
+      "source_url": "https://sklo-wear.com/zip-svitshot-basic-z-uteplenniam-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/27/1200x1500l95mc0/zip-svitshot-basic-z-uteplenniam-chornyi-63977699816201.webp"
+      ],
+      "description": "Мінімалістична версія нашої базової утепленої зіпки без капюшона. Вільна посадка, спущена лінія плеча та чистий силует без зайвих деталей. Повнорозмірна блискавка дозволяє носити її як самостійну річ або поєднувати з футболкою чи лонгслівом. Лекала базової лінійки SKLO ми вдосконалювали протягом 4–5 років, приділяючи особливу увагу посадці та правильним пропорціям oversize. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-flow-chervoni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани flow червоні",
+      "source_url": "https://sklo-wear.com/shtany-flow-chervoni/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": 1393,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/44/1200x1500l95mc0/shtany-flow-chervoni-44589425800389.webp"
+      ],
+      "description": "Жіночі штани із контрастним кантом. Оверсайз крою. Тканина легка приєніша до тіла тринитка. 70% бавовни, 30% поліестеру. Правильний силует із низьким шаговим швом. Присутні дві бічні кишені. Радимо обирати із зіпкою. Заміри по готовому виробу: Хс/с пів обʼєм стегон 58 довжина 106 ширина знизу 26 М/л пів обʼєм стегон 62 довжина 110 ширина знизу 26",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-gothic-monogram",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі GOTHIC MONOGRAM чорний",
+      "source_url": "https://sklo-wear.com/khudi-gothic-monogram/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/1/1186x1800l95mc0/khudi-gothic-monogram-37534339311016.webp"
+      ],
+      "description": "SKLO GOTHIC MONOGRAM — поєднання бунтарської естетики, вінтажного характеру та впізнаваного стилю SKLO. Головний акцент моделі — авторська інтерпретація логотипа в готичній стилістиці. Масштабний символ на спині, графічні елементи вздовж рукавів та мінімалістична емблема на грудях формують цілісну композицію. Тонкі контурні принти контрастують із темною вивареною тканиною, створюючи стриманий, але виразний образ. Завдяки спеціальному виварюванню худі отримує неоднорідний відтінок із природними переходами кольору та вінтажним ефектом. Кожен виріб має власний характер. Об'ємний oversize-силует, спущена лінія плеча та вільні рукави підкреслюють естетику сучасного underground streetwear. І як завжди, 100% бавовна, 500 г/м щільність.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-flow-lymonni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани flow лимонні",
+      "source_url": "https://sklo-wear.com/shtany-flow-lymonni/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": 1393,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/2/1200x1500l95mc0/shtany-flow-lymonni-42139302112741.webp"
+      ],
+      "description": "Жіночі штани із контрастним кантом. Оверсайз крою. Тканина легка приєніша до тіла тринитка. 70% бавовни, 30% поліестеру. Правильний силует із низьким шаговим швом. Присутні дві бічні кишені. Радимо обирати із зіпкою. Заміри по готовому виробу: XS/S пів обʼєм стегон 58 довжина 106 ширина знизу 26 M/L пів обʼєм стегон 62 довжина 110 ширина знизу 26",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-basic-z-uteplenniam-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Basic з утепленням чорний",
+      "source_url": "https://sklo-wear.com/zip-basic-z-uteplenniam-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/19/1200x1500l95mc0/zip-basic-z-uteplenniam-chornyi-11909896918656.webp"
+      ],
+      "description": "Класична утеплена зіпка SKLO у вільному oversize-силуеті. Ця модель - частина нашої базової лінійки, яку ми випускаємо вже 4–5 років. За цей час ми постійно допрацьовували лекала, посадку та пропорції й сьогодні можемо впевнено сказати: ми довели їх до ідеалу. Об’ємний капюшон, повнорозмірна блискавка та мінімалістичний дизайн. Завдяки щільній тканині зіпка добре тримає форму та комфортно працює як самостійна річ або верхній шар. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-basic-z-uteplenniam-shokolad",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі Basic з утепленням шоколад",
+      "source_url": "https://sklo-wear.com/khudi-basic-z-uteplenniam-shokolad/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/5/1200x1500l95mc0/khudi-basic-z-uteplenniam-shokolad-66963411081864.webp"
+      ],
+      "description": "Базове утеплене худі SKLO - модель, яка залишається в нашій лінійці вже 4–5 років. За цей час ми багато разів коригували лекала та пропорції, щоб отримати саме ту посадку, яку сьогодні вважаємо ідеальною. Об’ємний капюшон, спущена лінія плеча, кишеня-кенгуру та вільний oversize-силует. Щільна тканина добре тримає форму, а мінімалістичний дизайн дозволяє носити худі практично з усім. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-svitshot-1-3-zip-basic-z-uteplenniam-hrafit",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Світшот 1/3 зіп Basic з утепленням графіт",
+      "source_url": "https://sklo-wear.com/svitshot-1-3-zip-basic-z-uteplenniam-hrafit/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/43/1200x1500l95mc0/svitshot-1-3-zip-basic-z-uteplenniam-hrafit-14267365864091.webp"
+      ],
+      "description": "Утеплений світшот вільного крою з високим коміром та блискавкою 1/3. Блискавка дозволяє змінювати характер речі: носити високий комір повністю закритим або розстебнути його для більш розслабленого силуету. В основі - наші перевірені роками лекала базової лінійки SKLO: правильний об’єм, спущене плече та комфортна oversize-посадка. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-tora-synii",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі TORA синій",
+      "source_url": "https://sklo-wear.com/khudi-tora-synii/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/49/1200x1738l95mc0/khudi-tora-synii-79239760834950.webp"
+      ],
+      "description": "SKLO Tora — поєднання японської естетики, вінтажного характеру та енергії вуличної культури. Центральний елемент дизайну — тигр, що проходить крізь фірмовий логотип SKLO. У японській культурі тигр символізує силу, сміливість, рішучість та здатність долати перешкоди. Це символ внутрішньої впевненості. Сили, яку не обов'язково демонструвати, щоб її відчували. Японські символи під принтом та вогняні елементи на рукавах доповнюють композицію, поєднуючи східну естетику з характером сучасного streetwear. Особливу увагу приділено обробці тканини. Завдяки виварюванню худі набуває глибокого темно-синього відтінку з нерівномірними переходами кольору та природним вінтажним ефектом. Як завжди, 100% бавовна, 500 г/м щільності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shorty-balance-bezhevi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти balance бежеві",
+      "source_url": "https://sklo-wear.com/shorty-balance-bezhevi/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1690,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/22/1200x1500l95mc0/shorty-balance-bezhevi-21365666870809.webp"
+      ],
+      "description": "Трохи подовжений оверсайз крій формує чисту вертикаль і дає той самий \"зібраний\" силует, який зазвичай складно отримати у шортах. Вони не облягають і не провисають. Тканина: 70% бавовни, 30% поліестеру, який додає зносостійкості і стабільності форми. Пояс на резинці та із бавовням шнурком. Конструкція шортів йде без бокового шву, що дозволило отримати акуратний низ, який не стирчить по сторонам. Радимо обирати із нашими футболками. Заміри по готовому виробу: S/M Півпояс - 36 Довжина 53 Напівобхват стегна 34 L/XL Півпояс - 39 Довжина 55 Напівобхват стегна 36",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-svitshot-1-3-zip-basic-z-uteplenniam-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Світшот 1/3 зіп Basic з утепленням чорний",
+      "source_url": "https://sklo-wear.com/svitshot-1-3-zip-basic-z-uteplenniam-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/23/1200x1500l95mc0/svitshot-1-3-zip-basic-z-uteplenniam-chornyi-51594503148263.webp"
+      ],
+      "description": "Утеплений світшот вільного крою з високим коміром та блискавкою 1/3. Блискавка дозволяє змінювати характер речі: носити високий комір повністю закритим або розстебнути його для більш розслабленого силуету. В основі - наші перевірені роками лекала базової лінійки SKLO: правильний об’єм, спущене плече та комфортна oversize-посадка. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-2484",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі Basic з утепленням графіт",
+      "source_url": "https://sklo-wear.com/khudi-basic-z-uteplenniam-hrafit/2484/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/35/1200x1500l95mc0/khudi-basic-z-uteplenniam-hrafit2484-17859349716852.webp"
+      ],
+      "description": "Базове утеплене худі SKLO — модель, яка залишається в нашій лінійці вже 4–5 років. За цей час ми багато разів коригували лекала та пропорції, щоб отримати саме ту посадку, яку сьогодні вважаємо ідеальною. Об’ємний капюшон, спущена лінія плеча, кишеня-кенгуру та вільний oversize-силует. Щільна тканина добре тримає форму, а мінімалістичний дизайн дозволяє носити худі практично з усім. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-basic-z-uteplenniam-shokolad",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Basic з утепленням шоколад",
+      "source_url": "https://sklo-wear.com/zip-basic-z-uteplenniam-shokolad/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/9/1200x1500l95mc0/zip-basic-z-uteplenniam-shokolad-89598621833329.webp"
+      ],
+      "description": "Класична утеплена зіпка SKLO у вільному oversize-силуеті. Ця модель - частина нашої базової лінійки, яку ми випускаємо вже 4–5 років. За цей час ми постійно допрацьовували лекала, посадку та пропорції й сьогодні можемо впевнено сказати: ми довели їх до ідеалу. Об’ємний капюшон, повнорозмірна блискавка та мінімалістичний дизайн. Завдяки щільній тканині зіпка добре тримає форму та комфортно працює як самостійна річ або верхній шар. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-svitshot-1-3-zip-basic-z-uteplenniam-shokolad",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Світшот 1/3 зіп Basic з утепленням шоколад",
+      "source_url": "https://sklo-wear.com/svitshot-1-3-zip-basic-z-uteplenniam-shokolad/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/13/1200x1500l95mc0/svitshot-1-3-zip-basic-z-uteplenniam-shokolad-51550072807348.webp"
+      ],
+      "description": "Утеплений світшот вільного крою з високим коміром та блискавкою 1/3. Блискавка дозволяє змінювати характер речі: носити високий комір повністю закритим або розстебнути його для більш розслабленого силуету. В основі - наші перевірені роками лекала базової лінійки SKLO: правильний об’єм, спущене плече та комфортна oversize-посадка. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-basic-z-uteplenniam-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі Basic з утепленням чорний",
+      "source_url": "https://sklo-wear.com/khudi-basic-z-uteplenniam-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/15/1200x1500l95mc0/khudi-basic-z-uteplenniam-chornyi-93149678860493.webp"
+      ],
+      "description": "Базове утеплене худі SKLO - модель, яка залишається в нашій лінійці вже 4–5 років. За цей час ми багато разів коригували лекала та пропорції, щоб отримати саме ту посадку, яку сьогодні вважаємо ідеальною. Об’ємний капюшон, спущена лінія плеча, кишеня-кенгуру та вільний oversize-силует. Щільна тканина добре тримає форму, а мінімалістичний дизайн дозволяє носити худі практично з усім. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-flow-blakytnyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп flow блакитний",
+      "source_url": "https://sklo-wear.com/zip-flow-blakytnyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1533,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/50/1200x1500l95mc0/zip-flow-blakytnyi-93102849671227.webp"
+      ],
+      "description": "Жіночий зіп у спортивному стилі з елементами ретро. М'який силует. Контрастний кант, металева блискавка із високим коміром. Тканина легка та приємна на дотик. 70% бавовни, 30% поліестеру. Радимо обирати із штанами. Заміри по готовому виробу: XS/S пахви 48 довжина 54 рукав від пахви 50 M/L пахви 52 довжина 58 рукав від пахви 52",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-2540",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Flow утеплені молочні",
+      "source_url": "https://sklo-wear.com/shtany-flow-utepleni-molochni/2540/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/41/1200x1500l95mc0/47040014336634.webp"
+      ],
+      "description": "Широкі спортивні штани, у яких комфорт поєднується з актуальним силуетом. Модель має вільний прямий крій, еластичний пояс і бічні кишені. Контрастні лампаси вздовж штанин візуально витягують силует, а мінімалістичний логотип SKLO завершує дизайн. Штани виготовлені з нашої нової щільної тканини преміальної якості. Матеріал добре тримає форму, забезпечує комфорт під час щоденного носіння та має якісне внутрішнє утеплення, яке не залишає ворсинок на одязі. Завдяки широкому крою штани природно лягають на взуття та створюють розслаблений силует. Їх можна носити як частину спортивного комплекту або як самостійний елемент повсякденного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-faded",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі FADED",
+      "source_url": "https://sklo-wear.com/khudi-faded/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/45/1167x1800l95mc0/khudi-faded-73452317487303.webp"
+      ],
+      "description": "SKLO Faded — поєднання вінтажної естетики, об'ємного силуету та філософії усвідомленого ставлення до власного життя. Головна особливість моделі — унікальна обробка тканини. Окрім класичного виварювання, худі має додатковий ефект локального висвітлення окремих ділянок. М'які, нерівномірні переходи від глибокого чорного до приглушеного графітового створюють природний ефект зістарення, ніби річ уже має власну історію. Центральний елемент дизайну — принт Lifestyle Investments, який несе значно глибший сенс, ніж просто інвестиції у матеріальні речі. Ми віримо, що найцінніші інвестиції не завжди вимірюються грошима. Час, який ти присвячуєш собі. Люди, які тебе оточують. Місця, які відвідуєш. Емоції, які переживаєш. Усе це формує твій спосіб життя. Як завжди щільна 100% бавовна, 500 г/м.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-gothic-monogram-synii",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі GOTHIC MONOGRAM синій",
+      "source_url": "https://sklo-wear.com/khudi-gothic-monogram-synii/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/3/1126x1800l95mc0/khudi-gothic-monogram-synii-83496278256969.webp"
+      ],
+      "description": "SKLO GOTHIC MONOGRAM — поєднання бунтарської естетики, вінтажного характеру та впізнаваного стилю SKLO. Головний акцент моделі — авторська інтерпретація логотипа в готичній стилістиці. Масштабний символ на спині, графічні елементи вздовж рукавів та мінімалістична емблема на грудях формують цілісну композицію. Тонкі контурні принти контрастують із темною вивареною тканиною, створюючи стриманий, але виразний образ. Завдяки спеціальному виварюванню худі отримує неоднорідний відтінок із природними переходами кольору та вінтажним ефектом. Кожен виріб має власний характер. Об'ємний oversize-силует, спущена лінія плеча та вільні рукави підкреслюють естетику сучасного underground streetwear. І як завжди, 100% бавовна, 500 г/м щільність.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-flow-z-uteplenniam-molochnyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Flow з утепленням молочний",
+      "source_url": "https://sklo-wear.com/zip-flow-z-uteplenniam-molochnyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/39/1200x1500l95mc0/zip-flow-z-uteplenniam-molochnyi-71766335868154.webp"
+      ],
+      "description": "Сучасна інтерпретація спортивної класики з акцентом на комфорт, силует і деталі. Зіп-худі з капюшоном, повнорозмірною блискавкою та контрастними лампасами, які підкреслюють лінію плечей і рукавів. Вільна посадка, зручні кишені та мінімалістичний брендинг SKLO створюють універсальний силует для повсякденного гардероба. Головна особливість моделі — наша нова щільна тканина преміальної якості. Вона добре тримає форму, приємна на дотик та має якісне внутрішнє утеплення, яке не залишає ворсинок на футболках та іншому одязі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-flow-utepleni-temno-syni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Flow утеплені темно-сині",
+      "source_url": "https://sklo-wear.com/shtany-flow-utepleni-temno-syni/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/29/1200x1500l95mc0/shtany-flow-utepleni-temno-syni-71254977951118.webp"
+      ],
+      "description": "Широкі спортивні штани, у яких комфорт поєднується з актуальним силуетом. Модель має вільний прямий крій, еластичний пояс і бічні кишені. Контрастні лампаси вздовж штанин візуально витягують силует, а мінімалістичний логотип SKLO завершує дизайн. Штани виготовлені з нашої нової щільної тканини преміальної якості. Матеріал добре тримає форму, забезпечує комфорт під час щоденного носіння та має якісне внутрішнє утеплення, яке не залишає ворсинок на одязі. Завдяки широкому крою штани природно лягають на взуття та створюють розслаблений силует. Їх можна носити як частину спортивного комплекту або як самостійний елемент повсякденного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-flow-chervonyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп flow червоний",
+      "source_url": "https://sklo-wear.com/zip-flow-chervonyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1533,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/46/1200x1500l95mc0/zip-flow-chervonyi-28846225578821.webp"
+      ],
+      "description": "Жіночий зіп у спортивному стилі з елементами ретро. М'який силует. Контрастний кант, металева блискавка із високим коміром. Тканина легка та приємна на дотик. 70% бавовни, 30% поліестеру. Радимо обирати із штанами. Заміри по готовому виробу: Хс/с пахви 48 довжина 54 рукав від пахви 50 М/л пахви 52 довжина 58 рукав від пахви 52",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-khudi-fck-ff-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі \"FCK FF\" чорний",
+      "source_url": "https://sklo-wear.com/khudi-fck-ff-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/5/1168x1800l95mc0/khudi-fck-ff-chornyi-94063917706119.webp"
+      ],
+      "description": "В основі дизайну — провокаційне поєднання класичного символу молитви та зухвалого напису PLEASE / Fuck Off. Складені долоні традиційно асоціюються з вірою, покорою та смиренням. Але в нашій інтерпретації цей символ набуває зовсім іншого значення. Це не прохання про схвалення. Це відмова жити за чужими правилами. PLEASE / Fuck Off — іронічний контраст між ввічливістю та відвертим протестом. Нагадування про те, що кожен має право на власні переконання, особисті кордони та незалежність від думки оточення. Мінімалістичний принт спереду та масштабна композиція на спині створюють баланс між стриманістю й бунтарською естетикою. Худі виконане в глибокому вивареному чорному кольорі з характерними вінтажними переходами відтінків. Ефект природного зношування та декоративні потертості надають виробу особливого характеру. І як завжди, 100% бавовна, 500 г/м щільність.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-stiika-flow-z-uteplenniam-molochnyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп стійка Flow з утепленням молочний",
+      "source_url": "https://sklo-wear.com/zip-stiika-flow-z-uteplenniam-molochnyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/37/1200x1500l95mc0/zip-stiika-flow-z-uteplenniam-molochnyi-85006389674073.webp"
+      ],
+      "description": "Спортивна естетика в мінімалістичному виконанні SKLO. Олімпійка з високим коміром-стійкою, повнорозмірною блискавкою та контрастними лампасами вздовж плечей і рукавів. Продуманий крій формує акуратний силует, а мінімалістичний брендинг додає характеру без зайвих деталей. Для цієї моделі ми використали нову щільну тканину преміальної якості. Матеріал приємний до тіла, добре тримає форму та має якісне утеплення. Особливу увагу приділили внутрішньому шару — він не залишає ворсинок на одязі, який ви носите під олімпійкою. Модель легко поєднується як зі спортивними штанами, так і з джинсами чи іншими повсякденними речами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-basic-z-uteplenniam-hrafit",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Basic з утепленням графіт",
+      "source_url": "https://sklo-wear.com/shtany-basic-z-uteplenniam-hrafit/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/1/1200x1500l95mc0/shtany-basic-z-uteplenniam-hrafit-56450012329686.webp"
+      ],
+      "description": "Базові утеплені штани SKLO з вільною посадкою та прямим силуетом. Як і вся наша базова лінійка, ця модель - результат 4–5 років роботи над лекалами. Ми поступово допрацьовували посадку, ширину та пропорції, щоб штани комфортно сиділи й водночас зберігали правильний об’ємний силует. Головна деталь моделі - приховані еластичні фіксатори внизу штанин. Вони дозволяють самостійно регулювати ширину низу: залишити штани прямими та вільними або затягнути їх, створивши більш зібраний силует. Еластичний пояс зі шнурком дозволяє регулювати посадку на талії. Мінімалістичний дизайн доповнений невеликим фірмовим логотипом SKLO. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL доступні під індивідуальне замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-stiika-flow-uteplenyi-temno-synii",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп стійка Flow утеплений темно-синій",
+      "source_url": "https://sklo-wear.com/zip-stiika-flow-uteplenyi-temno-synii/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/25/1200x1500l95mc0/zip-stiika-flow-uteplenyi-temno-synii-38859213565158.webp"
+      ],
+      "description": "Спортивна естетика в мінімалістичному виконанні SKLO. Олімпійка з високим коміром-стійкою, повнорозмірною блискавкою та контрастними лампасами вздовж плечей і рукавів. Продуманий крій формує акуратний силует, а мінімалістичний брендинг додає характеру без зайвих деталей. Для цієї моделі ми використали нову щільну тканину преміальної якості. Матеріал приємний до тіла, добре тримає форму та має якісне утеплення. Особливу увагу приділили внутрішньому шару — він не залишає ворсинок на одязі, який ви носите під олімпійкою. Модель легко поєднується як зі спортивними штанами, так і з джинсами чи іншими повсякденними речами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-flow-lymonnyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп flow лимонний",
+      "source_url": "https://sklo-wear.com/zip-flow-lymonnyi/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1533,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/4/1200x1500l95mc0/zip-flow-lymonnyi-46968799844119.webp"
+      ],
+      "description": "【Зіп flow лимонний】 — купити по найкращій ціні в інтернет магазині SKLO WEAR ✈ Доставка ✅ Відгуки ☎",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-basic-z-uteplenniam-chorni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Basic з утепленням чорні",
+      "source_url": "https://sklo-wear.com/shtany-basic-z-uteplenniam-chorni/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/31/1200x1500l95mc0/shtany-basic-z-uteplenniam-chorni-15279620362250.webp"
+      ],
+      "description": "Базові утеплені штани SKLO з вільною посадкою та прямим силуетом. Як і вся наша базова лінійка, ця модель - результат 4–5 років роботи над лекалами. Ми поступово допрацьовували посадку, ширину та пропорції, щоб штани комфортно сиділи й водночас зберігали правильний об’ємний силует. Головна деталь моделі - приховані еластичні фіксатори внизу штанин. Вони дозволяють самостійно регулювати ширину низу: залишити штани прямими та вільними або затягнути їх, створивши більш зібраний силует. Еластичний пояс зі шнурком дозволяє регулювати посадку на талії. Мінімалістичний дизайн доповнений невеликим фірмовим логотипом SKLO. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL доступні під індивідуальне замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-basic-z-uteplenniam-shokolad",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Basic з утепленням шоколад",
+      "source_url": "https://sklo-wear.com/shtany-basic-z-uteplenniam-shokolad/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/20/1200x1500l95mc0/shtany-basic-z-uteplenniam-shokolad-28224283507401.webp"
+      ],
+      "description": "【Штани Basic з утепленням шоколад】 — купити по найкращій ціні в інтернет магазині SKLO WEAR ✈ Доставка ✅ Відгуки ☎",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-2367",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти balance чорні",
+      "source_url": "https://sklo-wear.com/shorty-balance-chorni/2367/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1690,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/18/1200x1500l95mc0/59428783187251.webp"
+      ],
+      "description": "Трохи подовжений оверсайз крій формує чисту вертикаль і дає той самий \"зібраний\" силует, який зазвичай складно отримати у шортах. Вони не облягають і не провисають. Тканина: 70% бавовни, 30% поліестеру, який додає зносостійкості і стабільності форми. Пояс на резинці та із бавовням шнурком. Конструкція шортів йде без бокового шву, що дозволило отримати акуратний низ, який не стирчить по сторонам. Радимо обирати із нашими футболками. Заміри по готовому виробу: S/M Півпояс - 36 Довжина 53 Напівобхват стегна 34 L/XL Півпояс - 39 Довжина 55 Напівобхват стегна 36",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-sorochka-lliana-bezheva",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Сорочка лляна бежева",
+      "source_url": "https://sklo-wear.com/sorochka-lliana-bezheva/",
+      "gender": null,
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/11/1200x1500l95mc0/41520224933198.webp"
+      ],
+      "description": "Натуральний льон. Нуль домішок. Ця сорочка дихає краще, ніж ти після пробіжки. Oversize крій - свобода руху + вайб «нічого не сковує». Ідеальна для спекотних днів, коли хочеш виглядати effortlessly стильно. Носи розстібнуто поверх майки або соло - працює на всі 100. Розмір S/M Довжина: 75 см Пахви: 60 см Плечі: 49 см Рукав: 35 см Розмір L/XL Довжина: 76 см Пахви: 64 см Плечі: 52 см Рукав: 36 см",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-sorochka-lliana-chorna",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Сорочка лляна чорна",
+      "source_url": "https://sklo-wear.com/sorochka-lliana-chorna/",
+      "gender": null,
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/13/1200x1500l95mc0/78626724893601.webp"
+      ],
+      "description": "Натуральний льон. Нуль домішок. Ця сорочка дихає краще, ніж ти після пробіжки. Oversize крій - свобода руху + вайб «нічого не сковує». Ідеальна для спекотних днів, коли хочеш виглядати effortlessly стильно. Носи розстібнуто поверх майки або соло - працює на всі 100. Розмір S/M Довжина: 75 см Пахви: 60 см Плечі: 49 см Рукав: 35 см Розмір L/XL Довжина: 76 см Пахви: 64 см Плечі: 52 см Рукав: 36 см",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-shorty-lliani-blakytni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Шорти лляні блакитні",
+      "source_url": "https://sklo-wear.com/shorty-lliani-blakytni/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2290,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/5/1200x1500l95mc0/shorty-lliani-blakytni-54471029554159.webp"
+      ],
+      "description": "Натуральний льон. Нуль домішок. Ця сорочка дихає краще, ніж ти після пробіжки. Oversize крій - свобода руху + вайб «нічого не сковує». Ідеальна для спекотних днів, коли хочеш виглядати effortlessly стильно. Носи розстібнуто поверх майки або соло - працює на всі 100.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-khudi-tora-chornyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Худі TORA чорний",
+      "source_url": "https://sklo-wear.com/khudi-tora-chornyi/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/47/1200x1755l95mc0/khudi-tora-chornyi-81705317998563.webp"
+      ],
+      "description": "SKLO Tora — поєднання японської естетики, вінтажного характеру та енергії вуличної культури. Центральний елемент дизайну — тигр, що проходить крізь фірмовий логотип SKLO. У японській культурі тигр символізує силу, сміливість, рішучість та здатність долати перешкоди. Це символ внутрішньої впевненості. Сили, яку не обов'язково демонструвати, щоб її відчували. Японські символи під принтом та вогняні елементи на рукавах доповнюють композицію, поєднуючи східну естетику з характером сучасного streetwear. Особливу увагу приділено обробці тканини. Завдяки виварюванню худі набуває глибокого темно-синього відтінку з нерівномірними переходами кольору та природним вінтажним ефектом. Як завжди, 100% бавовна, 500 г/м щільності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-dzhynsy-behhi-vintazh",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Джинси беггі вінтаж",
+      "source_url": "https://sklo-wear.com/dzhynsy-behhi-vintazh/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3490,
+      "sale_price_uah": 2269,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/28/1200x1800l95mc0/dzhynsy-behhi-vintazh-21123607780566.webp"
+      ],
+      "description": "Топовий український денім повертається. Правильний жовтий відтінок із деніму 12.5 унцій, який чудово підходить на весну та літо, бо не є щільним. 100% бавовна. Виварена в Україні. Беггі крій, наш класичний силует. Фурнітура металева, блискавка ykk. Пояс із шнурком. Кишені зроблені із бавовняної підкладки. Розмір S Талія: 41 см Стегно: 35 см Довжина: 107 см Низ: 23 см Розмір M Талія: 43 см Стегно: 36 см Довжина: 108 см Низ: 23 см Розмір L Талія: 45 см Стегно: 37 см Довжина: 110 см Низ: 24 см Розмір XL Талія: 46 см Стегно: 38 см Довжина: 112 см Низ: 25 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-flow-z-uteplenniam-chervoni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани Flow з утепленням червоні",
+      "source_url": "https://sklo-wear.com/shtany-flow-z-uteplenniam-chervoni/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/35/1200x1500l95mc0/shtany-flow-z-uteplenniam-chervoni-81864680628017.webp"
+      ],
+      "description": "Широкі спортивні штани, у яких комфорт поєднується з актуальним силуетом. Модель має вільний прямий крій, еластичний пояс і бічні кишені. Контрастні лампаси вздовж штанин візуально витягують силует, а мінімалістичний логотип SKLO завершує дизайн. Штани виготовлені з нашої нової щільної тканини преміальної якості. Матеріал добре тримає форму, забезпечує комфорт під час щоденного носіння та має якісне внутрішнє утеплення, яке не залишає ворсинок на одязі. Завдяки широкому крою штани природно лягають на взуття та створюють розслаблений силует. Їх можна носити як частину спортивного комплекту або як самостійний елемент повсякденного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-shtany-flow-blakytni",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Штани flow блакитні",
+      "source_url": "https://sklo-wear.com/shtany-flow-blakytni/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": 1393,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/48/1200x1500l95mc0/shtany-flow-blakytni-67372000850520.webp"
+      ],
+      "description": "Жіночі штани із контрастним кантом. Оверсайз крою. Тканина легка приєніша до тіла тринитка. 70% бавовни, 30% поліестеру. Правильний силует із низьким шаговим швом. Присутні дві бічні кишені. Радимо обирати із зіпкою. Заміри по готовому виробу: XS/S пів обʼєм стегон 58 довжина 106 ширина знизу 26 M/L пів обʼєм стегон 62 довжина 110 ширина знизу 26",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-zip-basic-z-uteplenniam-hrafit",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Зіп Basic з утепленням графіт",
+      "source_url": "https://sklo-wear.com/zip-basic-z-uteplenniam-hrafit/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/40/1200x1500l95mc0/29000662899870.webp"
+      ],
+      "description": "Класична утеплена зіпка SKLO у вільному oversize-силуеті. Ця модель - частина нашої базової лінійки, яку ми випускаємо вже 4–5 років. За цей час ми постійно допрацьовували лекала, посадку та пропорції й сьогодні можемо впевнено сказати: ми довели їх до ідеалу. Об’ємний капюшон, повнорозмірна блискавка та мінімалістичний дизайн. Завдяки щільній тканині зіпка добре тримає форму та комфортно працює як самостійна річ або верхній шар. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-svitshot-zip-z-uteplenniam-shokolad",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Світшот зіп з утепленням шоколад",
+      "source_url": "https://sklo-wear.com/svitshot-zip-z-uteplenniam-shokolad/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/17/1200x1500l95mc0/svitshot-zip-z-uteplenniam-shokolad-99402192709171.webp"
+      ],
+      "description": "Мінімалістична версія нашої базової утепленої зіпки без капюшона. Вільна посадка, спущена лінія плеча та чистий силует без зайвих деталей. Повнорозмірна блискавка дозволяє носити її як самостійну річ або поєднувати з футболкою чи лонгслівом. Лекала базової лінійки SKLO ми вдосконалювали протягом 4–5 років, приділяючи особливу увагу посадці та правильним пропорціям oversize. Склад: 70% бавовна, 30% поліестер. Розміри XS та XXL можемо пошити індивідуально під замовлення.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-lonhsliv-european-nights-r10",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Лонгслів EUROPEAN NIGHTS R10",
+      "source_url": "https://sklo-wear.com/lonhsliv-european-nights-r10/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/39/1200x1500l95mc0/lonhsliv-european-nights-r10-34856551652987.webp"
+      ],
+      "description": "Лонгслів, присвячений Роналдіньо - футболісту, який перетворював великі європейські матчі на шоу. Його футбол запам’ятався не лише трофеями, а легкістю, технікою та абсолютною свободою на полі. У центрі дизайну - Роналдіньо та один із головних моментів його європейської кар’єри. Модель виконана з 100% бавовни щільністю 260 г/м². Вільний oversize-силует та ефект футболки поверх довгого рукава.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-lonhsliv-european-nights-cr7",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Лонгслів EUROPEAN NIGHTS CR7",
+      "source_url": "https://sklo-wear.com/lonhsliv-european-nights-cr7/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/37/1200x1500l95mc0/lonhsliv-european-nights-cr7-91918141818597.webp"
+      ],
+      "description": "Лонгслів, присвячений одному з головних героїв європейського футболу - Кріштіану Роналду. Дизайн відсилає до його найяскравіших європейських тріумфів та сезону, коли великі матчі стали його стихією. В основі принта - культовий образ Кріштіану з трофеєм та роки його перемог у Європі. Модель виконана з 100% бавовни щільністю 260 г/м². Вільний oversize-силует та ефект футболки поверх довгого рукава.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-lonh-balance-molochnyi",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Лонг Balance молочний",
+      "source_url": "https://sklo-wear.com/lonh-balance-molochnyi/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2290,
+      "sale_price_uah": 1374,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/23/1200x1500l95mc0/lonh-balance-molochnyi-57827849013602.webp"
+      ],
+      "description": "Лонг Balance. Ідеальне поєднання нових вайбів та зручної бази. Правильний силует. Тканина 100% бавовна, щільність 250 г/м. Фірмові логотипи колекції SS26 спереду та сзаду. Унісекс, підійде на будь-який тип фігури. Заміри по готовому виробу: S/M Плечі 53 Пахви 63 Довжина 69 Рукав від пахви 46 L/XL Плечі 56 Пахви 67 Довжина 74 Рукав від пахви 50",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-lonhsliv-european-nights-k22",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Лонгслів EUROPEAN NIGHTS K22",
+      "source_url": "https://sklo-wear.com/lonhsliv-european-nights-k22/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/41/1200x1500l95mc0/lonhsliv-european-nights-k22-88733008226698.webp"
+      ],
+      "description": "Лонгслів, присвячений Кака та одному з найсильніших періодів у його кар’єрі. 2007-й став його роком у європейському футболі: великі матчі, вирішальні моменти та головний клубний трофей Європи. Саме ця історія стала основою дизайну EUROPEAN NIGHTS KAKÁ. Модель виконана з 100% бавовни щільністю 260 г/м². Вільний oversize-силует та ефект футболки поверх довгого рукава.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-futbolka-washed-odesa-city",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Футболка washed Odesa city",
+      "source_url": "https://sklo-wear.com/futbolka-washed-odesa-city/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/43/1200x1800l95mc0/futbolka-washed-odesa-city-59550022483737.webp"
+      ],
+      "description": "Атмосфера легендарної GTA Vice City в авторській інтерпретації SKLO. Натхненна естетикою нічного міста, неоновими кольорами та вайбом 2000-х, ця футболка поєднує ностальгію з характером рідної Одеси. Модель виконана зі 100% бавовни щільністю 260 г/м² після виварювання. Спеціальна обробка створює вінтажний, злегка вицвілий відтінок та характерний distressed-ефект, завдяки якому кожна футболка має особливу фактуру. Вільний oversize-крій зі спущеною лінією плечей забезпечує комфорт і формує розслаблений streetwear-силует. Головний акцент — авторський принт SKLO Odesa City на спині з пальмами, неоновою графікою та атмосферою Vice City. Спереду — компактний фірмовий принт у тій самій стилістиці.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-futbolka-oversaiz-molochna",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Футболка оверсайз молочна",
+      "source_url": "https://sklo-wear.com/futbolka-oversaiz-molochna/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/14/1161x1800l95mc0/53569459049158.webp"
+      ],
+      "description": "Футболка оверсайз крою. Молочний колір, щільний кулір 260 г\\м. 100% бавовна, гарно тримає форму. Комір із еластичної рібани. Стане якісною базою для створення ваших повсякденних образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-lonh-odesa-city",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Лонг Odesa City",
+      "source_url": "https://sklo-wear.com/lonh-odesa-city/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sklo-wear.com/content/images/13/1200x1500l95mc0/lonh-odesa-city-69501478717017.webp"
+      ],
+      "description": "Цей лонг - наша історія про ностальгію. Ми виросли в той час, коли Vice City була не просто грою. Для багатьох із нас це один із найтепліших спогадів дитинства: рожево-фіолетові неони, пальми, захід сонця, нічне місто, музика з радіостанцій і нескінченні години перед комп’ютером. Вихід GTA VI повератє нас у цю атмосферу. І ми вирішили переосмислити її по-своєму - через SKLO та рідну Одесу. Так з’явився Odesa City - лонг, у якому естетика сонячного Vice City зустрічається з містом, у якому ми живемо та створюємо SKLO. Ті самі неонові відтінки, рожево-фіолетова палітра та вайб узбережжя, але вже з нашим характером. Модель виконана у фірмовому oversize-силуеті з ефектом багатошаровості: футболка з коротким рукавом візуально накладена на довгий рукав. Великий принт SKLO Odesa розташований на грудях, а додаткові графічні елементи - вздовж рукавів. Матеріал, як завжди 100% бавовна. Щільність - 260 г/м.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-sorochka-lliana-blakytna",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Сорочка лляна блакитна",
+      "source_url": "https://sklo-wear.com/sorochka-lliana-blakytna/",
+      "gender": null,
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": 1890,
+      "in_stock": false,
+      "photos": [
+        "https://sklo-wear.com/content/images/3/1200x1500l95mc0/78856818255829.webp"
+      ],
+      "description": "Натуральний льон. Нуль домішок. Ця сорочка дихає краще, ніж ти після пробіжки. Oversize крій - свобода руху + вайб «нічого не сковує». Ідеальна для спекотних днів, коли хочеш виглядати effortlessly стильно. Носи розстібнуто поверх майки або соло - працює на всі 100.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "sklo-futbolka-end-of-era-cr7",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Футболка \"End of era\" CR7",
+      "source_url": "https://sklo-wear.com/futbolka-end-of-era-cr7/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": 1592,
+      "in_stock": false,
+      "photos": [
+        "https://sklo-wear.com/content/images/25/1013x1800l95mc0/futbolka-end-of-era-cr7-36404732257446.webp"
+      ],
+      "description": "Є моменти, які завершують цілу епоху. Футболка END OF THE ERA присвята одному з найвидатніших футболістів сучасності та шляху, який тривав два десятиліття. На спині присутній авторський принт із усіма зіграними ЧС та написом ONE LAST DANCE, що символізує останній розділ легендарної історії. Спереду мінімалістичний принт, який залишає головний акцент саме на великій графіці зі спини. Виготовлена зі щільної преміальної бавовни, футболка має вільний oversize крій, спущене плече та комфортну посадку, яка не втрачає форму навіть після численних прань.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sklo-futbolka-end-of-era-m10",
+      "brand": "SKLO",
+      "brand_id": "sklo",
+      "name": "Футболка \"End of era\" M10",
+      "source_url": "https://sklo-wear.com/futbolka-end-of-era-m10/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1990,
+      "sale_price_uah": 1592,
+      "in_stock": false,
+      "photos": [
+        "https://sklo-wear.com/content/images/28/1200x1500l95mc0/futbolka-end-of-era-m10-57039888377056.webp"
+      ],
+      "description": "Є моменти, які завершують цілу епоху. Футболка END OF THE ERA присвята одному з найвидатніших футболістів сучасності та шляху, який тривав два десятиліття. На спині присутній авторський принт із усіма зіграними ЧС та написом ONE LAST DANCE, що символізує останній розділ легендарної історії. Спереду мінімалістичний принт, який залишає головний акцент саме на великій графіці зі спини. Виготовлена зі щільної преміальної бавовни, футболка має вільний oversize крій, спущене плече та комфортну посадку, яка не втрачає форму навіть після численних прань.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

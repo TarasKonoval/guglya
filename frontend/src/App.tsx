@@ -1,7 +1,8 @@
 import { useCallback, useEffect, useState } from "react";
+import { setAdmin } from "./lib/admin";
 import { Link, Navigate, Route, Routes } from "react-router-dom";
 import { Hub } from "aws-amplify/utils";
-import { fetchAuthSession, signOut } from "aws-amplify/auth";
+import { fetchAuthSession } from "aws-amplify/auth";
 import { api, DONATE_URL, donate, track } from "./lib/api";
 import { initFeedbackPrompt, markPrompted } from "./lib/feedback";
 import LandingPage from "./pages/LandingPage";
@@ -9,9 +10,13 @@ import AuthPage from "./pages/AuthPage";
 import FeedPage from "./pages/FeedPage";
 import OutfitPage from "./pages/OutfitPage";
 import SavedPage from "./pages/SavedPage";
+import ProfilePage from "./pages/ProfilePage";
+import CartPage from "./pages/CartPage";
+import AdminPage from "./pages/AdminPage";
 import DemoProductPage from "./pages/DemoProductPage";
 import FeedbackModal from "./components/FeedbackModal";
-import { ChatIcon, HeartIcon, MenuIcon } from "./components/Icons";
+import { BagIcon, ChatIcon, HeartIcon, UserIcon } from "./components/Icons";
+import { loadCart, useCart } from "./lib/cart";
 
 type User = { email: string } | null;
 type Me = { id: string; email: string; feedback_prompted: boolean };
@@ -19,12 +24,13 @@ type Me = { id: string; email: string; feedback_prompted: boolean };
 export default function App() {
   const [user, setUser] = useState<User | undefined>(undefined);
   const [feedback, setFeedback] = useState<null | "manual" | "auto">(null);
-  const [menuOpen, setMenuOpen] = useState(false);
+  const cart = useCart();
 
   useEffect(() => {
     const refresh = async () => {
       try {
         const idToken = (await fetchAuthSession()).tokens?.idToken;
+        setAdmin(((idToken?.payload["cognito:groups"] as string[] | undefined) ?? []).includes("admins"));
         setUser(idToken ? { email: String(idToken.payload.email ?? "") } : null);
       } catch {
         setUser(null);
@@ -43,6 +49,7 @@ export default function App() {
   // /me registers the user in our database and tells us whether we already asked for feedback.
   useEffect(() => {
     if (!user) return;
+    loadCart();
     api<Me>("/me")
       .then((me) => initFeedbackPrompt(me.id, me.feedback_prompted, () => openFeedback("auto")))
       .catch(() => {});
@@ -67,33 +74,25 @@ export default function App() {
         <nav className="topnav">
           {DONATE_URL && <button className="pill hide-xs" onClick={donate}>Підтримати збір</button>}
           <Link to="/saved" className="iconbtn" aria-label="Збережені"><HeartIcon /></Link>
-          <button className="iconbtn" aria-label="Меню" aria-expanded={menuOpen} onClick={() => setMenuOpen(!menuOpen)}>
-            <MenuIcon />
-          </button>
+          <Link to="/profile" className="iconbtn" aria-label="Профіль"><UserIcon /></Link>
+          <Link to="/cart" className="iconbtn cart-btn" aria-label={`Кошик${cart.length ? `, ${cart.length} шт.` : ""}`}>
+            <BagIcon />
+            {cart.length > 0 && <span className="cart-count" aria-hidden>{cart.length}</span>}
+          </Link>
         </nav>
-        {menuOpen && (
-          <>
-            <div className="menu-backdrop" onClick={() => setMenuOpen(false)} />
-            <div className="menu" onClick={() => setMenuOpen(false)}>
-              <div className="menu-email">{user.email}</div>
-              <Link to="/">Образи на осінь</Link>
-              <Link to="/saved">Збережені</Link>
-              <button onClick={() => openFeedback("manual")}>Залишити відгук</button>
-              {DONATE_URL && <button onClick={donate}>Підтримати збір ♥</button>}
-              <button onClick={() => signOut()}>Вийти</button>
-            </div>
-          </>
-        )}
       </header>
       <Routes>
         <Route path="/" element={<FeedPage onFeedback={() => openFeedback("manual")} />} />
         <Route path="/outfit/:id" element={<OutfitPage />} />
         <Route path="/saved" element={<SavedPage />} />
+        <Route path="/profile" element={<ProfilePage onFeedback={() => openFeedback("manual")} />} />
+        <Route path="/cart" element={<CartPage />} />
+        <Route path="/admin" element={<AdminPage />} />
         <Route path="/demo/:productId" element={<DemoProductPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <footer className="footer">
-        Ґуґля — студентський проєкт, 2026. Демо-каталог: бренди й товари вигадані, ілюстрації наші.
+        Ґуґля — студентський проєкт, 2026. Речі та фото — від українських брендів, купівля на їхніх сайтах.
       </footer>
       <button className="fab" aria-label="Відгук" onClick={() => openFeedback("manual")}><ChatIcon /> <span className="fab-label">Відгук</span></button>
       {feedback && <FeedbackModal auto={feedback === "auto"} onClose={() => setFeedback(null)} />}

@@ -6,7 +6,9 @@ Usage (from repo root):
   python backend/ml/import_catalog.py --purge-demo                                  # hide all demo data
 
 CSV columns: brand, brand_site, title, category, color, price_uah, image_url, product_url, in_stock
-Outfits JSON: [{title, season, cover_image_url, style_tag, items: {slot: product_url}}]; hat is optional.
+Outfits JSON: [{title, season, gender, cover_image_url, style_tag, items: {slot: product_url}}]; hat is optional,
+gender is women | men | unisex | couple (default women). A couple outfit has "looks": [{slot: url}, {slot: url}]
+(two complete looks) instead of "items".
 Demo products use product_url "/demo/<uuid>" and get that uuid as their id, so links stay stable.
 --purge-demo unpublishes demo outfits and marks demo products out of stock instead of deleting them,
 so clicks/events collected on the demo stay available for the report.
@@ -56,22 +58,25 @@ def import_outfits(conn, outfits_json: str) -> None:
         outfits = json.load(f)
     for order, o in enumerate(outfits):
         oid = conn.execute(
-            """insert into outfits (title, season, cover_image_url, style_tag, sort_order, is_published)
-               values (%s, %s, %s, %s, %s, true)
-               on conflict (title) do update set season = excluded.season, cover_image_url = excluded.cover_image_url,
-                 style_tag = excluded.style_tag, sort_order = excluded.sort_order, is_published = true
+            """insert into outfits (title, season, gender, cover_image_url, style_tag, sort_order, is_published)
+               values (%s, %s, %s, %s, %s, %s, true)
+               on conflict (title) do update set season = excluded.season, gender = excluded.gender,
+                 cover_image_url = excluded.cover_image_url, style_tag = excluded.style_tag,
+                 sort_order = excluded.sort_order, is_published = true
                returning id""",
-            (o["title"], o.get("season", "autumn"), o.get("cover_image_url"), o.get("style_tag"), order),
+            (o["title"], o.get("season", "autumn"), o.get("gender", "women"), o.get("cover_image_url"),
+             o.get("style_tag"), order),
         ).fetchone()[0]
         conn.execute("delete from outfit_items where outfit_id = %s", (oid,))
-        for slot, url in o["items"].items():
-            n = conn.execute(
-                """insert into outfit_items (outfit_id, slot, product_id)
-                   select %s, %s, id from products where product_url = %s""",
-                (oid, slot, url),
-            ).rowcount
-            if not n:
-                raise SystemExit(f"Outfit {o['title']!r}: no product with product_url {url}")
+        for person, items in enumerate(o.get("looks") or [o["items"]], 1):
+            for slot, url in items.items():
+                n = conn.execute(
+                    """insert into outfit_items (outfit_id, person, slot, product_id)
+                       select %s, %s, %s, id from products where product_url = %s""",
+                    (oid, person, slot, url),
+                ).rowcount
+                if not n:
+                    raise SystemExit(f"Outfit {o['title']!r}: no product with product_url {url}")
 
 
 def main() -> None:

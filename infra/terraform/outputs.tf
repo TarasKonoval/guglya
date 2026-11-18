@@ -64,3 +64,15 @@ output "name_servers" {
 output "site_url" {
   value = local.domain_active ? "https://${var.domain_name}" : "https://${aws_cloudfront_distribution.frontend.domain_name}"
 }
+
+output "agent_url" {
+  value = aws_lambda_function_url.agent.function_url
+}
+
+output "agent_ecr_repository_url" {
+  value = aws_ecr_repository.agent.repository_url
+}
+
+output "agent_function_name" {
+  value = aws_lambda_function.agent.function_name
+}

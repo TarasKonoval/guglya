@@ -1,0 +1,4320 @@
+{
+  "_meta": {
+    "brand": "OKOLO",
+    "brand_id": "okolo",
+    "site": "https://okolo-ua.com",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 133,
+    "found": 133,
+    "candidates": 133,
+    "checked": 133,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "okolo-kurtka-base-svitlo-sira",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Куртка Base - світло сіра",
+      "source_url": "https://okolo-ua.com/products/kurtka-base-svitlo-sira",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_5052.jpg?v=1794511692",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_5083.jpg?v=1794511692",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_5071.jpg?v=1794511692"
+      ],
+      "description": "Тепла об’ємна куртка з комфортною посадкою. • Вільний крій • Об’ємний капюшон • Застібка на блискавку • Бічні кишені • Теплий наповнювач Підходить для повсякденного носіння в холодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-shkirianyi-bomber-custom-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шкіряний бомбер Custom у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/shkirianyi-bomber-custom-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/cbcf88da8c3fd046c9c6.jpg?v=1787223688",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6318.heic?v=1789556190",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6319.heic?v=1789556191"
+      ],
+      "description": "Стильний бомбер із гладкого матеріалу зі шкіряним ефектом. • Вільний крій • Застібка на блискавку • Бокові кишені • Відкладний комір • М’який та щільний матеріал Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-chornyi-zamshevyi-bomber",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Чорний замшевий бомбер",
+      "source_url": "https://okolo-ua.com/products/chornyi-zamshevyi-bomber",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1390,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/d0ce35d9a56073002d84.jpg?v=1787223719",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-01-35.jpg?v=1787594658",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-01-10.jpg?v=1787594657"
+      ],
+      "description": "Стильний бомбер із приємного на дотик замшевого матеріалу. • Вільний крій • Застібка на блискавку • Нагрудні кишені • Еластичні манжети та низ • М’який замшевий матеріал Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-synii-zamshevyi-bomber",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Синій замшевий бомбер",
+      "source_url": "https://okolo-ua.com/products/synii-zamshevyi-bomber",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1390,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/57971d05938cb37f49b1.jpg?v=1787223717",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-01-12.jpg?v=1787594706",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-01-13.jpg?v=1787594707"
+      ],
+      "description": "Стильний бомбер із приємного на дотик замшевого матеріалу. • Вільний крій • Застібка на блискавку • Нагрудні кишені • Еластичні манжети та низ • М’який замшевий матеріал Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-zymovyi-oversaiz-pukhovyk-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Зимовий оверсайз пуховик у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/zymovyi-oversaiz-pukhovyk-u-siromu-kolori",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2990,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/c967176e44001ac1db27.jpg?v=1787223709",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2247_4.jpg?v=1787593937",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2248_4.jpg?v=1787593940"
+      ],
+      "description": "Тепла об’ємна куртка з фактурної жатої тканини. • Вільний крій • Високий комір • Бічні кишені • Фактурний матеріал • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-zymovyi-oversaiz-pukhovyk-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Зимовий оверсайз пуховик у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/zymovyi-oversaiz-pukhovyk-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2990,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/f9e382e56af7aff527a4.jpg?v=1787223708",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2255_4.jpg?v=1787594038",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/MKD_8315.jpg?v=1787594025"
+      ],
+      "description": "Тепла об’ємна куртка з фактурної жатої тканини. • Вільний крій • Високий комір • Бічні кишені • Фактурний матеріал • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kurtka-base-chorna",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Куртка Base - чорна",
+      "source_url": "https://okolo-ua.com/products/kurtka-base-chorna",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3f69176f45c16bbb4429.jpg?v=1787223703",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3201.jpg?v=1787594290",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3200.jpg?v=1787594289"
+      ],
+      "description": "Тепла об’ємна куртка з комфортною посадкою. • Вільний крій • Об’ємний капюшон • Застібка на блискавку • Бічні кишені • Теплий наповнювач Підходить для повсякденного носіння в холодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kurtka-base-sira",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Куртка Base - сіра",
+      "source_url": "https://okolo-ua.com/products/kurtka-base-sira",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/82136558b22ffe786fd4.jpg?v=1787223702",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3195.jpg?v=1787594342",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3196.jpg?v=1787594343"
+      ],
+      "description": "Тепла об’ємна куртка з комфортною посадкою. • Вільний крій • Об’ємний капюшон • Застібка на блискавку • Бічні кишені • Теплий наповнювач Підходить для повсякденного носіння в холодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-chornyi-polarovyi-kostium",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Чорний поларовий костюм",
+      "source_url": "https://okolo-ua.com/products/chornyi-polarovyi-kostium",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-11-15_12-38-26.jpg?v=1794739131",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-11-15_12-38-23_2.jpg?v=1794739131",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/54f1f2b01f6f46e1df46.jpg?v=1787223714"
+      ],
+      "description": "Теплий комплект із матеріалу полар. • Кофта з коміром-стійкою • Застібка на блискавку 1/4 • Вільний крій • Штани на резинці зі шнурком • Бічні кишені • Регулювання низу кофти та штанів • Матеріал — полар Підійде для прохолодної погоди та повсякденного носіння.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-svetr-ted-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр TED у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/svetr-ted-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1849,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4537_3_6fec3dc3-b328-43ad-bf2a-165ba63bca00.jpg?v=1794162274",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4560_3.jpg?v=1794162274",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4565_6_1c5fea15-8ce3-4379-8b76-aec59bfda493.jpg?v=1794162274"
+      ],
+      "description": "Бавовняний светр TED із фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Доступний у двох кольорах Для повсякденних образів із джинсами та брюками.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-svetr-ted-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр TED у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/svetr-ted-u-siromu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1849,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4485.jpg?v=1794161637",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4793.jpg?v=1794161637",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4473.jpg?v=1794161637"
+      ],
+      "description": "Бавовняний светр TED із фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Доступний у двох кольорах Для повсякденних образів із джинсами та брюками.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-balloon-syni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BALLOОN сині",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-balloon-syni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/a40a34e2365c7fbff777.jpg?v=1787223777",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4726.heic?v=1787334419",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4728.heic?v=1787334419"
+      ],
+      "description": "Джинси вільного крою з характерним об’ємним силуетом Balloon. Розширена форма в зоні стегон і штанин створює виразну посадку, а щільний денім добре тримає форму. • Крій Balloon • Об’ємний силует • Комфортна вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-viazanyi-svetr-u-korychnevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "В’язаний светр у коричневому кольорі",
+      "source_url": "https://okolo-ua.com/products/viazanyi-svetr-u-korychnevomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1649,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3754.jpg?v=1790843491",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3757.jpg?v=1790843491",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3756.jpg?v=1790843491"
+      ],
+      "description": "В’язаний светр вільного крою з фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Невелика вишивка на грудях Підходить для повсякденних образів та поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-viazanyi-svetr-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "В’язаний светр у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/viazanyi-svetr-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1649,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3748_2.jpg?v=1790843398",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3746.jpg?v=1790843398",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3747.jpg?v=1790843398"
+      ],
+      "description": "В’язаний светр вільного крою з фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Невелика вишивка на грудях Підходить для повсякденних образів та поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-viazanyi-svetr-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "В’язаний светр у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/viazanyi-svetr-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1649,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3735_2.jpg?v=1790843287",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3736.jpg?v=1790843287",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3618.jpg?v=1790843287"
+      ],
+      "description": "В’язаний светр вільного крою з фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Невелика вишивка на грудях Підходить для повсякденних образів та поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-viazanyi-svetr-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "В’язаний светр у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/viazanyi-svetr-u-siromu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1649,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3722.jpg?v=1790842229",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3729.jpg?v=1790842229",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3592_2.jpg?v=1790842229"
+      ],
+      "description": "В’язаний светр вільного крою з фактурною в’язкою. • Вільний крій • Кругла горловина • Манжети та низ у резинку • Невелика вишивка на грудях Підходить для повсякденних образів та поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-teplyi-sportyvnyi-kostium-u-kolori-melanzh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Теплий спортивний костюм у кольорі меланж",
+      "source_url": "https://okolo-ua.com/products/teplyi-sportyvnyi-kostium-u-kolori-melanzh",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Спортивний костюм",
+      "slot": "top",
+      "colors": [
+        "меланж"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 2390,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3328_2_92e09690-97e0-45b4-a709-4f6aad7bd9a7.jpg?v=1790013899",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3327_2_a5cdf22d-b8d0-4c67-8c92-5398721f8a2f.jpg?v=1790013899"
+      ],
+      "description": "Теплий костюм вільного силуету, що складається із худі та широких штанів. — тепла та приємна тканина — комфортна вільна посадка — зручний капюшон — функціональні кишені спереду та позаду — штани широкого крою — еластичний пояс — мінімалістичний однотонний дизайн Зручний базовий костюм для прохолодної погоди та повсякденних образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-teplyi-sportyvnyi-kostium-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Теплий спортивний костюм у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/teplyi-sportyvnyi-kostium-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Спортивний костюм",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 2390,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3362_2.jpg?v=1790013195",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3363_2.jpg?v=1790013195",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3367_2.jpg?v=1790013195"
+      ],
+      "description": "Теплий костюм вільного силуету, що складається із худі та широких штанів. — тепла та приємна тканина — комфортна вільна посадка — зручний капюшон — функціональні кишені спереду та позаду — штани широкого крою — еластичний пояс — мінімалістичний однотонний дизайн Зручний базовий костюм для прохолодної погоди та повсякденних образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-klitynka-korychneva",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка клітинка коричнева",
+      "source_url": "https://okolo-ua.com/products/sorochka-klitynka-korychneva",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3116.heic?v=1789943175",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3119.heic?v=1789943175",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/80fdcbb0b01557446de7.jpg?v=1787223733"
+      ],
+      "description": "Сорочка вільного крою з приємної та щільної тканини. • Вільний крій • Застібка на ґудзики • Довгий рукав • Класичний комір Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-swetr-z-vyazky-u-korychnevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр з вязки у коричневому кольорі",
+      "source_url": "https://okolo-ua.com/products/swetr-z-vyazky-u-korychnevomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3159.jpg?v=1789481550",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3160.jpg?v=1789481551",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3157.jpg?v=1789481550"
+      ],
+      "description": "В’язаний светр із коміром-стійкою та блискавкою 1/4. • Вільний крій • Комір на блискавці • Довгий рукав • Манжети на рукавах і по низу • Однотонний дизайн Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-swetr-z-vyazky-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр з вязки у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/swetr-z-vyazky-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3173.jpg?v=1789481742",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3171.jpg?v=1789481742",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3172.jpg?v=1789481742"
+      ],
+      "description": "В’язаний светр із коміром-стійкою та блискавкою 1/4. • Вільний крій • Комір на блискавці • Довгий рукав • Манжети на рукавах і по низу • Однотонний дизайн Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-swetr-z-vyazky-u-molochnomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр з вязки у молочному кольорі",
+      "source_url": "https://okolo-ua.com/products/swetr-z-vyazky-u-molochnomu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3143.jpg?v=1789481818",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3146.jpg?v=1789481819",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3145.jpg?v=1789481819"
+      ],
+      "description": "В’язаний светр із коміром-стійкою та блискавкою 1/4. • Вільний крій • Комір на блискавці • Довгий рукав • Манжети на рукавах і по низу • Однотонний дизайн Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-swetr-z-vyazky-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Светр з вязки у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/swetr-z-vyazky-u-siromu-kolori",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3139.jpg?v=1789481875",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3138.jpg?v=1789481875",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3140_2.jpg?v=1789481875"
+      ],
+      "description": "В’язаний светр із коміром-стійкою та блискавкою 1/4. • Вільний крій • Комір на блискавці • Довгий рукав • Манжети на рукавах і по низу • Однотонний дизайн Підходить для повсякденних образів у прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-briuky-koton-chorni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки котон чорні",
+      "source_url": "https://okolo-ua.com/products/briuky-koton-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3188_9a4c7c22-3531-441e-87ae-22343eef03eb.jpg?v=1789480259",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3187_9065b1cc-dbf1-4115-a8b1-d09e67db43b3.jpg?v=1789480259"
+      ],
+      "description": "• Натуральний матеріал — 100% котон • Комфортна посадка • Вільні в стегнах • Зручні бічні кишені • Шльовки для ременя Легко поєднуються з футболками, сорочками, світшотами та верхнім одягом.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-briuky-koton-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки котон беж",
+      "source_url": "https://okolo-ua.com/products/briuky-koton-bezh",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3205_2.jpg?v=1789480217",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3206_2.jpg?v=1789480217"
+      ],
+      "description": "• Натуральний матеріал — 100% котон • Комфортна посадка • Вільні в стегнах • Зручні бічні кишені • Шльовки для ременя Легко поєднуються з футболками, сорочками, світшотами та верхнім одягом.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-kent-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Kent у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-kent-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3226.jpg?v=1789479494",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3230_2.jpg?v=1789479494",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3225_2.jpg?v=1789479495"
+      ],
+      "description": "Стильний чоловічий костюм у мінімалістичному дизайні та комфортній посадці. • Вільний крій • Верх на ґудзиках • Бічні кишені • Штани з комфортною посадкою • Лаконічний дизайн Підходить для повсякденних образів, прогулянок та casual-стилю.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-kent-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Kent у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-kent-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3210_2.jpg?v=1789479561",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-09-15_16-09-59.jpg?v=1789478102",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3211_2.jpg?v=1789479561"
+      ],
+      "description": "Стильний чоловічий костюм у мінімалістичному дизайні та комфортній посадці. • Вільний крій • Верх на ґудзиках • Бічні кишені • Штани з комфортною посадкою • Лаконічний дизайн Підходить для повсякденних образів, прогулянок та casual-стилю.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-flisova-kofta-u-grafitovomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Флісова кофта у графітовому кольорі",
+      "source_url": "https://okolo-ua.com/products/flisova-kofta-u-grafitovomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-45_2.jpg?v=1787598131",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-48.jpg?v=1787598132",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-47_2.jpg?v=1787598132"
+      ],
+      "description": "Тепла флісова кофта з функціональними деталями та комфортною посадкою. • Вільний крій • Високий комір з капюшоном • Застібка на блискавку • Кишені на блискавках • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-flisova-kofta-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Флісова кофта у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/flisova-kofta-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-39.jpg?v=1787598056",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-42_2.jpg?v=1787598056",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-24-42.jpg?v=1787598056"
+      ],
+      "description": "Тепла флісова кофта з функціональними деталями та комфортною посадкою. • Вільний крій • Високий комір з капюшоном • Застібка на блискавку • Кишені на блискавках • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-flisova-kofta-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Флісова кофта у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/flisova-kofta-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-14.jpg?v=1787597948",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-15.jpg?v=1787597948",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-13.jpg?v=1787597948"
+      ],
+      "description": "Тепла флісова кофта з функціональними деталями та комфортною посадкою. • Вільний крій • Високий комір з капюшоном • Застібка на блискавку • Кишені на блискавках • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-flisova-kofta-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Флісова кофта у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/flisova-kofta-u-siromu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-26_6d6add26-0249-433a-8518-2a5b70507004.jpg?v=1787597553",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-35_dbdc97fe-21d8-481d-bcfc-cce027499baf.jpg?v=1787597553",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-24_21-25-34_031aed99-95b7-4cb1-a039-98c3b125d5f1.jpg?v=1787597553"
+      ],
+      "description": "Тепла флісова кофта з функціональними деталями та комфортною посадкою. • Вільний крій • Високий комір з капюшоном • Застібка на блискавку • Кишені на блискавках • Фіксатори для регулювання низу Підходить для повсякденного носіння в прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-mom-svitlo-siri",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси MOM світло - сірі",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-mom-svitlo-siri",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1599,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3945_6.jpg?v=1791056524",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3944_7.jpg?v=1791056524",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3947_3.jpg?v=1791056525"
+      ],
+      "description": "Універсальні джинси вільного крою з комфортною посадкою. Щільний денім добре тримає форму, а продуманий силует забезпечує свободу рухів і легко вписується у повсякденні образи. • Вільний крій • Комфортна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Універсальний дизайн на кожен день",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-mom-chorni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси MOM чорні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-mom-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1599,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3962_3.jpg?v=1791056366",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3961_3.jpg?v=1791056366",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3956_3.jpg?v=1791056366"
+      ],
+      "description": "Універсальні джинси вільного крою з комфортною посадкою. Щільний денім добре тримає форму, а продуманий силует забезпечує свободу рухів і легко вписується у повсякденні образи. • Вільний крій • Комфортна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Універсальний дизайн на кожен день",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-mom-u-blakytnomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси MOM у блакитному кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-mom-u-blakytnomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1599,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4784.jpg?v=1794511407",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4783.jpg?v=1794511407",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4785.jpg?v=1794511407"
+      ],
+      "description": "Універсальні джинси вільного крою з комфортною посадкою. Щільний денім добре тримає форму, а продуманий силует забезпечує свободу рухів і легко вписується у повсякденні образи. • Вільний крій • Комфортна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Універсальний дизайн на кожен день",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-baggy-blakytni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BAGGY блакитні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-baggy-blakytni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/5b8b905031e5a49b692f.jpg?v=1787223784",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_1308.heic?v=1787331644",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_1313.heic?v=1787331644"
+      ],
+      "description": "Джинси широкого крою з вільною посадкою та вираженим силуетом. Щільний денім добре тримає форму, а широкий крій забезпечує комфорт і створює актуальний об’ємний силует. • Широкий крій • Вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Актуальний оверсайз -силует",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-baggy-ciri",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BAGGY cірі",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-baggy-ciri",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3656faaab4dce1ab610d.jpg?v=1787223783",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0946.heic?v=1787330084",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0950.heic?v=1787330085"
+      ],
+      "description": "Джинси широкого крою з вільною посадкою та вираженим силуетом. Щільний денім добре тримає форму, а широкий крій забезпечує комфорт і створює актуальний об’ємний силует. • Широкий крій • Вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Актуальний оверсайз -силует",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-balloon-svitlo-blakytni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BALLOОN світло блакитні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-balloon-svitlo-blakytni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/464e9a73697fc674f296.jpg?v=1787223781",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0973.heic?v=1787333709",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0991.heic?v=1787333709"
+      ],
+      "description": "Джинси вільного крою з характерним об’ємним силуетом Balloon. Розширена форма в зоні стегон і штанин створює виразну посадку, а щільний денім добре тримає форму. • Крій Balloon • Об’ємний силует • Комфортна вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-balloon-hrafit",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BALLOОN графіт",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-balloon-hrafit",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3927.jpg?v=1791056858",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3914.jpg?v=1791056854",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/97546843c63076597d80.jpg?v=1787223780"
+      ],
+      "description": "Джинси вільного крою з характерним об’ємним силуетом Balloon. Розширена форма в зоні стегон і штанин створює виразну посадку, а щільний денім добре тримає форму. • Крій Balloon • Об’ємний силует • Комфортна вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-jate-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка JATE у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/sorochka-jate-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/bd7701224b28129aa9b7.jpg?v=1787223779",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85863.jpg?v=1787592970",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85864.jpg?v=1787592969"
+      ],
+      "description": "Легка сорочка з фактурної тканини у бежевому кольорі. • Вільний крій • Короткий рукав • Застібка на ґудзики • Фактурний матеріал • Легка та приємна до тіла тканина Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-jate-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка JATE у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/sorochka-jate-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/9ec2298402ce68f7ec24.jpg?v=1787223776",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85839.jpg?v=1787593059",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85842.jpg?v=1787593058"
+      ],
+      "description": "Легка сорочка з фактурної тканини у бежевому кольорі. • Вільний крій • Короткий рукав • Застібка на ґудзики • Фактурний матеріал • Легка та приємна до тіла тканина Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-jate-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка JATE у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/sorochka-jate-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/644b96ae404db902884d.jpg?v=1787223775",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85905.jpg?v=1787593113",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85921.jpg?v=1787593114"
+      ],
+      "description": "Легка сорочка з фактурної тканини у бежевому кольорі. • Вільний крій • Короткий рукав • Застібка на ґудзики • Фактурний матеріал • Легка та приємна до тіла тканина Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shtany-lliani-jate-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штани лляні JATE у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/shtany-lliani-jate-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1350,
+      "sale_price_uah": 750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/72f4228223f187778c26.jpg?v=1787223772",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85873.jpg?v=1787409667",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85874.jpg?v=1787409665"
+      ],
+      "description": "Штани вільного крою з фактурної лляної тканини. — вільна посадка — фактурна тканина — еластичний пояс зі шнурком — бічні кишені — прямий крій — однотонний дизайн Легка базова модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-mom-blakytni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси MOM блакитні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-mom-blakytni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1599,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/6ebad27d970ce0b48798.jpg?v=1787223771"
+      ],
+      "description": "Універсальні джинси вільного крою з комфортною посадкою. Щільний денім добре тримає форму, а продуманий силует забезпечує свободу рухів і легко вписується у повсякденні образи. • Вільний крій • Комфортна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Універсальний дизайн на кожен день",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shtany-lliani-jate-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штани лляні JATE у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/shtany-lliani-jate-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1350,
+      "sale_price_uah": 750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/75ff9e8b813ff83f41c0.jpg?v=1787223769",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85855.jpg?v=1787409784",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85857.jpg?v=1787409783"
+      ],
+      "description": "Штани вільного крою з фактурної лляної тканини. — вільна посадка — фактурна тканина — еластичний пояс зі шнурком — бічні кишені — прямий крій — однотонний дизайн Легка базова модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-mom-syni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси MOM сині",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-mom-syni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1599,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4763.jpg?v=1794511300",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4760.jpg?v=1794511301",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4761.jpg?v=1794511301"
+      ],
+      "description": "Універсальні джинси вільного крою з комфортною посадкою. Щільний денім добре тримає форму, а продуманий силует забезпечує свободу рухів і легко вписується у повсякденні образи. • Вільний крій • Комфортна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Універсальний дизайн на кожен день",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-shtany-lliani-jate-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штани лляні JATE у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/shtany-lliani-jate-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1350,
+      "sale_price_uah": 750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/5122f9ae72a68fc8099c.jpg?v=1787223767",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85918.jpg?v=1787409838",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85917.jpg?v=1787409838"
+      ],
+      "description": "Штани вільного крою з фактурної лляної тканини. — вільна посадка — фактурна тканина — еластичний пояс зі шнурком — бічні кишені — прямий крій — однотонний дизайн Легка базова модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shorty-jate-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шорти JATE у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/shorty-jate-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": 590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/f331f8f8c643147f2e10.jpg?v=1787223763",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85883.jpg?v=1787501090",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85884.jpg?v=1787501090"
+      ],
+      "description": "Легкі шорти з фактурної жатої тканини. • Вільний крій • Еластичний пояс зі шнурком • Бічні кишені • Фактурний матеріал • Довжина до коліна Підходять для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-baggy-u-blakyntomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси baggy у блакинтому кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-baggy-u-blakyntomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/e556de1477c7a0a4fa48.jpg?v=1787223761"
+      ],
+      "description": "Джинси широкого крою з вільною посадкою та вираженим силуетом. Щільний денім добре тримає форму, а широкий крій забезпечує комфорт і створює актуальний об’ємний силует. • Широкий крій • Вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Актуальний оверсайз -силует",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shorty-jate-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шорти JATE у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/shorty-jate-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": 590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/efa9c88ecb484dbdc775.jpg?v=1787223760",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85900.jpg?v=1787501139",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85901.jpg?v=1787501139"
+      ],
+      "description": "Легкі шорти з фактурної жатої тканини. • Вільний крій • Еластичний пояс зі шнурком • Бічні кишені • Фактурний матеріал • Довжина до коліна Підходять для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-komplekt-rubashka-shorty-len-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Комплект рубашка + шорти льон беж",
+      "source_url": "https://okolo-ua.com/products/komplekt-rubashka-shorty-len-bezh",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._14_33_25.png?v=1787484814",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/291f4e7868e9eeca5ccf.jpg?v=1787223759"
+      ],
+      "description": "Літній комплект із фактурного льону-жатки. • Сорочка з коротким рукавом на ґудзиках • Вільний крій • Шорти на резинці зі шнурком • Бічні кишені • Фактурна жатa тканина • Легкий матеріал для теплої погоди Сорочку та шорти можна носити комплектом або окремо.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsy-balloon-blakytni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BALLOОN блакитні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-balloon-blakytni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/abe86814012f49a4b816.jpg?v=1787223757",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/71149.jpg?v=1787334227",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/71148.jpg?v=1787334227"
+      ],
+      "description": "Джинси вільного крою з характерним об’ємним силуетом Balloon. Розширена форма в зоні стегон і штанин створює виразну посадку, а щільний денім добре тримає форму. • Крій Balloon • Об’ємний силует • Комфортна вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsy-balloon-chorni",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси BALLOОN чорні",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-balloon-chorni",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3971_2.jpg?v=1787334375",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3969_2.jpg?v=1787334375",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3934_2.jpg?v=1791056718"
+      ],
+      "description": "Джинси вільного крою з характерним об’ємним силуетом Balloon. Розширена форма в зоні стегон і штанин створює виразну посадку, а щільний денім добре тримає форму. • Крій Balloon • Об’ємний силует • Комфортна вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shorty-jate-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шорти JATE у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/shorty-jate-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": 590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/5e4c1e8c8d03e392d16d.jpg?v=1787223754",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85932_cf6728f1-2c2f-4596-a99d-1f944e14da71.jpg?v=1787501171",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85933_2d3d4b02-5476-464e-8745-84bfc1eb67b2.jpg?v=1787501172"
+      ],
+      "description": "Легкі шорти з фактурної жатої тканини. • Вільний крій • Еластичний пояс зі шнурком • Бічні кишені • Фактурний матеріал • Довжина до коліна Підходять для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-komplekt-rubashka-shorty-len-belyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Комплект рубашка + шорти льон білий",
+      "source_url": "https://okolo-ua.com/products/komplekt-rubashka-shorty-len-belyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._14_32_37.png?v=1787484860",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/b6ae8a6709f8d0b77839.jpg?v=1787223753"
+      ],
+      "description": "Літній комплект із фактурного льону-жатки. • Сорочка з коротким рукавом на ґудзиках • Вільний крій • Шорти на резинці зі шнурком • Бічні кишені • Фактурна жатa тканина • Легкий матеріал для теплої погоди Сорочку та шорти можна носити комплектом або окремо.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-svitshot-poluzamok-bilyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Світшот - полузамок білий",
+      "source_url": "https://okolo-ua.com/products/svitshot-poluzamok-bilyi",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1140,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._15_54_22.png?v=1787489679",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/de16e9dd7d1c46e65c84.jpg?v=1787223752"
+      ],
+      "description": "Базовий світшот із високим коміром та блискавкою 1/4. • Вільний крій • Високий комір-стійка • Металева блискавка 1/4 • Манжети на рукавах • Еластичний низ • Мінімалістичний дизайн Підходить для повсякденних образів та легко поєднується з джинсами або штанами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-shtany-len-belyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штани льон - білі",
+      "source_url": "https://okolo-ua.com/products/shtany-len-belyi",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/834fa1397cdec8e8fd51.jpg?v=1787223749"
+      ],
+      "description": "Штани вільного силуету з фактурної лляної тканини. — вільний крій — фактурний матеріал — пояс на резинці зі шнурком — бічні кишені — прямі штанини — базовий однотонний дизайн Зручна модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-shtany-len-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штани льон - беж",
+      "source_url": "https://okolo-ua.com/products/shtany-len-bezh",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/4e8bd80f81525e6da9d3.jpg?v=1787223748"
+      ],
+      "description": "Штани вільного силуету з фактурної лляної тканини. — вільний крій — фактурний матеріал — пояс на резинці зі шнурком — бічні кишені — прямі штанини — базовий однотонний дизайн Зручна модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-rubchyk-chernyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм рубчик - чорний",
+      "source_url": "https://okolo-ua.com/products/kostium-rubchyk-chernyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1550,
+      "sale_price_uah": 1050,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/2932cc78628a41c19d4056690b79a98a.png?v=1787484448",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/974d8a9f63be17e4989a.png?v=1787223748"
+      ],
+      "description": "Повсякденний комплект із фактурної тканини в рубчик. • Сорочка з коротким рукавом на ґудзиках • Вільний крій • Шорти на резинці зі шнурком • Бічні кишені • Фактурний матеріал у рубчик Сорочку та шорти можна носити разом або окремо.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-rubchyk-seryi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм рубчик - сірий",
+      "source_url": "https://okolo-ua.com/products/kostium-rubchyk-seryi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1550,
+      "sale_price_uah": 1050,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/57b407ee-bf79-4d83-b471-b8ce34b33fd9.jpg?v=1787484497",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/a7069e80c6e941449ef91aa2cf6f5598.png?v=1787484498",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/aceda412b5ed5722e0ad.jpg?v=1787223746"
+      ],
+      "description": "Повсякденний комплект із фактурної тканини в рубчик. • Сорочка з коротким рукавом на ґудзиках • Вільний крій • Шорти на резинці зі шнурком • Бічні кишені • Фактурний матеріал у рубчик Сорочку та шорти можна носити разом або окремо.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-classic-corochka-shtany-chernyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Classic cорочка + штани чорний",
+      "source_url": "https://okolo-ua.com/products/kostium-classic-corochka-shtany-chernyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._14_46_03.png?v=1787485571",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/6af1be297bb264478024.jpg?v=1787223745"
+      ],
+      "description": "Костюм з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-classic-corochka-shtany-seryi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Classic cорочка + штани сірі",
+      "source_url": "https://okolo-ua.com/products/kostium-classic-corochka-shtany-seryi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._14_45_59.png?v=1787485591",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/30058be9ea5e9203b130.jpg?v=1787223743"
+      ],
+      "description": "Костюм з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-classic-corochka-shtany-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Classic cорочка + штани беж",
+      "source_url": "https://okolo-ua.com/products/kostium-classic-corochka-shtany-bezh",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._14_45_30.png?v=1787485613",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/25c3d4486eda2c492cab.jpg?v=1787223742"
+      ],
+      "description": "Костюм з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-briuky-serye-classic",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки сірі classic",
+      "source_url": "https://okolo-ua.com/products/briuky-serye-classic",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/01ad960ca92bc96cc0ac.jpg?v=1787223739"
+      ],
+      "description": "Штани вільного крою з костюмної тканини. — вільна посадка — еластичний пояс — бічні кишені — злегка звужені донизу — однотонний дизайн Базові штани на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-briuky-bezh-classic",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки беж classic",
+      "source_url": "https://okolo-ua.com/products/briuky-bezh-classic",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/4565750cefb7bdf7e315.jpg?v=1787223738"
+      ],
+      "description": "Штани вільного крою з костюмної тканини. — вільна посадка — еластичний пояс — бічні кишені — злегка звужені донизу — однотонний дизайн Базові штани на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-briuky-koton-khaki",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки котон хакі",
+      "source_url": "https://okolo-ua.com/products/briuky-koton-khaki",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/9fce6b6efeeb00853683.jpg?v=1787223730"
+      ],
+      "description": "Штани вільного крою з бавовняної тканини. — вільна посадка — бавовняна тканина — бічні кишені — складки спереду — злегка звужені донизу — однотонний дизайн Базові штани на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-retro-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"Retro\" беж",
+      "source_url": "https://okolo-ua.com/products/kostium-retro-bezh",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 2290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/cb143bd7b083c61791fa.jpg?v=1787223724",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6820.heic?v=1787414229",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6821.heic?v=1787414228"
+      ],
+      "description": "Костюм вільного крою з бавовняної тканини. Складається з легкої куртки та штанів. — бавовняна тканина — вільна посадка — куртка на блискавці — бічні кишені — еластичні манжети на рукавах — штани вільного крою — еластичний пояс — однотонний дизайн Базовий комплект на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-retro-chornyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"Retro\" чорний",
+      "source_url": "https://okolo-ua.com/products/kostium-retro-chornyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 2290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/836d9387584e5d4496b2.jpg?v=1787223723",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6789.heic?v=1787414362",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6790.heic?v=1787414362"
+      ],
+      "description": "Костюм вільного крою з бавовняної тканини. Складається з легкої куртки та штанів. — бавовняна тканина — вільна посадка — куртка на блискавці — бічні кишені — еластичні манжети на рукавах — штани вільного крою — еластичний пояс — однотонний дизайн Базовий комплект на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-svitshot-1-4-teplyi-bilyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Світшот 1/4 теплий - білий",
+      "source_url": "https://okolo-ua.com/products/svitshot-1-4-teplyi-bilyi",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1450,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3871.jpg?v=1790844511",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3870_2.jpg?v=1790844511",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3868_3.jpg?v=1790844511"
+      ],
+      "description": "Базовий світшот із високим коміром та блискавкою 1/4. • Вільний крій • Високий комір-стійка • Металева блискавка 1/4 • Манжети на рукавах • Еластичний низ • Мінімалістичний дизайн Підходить для повсякденних образів та легко поєднується з джинсами або штанами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-svitshot-1-4-teplyi-chornyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Світшот 1/4 теплий - чорний",
+      "source_url": "https://okolo-ua.com/products/svitshot-1-4-teplyi-chornyi",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1450,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3849_2.jpg?v=1790844516",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3850_2.jpg?v=1790844517",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3851.jpg?v=1790844517"
+      ],
+      "description": "Базовий світшот із високим коміром та блискавкою 1/4. • Вільний крій • Високий комір-стійка • Металева блискавка 1/4 • Манжети на рукавах • Еластичний низ • Мінімалістичний дизайн Підходить для повсякденних образів та легко поєднується з джинсами або штанами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-hrafitova-zip-kofta",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Графітова zip кофта",
+      "source_url": "https://okolo-ua.com/products/hrafitova-zip-kofta",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3b9ae7f14e6ae903596d.jpg?v=1787223716"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-synia-zip-kofta",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Синя zip кофта",
+      "source_url": "https://okolo-ua.com/products/synia-zip-kofta",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/76b473d0a13eeba7558b.jpg?v=1787223715"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-siryi-polarovyi-kostium",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сірий поларовий костюм",
+      "source_url": "https://okolo-ua.com/products/siryi-polarovyi-kostium",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4036_2.jpg?v=1787486698",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4034_2.jpg?v=1787486699",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/2e254e426a0ddd8eea1a.jpg?v=1787223713"
+      ],
+      "description": "Теплий комплект із матеріалу полар. • Кофта з коміром-стійкою • Застібка на блискавку 1/4 • Вільний крій • Штани на резинці зі шнурком • Бічні кишені • Регулювання низу кофти та штанів • Матеріал — полар Підійде для прохолодної погоди та повсякденного носіння.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-over-siryi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Over - сірий",
+      "source_url": "https://okolo-ua.com/products/kostium-over-siryi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/1b4005f2eae07d7208d288ec21a84eab.png?v=1791058528",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/bbf87e0fb5c751dc912a4103f41dc073.png?v=1791058528",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/b02a999f1f9b2a31c6d548c17fd9b72a.png?v=1791058526"
+      ],
+      "description": "Теплий костюм вільного крою. Складається із зіп-худі та штанів. — теплий матеріал — вільна посадка — зіп-худі на блискавці — капюшон — кишені спереду та позаду — штани широкого крою — еластичний пояс — однотонний дизайн Теплий базовий комплект на прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-over-korychnevyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Over - коричневий",
+      "source_url": "https://okolo-ua.com/products/kostium-over-korychnevyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 1990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/MKD_8189.jpg?v=1787417357",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/MKD_8188.jpg?v=1787417357",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/MKD_8190.jpg?v=1787417357"
+      ],
+      "description": "Теплий костюм вільного крою. Складається із зіп-худі та штанів. — теплий матеріал — вільна посадка — зіп-худі на блискавці — капюшон — кишені спереду та позаду — штани широкого крою — еластичний пояс — однотонний дизайн Теплий базовий комплект на прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-over-melanzh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Over - меланж",
+      "source_url": "https://okolo-ua.com/products/kostium-over-melanzh",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "меланж"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/118a40610d4bbb58339fc0e7f7e73768.png?v=1791057652",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/dc19d27ff3e394439ffd2a8371f5f250.png?v=1791057651",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/1790886fb43c67cd1edf752d629582cd.png?v=1791057651"
+      ],
+      "description": "Теплий костюм вільного крою. Складається із зіп-худі та штанів. — теплий матеріал — вільна посадка — зіп-худі на блискавці — капюшон — кишені спереду та позаду — штани широкого крою — еластичний пояс — однотонний дизайн Теплий базовий комплект на прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-over-chornyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм Over - чорний",
+      "source_url": "https://okolo-ua.com/products/kostium-over-chornyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2890,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/082b05cee5c2ab14829a1a3c9d38c627.png?v=1791057938",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/c17712354bd9b40e5fe95465c414b00f.png?v=1791057938",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/f19587a8bc8565413bb2259ec2b511c2.png?v=1791057938"
+      ],
+      "description": "Теплий костюм вільного крою. Складається із зіп-худі та штанів. — теплий матеріал — вільна посадка — зіп-худі на блискавці — капюшон — кишені спереду та позаду — штани широкого крою — еластичний пояс — однотонний дизайн Теплий базовий комплект на прохолодну погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-briuky-strong-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки strong у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/briuky-strong-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2136.jpg?v=1787408587",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/a047a3ed6a4805088eb6.jpg?v=1787223701",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_5520.jpg?v=1787408574"
+      ],
+      "description": "Класичні штани Штани приталеного крою з костюмної тканини. — костюмна тканина — еластичний пояс — бічні кишені — злегка звужені донизу — однотонний дизайн Базова модель для повсякденних образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-over-vesna-korychnevyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм OVER весна коричневий",
+      "source_url": "https://okolo-ua.com/products/kostium-over-vesna-korychnevyi",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6888.heic?v=1787483733",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6890.heic?v=1787483733",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6892.heic?v=1787483733"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-svitshot-1-4-spring-chornyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Світшот 1\\4 - spring чорний",
+      "source_url": "https://okolo-ua.com/products/svitshot-1-4-spring-chornyi",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/82d762344414c6708c35.jpg?v=1787223691",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-23_15-49-55.jpg?v=1787489424",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-23_15-49-37.jpg?v=1787489424"
+      ],
+      "description": "Базовий світшот із високим коміром та блискавкою 1/4. • Вільний крій • Високий комір-стійка • Металева блискавка 1/4 • Манжети на рукавах • Еластичний низ • Мінімалістичний дизайн Підходить для повсякденних образів та легко поєднується з джинсами або штанами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-svitshot-1-4-spring-moloko",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Світшот 1\\4 - spring молоко",
+      "source_url": "https://okolo-ua.com/products/svitshot-1-4-spring-moloko",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/53575892323cb618ef0a.jpg?v=1787223690",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-23_15-49-53_2.jpg?v=1787489581",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/photo_2026-08-23_15-49-41_2.jpg?v=1787489580"
+      ],
+      "description": "Базовий світшот із високим коміром та блискавкою 1/4. • Вільний крій • Високий комір-стійка • Металева блискавка 1/4 • Манжети на рукавах • Еластичний низ • Мінімалістичний дизайн Підходить для повсякденних образів та легко поєднується з джинсами або штанами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-zhyletka-puller-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Жилетка Puller чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/zhyletka-puller-chornomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1640,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/9d6fd4334a6ea09244e0.jpg?v=1787223689",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0906.jpg?v=1787412244",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0909.jpg?v=1787412244"
+      ],
+      "description": "Жилетка Утеплена жилетка вільного крою. — вільна посадка — застібка на блискавку — високий комір — бічні кишені — однотонний дизайн Базова модель для прохолодної погоди.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kashemirovyi-kostium-v-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Кашеміровий костюм в сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/kashemirovyi-kostium-v-siromu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2390,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._15_24_42.png?v=1787487957",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._15_25_34.png?v=1787487957",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/1e35ba52d3ae4c219784.jpg?v=1787223686"
+      ],
+      "description": "Комплект із сорочки та штанів у мінімалістичному стилі. • Сорочка вільного крою • Застібка на кнопки • Дві нагрудні кишені • Довгий рукав із манжетами • Штани прямого крою • Бічні кишені Сорочку можна носити як самостійно, так і поверх футболки.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-briuky-disko",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки DISKO",
+      "source_url": "https://okolo-ua.com/products/briuky-disko",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1650,
+      "sale_price_uah": 950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/4bfdd0c868038e5cf01b.jpg?v=1787223685",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9518.heic?v=1787406967",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9522.heic?v=1787406967"
+      ],
+      "description": "Штани вільного крою з костюмної тканини. Широкий силует створює розслаблену посадку, а щільна костюмна тканина добре тримає форму. — вільний крій — костюмна тканина — середня посадка — бічні кишені — застібка на блискавку та ґудзик — широка штанина Універсальна модель на кожен день, яка легко поєднується з футболками, сорочками, світшотами та жакетами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-briuky-old",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки OLD",
+      "source_url": "https://okolo-ua.com/products/briuky-old",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3f41af30461d7b3a7b3a.jpg?v=1787223684",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86218.jpg?v=1787338569",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86210.jpg?v=1787338569"
+      ],
+      "description": "Брюки, які стануть основою десятків образів Чистий силует, комфортна посадка та три універсальні відтінки - легко комбінуються з базовими футболками, сорочками чи жакетами",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-fakturna-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка фактурна у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/sorochka-fakturna-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/f95e37e8a3816e726295.jpg?v=1787223683"
+      ],
+      "description": "Базова сорочка з легкої лляної тканини у білому кольорі. • Вільний крій • Застібка на ґудзики • Довгий рукав • Натуральний льон • Легкий та дихаючий матеріал Підходить як для повсякденних, так і для більш класичних образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsovi-shorty-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинсові шорти у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsovi-shorty-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/62a1b0027362680e4ee1.jpg?v=1787223681",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4722.heic?v=1787411810",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4719.heic?v=1787411810"
+      ],
+      "description": "Джинсові шорти вільного крою. — вільна посадка — щільний денім — широкий крій — класична застібка на блискавку та ґудзик — бічні та задні кишені — базовий дизайн Зручна модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsovi-shorty-u-synomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинсові шорти у синьому кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsovi-shorty-u-synomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/bf6a97f9183eca0a23cf.jpg?v=1787223680",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4818.heic?v=1787411864",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4821.heic?v=1787411863"
+      ],
+      "description": "Джинсові шорти вільного крою. — вільна посадка — щільний денім — широкий крій — класична застібка на блискавку та ґудзик — бічні та задні кишені — базовий дизайн Зручна модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsovi-shorty-u-blakytnomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинсові шорти у блакитному кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsovi-shorty-u-blakytnomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3f380c2edab4623d7981.jpg?v=1787223679",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86179.jpg?v=1787411918",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4754.heic?v=1787411902"
+      ],
+      "description": "Джинсові шорти вільного крою. — вільна посадка — щільний денім — широкий крій — класична застібка на блискавку та ґудзик — бічні та задні кишені — базовий дизайн Зручна модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsovi-shorty-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинсові шорти у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsovi-shorty-u-siromu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/416fe792321b9969100f.jpg?v=1787223678",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86155.jpg?v=1787411968",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86156.jpg?v=1787411969"
+      ],
+      "description": "Джинсові шорти вільного крою. — вільна посадка — щільний денім — широкий крій — класична застібка на блискавку та ґудзик — бічні та задні кишені — базовий дизайн Зручна модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-strong-sorochka-shtany",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"Strong\" сорочка + штани",
+      "source_url": "https://okolo-ua.com/products/kostium-strong-sorochka-shtany",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2190,
+      "sale_price_uah": 1490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/cebc0ba7c93a205eb732.jpg?v=1787223674",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9409.heic?v=1787420503",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9412.heic?v=1787420504"
+      ],
+      "description": "Костюм вільного крою з костюмної тканини. Складається з сорочки з довгим рукавом та штанів. — вільна посадка — сорочка на ґудзиках — довгий рукав — штани вільного крою — бічні кишені — однотонний дизайн Базовий комплект у стриманому стилі на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-z-plashchivky-u-chornomu-kolori-rave",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм з плащівки у чорному кольорі \"RAVE\"",
+      "source_url": "https://okolo-ua.com/products/kostium-z-plashchivky-u-chornomu-kolori-rave",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_3.png?v=1787419386",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_1.png?v=1787419385",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_2.png?v=1787419385"
+      ],
+      "description": "Легкий костюм вільного крою з фактурної жатої плащівки. Складається з куртки та штанів. — жатий матеріал — вільна посадка — куртка на блискавці — бічні кишені — еластичні манжети — штани вільного крою — еластичний пояс — контрастний кант на куртці Зручний комплект на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-z-plashchivky-u-siromu-kolori-rave",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм з плащівки у сірому кольорі \"RAVE\"",
+      "source_url": "https://okolo-ua.com/products/kostium-z-plashchivky-u-siromu-kolori-rave",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2490,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_5.png?v=1787419511",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_6.png?v=1787419510",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/converted_image_7.png?v=1787419512"
+      ],
+      "description": "Легкий костюм вільного крою з фактурної жатої плащівки. Складається з куртки та штанів. — жатий матеріал — вільна посадка — куртка на блискавці — бічні кишені — еластичні манжети — штани вільного крою — еластичний пояс — контрастний кант на куртці Зручний комплект на кожен день.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-llianyi-loft-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм лляний LOFT у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-llianyi-loft-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1690,
+      "sale_price_uah": 1040,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85931.jpg?v=1787483138",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85932.jpg?v=1787483138",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85933.jpg?v=1787483138"
+      ],
+      "description": "Легкий та комфортний комплект для спекотної погоди. • Сорочка з коротким рукавом • Вільна посадка • Нагрудна кишеня • Шорти прямого крою • Бічні кишені Мінімалістичний комплект, який легко носити як разом, так і окремо.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-llianyi-loft-u-bezhevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм лляний LOFT у бежевому кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-llianyi-loft-u-bezhevomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1690,
+      "sale_price_uah": 1040,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85947.jpg?v=1787483238",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85959.jpg?v=1787483239",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85952.jpg?v=1787483239"
+      ],
+      "description": "Легкий та комфортний комплект для спекотної погоди. • Сорочка з коротким рукавом • Вільна посадка • Нагрудна кишеня • Шорти прямого крою • Бічні кишені Мінімалістичний комплект, який легко носити як разом, так і окремо.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kotonovi-shorty-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Котонові шорти у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/kotonovi-shorty-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1350,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86077.jpg?v=1787499341",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86076.jpg?v=1787499341",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86078.jpg?v=1787499341"
+      ],
+      "description": "Шорти вільного крою з защипами спереду. • Вільна посадка • Защипи спереду • Бічні кишені • Застібка на ґудзик та блискавку • Шльовки для ременя • Довжина нижче середини стегна Підійдуть як для повсякденних, так і для більш класичних образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kotonovi-shorty-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Котонові шорти у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/kotonovi-shorty-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1350,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86052_95d037c3-1092-4469-9354-021ec83560d9.jpg?v=1787499292",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86062_cb994585-9f3c-408e-8c39-d72755cce04c.jpg?v=1787499295",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86036.jpg?v=1787499293"
+      ],
+      "description": "Шорти вільного крою з защипами спереду. • Вільна посадка • Защипи спереду • Бічні кишені • Застібка на ґудзик та блискавку • Шльовки для ременя • Довжина нижче середини стегна Підійдуть як для повсякденних, так і для більш класичних образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-kostium-rubchyk-revers",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм рубчик \"Revers\"",
+      "source_url": "https://okolo-ua.com/products/kostium-rubchyk-revers",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1890,
+      "sale_price_uah": 1240,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9465.heic?v=1787486424",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9467.heic?v=1787486424",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_9468.heic?v=1787486424"
+      ],
+      "description": "Комплект із сорочки з коротким рукавом та штанів прямого крою. • Сорочка вільного крою на ґудзиках • Відкладний комір • Нагрудна кишеня • Штани прямого крою • Бічні кишені",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-briuky-old-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки OLD беж",
+      "source_url": "https://okolo-ua.com/products/briuky-old-bezh",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/e0c4811fcd1269ae8d10.png?v=1787223666",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2091.jpg?v=1787338223",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2089.jpg?v=1787338222"
+      ],
+      "description": "Брюки, які стануть основою десятків образів Чистий силует, комфортна посадка та три універсальні відтінки - легко комбінуються з базовими футболками, сорочками чи жакетами",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-dzhynsovi-shorty-u-temno-synomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинсові шорти у темно синьому кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsovi-shorty-u-temno-synomu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/365012fbcb93630ee2dc.jpg?v=1787223661",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4692.heic?v=1787412039",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86190.jpg?v=1787412054"
+      ],
+      "description": "Джинсові шорти вільного крою. — вільна посадка — щільний денім — широкий крій — класична застібка на блискавку та ґудзик — бічні та задні кишені — базовий дизайн Зручна модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-sorochka-lliana-u-bilomu-kolori-palm",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка лляна у білому кольорі \"palm\"",
+      "source_url": "https://okolo-ua.com/products/sorochka-lliana-u-bilomu-kolori-palm",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1549,
+      "sale_price_uah": 1299,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86068.jpg?v=1787591846",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86069.jpg?v=1787591845",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/897846daf94b4c395003.jpg?v=1787223660"
+      ],
+      "description": "Сорочка з фактурної лляної тканини. • Вільний крій • Застібка на ґудзики • Нагрудна кишеня • Легкий та дихаючий матеріал • Довгий рукав Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-lliana-u-chornomu-kolori-palm",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка лляна у чорному кольорі \"palm\"",
+      "source_url": "https://okolo-ua.com/products/sorochka-lliana-u-chornomu-kolori-palm",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1549,
+      "sale_price_uah": 1299,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86043.jpg?v=1787591949",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86044.jpg?v=1787591949",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/73fd32fa3e7080ebf95d.jpg?v=1787223659"
+      ],
+      "description": "Сорочка з фактурної лляної тканини. • Вільний крій • Застібка на ґудзики • Нагрудна кишеня • Легкий та дихаючий матеріал • Довгий рукав Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-lliana-u-korychnevomu-kolori-palm",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка лляна у коричневому кольорі \"palm\"",
+      "source_url": "https://okolo-ua.com/products/sorochka-lliana-u-korychnevomu-kolori-palm",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1549,
+      "sale_price_uah": 1299,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86028.jpg?v=1787592050",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86022.jpg?v=1787592050",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3815.heic?v=1787592031"
+      ],
+      "description": "Сорочка з фактурної лляної тканини. • Вільний крій • Застібка на ґудзики • Нагрудна кишеня • Легкий та дихаючий матеріал • Довгий рукав Підходить для повсякденного носіння в теплу погоду.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-lliani-briuky-u-bilomu-kolori-line",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Лляні брюки у білому кольорі \" Line \"",
+      "source_url": "https://okolo-ua.com/products/lliani-briuky-u-bilomu-kolori-line",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3760.heic?v=1787407892",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/8d9f44c4eb5683ee9ab3.jpg?v=1787223657",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_0867.jpg?v=1787407957"
+      ],
+      "description": "Лляні штани Штани вільного крою з лляної тканини. — вільний крій — лляна тканина — еластичний пояс — бічні кишені — прямі штанини Базова модель для повсякденних образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-lliani-briuky-u-chornomu-kolori-line",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Лляні брюки у чорному кольорі \" Line \"",
+      "source_url": "https://okolo-ua.com/products/lliani-briuky-u-chornomu-kolori-line",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1749,
+      "sale_price_uah": 1449,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/2ef7b6cfab3c7e57bd77.jpg?v=1787223655",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3675.heic?v=1787408002",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_3626.heic?v=1787408006"
+      ],
+      "description": "Лляні штани Штани вільного крою з лляної тканини. — вільний крій — лляна тканина — еластичний пояс — бічні кишені — прямі штанини Базова модель для повсякденних образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-llianyi-loft-u-bilomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм лляний LOFT у білому кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-llianyi-loft-u-bilomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1690,
+      "sale_price_uah": 1040,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85963.jpg?v=1787483328",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85964.jpg?v=1787483329",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85966.jpg?v=1787483329"
+      ],
+      "description": "Легкий та комфортний комплект для спекотної погоди. • Сорочка з коротким рукавом • Вільна посадка • Нагрудна кишеня • Шорти прямого крою • Бічні кишені Мінімалістичний комплект, який легко носити як разом, так і окремо.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shorty-u-chornomu-kolori-cool",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шорти у чорному кольорі \"COOL\"",
+      "source_url": "https://okolo-ua.com/products/shorty-u-chornomu-kolori-cool",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/719de827237f689f40f5.jpg?v=1787223651",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4620.heic?v=1787500246",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4621.heic?v=1787500246"
+      ],
+      "description": "Базові шорти вільного крою для повсякденного носіння. • Вільна посадка • Еластичний пояс зі шнурком • Бічні кишені • Довжина до коліна • Мінімалістичний дизайн Легко поєднуються з футболками, поло та світшотами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-shorty-u-siromu-kolori-cool",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шорти у сірому кольорі \"COOL\"",
+      "source_url": "https://okolo-ua.com/products/shorty-u-siromu-kolori-cool",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/e861dc6d283d2ebfb697.jpg?v=1787223649",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4581.heic?v=1787500276",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4615.heic?v=1787500276"
+      ],
+      "description": "Базові шорти вільного крою для повсякденного носіння. • Вільна посадка • Еластичний пояс зі шнурком • Бічні кишені • Довжина до коліна • Мінімалістичний дизайн Легко поєднуються з футболками, поло та світшотами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-khudi-zip-siryi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Худі зіп сірий",
+      "source_url": "https://okolo-ua.com/products/khudi-zip-siryi",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/7643652d772ac9efe7a1.png?v=1787223646"
+      ],
+      "description": "Зіп-худі Зіпка вільного крою з капюшоном. — вільна посадка — застібка на блискавку — капюшон — кишені спереду — манжети на рукавах — однотонний дизайн Базова модель на кожен день.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-bila-lliana-sorochka-u-smuzhku-mono",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Біла лляна сорочка у смужку \"MONO\"",
+      "source_url": "https://okolo-ua.com/products/bila-lliana-sorochka-u-smuzhku-mono",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1240,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86101.jpg?v=1787592334",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86114.jpg?v=1787592335",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86100.jpg?v=1787592334"
+      ],
+      "description": "Легка сорочка в тонку вертикальну смужку. • Вільний крій • Застібка на ґудзики • Довгий рукав • Легкий та приємний до тіла матеріал Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-kostium-old-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"OLD\" у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-old-u-siromu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 1295,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/7b1e04d2d3a8da966f4a.jpg?v=1787223641",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85830.jpg?v=1787415603",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85832.jpg?v=1787415603"
+      ],
+      "description": "Костюм вільного крою з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн Готовий комплект для повсякденних та більш стриманих образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-old-u-korychnevomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"OLD\" у коричневому кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-old-u-korychnevomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 1295,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPTImage22_.2026_._19_17_22.png?v=1787415458",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85795.jpg?v=1787415156",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85796.jpg?v=1787415156"
+      ],
+      "description": "Костюм вільного крою з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн Готовий комплект для повсякденних та більш стриманих образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-kostium-old-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Костюм \"OLD\" у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/kostium-old-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2590,
+      "sale_price_uah": 1295,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/a675e8c94f84833df18b.png?v=1787223642",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85768.jpg?v=1787415698",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85769.jpg?v=1787415698"
+      ],
+      "description": "Костюм вільного крою з костюмної тканини. Складається з сорочки з коротким рукавом та штанів. — вільна посадка — сорочка на ґудзиках — короткий рукав — штани вільного крою — бічні кишені — складки спереду — однотонний дизайн Готовий комплект для повсякденних та більш стриманих образів.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-briuky-old-korychnevi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Брюки OLD коричневі",
+      "source_url": "https://okolo-ua.com/products/briuky-old-korychnevi",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 1290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/25404ffc3ec21c4caa2b.png?v=1787223641",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4951_2.jpg?v=1787338350",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_4950_2.jpg?v=1787338353"
+      ],
+      "description": "Брюки, які стануть основою десятків образів Чистий силует, комфортна посадка та три універсальні відтінки - легко комбінуються з базовими футболками, сорочками чи жакетами",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-klitynka-shokolad",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка клітинка шоколад",
+      "source_url": "https://okolo-ua.com/products/sorochka-klitynka-shokolad",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/bcfb2bb3cf5a6034d0e1.jpg?v=1787162887",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6772.heic?v=1787591167",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6773.heic?v=1787591167"
+      ],
+      "description": "Сорочка вільного крою з приємної та щільної тканини. • Вільний крій • Застібка на ґудзики • Довгий рукав • Класичний комір Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-klitynka-sira",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка клітинка сіра",
+      "source_url": "https://okolo-ua.com/products/sorochka-klitynka-sira",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/fc385ff362a92b231564.jpg?v=1787162886",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2042.jpg?v=1787591214",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2046.jpg?v=1787591214"
+      ],
+      "description": "Сорочка вільного крою з приємної та щільної тканини. • Вільний крій • Застібка на ґудзики • Довгий рукав • Класичний комір Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-klitynka-chorna",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка клітинка чорна",
+      "source_url": "https://okolo-ua.com/products/sorochka-klitynka-chorna",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 1290,
+      "sale_price_uah": 1100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/c64b51be4b70f2bd8d2f.jpg?v=1787162885",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_2021.jpg?v=1787591053",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/IMG_6783.heic?v=1787591057"
+      ],
+      "description": "Сорочка вільного крою з приємної та щільної тканини. • Вільний крій • Застібка на ґудзики • Довгий рукав • Класичний комір Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-sorochka-poloska-delta",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Сорочка полоска DELTA",
+      "source_url": "https://okolo-ua.com/products/sorochka-poloska-delta",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1490,
+      "sale_price_uah": 940,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85983.jpg?v=1787592438",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85986.jpg?v=1787592438",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/85991.jpg?v=1787592438"
+      ],
+      "description": "Легка сорочка в тонку вертикальну смужку. • Вільний крій • Застібка на ґудзики • Довгий рукав • Манжети на ґудзиках • Легкий та приємний до тіла матеріал Підходить для повсякденних образів та легко поєднується з джинсами і брюками.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-bila-oversaiz-futbolka",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Біла оверсайз футболка",
+      "source_url": "https://okolo-ua.com/products/bila-oversaiz-futbolka",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/fede4de6108c99d4b724.jpg?v=1787223727",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/d4b3c2f450bb10e9ddeb.jpg?v=1787223728",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/33d45bf6fe10d0770ac4.jpg?v=1787223728"
+      ],
+      "description": "Базова футболка з лаконічним дизайном — універсальна модель для повсякденних образів. Прямий комфортний крій Кругла горловина Базовий дизайн без принтів Універсальна посадка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-chorna-oversaiz-futbolka",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Чорна оверсайз футболка",
+      "source_url": "https://okolo-ua.com/products/chorna-oversaiz-futbolka",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/25e91d94962e2c7f6cb9.jpg?v=1787223726",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/36b14b597762b36e1425.jpg?v=1787223726",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/c00efc557fffb91f8e15.jpg?v=1787223726"
+      ],
+      "description": "Базова футболка з лаконічним дизайном — універсальна модель для повсякденних образів. Прямий комфортний крій Кругла горловина Базовий дизайн без принтів Універсальна посадка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-lonhsliv-casual-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Лонгслів casual у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/lonhsliv-casual-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1390,
+      "sale_price_uah": 890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._16_08_07.png?v=1787490496",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/6c9d5757082156c6d788.jpg?v=1787223699"
+      ],
+      "description": "Однотонний світшот вільного крою для повсякденного носіння. • Вільна посадка • Кругла горловина • Довгий рукав • Прямий низ • Мінімалістичний дизайн • Без принтів та зайвих деталей Легко поєднується з джинсами та штанами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-lonhsliv-casual-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Лонгслів casual у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/lonhsliv-casual-u-siromu-kolori",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1390,
+      "sale_price_uah": 890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._16_06_04.png?v=1787490381",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/d58c58c17c8166c507cb.jpg?v=1787223698"
+      ],
+      "description": "Однотонний світшот вільного крою для повсякденного носіння. • Вільна посадка • Кругла горловина • Довгий рукав • Прямий низ • Мінімалістичний дизайн • Без принтів та зайвих деталей Легко поєднується з джинсами та штанами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-bila-bazova-futbolka",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Біла базова футболка",
+      "source_url": "https://okolo-ua.com/products/bila-bazova-futbolka",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/171455b0564ac10c37c2.jpg?v=1787223696",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/edb3428cb9c84b351fbf.jpg?v=1787223697"
+      ],
+      "description": "Базова футболка з лаконічним дизайном — універсальна модель для повсякденних образів. Прямий комфортний крій Кругла горловина Базовий дизайн без принтів Універсальна посадка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-chorna-bazova-futbolka",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Чорна базова футболка",
+      "source_url": "https://okolo-ua.com/products/chorna-bazova-futbolka",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/9ba418014a36d7aeacbc.jpg?v=1787223695",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/50d0749788bb4c863800.jpg?v=1787223696"
+      ],
+      "description": "Базова футболка з лаконічним дизайном — універсальна модель для повсякденних образів. Прямий комфортний крій Кругла горловина Базовий дизайн без принтів Універсальна посадка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-futbolka-shorty-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Футболка + шорти у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/futbolka-shorty-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._15_16_49.png?v=1787487429",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/e8649661b77772bbd5e7.jpg?v=1787223676"
+      ],
+      "description": "Базовий комплект із футболки та шортів. • Футболка вільного крою • Кругла горловина • Шорти на резинці • Бічні кишені • Матеріал — тринитка • Щільна тканина, що тримає форму Футболку та шорти можна носити комплектом або окремо.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-futbolka-shorty-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Футболка + шорти у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/futbolka-shorty-u-siromu-kolori",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1590,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/ChatGPT_Image_23_._2026_._15_18_51.png?v=1787487540",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/3d2378a93a2a11b8ed63.jpg?v=1787223675"
+      ],
+      "description": "Базовий комплект із футболки та шортів. • Футболка вільного крою • Кругла горловина • Шорти на резинці • Бічні кишені • Матеріал — тринитка • Щільна тканина, що тримає форму Футболку та шорти можна носити комплектом або окремо.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-polo-na-zamochku-u-bilomu-kolori-polo",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Поло на замочку у білому кольорі \"Polo\"",
+      "source_url": "https://okolo-ua.com/products/polo-na-zamochku-u-bilomu-kolori-polo",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1550,
+      "sale_price_uah": 930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/2cd500d30ba1325afb30.jpg?v=1787223655",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86052.jpg?v=1787491573",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86056.jpg?v=1787491574"
+      ],
+      "description": "Базове поло з фактурного матеріалу. • Вільна посадка • Відкладний комір • Короткий рукав • Фактурна тканина • Однотонний дизайн • Без принтів та зайвих деталей Легко поєднується з брюками, джинсами або шортами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-polo-na-zamochku-u-chornomu-kolori-polo",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Поло на замочку у чорному кольорі \"Polo\"",
+      "source_url": "https://okolo-ua.com/products/polo-na-zamochku-u-chornomu-kolori-polo",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1550,
+      "sale_price_uah": 930,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/20f86d7340d57500ea07.jpg?v=1787223653",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86097.jpg?v=1787491626",
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/86090.jpg?v=1787491630"
+      ],
+      "description": "Базове поло з фактурного матеріалу. • Вільна посадка • Відкладний комір • Короткий рукав • Фактурна тканина • Однотонний дизайн • Без принтів та зайвих деталей Легко поєднується з брюками, джинсами або шортами.",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "okolo-shapka-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шапка у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/shapka-u-siromu-kolori",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/6add025c4374f23c2bc7_png.webp?v=1794165069"
+      ],
+      "description": "В’язана шапка з відворотом у чорному кольорі. Фактурна в’язка в рубчик Широкий відворот Без написів і декору Поєднується з куртками, пальтами та пуховиками.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-shapka-u-chornomu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Шапка у чорному кольорі",
+      "source_url": "https://okolo-ua.com/products/shapka-u-chornomu-kolori",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/f8108f2aba58b5dafa0e_png_070151c1-ff9c-4e9d-b5e3-251171976131.webp?v=1794164272"
+      ],
+      "description": "В’язана шапка з відворотом у чорному кольорі. Фактурна в’язка в рубчик Широкий відворот Без написів і декору Поєднується з куртками, пальтами та пуховиками.",
+      "care": null,
+      "collections": [
+        "Новинки"
+      ]
+    },
+    {
+      "id": "okolo-remin-bezh",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Ремінь беж",
+      "source_url": "https://okolo-ua.com/products/remin-bezh",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/6dd37c8d70f28df0db2d.png?v=1787223648"
+      ],
+      "description": "Базовий ремінь у мінімалістичному дизайні. • Класична металева пряжка • Регулювання довжини • Лаконічний дизайн • Підходить до джинсів та класичних штанів • Універсальний варіант для повсякденних образів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-remin-chornyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Ремінь чорний",
+      "source_url": "https://okolo-ua.com/products/remin-chornyi",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "ONESIZE"
+      ],
+      "price_uah": 990,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/dc1b8c7f070fbe99144f.png?v=1787223647"
+      ],
+      "description": "Базовий ремінь у мінімалістичному дизайні. • Класична металева пряжка • Регулювання довжини • Лаконічний дизайн • Підходить до джинсів та класичних штанів • Універсальний варіант для повсякденних образів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-dzhynsy-baggy-u-siromu-kolori",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Джинси baggy у сірому кольорі",
+      "source_url": "https://okolo-ua.com/products/dzhynsy-baggy-u-siromu-kolori",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36"
+      ],
+      "price_uah": 1790,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/be0ef655c865542b5e4d.jpg?v=1787223765"
+      ],
+      "description": "Джинси широкого крою з вільною посадкою та вираженим силуетом. Щільний денім добре тримає форму, а широкий крій забезпечує комфорт і створює актуальний об’ємний силует. • Широкий крій • Вільна посадка • Щільний денім • 4 кишені • Застібка на блискавку • Актуальний оверсайз -силует",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "okolo-shtany-len-chernyi",
+      "brand": "OKOLO",
+      "brand_id": "okolo",
+      "name": "Штані льон - чорні",
+      "source_url": "https://okolo-ua.com/products/shtany-len-chernyi",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/1022/1227/2493/files/bd699900eb0911d4dd0b.jpg?v=1787223750"
+      ],
+      "description": "Штани вільного силуету з фактурної лляної тканини. — вільний крій — фактурний матеріал — пояс на резинці зі шнурком — бічні кишені — прямі штанини — базовий однотонний дизайн Зручна модель для повсякденних літніх образів.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

@@ -13,15 +13,62 @@
     ]
   },
   {
+    "category": "Взуття",
+    "slot": "shoes",
+    "item_types": [
+      "Черевики",
+      "Туфлі",
+      "Кеди",
+      "Сандалі",
+      "Взуття",
+      "Чоботи",
+      "Кросівки",
+      "Мюлі",
+      "Лофери",
+      "Капці"
+    ]
+  },
+  {
     "category": "Верх",
     "slot": "top",
     "item_types": [
       "Сорочка",
       "Піджак",
-      "Світшот",
       "Худі",
+      "Світшот",
       "Жилет",
       "Блуза"
+    ]
+  },
+  {
+    "category": "Аксесуари",
+    "slot": "other",
+    "item_types": [
+      "Сумка",
+      "Шарф",
+      "Шапка",
+      "Ремінь",
+      "Гаманець",
+      "Кепка",
+      "Шкарпетки",
+      "Прикраси",
+      "Капелюх",
+      "Окуляри",
+      "Хустка",
+      "Рукавички",
+      "Панама",
+      "Балаклава"
+    ]
+  },
+  {
+    "category": "Футболки",
+    "slot": "top",
+    "item_types": [
+      "Футболка",
+      "Топ",
+      "Майка",
+      "Поло",
+      "Корсет"
     ]
   },
   {
@@ -31,13 +78,13 @@
       "Куртка",
       "Пальто",
       "Бомбер",
-      "Пуховик",
       "Тренч",
+      "Пуховик",
       "Шуба",
       "Парка",
+      "Косуха",
       "Дублянка",
-      "Вітрівка",
-      "Косуха"
+      "Вітрівка"
     ]
   },
   {
@@ -48,44 +95,13 @@
     ]
   },
   {
-    "category": "Футболки",
-    "slot": "top",
-    "item_types": [
-      "Футболка",
-      "Топ",
-      "Майка",
-      "Корсет",
-      "Поло"
-    ]
-  },
-  {
     "category": "Светри",
     "slot": "top",
     "item_types": [
       "Светр",
-      "Джемпер",
       "Кардиган",
+      "Джемпер",
       "Гольф"
-    ]
-  },
-  {
-    "category": "Аксесуари",
-    "slot": "other",
-    "item_types": [
-      "Шапка",
-      "Сумка",
-      "Кепка",
-      "Шарф",
-      "Ремінь",
-      "Шкарпетки",
-      "Капелюх",
-      "Прикраси",
-      "Рукавички",
-      "Окуляри",
-      "Гаманець",
-      "Балаклава",
-      "Хустка",
-      "Панама"
     ]
   },
   {
@@ -96,22 +112,6 @@
       "Комбінезон",
       "Спортивний костюм",
       "Класичний костюм"
-    ]
-  },
-  {
-    "category": "Взуття",
-    "slot": "shoes",
-    "item_types": [
-      "Туфлі",
-      "Черевики",
-      "Сандалі",
-      "Взуття",
-      "Кросівки",
-      "Мюлі",
-      "Лофери",
-      "Чоботи",
-      "Кеди",
-      "Капці"
     ]
   },
   {
@@ -130,11 +130,6 @@
     ]
   },
   {
-    "category": "ВІН",
-    "slot": "other",
-    "item_types": []
-  },
-  {
     "category": "Нижня білизна",
     "slot": "other",
     "item_types": [
@@ -143,9 +138,11 @@
     ]
   },
   {
-    "category": "ACCESSORIES",
+    "category": "Купальники",
     "slot": "other",
-    "item_types": []
+    "item_types": [
+      "Купальник"
+    ]
   },
   {
     "category": "Одяг",
@@ -153,7 +150,42 @@
     "item_types": []
   },
   {
-    "category": "Accessories",
+    "category": "ВІН",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Човники",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "WOMEN",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ACCESSORIES",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Товари за бонуси",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Slingback",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ВЕСНА/ЛІТО 2026",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Краватки",
     "slot": "other",
     "item_types": []
   },
@@ -173,7 +205,17 @@
     "item_types": []
   },
   {
-    "category": "Товари за бонуси",
+    "category": "Headband",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessories",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "верхній одяг",
     "slot": "other",
     "item_types": []
   },
@@ -183,16 +225,29 @@
     "item_types": []
   },
   {
-    "category": "Cape",
+    "category": "Топсайдери",
     "slot": "other",
     "item_types": []
   },
   {
-    "category": "Купальники",
+    "category": "Слінгбеки",
     "slot": "other",
-    "item_types": [
-      "Купальник"
-    ]
+    "item_types": []
+  },
+  {
+    "category": "SS26",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Book",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cape",
+    "slot": "other",
+    "item_types": []
   },
   {
     "category": "HEADWEAR",
@@ -200,12 +255,62 @@
     "item_types": []
   },
   {
-    "category": "Underwear",
+    "category": "Beauty",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "10% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Метелики",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Sandals and slippers",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Для навчання",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "Аксесуари > Резинки для волосся",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ЧОЛОВІКАМ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ЖІНКАМ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Men",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Ballerinas",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "20% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Смокінги",
     "slot": "other",
     "item_types": []
   },
@@ -216,6 +321,11 @@
   },
   {
     "category": "Біжутерія",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "WOAW",
     "slot": "other",
     "item_types": []
   },
@@ -235,12 +345,17 @@
     "item_types": []
   },
   {
-    "category": "Headband",
+    "category": "Подарункові листівки",
     "slot": "other",
     "item_types": []
   },
   {
-    "category": "Подарункові листівки",
+    "category": "ЖІНОЧЕ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Хустинки",
     "slot": "other",
     "item_types": []
   },
@@ -250,7 +365,12 @@
     "item_types": []
   },
   {
-    "category": "All products",
+    "category": "All Products",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Leotard",
     "slot": "other",
     "item_types": []
   },
@@ -285,7 +405,37 @@
     "item_types": []
   },
   {
-    "category": "Black Orchid",
+    "category": "Kimono",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "GIFT GUIDE",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Foot Devices",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Uncategorized",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ALL - PRODUCTS - FOR - PRE ORDER",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "BASIC",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "English",
     "slot": "other",
     "item_types": []
   },
@@ -346,6 +496,161 @@
   },
   {
     "category": "Summer mood",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Fall-Winter 26/27",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "United Ukraine",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Little Friends",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Послуги",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ПОДАРУНКОВІ СЕРТИФІКАТИ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "КЛОГИ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Засоби догляду",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Ботфорти",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Secret Garden",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "High Heels",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Продовжити покупки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "кімоно",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "туніки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "аксесуари",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cuprum Depot x Good People",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "40% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "twistergame",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cuprum Depot x Behind Blue Eyes",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "GIFT BOX",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "LITE",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "TEC",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Black Edition",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Legging",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Collar",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bra",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "MELTED WATER",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Українська",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Термоодяг",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "wrapin",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "All",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessorises",
     "slot": "other",
     "item_types": []
   },
@@ -435,32 +740,12 @@
     "item_types": []
   },
   {
-    "category": "Термоодяг",
-    "slot": "other",
-    "item_types": []
-  },
-  {
     "category": "Благодійність",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "Трикотаж",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "wrapin",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "All",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "Accessorises",
     "slot": "other",
     "item_types": []
   },

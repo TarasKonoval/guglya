@@ -37,3 +37,8 @@ def fetch_one(sql: str, params: tuple | dict = ()) -> dict | None:
 def execute(sql: str, params: tuple | dict = ()) -> None:
     with _conn() as conn:
         conn.execute(sql, params)
+
+
+def transaction():
+    """`with transaction() as conn:` - several statements, committed together (rolled back on error)."""
+    return _conn()
