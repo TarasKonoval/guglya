@@ -11,7 +11,8 @@ export default function OutfitCard({ outfit, saved, onToggleSave, to }: Props) {
       <Link to={to ?? `/outfit/${outfit.id}`} className="outfit-card-link">
         <OutfitCover outfit={outfit} />
         <div className="outfit-card-body">
-          {outfit.style_tag && <span className="tag">#{outfit.style_tag}</span>}
+          {/* the tag line is always there (blank without a tag): all cards are the same height */}
+          <span className="tag">{outfit.style_tag ? `#${outfit.style_tag}` : "\u00a0"}</span>
           <h3>{outfit.title}</h3>
           <p className="check-line">
             <span className="check-label">АутфітЧек</span> {things(outfit.item_count)} · <strong>{formatUah(outfit.total_uah)}</strong>
