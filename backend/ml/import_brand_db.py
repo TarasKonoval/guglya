@@ -8,7 +8,7 @@ keeps its embedding unless its photo changed. Products that disappeared from the
 importable are marked out of stock (never deleted: clicks and outfits may point at them).
 Popularity (Instagram followers) comes from data/database/brand_popularity.json when present.
 
-Skipped: accessories (slot "other"), products without a UAH price, products marked out of stock.
+Skipped: accessories (slot "other"), products without a (plausible) UAH price, products marked out of stock.
 """
 import json
 import os
@@ -34,6 +34,7 @@ COLOR = {
 }
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
+MIN_PRICE = 100  # below this the scraper misread the price (e.g. "8 990" -> 8)
 GENDER = {"female": "women", "male": "men", "unisex": "unisex"}
 AUDIENCE = {"Жінкам": "women", "Жінкам (зараз)": "women", "Чоловікам": "men"}
 
@@ -46,9 +47,9 @@ def to_row(p: dict, brand: dict) -> tuple | None:
     if p.get("slot") not in ("hat", "top", "bottom", "shoes") or p.get("in_stock") is False:
         return None
     price, sale = p.get("price_uah"), p.get("sale_price_uah")
-    if not price or not p.get("photos"):
+    if not price or price < MIN_PRICE or not p.get("photos"):
         return None
-    on_sale = bool(sale) and sale < price
+    on_sale = bool(sale) and MIN_PRICE <= sale < price
     category = "dress" if p.get("item_type") in DRESS_TYPES else p["slot"]
     color = next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
     return (

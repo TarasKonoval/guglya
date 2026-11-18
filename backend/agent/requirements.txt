@@ -1,0 +1,2 @@
+pyjwt[crypto]==2.9.0
+transformers==5.23.0

@@ -5,7 +5,7 @@ const API = import.meta.env.VITE_API_URL;
 const ASSET_BASE = import.meta.env.VITE_ASSET_BASE_URL ?? "";
 export const DONATE_URL: string = import.meta.env.VITE_DONATE_URL ?? "";
 
-async function authHeaders(): Promise<Record<string, string>> {
+export async function authHeaders(): Promise<Record<string, string>> {
   try {
     const token = (await fetchAuthSession()).tokens?.idToken?.toString();
     return token ? { Authorization: `Bearer ${token}` } : {};

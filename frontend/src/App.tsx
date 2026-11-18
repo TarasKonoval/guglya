@@ -11,6 +11,7 @@ import OutfitPage from "./pages/OutfitPage";
 import SavedPage from "./pages/SavedPage";
 import ProfilePage from "./pages/ProfilePage";
 import CartPage from "./pages/CartPage";
+import AdminPage from "./pages/AdminPage";
 import DemoProductPage from "./pages/DemoProductPage";
 import FeedbackModal from "./components/FeedbackModal";
 import { BagIcon, ChatIcon, HeartIcon, UserIcon } from "./components/Icons";
@@ -84,6 +85,7 @@ export default function App() {
         <Route path="/saved" element={<SavedPage />} />
         <Route path="/profile" element={<ProfilePage onFeedback={() => openFeedback("manual")} />} />
         <Route path="/cart" element={<CartPage />} />
+        <Route path="/admin" element={<AdminPage />} />
         <Route path="/demo/:productId" element={<DemoProductPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>

@@ -1,14 +1,14 @@
 from typing import Literal
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
-from uuid import UUID
+from uuid import UUID, uuid4
 
 from fastapi import Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
-from .auth import current_user, optional_user
+from .auth import admin_user, current_user, is_admin, optional_user
 from .config import settings
-from .db import execute, fetch_all, fetch_one
+from .db import execute, fetch_all, fetch_one, transaction
 
 Slot = Literal["hat", "top", "dress", "bottom", "shoes"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
@@ -57,7 +57,7 @@ def me(user: dict = Depends(current_user)):
            from users where id = %(u)s""",
         {"u": user["sub"]},
     )
-    return {"id": user["sub"], "email": user.get("email"), **row}
+    return {"id": user["sub"], "email": user.get("email"), "is_admin": is_admin(user), **row}
 
 
 class ProfileIn(BaseModel):
@@ -269,4 +269,110 @@ def feedback(body: FeedbackIn, user: dict = Depends(current_user)):
         "insert into feedback (user_id, outfit_id, rating, would_buy, text) values (%s, %s, %s, %s, %s)",
         (user["sub"], body.outfit_id, body.rating, body.would_buy, (body.text or "").strip() or None),
     )
+    return {"ok": True}
+
+
+# --- Admin: outfit builder (/admin page). The outfit agent Lambda (backend/agent) turns a look photo into
+# pieces with FashionCLIP text vectors; these endpoints search the real catalog and publish the outfit.
+
+class MatchIn(BaseModel):
+    slot: Slot
+    gender: Literal["women", "men", "unisex"]
+    vector: list[float] = Field(min_length=512, max_length=512)
+    color: str | None = None
+    limit: int = Field(default=8, ge=1, le=20)
+
+
+@app.post("/admin/match")
+def admin_match(body: MatchIn, _: dict = Depends(admin_user)):
+    """Closest real products to one piece: same slot and gender, in stock; one per brand first, then CLIP
+    similarity with small bonuses for the same colour and for popular brands."""
+    return fetch_all(
+        f"""with pop as ({BRAND_POPULARITY}), ranked as (
+              select {PRODUCT_COLS}, p.item_type, p.old_price_uah,
+                     1 - (p.embedding <=> %(vec)s::vector) as similarity,
+                     coalesce(pop.score, 0) as brand_score,
+                     (p.color is not distinct from %(color)s) as same_color
+              from products p join brands b on b.id = p.brand_id left join pop on pop.brand_id = p.brand_id
+              where p.category = %(slot)s and p.in_stock and not p.is_demo and p.embedding is not null
+                and (p.gender is null or p.gender in (%(gender)s, 'unisex') or %(gender)s = 'unisex')
+              order by p.embedding <=> %(vec)s::vector
+              limit 200
+            ), scored as (
+              select *, similarity + 0.02 * same_color::int + {POPULARITY_WEIGHT} * brand_score as score
+              from ranked
+            )
+            select id, title, brand, category, color, price_uah, old_price_uah, image_url, product_url, item_type,
+                   round(similarity::numeric, 3)::float as similarity
+            from (select *, row_number() over (partition by brand order by score desc) as brand_rank from scored) s
+            order by brand_rank, score desc
+            limit %(limit)s""",
+        {"vec": str(body.vector), "slot": body.slot, "gender": body.gender, "color": body.color, "limit": body.limit},
+    )
+
+
+@app.post("/admin/upload-url")
+def admin_upload_url(_: dict = Depends(admin_user)):
+    """Presigned S3 PUT for a look cover (JPEG). Signing happens locally, so the Lambda needs no S3 network access."""
+    if not settings.upload_bucket:
+        raise HTTPException(503, "Uploads are not configured here")
+    import boto3  # in the Lambda base image; only needed by admins
+
+    key = f"img/looks/{uuid4()}.jpg"
+    url = boto3.client("s3", region_name=settings.region).generate_presigned_url(
+        "put_object", Params={"Bucket": settings.upload_bucket, "Key": key, "ContentType": "image/jpeg"}, ExpiresIn=600
+    )
+    return {"upload_url": url, "image_url": f"/{key}"}
+
+
+class OutfitIn(BaseModel):
+    title: str = Field(min_length=2, max_length=80)
+    gender: Literal["women", "men", "unisex", "couple"]
+    style_tag: str | None = Field(default=None, max_length=30)
+    cover_image_url: str | None = Field(default=None, pattern=r"^/img/looks/[0-9a-f-]{36}\.jpg$")
+    looks: list[dict[Slot, UUID]] = Field(min_length=1, max_length=2)
+
+
+@app.post("/admin/outfits")
+def admin_create_outfit(body: OutfitIn, _: dict = Depends(admin_user)):
+    # a dress/set replaces the bottom (a coat on top of it is fine)
+    if any(not look or {"dress", "bottom"} <= look.keys() for look in body.looks):
+        raise HTTPException(400, "Each look needs items, and a dress can't be combined with a bottom")
+    if (body.gender == "couple") != (len(body.looks) == 2):
+        raise HTTPException(400, "A couple outfit has exactly two looks")
+    if fetch_one("select 1 from outfits where title = %s", (body.title.strip(),)):
+        raise HTTPException(409, "An outfit with this title already exists")
+    with transaction() as conn:
+        outfit = conn.execute(
+            """insert into outfits (title, season, gender, style_tag, cover_image_url, sort_order, is_published)
+               values (%s, 'autumn', %s, %s, %s, (select coalesce(min(sort_order), 0) - 1 from outfits), true)
+               returning id""",
+            (body.title.strip(), body.gender, (body.style_tag or "").strip().lstrip("#") or None, body.cover_image_url),
+        ).fetchone()
+        for person, look in enumerate(body.looks, 1):
+            for slot, product_id in look.items():
+                conn.execute(
+                    "insert into outfit_items (outfit_id, person, slot, product_id) values (%s, %s, %s, %s)",
+                    (outfit["id"], person, slot, product_id),
+                )
+    return outfit
+
+
+@app.get("/admin/outfits")
+def admin_list_outfits(_: dict = Depends(admin_user)):
+    return fetch_all(
+        """select o.id, o.title, o.gender, o.is_published, o.created_at,
+                  bool_or(p.is_demo) as is_demo, count(oi.product_id)::int as item_count
+           from outfits o left join outfit_items oi on oi.outfit_id = o.id left join products p on p.id = oi.product_id
+           group by o.id order by o.sort_order, o.created_at"""
+    )
+
+
+class PublishIn(BaseModel):
+    is_published: bool
+
+
+@app.patch("/admin/outfits/{outfit_id}")
+def admin_publish(outfit_id: UUID, body: PublishIn, _: dict = Depends(admin_user)):
+    execute("update outfits set is_published = %s where id = %s", (body.is_published, outfit_id))
     return {"ok": True}

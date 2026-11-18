@@ -1,18 +1,21 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 import { signOut } from "aws-amplify/auth";
 import { api, DONATE_URL, donate } from "../lib/api";
 
-type Profile = { email: string; first_name: string | null; last_name: string | null; phone: string | null };
+type Profile = { email: string; is_admin: boolean; first_name: string | null; last_name: string | null; phone: string | null };
 
 export default function ProfilePage({ onFeedback }: { onFeedback: () => void }) {
   const [form, setForm] = useState({ first_name: "", last_name: "", phone: "" });
   const [email, setEmail] = useState("");
+  const [admin, setAdmin] = useState(false);
   const [state, setState] = useState<"loading" | "idle" | "saving" | "saved" | "error">("loading");
 
   useEffect(() => {
     api<Profile>("/me")
       .then((p) => {
         setEmail(p.email);
+        setAdmin(p.is_admin);
         setForm({ first_name: p.first_name ?? "", last_name: p.last_name ?? "", phone: p.phone ?? "" });
         setState("idle");
       })
@@ -55,6 +58,7 @@ export default function ProfilePage({ onFeedback }: { onFeedback: () => void }) 
         </button>
       </form>
       <nav className="profile-links pad">
+        {admin && <Link to="/admin">Адмінка: новий образ</Link>}
         <button onClick={onFeedback}>Залишити відгук</button>
         {DONATE_URL && <button onClick={donate}>Підтримати збір ♥</button>}
         <button onClick={() => signOut()}>Вийти</button>

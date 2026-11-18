@@ -70,3 +70,14 @@ def current_user(creds: HTTPAuthorizationCredentials | None = Depends(_bearer)) 
     except Exception as e:
         raise HTTPException(401, f"Invalid token: {e}")
     return _upsert_user(claims)
+
+
+def is_admin(user: dict) -> bool:
+    return "admins" in user.get("cognito:groups", [])
+
+
+def admin_user(user: dict = Depends(current_user)) -> dict:
+    """Members of the Cognito group "admins" (outfit builders)."""
+    if not is_admin(user):
+        raise HTTPException(403, "Admins only")
+    return user
