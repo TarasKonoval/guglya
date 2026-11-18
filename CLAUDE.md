@@ -35,9 +35,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - Alternatives ranking: CLIP similarity + 0.06 same item type + 0.05 × brand popularity (70% followers, 30% our clicks),
   outfit's gender (men: men only; women: women + unisex), similarity >= 0.6, one per brand first.
 - Adding brands / how the catalog pipeline works: docs/catalog.md (scrape.mjs -> ua_names.py -> merge.py --keep ->
-  import_brand_db.py -> embed.py -> classify_gender.py). 83 brands / 13 119 products on the site (18 Nov night; 112 in brands.json); no Russian names, UAH only.
-  Bags: slot "bag" (migration 009; kinds Сумка/Кросбоді/Шопер/Клатч/Рюкзак). Scarf brands: in data/database,
-  hidden on the site (no scarf slot; decide with the team).
+  import_brand_db.py -> embed.py -> classify_gender.py). 99 brands / 15 456 products on the site (19 Nov; 118 in brands.json); no Russian names, UAH only.
+  Slots: hat, scarf (010), outer, jacket, bag (009), top, dress, bottom, shoes. classify_color.py fills missing colours.
 - Alternatives stay within the item's kind (TYPE_GROUPS + title rules in backend/app/main.py), whole slot if < 3.
 - Feed: Жінкам / Чоловікам / Парам toggle (outfits.gender); couple outfits = two looks (outfit_items.person 1/2).
   Sort/colour filters in a «Фільтри» sheet. Header: saved ♡, profile (name, surname, phone in users), cart (cart_items).

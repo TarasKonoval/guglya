@@ -42,11 +42,11 @@ COLOR = {
 # "Светр зі швами, Soft Grey" came as green). The earliest colour word in the title is the item's colour.
 TITLE_COLORS = [
     (r"чорн|black", "black"),
-    (r"біл(ий|а|е|і)|white|молочн|milk|ivory|ecru|екрю|кремов|cream", "white"),
-    (r"сір(ий|а|е|і)|grey|gray|графіт|graphite|антрацит|меланж|melange", "grey"),
+    (r"біл(ий|а|е|і|ого|ої|ому|ій|их)|white|молочн|milk|ivory|ecru|екрю|кремов|cream", "white"),
+    (r"сір(ий|а|е|і|ого|ої|ому|ій|их)|grey|gray|графіт|graphite|антрацит|меланж|melange", "grey"),
     (r"беж|beige|пісочн|\bsand|camel|кемел", "beige"),
     (r"корич|brown|шоколад|chocolate|мокко|mocha|coffee", "brown"),
-    (r"син(ій|я|є|і)|\bblue|navy|блакит", "blue"),
+    (r"син(ій|я|є|і|ього|ьої|ьому|іх)|\bblue|navy|блакит", "blue"),
     (r"зелен|green|олив|olive|хакі|khaki|\bmoss|м.ятн|\bmint|смарагд|emerald", "green"),
     (r"червон|\bred\b", "red"),
     (r"бордо|burgundy|марсал|вишнев|cherry|\bwine", "burgundy"),
@@ -76,7 +76,7 @@ SCARF_HINT = re.compile(r"шарф|хустк|снуд|палантин|scarf|tw
 # also not bags, in a bag brand's untyped accessories
 NOT_BAG_BRAND = re.compile(r"органайзер|бальзам|крем|догляд|ремн|ремін|пасок|пояс|анклет|топсайдер|шнурк|набір|сертифікат|"
                            r"брелок|чохол|кошельок|візитниц|паспорт|ключ|підвіс|charm|strap|ремінець|cardholder|card holder|wallet", re.I)
-NOT_BAG = re.compile(r"гаман|wallet|картхолдер|кардхолдер|чохол|косметичк|ключниц|обкладинк|ремінь|брелок", re.I)
+NOT_BAG = re.compile(r"піал|чашк|горнят|кружк|посуд|свічк|аромат|гаман|wallet|картхолдер|кардхолдер|чохол|косметичк|ключниц|обкладинк|ремінь|брелок", re.I)
 
 
 def bag_kind(p: dict, brand: dict | None = None) -> str | None:
