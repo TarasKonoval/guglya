@@ -297,6 +297,7 @@
   const isT = (o, t) => { const y = o['@type']; return Array.isArray(y) ? y.includes(t) : y === t; };
   const meta = (doc, k) => { const m = doc.querySelector(`meta[property="${k}"],meta[name="${k}"],meta[itemprop="${k}"]`); return m ? m.getAttribute('content') : null; };
 
+  window.__parseProduct = (h, u) => parseProduct(h, u, []);  // debugging: parse one page from the console
   function parseProduct(html, url, menuLabels) {
     const doc = new DOMParser().parseFromString(html, 'text/html');
     const items = ldItems(doc);
@@ -307,7 +308,14 @@
     if (!crumbs.length) doc.querySelectorAll('[class*="breadcrumb" i] a,[class*="breadcrumb" i] span,nav[aria-label*="breadcrumb" i] a').forEach((a) => crumbs.push(clean(a.textContent)));
     doc.querySelectorAll('script,style,noscript,template,svg').forEach((e) => e.remove());
     const text = clean(doc.body ? doc.body.textContent : '');
-    let name = P && clean(P.name) || clean((doc.querySelector('h1') || {}).textContent) || clean((meta(doc, 'og:title') || '').split(/\s+[|–—]\s+|,\s*артикул|【|\s+-\s+купити/i)[0]);
+    // the product block (also used for prices, photos); its h1 is the name when there is no JSON-LD
+    const box0 = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i],[class*="product-page" i],[class*="product_page" i],[class*="product-card" i]') || doc.querySelector('main') || doc.body;
+    const wholePage = !box0 || box0 === doc.body || box0.tagName === 'MAIN';
+    const ogName = clean((meta(doc, 'og:title') || '').split(/\s+[|–—]\s+|,\s*артикул|【|\s+-\s+купити/i)[0]);
+    const titleName = clean((doc.title || '').split(/\s+[|–—]\s+|\s+-\s+[^-]{1,30}$|,\s*артикул|\s+-\s+купити/i)[0]);
+    let name = P && clean(P.name) || clean(((box0 && box0.querySelector('h1')) || {}).textContent)
+      || (wholePage && clean((doc.querySelector('h1') || {}).textContent)) || ogName || titleName
+      || clean((doc.querySelector('h1') || {}).textContent);
     const ogType = meta(doc, 'og:type') || '';
     let price = null, currency = null, inStock = null, sizes = [], colors = [];
     if (P) {
@@ -338,7 +346,6 @@
     if (!price && mdPrice) price = mdPrice;
     if (!currency) { const mc = doc.querySelector('[itemprop="priceCurrency"]'); currency = mc && (mc.getAttribute('content') || mc.textContent.trim()) || null; }
     if (inStock == null) { const ma = doc.querySelector('[itemprop="availability"]'); if (ma) inStock = /InStock|PreOrder/i.test(ma.getAttribute('href') || ma.getAttribute('content') || ''); }
-    const box0 = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i],[class*="product-page" i],[class*="product_page" i],[class*="product-card" i]') || doc.querySelector('main') || doc.body;
     if (!price && box0) {
       for (const e of box0.querySelectorAll('[class*="price" i]')) {
         if (/old|compare|regular|before|was|cross/i.test(e.className)) continue;
@@ -349,9 +356,14 @@
     if (!price) { const og = (meta(doc, 'og:title') || '') + ' ' + (meta(doc, 'og:description') || ''); const m2 = og.match(/(\d[\d\s\u00a0]{1,8})\s*(₴|грн|uah)/i); if (m2) price = num(m2[1]); }
     if (!name) name = clean((meta(doc, 'og:title') || '').split(/\s+[|–—]\s+|,\s*артикул|【|\s+-\s+купити/i)[0]);
     if (!name || !price) return null;
-    const urlLooksProduct = /\/(product|products|product-page|p|tovar|tovary|goods|item|catalog\/[^/]+\/[^/]+)\/[^/]+/i.test(new URL(url).pathname);
+    const urlLooksProduct = /\/(product|products|product-page|p|tovar|tovary|goods|item|catalog\/[^/]+\/[^/]+)\/[^/]+/i.test(new URL(url).pathname)
+      || /route=product\/product/i.test(url);  // OpenCart without SEO URLs
     const hasSizePicker = !!doc.querySelector('input[name*="size" i],select[name*="size" i],input[name*="rozm" i],[class*="size-product" i]');
-    if (!P && !/product/i.test(ogType) && !wixReg && !meta(doc, 'product:price:amount') && !md && !urlLooksProduct && !hasSizePicker) return null;
+    // custom / OpenCart shops without JSON-LD or og:type: a buy button or a product id in a form marks a product page
+    // (category pages have many "to cart" buttons, one per card; a product page has one)
+    const buy = doc.querySelectorAll('form[action*="cart" i],#button-cart,[id*="button-cart" i],input[name="product_id"],button[name="add-to-cart"],[class*="add-to-cart" i],[class*="addtocart" i],[class*="add_to_cart" i],[class*="btn-cart" i],[class*="buy-button" i],[class*="btn-buy" i]');
+    const hasBuy = buy.length >= 1 && buy.length <= 3;
+    if (!P && !/product/i.test(ogType) && !wixReg && !meta(doc, 'product:price:amount') && !md && !urlLooksProduct && !hasSizePicker && !hasBuy) return null;
     // розміри з DOM
     if (!sizes.length) {
       const box = doc.querySelector('form[action*="cart" i]') || doc.querySelector('[class*="product-info" i],[class*="product__info" i],[class*="product-detail" i],[class*="product_info" i],[class*="productinfo" i]') || doc.querySelector('main');
@@ -377,6 +389,23 @@
     const imgs = [];
     if (P && P.image) [].concat(P.image).forEach((i) => imgs.push(typeof i === 'string' ? i : i && (i.url || i.contentUrl)));
     doc.querySelectorAll('meta[property="og:image"]').forEach((m) => imgs.push(m.getAttribute('content')));
+    if (!imgs.filter(Boolean).length) {
+      // no JSON-LD / og:image (OpenCart & custom shops): the product gallery
+      const scope = (!wholePage && box0) || doc;
+      const pick = (e) => e.getAttribute('data-zoom-image') || e.getAttribute('data-large') || e.getAttribute('data-src') || e.getAttribute('src');
+      const sel = '[itemprop="image"],#gallery-main-image,[id*="main-image" i],[id*="product" i][id*="img" i],[class*="gallery" i] img,[class*="product-image" i] img,[class*="product__image" i] img,[class*="product-photo" i] img,[class*="product-img" i] img,[class*="slider" i] img,[class*="swiper" i] img,img[data-zoom-image]';
+      // images whose alt is the product name are the product's own photos (not related products / banners)
+      const key = (t) => clean(t).toLowerCase().slice(0, 18);
+      const byAlt = name ? [...doc.querySelectorAll('img[alt]')].filter((e) => { const a = key(e.getAttribute('alt') || ''); return a.length >= 5 && (a.startsWith(key(name)) || key(name).startsWith(a)); }) : [];
+      const found = [...byAlt, ...scope.querySelectorAll(sel), ...(scope === doc ? [] : doc.querySelectorAll(sel))]
+        .map((e) => (e.tagName === 'META' ? e.getAttribute('content') : pick(e)))
+        .filter((u) => u && !/logo|icon|sprite|\.svg|facebook|pixel|banner|placeholder|data:image/i.test(u));
+      // a gallery thumbnail -> the biggest version of the same file on the page (120x120_<hash>.jpg -> 1200x1200_<hash>.jpg)
+      const all = [...html.matchAll(/(?:src|href|data-[a-z-]+)=["']([^"']+\.(?:jpe?g|png|webp)[^"']*)["']/gi)].map((m) => m[1]);
+      const dims = (u) => Math.max(0, ...[...u.matchAll(/(\d{2,4})x(\d{2,4})/g)].map((m) => +m[1] * +m[2]));
+      const big = (u) => { const tail = (u.split('/').pop() || '').replace(/^\d{2,4}x\d{2,4}[^_]*_/, ''); const same = all.filter((v) => tail.length > 8 && v.endsWith(tail)); return same.sort((x, y) => dims(y) - dims(x))[0] || u; };
+      imgs.push(...uniq(found.map(big)).slice(0, 6));
+    }
     const photos = imgs.filter(Boolean).map((s) => s.split('/v1/')[0]);
     let description = P && P.description ? P.description : null;
     const wixDesc = text.match(/Про товар\s*(.{20,1500}?)(?=\s*(Про догляд|Доставка|СУПУТНІ|$))/);

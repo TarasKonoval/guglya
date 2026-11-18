@@ -1,0 +1,2358 @@
+{
+  "_meta": {
+    "brand": "Lilcorner",
+    "brand_id": "lilcorner",
+    "site": "https://www.lilcorner.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "generic",
+    "count": 99,
+    "found": 99,
+    "candidates": 108,
+    "checked": 108,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "lilcorner-vkorocheniy-chorniy-trench-178",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Вкорочений чорний тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/vkorocheniy-chorniy-trench-178",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 7900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Short%20trench%20coat%20and%20capri%20pants/IMG_8350-600x315.jpg"
+      ],
+      "description": "Вкорочений тренч у чорному кольорі створений для сучасної жінки, яка цінує стиль і свободу. Чітка лінія плеча надає образу сили, відкладний комір із лацканами додає класичної вишуканості, а пояс акцентує талію.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-podovzheniy-satinoviy-trench-244",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Подовжений сатиновий тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/podovzheniy-satinoviy-trench-244",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5049-600x315.jpeg"
+      ],
+      "description": "Подовжений чорний тренч із щільного віскозного сатину-атласу з делікатним блиском. Вільний крій, виразні лацкани та пояс створюють чистий силует, який можна змінювати залежно від настрою й образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-podovzheniy-bezheviy-trench-71",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Подовжений бежевий тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/podovzheniy-bezheviy-trench-71",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Outerwear/IMG_8739-600x315.JPG"
+      ],
+      "description": "Подовжений двобортний тренч бежевого кольору з поясом та чіткою лінією плеча – стильний та універсальний вибір для весни й осені.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-bomber-na-khutr-graf-toviy-186",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Бомбер на хутрі графітовий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/bomber-na-khutr-graf-toviy-186",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/osin%202025%20kurtky/IMG_3792-600x315.JPG"
+      ],
+      "description": "Бомбер на м’якому штучному хутрі — поєднання тепла, комфорту й архітектурної точності ліній. Стриманий графітовий відтінок і чітка форма створюють сучасний міський силует.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-vkorocheniy-trench-bez-rukav-v-206",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Вкорочений тренч без рукавів",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/vkorocheniy-trench-bez-rukav-v-206",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6882-600x315.JPG"
+      ],
+      "description": "Вкорочений тренч без рукавів у пісочному кольорі з чіткою лінією плеча, погонами та поясом для акценту на талії. Двобортна застібка та бічні кишені створюють сучасний і структурний силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-podovzheniy-chorniy-trench-179",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Подовжений чорний тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/podovzheniy-chorniy-trench-179",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Black%20Long%20Trench/IMG_8352-600x315.jpg"
+      ],
+      "description": "Чітка лінія плеча створює впевненість, відкладний комір із лацканами додає елегантності, а пояс на талії формує витончений силует. Двобортна застібка робить фасон виразним, залишаючи свободу для власного стилю.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-vkorocheniy-bezheviy-trench-70",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Вкорочений бежевий тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/vkorocheniy-bezheviy-trench-70",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 7900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Outerwear/IMG_87411-600x315.JPG"
+      ],
+      "description": "Вкорочений двобортний тренч бежевого кольору з поясом та чіткою лінією плеча – стильний та універсальний варіант для демісезонних образів.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-trench-z-ekoshk-ri-shokoladniy-255",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Тренч з екошкіри шоколадний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/trench-z-ekoshk-ri-shokoladniy-255",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 8900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5046-600x315.jpeg"
+      ],
+      "description": "Шоколадний тренч з екошкіри з виразним об’ємом у нижній частині. Вільна форма, широкі лацкани та пояс створюють сильний силует, який можна залишити розслабленим або підкреслити по талії.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shuba-z-ekokhutra-u-graf-tovomu-kolor-192",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шуба з екохутра у графітовому кольорі",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/shuba-z-ekokhutra-u-graf-tovomu-kolor-192",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Шуба",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 9520,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3465-600x315.JPG"
+      ],
+      "description": "Графітова шуба з екохутра створена для тепла та м’якого тактильного комфорту. Модель має довжину до стегна, утеплену підкладку та функціональні кишені — ідеальний вибір для холодного сезону.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-kurtka-z-kom-rom-st-ykoyu-253",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Куртка з коміром-стійкою",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/kurtka-z-kom-rom-st-ykoyu-253",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5061-600x315.jpg"
+      ],
+      "description": "Сатинова куртка в шоколадному відтінку з виразним коміром-стійкою та м’яким блиском тканини. Вільний силует можна змінювати за допомогою регуляторів на талії, створюючи більш розслаблену або підкреслено жіночну посадку.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-kurtka-bomber-z-ekoshk-ri-211",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Куртка-бомбер з екошкіри",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/kurtka-bomber-z-ekoshk-ri-211",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6888-600x315.JPG"
+      ],
+      "description": "Чорна куртка-бомбер з преміальної екошкіри з обʼємним силуетом, погонами на плечах та застібкою на блискавку і кнопки. Сучасна інтерпретація класичного бомбера.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-bezheviy-bomber-na-ekokhutr-257",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Бежевий бомбер на екохутрі",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/bezheviy-bomber-na-ekokhutr-257",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5058-600x315.jpg"
+      ],
+      "description": "Теплий бомбер вільного силуету з м’якою підкладкою з екохутра. Контрастний хутряний комір і виразний об’єм роблять модель акцентною, а нейтральний бежевий відтінок легко вписується в повсякденний гардероб.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-ukorocheniy-satinoviy-trench-261",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Укорочений сатиновий тренч",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/ukorocheniy-satinoviy-trench-261",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Тренч",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5051-600x315.jpeg"
+      ],
+      "description": "Укорочений чорний тренч із щільного віскозного сатину-атласу. М’який блиск тканини зустрічається з виразною конструкцією, а пояс дозволяє змінювати силует від вільного до більш акцентного на талії.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-shirokogo-kroyu-molochn-205",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани широкого крою молочні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-shirokogo-kroyu-molochn-205",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6894-600x315.JPG"
+      ],
+      "description": "Молочні штани широкого крою з середньою посадкою, функціональними бічними кишенями та шльовками для ременя. Лаконічний силует і м’яка костюмна тканина створюють комфортний і стильний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sportivniy-kostyum-molochniy-143",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спортивний костюм молочний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/sportivniy-kostyum-molochniy-143",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Спортивний костюм",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3430,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Costumes/IMG_3855-600x315.JPG"
+      ],
+      "description": "Молочний спортивний костюм із преміум тканини з ефектом велюру. Укорочений зіп-худі та прямі штани з кишенями для комфорту в будь-який сезон.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-v-yazane-polo-molochnogo-koloru-188",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Вʼязане поло молочного кольору",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/futbolki/v-yazane-polo-molochnogo-koloru-188",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3510,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3473-600x315.JPG"
+      ],
+      "description": "Вʼязане поло з натуральної віскози створює ніжний силует та комфортне прилягання. М’яка фактура, довгий рукав і застібка на ґудзики формують лаконічний, вишуканий образ.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-shtani-palatstso-u-smuzhku-s-r-176",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани-палаццо у смужку сірі",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-palatstso-u-smuzhku-s-r-176",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2480,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Striped%20vest%20and%20pants/IMG_8349-600x315.JPG"
+      ],
+      "description": "Темно-сірі штани-палаццо у смужку створені для тих, хто цінує елегантність у поєднанні з комфортом. Висока посадка підкреслює талію, прямий крій забезпечує свободу рухів, а смугастий принт додає динаміки силуету.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-suknya-z-shleyfom-88",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сукня зі шлейфом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sukn/suknya-z-shleyfom-88",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3920,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/Dress%20with%20a%20train/50008949-600x315.png"
+      ],
+      "description": "М'який в'язаний трикотаж, витончений силует та шлейф, що додає образу особливої динаміки та жіночності.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-chorn-shtani-alad-ni-z-manzhetami-214",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Чорні штани-аладіни з манжетами",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/chorn-shtani-alad-ni-z-manzhetami-214",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6921-600x315.JPG"
+      ],
+      "description": "Чорні штани-аладіни з вільним кроєм, м’якими складками та манжетами внизу. Середня посадка, функціональні кишені та лаконічний силует створюють сучасний і комфортний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-atlasn-shtani-rozhev-223",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Атласні штани рожеві",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/atlasn-shtani-rozhev-223",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6936-600x315.JPG"
+      ],
+      "description": "Рожеві атласні штани вільного крою із середньою посадкою. Еластичний пояс, м’які складки та легкий силует створюють чуттєвий і комфортний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-satinov-chorn-260",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Мінішорти сатинові чорні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-satinov-chorn-260",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5053-600x315.jpeg"
+      ],
+      "description": "Чорні мінішорти з щільного віскозного сатину-атласу з делікатним блиском. Низька посадка та широкий пояс підкреслюють лінію стегон і створюють виразний мінімалістичний силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shk-ryan-shtani-z-dekorativnimi-zav-yazkami-chorn-201",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шкіряні штани з декоративними зав’язками чорні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shk-ryan-shtani-z-dekorativnimi-zav-yazkami-chorn-201",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3485,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3462-600x315.JPG"
+      ],
+      "description": "Чорні штани з екошкіри з декоративними зав’язками створені для образів, де хочеться структури, характеру й лаконічної драматичності. Висока посадка, прямий крій та гладка фактура підкреслюють силует і додають образу впевненості.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-v-yazane-polo-graf-tovogo-koloru-189",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "В’язане поло графітового кольору",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/futbolki/v-yazane-polo-graf-tovogo-koloru-189",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3510,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3471-600x315.JPG"
+      ],
+      "description": "В’язане поло з натуральної віскози у графітовому кольорі створює стриманий, елегантний силует. Мʼякий трикотаж, облягаючий крій і лаконічна застібка на ґудзики додають образу глибини та структури.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-shorti-na-seredn-y-posadts-152",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шорти на середній посадці",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/shorti-na-seredn-y-posadts-152",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Shorts/IMG_2665-600x315.JPG"
+      ],
+      "description": "Лаконічна довжина міні, зручна посадка та бокові кишені — ці шорти створені для стильних літніх поєднань.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-atlasn-shtani-shokoladn-224",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Атласні штани шоколадні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/atlasn-shtani-shokoladn-224",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6931-600x315.JPG"
+      ],
+      "description": "Шоколадні атласні штани вільного крою із середньою посадкою. Еластичний пояс, м’які складки та комфортний силует для щоденного і вечірнього образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-m-d-z-ekokhutra-pon-258",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця міді з екохутра поні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-m-d-z-ekokhutra-pon-258",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5056-600x315.jpeg"
+      ],
+      "description": "Чорна спідниця з фактурного екохутра поні з посадкою на талії. Прямий силует і графічні шви підкреслюють конструкцію моделі та перетворюють лаконічну форму на виразний акцент образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-z-dekorativnimi-zav-yazkami-bordov-199",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани з декоративними зав’язками бордові",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-z-dekorativnimi-zav-yazkami-bordov-199",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3315,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3456-600x315.JPG"
+      ],
+      "description": "Штани у глибокому бордовому відтінку створені для тих, хто цінує лаконічність з елегантним акцентом. Висока посадка, прямий крій та декоративні бічні зав’язки формують силует, який виглядає витончено та сучасно.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-shorti-z-merezhivom-210",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шорти з мереживом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/shorti-z-merezhivom-210",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6886-600x315.JPG"
+      ],
+      "description": "Пісочні міні-шорти з преміальної віскози з делікатним французьким мереживом шантільї. Прямий крій і мінімалістичний принт у горох створюють легкий і витончений силует.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-kapr-bryuchnogo-kroyu-252",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Капрі брючного крою",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/kapr-bryuchnogo-kroyu-252",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5063-600x315.jpeg"
+      ],
+      "description": "Чорні капрі приталеного силуету з костюмної тканини. Чиста лінія крою, середня посадка та делікатні розрізи внизу створюють стриманий образ із легким акцентом на пропорції.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-zhaket-bez-rukav-v-z-vuzlovimi-zav-yazkami-molochniy-212",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Жакет без рукавів з вузловими завʼязками молочний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/zhaket-bez-rukav-v-z-vuzlovimi-zav-yazkami-molochniy-212",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6923-600x315.JPG"
+      ],
+      "description": "Молочний жакет без рукавів з приталеним силуетом, вузловими застібками ручної роботи та коміром-стійкою. Чітка форма і делікатні деталі створюють сучасний елегантний образ.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-vkorocheniy-zhaket-z-ekokhutra-chorniy-193",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Вкорочений жакет з екохутра чорний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/vkorocheniy-zhaket-z-ekokhutra-chorniy-193",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_9993-2-600x315.jpg"
+      ],
+      "description": "Укорочений жакет з екохутра створений як акцентна деталь образу — м’який, легкий та тактильно приємний. Довжина до талії формує жіночний силует, а атласна підкладка додає розкоші у кожному русі. Застібка на крючок зберігає чистоту ліній та мінімал",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-molochn-66",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Міні-шорти молочні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-molochn-66",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1760,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Shorts/IMG_8735-600x315.JPG"
+      ],
+      "description": "Молочні міні-шорти прямого крою з шльовками для ременя та потайною блискавкою. Ідеальні для літніх образів у стилі Lilcorner.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-atlasn-shtani-alad-ni-molochn-216",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Атласні штани-аладіни молочні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/atlasn-shtani-alad-ni-molochn-216",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6926-600x315.JPG"
+      ],
+      "description": "Молочні атласні штани-аладіни з вільним кроєм, м’якими складками та манжетами внизу. Середня посадка, кишені та текуча фактура створюють легкий і чуттєвий силует.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-zhilet-ta-sp-dnitsya-batter-148",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Жилет та спідниця баттер",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/l-tn-kostyumi/zhilet-ta-sp-dnitsya-batter-148",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/5-600x315.jpg"
+      ],
+      "description": "Ніжний комплект у кольорі баттер з костюмної тканини. Жилет з відкритою спиною та спідниця з прихованими шортами для елегантного та зручного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-kardigan-z-bliskavkoyu-z-vovni-yagnyati-247",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Кардиган із блискавкою із вовни ягняти",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/kardigan-z-bliskavkoyu-z-vovni-yagnyati-247",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Кардиган",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5073-600x315.jpg"
+      ],
+      "description": "Теплий кардиган вільного крою з щільного трикотажу на основі вовни ягняти. Високий комір-стійка та двостороння блискавка дозволяють змінювати силует і настрій образу одним рухом.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-kostyum-z-vovni-yagnyati-s-riy-190",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Костюм із вовни ягняти сірий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/kostyum-z-vovni-yagnyati-s-riy-190",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3469-600x315.JPG"
+      ],
+      "description": "Сірий костюм із кардиганом із вовни ягняти створений для тепла й комфорту. Прямий силует, довгі рукава та м’яка фактура формують спокійний, елегантний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-z-shch-lnoi-vovni-yagnyati-246",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани із щільної вовни ягняти",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/shtani-z-shch-lnoi-vovni-yagnyati-246",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5072-600x315.jpg"
+      ],
+      "description": "Теплі трикотажні штани прямого вільного крою з вовною ягняти у складі. Середня посадка та еластичний пояс створюють комфортну посадку, зберігаючи чисту й витягнуту лінію силуету.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-atlasniy-komplekt-rozheviy-z-v-dkritoyu-spinoyu-220",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Атласний комплект рожевий з відкритою спиною",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/l-tn-kostyumi/atlasniy-komplekt-rozheviy-z-v-dkritoyu-spinoyu-220",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 5600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/3-600x315.jpg"
+      ],
+      "description": "Рожевий атласний комплект з топом із відкритою спиною та міні-спідницею. Декоративні зав’язки, приталений силует і вшиті шорти формують виразний і жіночний образ.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-shtani-z-satinu-234",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани з сатину",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-z-satinu-234",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8628%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Жовті штани з дабл сатину з прямим кроєм, посадкою на стегнах та еластичним поясом. М’який блиск тканини й вільна лінія силуету створюють легкий, розслаблений образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-z-merezhiva-229",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани з мережива",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-z-merezhiva-229",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8511-600x315.jpg"
+      ],
+      "description": "Молочні штани з мережива з вбудованими лляними мінішортами, вільним кроєм і м’яким О-силуетом. Зав’язки по низу штанин дозволяють змінювати форму та додають образу легкої динаміки.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sorochka-u-smuzhku-oversayz-173",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сорочка у смужку оверсайз",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sorochki/sorochka-u-smuzhku-oversayz-173",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3120,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Striped%20shirt%20and%20pants/IMG_8346-600x315.jpg"
+      ],
+      "description": "Сорочка у смужку з костюмної тканини у вільному оверсайз крої. Довгі рукави з широкими манжетами, класична планка на ґудзиках та накладна нагрудна кишеня створюють відчуття легкої елегантності. Смугастий принт додає графічності та динаміки образу,",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-231",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Мінішорти",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-231",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8521%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Молочні мінішорти з костюмної тканини з посадкою на стегнах, широкими шльовками для ременя та застібкою на блискавку спереду. Мінідовжина створює відкритий, легкий силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shorti-bermudi-chorn-165",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шорти-бермуди чорні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/shorti-bermudi-chorn-165",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/Cape%20and%20Bermuda/IMG_8336-600x315.jpg"
+      ],
+      "description": "Чорні шорти-бермуди з костюмної тканини з високою посадкою, трапецієвидним кроєм і застібкою на потаємну блискавку. Ідеальний вибір для стильного повсякденного або офісного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-suknya-maks-z-payetok-236",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сукня максі з паєток",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sukn/suknya-maks-z-payetok-236",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8568-600x315.jpg"
+      ],
+      "description": "Бежева сукня максі з паєток із приталеним силуетом, відкритою спинкою та тонкими бретелями. М’яка сітчаста підкладка по всій довжині створює комфорт, а непрозора конструкція зберігає впевненість у русі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-tv-dov-shtani-molochn-208",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Твідові штани молочні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/tv-dov-shtani-molochn-208",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6890-600x315.JPG"
+      ],
+      "description": "Молочні штани широкого крою з фактурної тканини твід шанель. Середня посадка, бічні кишені та лаконічний силует створюють елегантний і сучасний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-z-ekoshk-ri-chorniy-80",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет з екошкіри чорний Sold out",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-z-ekoshk-ri-chorniy-80",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2730,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Jackets/IMG_2379-600x315.JPG"
+      ],
+      "description": "Однобортний крій, приталений силует, V-подібний виріз і бічні накладні кишені створюють елегантний та універсальний образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-z-ekoshk-ri-shokoladniy-79",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет з екошкіри шоколадний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-z-ekoshk-ri-shokoladniy-79",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2730,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Jackets/IMG_2383-600x315.JPG"
+      ],
+      "description": "Однобортний крій із V-подібним вирізом, приталений силует і довгий рукав. Бічні накладні кишені та застібка на ґудзик підкреслюють лаконічність і елегантність.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-molochniy-171",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет молочний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-molochniy-171",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 5100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/IMG_8516-600x315.JPG"
+      ],
+      "description": "Приталений піджак з костюмної тканини молочного кольору. Акцент на талії, підплічники та застібка на ґудзики створюють елегантний та впевнений образ.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-molochn-uteplen-74",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Міні-шорти молочні утеплені",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-molochn-uteplen-74",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Shorts/IMG_1079-600x315.JPG"
+      ],
+      "description": "Молочні утеплені міні-шорти з потайною блискавкою та шльовками для ременя. Теплі, стильні та універсальні для зимових луків.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-zhilet-u-smuzhku-s-riy-175",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Жилет у смужку сірий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/zhilet-u-smuzhku-s-riy-175",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 3120,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Striped%20vest%20and%20pants/IMG_8348-600x315.JPG"
+      ],
+      "description": "Жилет у смужку темно-сірого відтінку створений для жінок, які цінують силу лінії та витонченість деталей. Приталений крій підкреслює талію, а підплічники формують структурний силует. Смугастий принт додає графічності й робить образ динамічним. Зас",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-nap-vprozor-kapr-254",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Напівпрозорі капрі",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/nap-vprozor-kapr-254",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5048-600x315.jpeg"
+      ],
+      "description": "Напівпрозорі капрі з еластичної стрейч-сітки у глибокому шоколадному відтінку. М’яко повторюють лінії тіла та додають образу чуттєвості, залишаючись легкою деталлю для багатошарових стилізацій.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-graf-tov-uteplen-202",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Міні-шорти графітові утеплені",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-graf-tov-uteplen-202",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2040,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3472-600x315.JPG"
+      ],
+      "description": "Графітові утеплені мінішорти створені для стильних зимових образів. Пальтова тканина, потайна блискавка та шльовки для ременя забезпечують комфорт, теплоту й лаконічний силует навіть у холодний сезон.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-m-n-shorti-chorn-67",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Міні-шорти чорні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-chorn-67",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Shorts/IMG_8733-600x315.JPG"
+      ],
+      "description": "Базові чорні міні-шорти з потайною блискавкою та шльовками для ременя. Ідеальні для створення стильного літнього образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-v-kl-tinku-256",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани в клітинку",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-v-kl-tinku-256",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5059-600x315.jpeg"
+      ],
+      "description": "Прямі штани з костюмної віскози в дрібну коричневу клітинку. Чіткі стрілки витягують силует, а середня посадка та щільна тканина створюють зібраний образ без відчуття надмірної формальності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-z-dekorativnimi-zav-yazkami-chorn-200",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани з декоративними зав’язками чорні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shtani/shtani-z-dekorativnimi-zav-yazkami-chorn-200",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3315,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3459-600x315.JPG"
+      ],
+      "description": "Чорні штани з декоративними зав’язками — це стриманий мінімалізм із виразним акцентом. Висока посадка, чисті лінії та легка асиметрія бічних зав’язок формують сучасний силует, який легко інтегрується в будь-який гардероб.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-m-n-shorti-s-r-uteplen-75",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Міні-шорти сірі утеплені",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-s-r-uteplen-75",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Shorts/IMG_1083-600x315.JPG"
+      ],
+      "description": "Утеплений дизайн, міні-довжина, потайна застібка-блискавка, шльовки для ременя — поєднання тепла, зручності та стилю в одному виробі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-set-u-gorokh-235",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сет у горох",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/l-tn-kostyumi/set-u-gorokh-235",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/1-600x315.jpg"
+      ],
+      "description": "Чорний сет у білий горох із топом із зав’язкою на шиї та асиметричною спідницею. Драпірування, глибокий V-подібний виріз і декоративний бант збоку створюють жіночний силует із легким ретро-настроєм.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-suknya-asimetrichna-239",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сукня асиметрична",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/suknya-asimetrichna-239",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8456-600x315.jpg"
+      ],
+      "description": "Блакитна асиметрична сукня з шифону з силуетом на одне плече та подовженим рукавом-кейпом. Мінідовжина додає образу легкості, а застібка на ґудзик по спинці зберігає чистоту форми.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-keyp-molochniy-164",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Кейп молочний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sorochki/keyp-molochniy-164",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/Cape%20and%20Bermuda/IMG_8355-600x315.jpg"
+      ],
+      "description": "Молочний кейп із креп-шифону з подвійною тканиною, коміром-стійкою та подовженим шарфовим елементом. Ідеальний для вечірнього виходу або як акцентна деталь образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shk-ryana-sp-dnitsya-z-rozr-zom-bordova-197",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шкіряна спідниця з розрізом бордова",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/shk-ryana-sp-dnitsya-z-rozr-zom-bordova-197",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3451-600x315.JPG"
+      ],
+      "description": "Бордова шкіряна спідниця з екошкіри — це сміливий, але витончений акцент у гардеробі. Висока посадка, чисті лінії та ефектний розріз створюють силует, який підкреслює жіночність і дарує впевненість у кожному русі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-m-n-z-payetkami-160",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-міні з паєтками",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnitsya-m-n-z-payetkami-160",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Skirts/IMG_1021-600x315.JPG"
+      ],
+      "description": "Прямий крій, зручна посадка та підкладка для комфорту — мерехтливі паєтки створюють виразний акцент у святкових і вечірніх образах.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-pl-se-chorna-170",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця плісе чорна",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-pl-se-chorna-170",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/Top%20vest%20and%20skirts/IMG_8342-600x315.jpg"
+      ],
+      "description": "Чорна спідниця плісе з костюмної тканини у довжині міні. Висока посадка, акуратні плісировки та застібка на потаємну блискавку створюють виразний та елегантний силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-shorti-z-payetok-rozheva-240",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-шорти з паєток рожева",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-shorti-z-payetok-rozheva-240",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8552%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Рожева спідниця-шорти з паєток із вбудованими сатиновими мінішортами та підкладкою. Мінідовжина відкриває силует, а мерехтлива фактура додає образу світла й виразності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-m-n-z-shortami-chorna-96",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-міні з шортами чорна",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-m-n-z-shortami-chorna-96",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Skirts/IMG_9557-600x315.JPG"
+      ],
+      "description": "Міні довжина та вшиті шорти створюють баланс стилю та комфорту, а зручна посадка дозволяє почуватися впевнено в будь-якій ситуації.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-shorti-z-payetok-chorna-241",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-шорти з паєток чорна",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnitsya-shorti-z-payetok-chorna-241",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8544%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Чорна спідниця-шорти з паєток із вбудованими сатиновими мінішортами та підкладкою. Мінідовжина відкриває силует, а мерехтлива фактура додає образу глибини, світла й вечірньої виразності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shk-ryana-sp-dnitsya-z-rozr-zom-shokoladna-198",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Шкіряна спідниця з розрізом шоколадна",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shk-ryana-sp-dnitsya-z-rozr-zom-shokoladna-198",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3453-600x315.JPG"
+      ],
+      "description": "Шоколадна спідниця з екошкіри — це поєднання стриманої чуттєвості та чистоти ліній. Висока посадка, акуратний розріз і гладка фактура матеріалу створюють силует, що підкреслює форму та додає впевненості у кожному кроці.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-m-n-z-shortami-molochna-98",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-міні з шортами молочна",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-m-n-z-shortami-molochna-98",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/sammer25_dodatkovi/IMG_9579%20(4)-600x315.JPG"
+      ],
+      "description": "Легка модель з вшитими шортами та зручною посадкою, що забезпечує комфорт і свободу рухів, зберігаючи жіночність силуету.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-shorti-bezheva-141",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-шорти бежева",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-shorti-bezheva-141",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1680,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Skirts/IMG_3860-600x315.JPG"
+      ],
+      "description": "Бежеві спідниця-шорти міні з високою посадкою та застібкою на потаємну блискавку збоку. Лаконічний та стильний вибір для сучасного гардеробу.",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-bordoviy-194",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет бордовий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-bordoviy-194",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 5015,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3454-600x315.JPG"
+      ],
+      "description": "Бордовий приталений жакет із мінімалістичним дизайном створений для образів, де важлива чистота ліній та акцент на силуеті. Модель без лацканів, зі шовковою підкладкою та прихованими кнопками виглядає лаконічно та дорого, підкреслюючи природну еле",
+      "care": null,
+      "collections": [
+        "Black Friday"
+      ]
+    },
+    {
+      "id": "lilcorner-suknya-m-n-z-atlasu-z-v-dkritoyu-spinoyu-161",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Сукня міні з атласу з відкритою спиною",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/suknya-m-n-z-atlasu-z-v-dkritoyu-spinoyu-161",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Dresses/IMG_2657-600x315.JPG"
+      ],
+      "description": "Легка, зручна та приємна на дотик, з елегантним V-вирізом і відкритою спиною на завʼязках для витонченого літнього образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-m-d-z-rozr-zom-62",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця міді з розрізом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-m-d-z-rozr-zom-62",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2320,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Skirts/IMG_8737-600x315.JPG"
+      ],
+      "description": "Класична міді-спідниця прямого крою з акцентним розрізом. Потайна блискавка, шльовки для ременя – ідеально для офісу чи вечірнього образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-chorniy-203",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет чорний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-chorniy-203",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3454%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-600x315.JPG"
+      ],
+      "description": "Чорний жакет із чіткою посадкою підкреслює фігуру та створює стриманий, витончений образ. Відсутність лацканів, гладка шовкова підкладка й акуратно заховані застібки надають моделі елегантності та відчуття високої якості.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-kostyum-z-topom-u-kolor-graf-t-191",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Костюм із топом у кольорі графіт",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/kostyum-z-topom-u-kolor-graf-t-191",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 9900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3467-600x315.JPG"
+      ],
+      "description": "Графітовий костюм із топом з високою горловиною створений із натуральної вовни ягняти, що дарує тепло й м’якість. Прямий силует та елегантний комір формують стриманий, сучасний образ, який легко інтегрується у щоденний стиль.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-pritaleniy-zhaket-v-kl-tinku-251",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Приталений жакет в клітинку",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/zhaketi/pritaleniy-zhaket-v-kl-tinku-251",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5067-600x315.jpeg"
+      ],
+      "description": "Приталений жакет із щільної костюмної віскози в дрібну клітинку. Виразна лінія плечей і підкреслена талія створюють сильний жіночний силует, у якому класичний крій звучить сучасно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-shorti-v-kl-tinku-250",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця-шорти в клітинку",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-shorti-v-kl-tinku-250",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5069-600x315.jpeg"
+      ],
+      "description": "Мініспідниця-шорти з щільної костюмної віскози в дрібну клітинку. Зовні виглядає як лаконічна мініспідниця, а вбудовані шорти додають свободи руху та впевненості у кожному кроці.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-m-n-shorti-satinov-230",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Мінішорти сатинові",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/m-n-shorti-satinov-230",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8624%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Жовті сатинові мінішорти з подвійної тканини, посадкою на стегнах і застібкою на блискавку спереду та гачки. Мінідовжина відкриває силует, а шльовки для ременя додають структурного акценту.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-keyp-z-merezhiva-227",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Кейп з мережива",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sorochki/keyp-z-merezhiva-227",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8497%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Молочний кейп з мережива з прозорою конструкцією, коміром-стійкою та застібкою на ґудзик на шиї. Вільний крій додає образу легкості й створює м’який акцент у силуеті.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-sp-dnitsya-pl-se-b-la-169",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Спідниця плісе біла",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/sp-dnits/sp-dnitsya-pl-se-b-la-169",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/prod/Top%20vest%20and%20skirts/IMG_8340-600x315.jpg"
+      ],
+      "description": "Біла спідниця плісе з костюмної тканини у довжині міні. Висока посадка, акуратні складки та застібка на потаємну блискавку створюють витончений силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-chorn-kapr-177",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Чорні капрі",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/shorti/chorn-kapr-177",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Short%20trench%20coat%20and%20capri%20pants/IMG_8354-600x315.jpg"
+      ],
+      "description": "Чорні капрі з мікрофібри — універсальна річ для сучасного гардеробу. Приталений крій підкреслює силует, довжина нижче коліна додає витонченості, а тканина приємна на дотик і забезпечує комфорт упродовж дня.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-shtani-z-vovni-yagnyati-molochn-248",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Штани із вовни ягняти молочні",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/shtani-z-vovni-yagnyati-molochn-248",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 5300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5074-600x315.jpeg"
+      ],
+      "description": "Теплі штани прямого крою з щільного трикотажу на основі вовни ягняти. Середня посадка та еластичний пояс забезпечують комфорт, а лаконічний силует легко переходить від розслабленого до більш зібраного образу.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-korsetniy-top-satinoviy-232",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Корсетний топ сатиновий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/korsetniy-top-satinoviy-232",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Корсет",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8596%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Жовтий сатиновий корсетний топ з відкритою спинкою, глибоким V-подібним вирізом і застібкою на блискавку по спині. Сатиновий шарф у комплекті додає образу завершеності та м’якого акценту.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-trikotazhniy-longsl-v-z-visokim-kom-rom-259",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Трикотажний лонгслів із високим коміром",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/trikotazhniy-longsl-v-z-visokim-kom-rom-259",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5055-600x315.jpg"
+      ],
+      "description": "Чорний приталений лонгслів із м’якого еластичного трикотажу. Високий комір і рукави до ліктя створюють чистий графічний силует, а тканина м’яко адаптується до фігури.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-longsl-v-nap-vprozoriy-bordoviy-195",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Лонгслів напівпрозорий бордовий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/longsl-v-nap-vprozoriy-bordoviy-195",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3450-600x315.JPG"
+      ],
+      "description": "Напівпрозорий бордовий лонгслів створений для тих, хто любить легкість, рух і чуттєві форми. Облягаючий силует, м’яка стрейч-сітка та характерний виріз для пальця роблять модель вишуканим акцентом у гардеробі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-z-atlasu-chorniy-158",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ із атласу чорний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-z-atlasu-chorniy-158",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Tops%20and%20bodysuits/IMG_1022-600x315.JPG"
+      ],
+      "description": "Лаконічний V-виріз і ніжний атлас підкреслюють жіночність, а регулювання на спині забезпечує ідеальну посадку.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-top-na-bretelyakh-z-merezhivom-209",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ на бретелях з мереживом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-na-bretelyakh-z-merezhivom-209",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Spring26/IMG_6884-600x315.JPG"
+      ],
+      "description": "Пісочний топ із преміальної віскози з оксамитовими бретелями та французьким мереживом шантільї. Прямий крій і делікатний принт у горох створюють легкий і витончений силует.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-longsl-v-nap-vprozoriy-chorniy-84",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Лонгслів напівпрозорий чорний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/longsl-v-nap-vprozoriy-chorniy-84",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Longsleeve/IMG_2395-600x315.JPG"
+      ],
+      "description": "Легка напівпрозора фактура, довгий рукав з вирізом для пальця, висока горловина та облягаючий крій — деталі, що формують витончений силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-kosinka-z-kapyushonom-z-payetok-238",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ косинка з капюшоном з паєток",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-kosinka-z-kapyushonom-z-payetok-238",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8582%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Чорний топ-косинка з паєток із капюшоном, сатиновою підкладкою та м’яким драпіруванням. Регулювання на спинці й фіксатор у зоні декольте допомагають зберегти комфортну посадку.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-longsl-v-nap-vprozoriy-shokoladniy-196",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Лонгслів напівпрозорий шоколадний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/longsl-v-nap-vprozoriy-shokoladniy-196",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Winter%202025/IMG_3452-600x315.JPG"
+      ],
+      "description": "Шоколадний напівпрозорий лонгслів створений для образів, у яких хочеться легкості та м’якого акценту. Гнучка стрейч-сітка, довгий рукав і фірмовий виріз для пальця формують облягаючий силует, що",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-longsl-v-trikotazhniy-chorniy-104",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Лонгслів трикотажний чорний",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/longsl-v-trikotazhniy-chorniy-104",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1260,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Longsleeve/IMG_9560-600x315.JPG"
+      ],
+      "description": "Напівпрозора фактурна поверхня додає легкості, довгий рукав — стриманої елегантності, а облягаючий силует м’яко підкреслює лінії фігури.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-z-atlasu-b-liy-157",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ із атласу білий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-z-atlasu-b-liy-157",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Tops%20and%20bodysuits/IMG_2655-600x315.JPG"
+      ],
+      "description": "Ніжний білий атлас підкреслює витонченість, а регулювання на спині дозволяє ідеально налаштувати посадку.",
+      "care": null,
+      "collections": [
+        "Бестселлери"
+      ]
+    },
+    {
+      "id": "lilcorner-longsl-v-trikotazhniy-nap-vprozoriy-103",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Лонгслів трикотажний напівпрозорий",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/longsl-vi/longsl-v-trikotazhniy-nap-vprozoriy-103",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1260,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Longsleeve/IMG_9580-600x315.JPG"
+      ],
+      "description": "Напівпрозора фактурна тканина підкреслює делікатність образу, довгий рукав додає стриманості, а облягаючий силует створює витончену лінію фігури.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-trikotazhniy-top-245",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Трикотажний топ",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/kostyumi/trikotazhniy-top-245",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5071-600x315.jpg"
+      ],
+      "description": "Теплий топ із щільного трикотажу на основі вовни ягняти. Прямий силует і високий комір створюють чисту графічну лінію, а м’яка фактура додає образу відчуття затишку та стриманої елегантності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-bando-z-merezhiva-228",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ-бандо з мережива",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-bando-z-merezhiva-228",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8471-600x315.jpg"
+      ],
+      "description": "Молочний топ-бандо з мережива з лляною підкладкою, зав’язками на спинці та делікатною окантовкою. Непрозора конструкція створює комфортну посадку й витончений силует.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-korsetniy-top-z-sharfom-162",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Корсетний топ із шарфом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/korsetniy-top-z-sharfom-162",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Корсет",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Tops%20and%20bodysuits/IMG_2660-600x315.JPG"
+      ],
+      "description": "Приталений крій окреслює талію, шарф у комплекті додає акценту в стилізації, а прихована блискавка зберігає чисту лінію посадки.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-chorne-bod-z-v-vir-zom-154",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Чорне боді з V-вирізом",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/chorne-bod-z-v-vir-zom-154",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2100,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Tops%20and%20bodysuits/IMG_2649-600x315.JPG"
+      ],
+      "description": "Еластична тканина ніжно повторює силует, глибокий V-виріз додає акценту, а застібка на гачки знизу забезпечує зручність протягом дня.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-satinoviy-z-v-dkritoyu-spinoyu-243",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ сатиновий з відкритою спиною",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-satinoviy-z-v-dkritoyu-spinoyu-243",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8612%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Жовтий сатиновий топ з подовженим вільним силуетом, глибоким V-подібним вирізом і відкритою спинкою. Драпірування по спинці додає образу м’якості, руху та делікатної чуттєвості.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-klasichne-bod-koloru-batter-150",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Класичне боді кольору баттер",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/klasichne-bod-koloru-batter-150",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/product_images_new/Tops%20and%20bodysuits/IMG_2643-600x315.JPG"
+      ],
+      "description": "Мінімалістичне та універсальне боді, яке стане основою для безлічі образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-top-kosinka-z-payetok-237",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Топ косинка з паєток",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/topi-ta-bod/top-kosinka-z-payetok-237",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/Summer%202026/%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%96/AH7A8558%20%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-600x315.jpg"
+      ],
+      "description": "Рожевий топ-косинка з паєток із відкритою спинкою, сатиновою підкладкою та м’яким драпіруванням. Регулювання на спинці й фіксатор у зоні декольте допомагають зберегти комфортну посадку.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lilcorner-keyp-z-visokoyu-st-ykoyu-249",
+      "brand": "Lilcorner",
+      "brand_id": "lilcorner",
+      "name": "Кейп із високою стійкою",
+      "source_url": "https://www.lilcorner.ua/divitisya-vse/verkhn-y-odyag/keyp-z-visokoyu-st-ykoyu-249",
+      "gender": "female",
+      "category": "Дивитися все",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.lilcorner.ua/image/cache/catalog/autumn%202026/IMG_5065-600x315.jpg"
+      ],
+      "description": "Укорочений кейп вільного силуету зі щільного полікотону з водовідштовхувальним просоченням. Високий комір-стійка змінює характер моделі залежно від стилізації, а продуманий об’єм створює виразну й водночас невимушену форму.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

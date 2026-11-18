@@ -72,16 +72,24 @@ BAG_KINDS = [
     (re.compile(r"кросбоді|crossbody|бананк|поясн|belt bag|слінг|sling", re.I), "Кросбоді"),
     (re.compile(r"сумк|\bbag\b|багет|хобо|hobo", re.I), "Сумка"),
 ]
+SCARF_HINT = re.compile(r"шарф|хустк|снуд|палантин|scarf|twilly|твіллі|прикрас|сереж|браслет|кольє|окуляр|парасол", re.I)
+# also not bags, in a bag brand's untyped accessories
+NOT_BAG_BRAND = re.compile(r"органайзер|бальзам|крем|догляд|ремн|ремін|пасок|пояс|анклет|топсайдер|шнурк|набір|сертифікат|"
+                           r"брелок|чохол|кошельок|візитниц|паспорт|ключ|підвіс|charm|strap|ремінець|cardholder|card holder|wallet", re.I)
 NOT_BAG = re.compile(r"гаман|wallet|картхолдер|кардхолдер|чохол|косметичк|ключниц|обкладинк|ремінь|брелок", re.I)
 
 
-def bag_kind(p: dict) -> str | None:
+def bag_kind(p: dict, brand: dict | None = None) -> str | None:
     """'Рюкзак' / 'Шопер' / ... if this product is a bag, else None."""
     name = p.get("name") or ""
     if p.get("slot") not in ("bag", "other") or NOT_BAG.search(name):
         return None
     # the scraped item_type of accessories is unreliable (a backpack typed "Ремінь"): the title decides
     hit = next((kind for rx, kind in BAG_KINDS if rx.search(name)), None)
+    # bag brands name their bags by model ("Джудіт", "Ніна"): their accessories are bags unless the title says otherwise
+    if (not hit and (brand or {}).get("kind") == "bags" and p.get("slot") == "other" and not p.get("item_type")
+            and not SCARF_HINT.search(name) and not NOT_BAG_BRAND.search(name)):
+        hit = "Сумка"
     return hit or ("Сумка" if p.get("slot") == "bag" else None)
 
 
@@ -125,7 +133,10 @@ def brand_gender(b: dict) -> str:
 
 
 def to_row(p: dict, brand: dict) -> tuple | None:
-    bag = bag_kind(p)
+    # brands.json "exclude": a title pattern for what isn't for the site (Bistfor / M-Tac: tactical gear)
+    if brand.get("exclude") and re.search(brand["exclude"], p.get("name") or "", re.I):
+        return None
+    bag = bag_kind(p, brand)
     scarf = None if bag else scarf_kind(p, brand)
     if (p.get("slot") not in ("hat", "top", "bottom", "shoes") and not bag and not scarf) or p.get("in_stock") is False:
         return None

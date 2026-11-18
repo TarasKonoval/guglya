@@ -59,28 +59,6 @@
       "collections": []
     },
     {
-      "id": "lovandbag-n",
-      "brand": "Lovandbag",
-      "brand_id": "lovandbag",
-      "name": "Ніна раунд 3 розміри під замовлення",
-      "source_url": "https://lovandbag.com/shop/n/",
-      "gender": "female",
-      "category": null,
-      "item_type": null,
-      "slot": "other",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 9000,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://lovandbag.com/Media/shop-17608/Tezza-8497.jpeg"
-      ],
-      "description": "Будь ласка уточнюйте час виготовлення сумочки на даний момент, наразі орієнтовно чекати в черзі 2 місяці🙏🏻 Ніна раунд гладка шкіра/ шкіра велюр С 31/24 см 9000/9700 грн М 36/31 см 10700/11700 грн М плюс 40/30 см 13000/14000 грн Огляд розмірів https://photos.app.goo.gl/8AXWSWqVAsa36G986",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "lovandbag-jackie",
       "brand": "Lovandbag",
       "brand_id": "lovandbag",
@@ -100,6 +78,28 @@
         "https://lovandbag.com/Media/shop-17608/Tezza-2597.jpeg"
       ],
       "description": "Всі сумочки шиються під замовлення та плетуться вручну, уточнюйте строки в інстаграм або лишайте замовлення на сайті і ми вам напишемо Сумочка Jackie - це модель унісекс, має два розміри Л 37/24/12 см помістяться документи, ноутбук 13,14 ( 15 та 16 також але трішки по діагоналі) ціна в повному плетінні 21000 грн, з плетінням спереду (тільки в зернистій шкірі) 16000 грн М 33/21/11 см Повністю плетена 16000 грн з плетінням спереду з зернистої шкіри 11000 грн Палітра для цієї моделі за посиланням https://lovandbag.com/shop/luna-lina-palitra/",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "lovandbag-n",
+      "brand": "Lovandbag",
+      "brand_id": "lovandbag",
+      "name": "Ніна раунд 3 розміри під замовлення",
+      "source_url": "https://lovandbag.com/shop/n/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://lovandbag.com/Media/shop-17608/Tezza-8497.jpeg"
+      ],
+      "description": "Будь ласка уточнюйте час виготовлення сумочки на даний момент, наразі орієнтовно чекати в черзі 2 місяці🙏🏻 Ніна раунд гладка шкіра/ шкіра велюр С 31/24 см 9000/9700 грн М 36/31 см 10700/11700 грн М плюс 40/30 см 13000/14000 грн Огляд розмірів https://photos.app.goo.gl/8AXWSWqVAsa36G986",
       "care": null,
       "collections": []
     },

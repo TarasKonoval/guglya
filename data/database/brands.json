@@ -648,7 +648,8 @@
     "audience": "Чоловікам",
     "segment": null,
     "default_gender": "male",
-    "kind": "clothes"
+    "kind": "clothes",
+    "exclude": "тактичн|tactical|берц|military|мілітар|бронежилет|плитоноск|розвантаж|підсумок|балістичн|камуфляж|мультикам|multicam|кобур"
   },
   {
     "id": "ofourfour",
@@ -869,7 +870,8 @@
     "audience": "Чоловікам",
     "segment": null,
     "default_gender": "male",
-    "kind": "shoes"
+    "kind": "shoes",
+    "exclude": "тактичн|tactical|берц|military|мілітар|бронежилет|плитоноск|розвантаж|підсумок|балістичн|камуфляж|мультикам|multicam|кобур"
   },
   {
     "id": "tueams",
