@@ -2,8 +2,8 @@
   "_meta": {
     "name": "Ґуґля — база товарів українських брендів",
     "built_on": "2026-11-18",
-    "brands_with_products": 91,
-    "products_count": 17947
+    "brands_with_products": 96,
+    "products_count": 18007
   },
   "brands": [
     {
@@ -1268,9 +1268,1613 @@
       "default_gender": "female",
       "kind": "clothes",
       "products_count": 300
+    },
+    {
+      "id": "juna",
+      "name": "Juna",
+      "site": "https://www.juna.com.ua",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 20
+    },
+    {
+      "id": "estro",
+      "name": "Estro",
+      "site": "https://estro.ua",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 10
+    },
+    {
+      "id": "sambag",
+      "name": "Sambag",
+      "site": "https://sambag.com.ua",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 10
+    },
+    {
+      "id": "bagllet",
+      "name": "Bagllet",
+      "site": "https://bagllet.com",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 10
+    },
+    {
+      "id": "pryanik",
+      "name": "Pryanik",
+      "site": "https://pryanik.in.ua",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 10
+    },
+    {
+      "id": "verbena",
+      "name": "Verbena",
+      "site": "https://verbena.com.ua",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 0
+    },
+    {
+      "id": "vis",
+      "name": "VIS",
+      "site": "https://visbags.com",
+      "instagram": null,
+      "brand_type": "Сумки",
+      "audience": null,
+      "segment": null,
+      "default_gender": null,
+      "kind": "bags",
+      "products_count": 0
     }
   ],
   "products": [
+    {
+      "id": "bagllet-bg206",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Сумка BG206",
+      "source_url": "https://bagllet.com/product/bg206/",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 13700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2025/07/bg206_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2025/07/523714191_18381920671131638_1048776645493683140_n-580x725.jpg",
+        "https://bagllet.com/wp-content/uploads/2025/07/524367462_18523531480016108_2551915731105410951_n-580x773.jpg"
+      ],
+      "description": "Чіткі лінії поєднуються з м’якою фактурою Raffina, утворюючи гармонійний силует, який не перевантажує образ, а додає йому легкості. Ідеальний варіант для міських маршрутів, поїздок за місто чи подорожей, де головне — свобода руху. Розмір: 26 х 17 х 24 (до 35 см) см. Верх сумки розширюється, утворюючи м’яку трапецієподібну форму. Орієнтовна вага: 700 г. Основне відділення закривається на магнітні кнопки. Усередині — кишеня для дрібниць розміром 20 х 10 см. Довжина ручок по дузі: 55 см. Матеріал: італійська шкіра вищого ґатунку в поєднанні з фактурним матеріалом Raffina. Підкладка: алькантара та дублюючі елементи для збереження форми. *Відтінок виробу на фотографії може відрізнятися від реального. Усі розміри, вказані в описі, є приблизними та можуть мати незначні відхилення. Ми постійно вдосконалюємо конструкцію наших виробів, тому відтінок підкладки може відрізнятися від зображень на сайті. Це не впливає на функціональність чи якість, а є результатом оновлення матеріалів та виробничих процесів, щоб забезпечити кращий досвід користування.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-bg202em",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Сумка BG202 Замша",
+      "source_url": "https://bagllet.com/product/bg202em/",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 15200,
+      "sale_price_uah": 12160,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2025/03/bg202em_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2025/03/baglet-short-2.jpg",
+        "https://bagllet.com/wp-content/uploads/2026/07/bg202_bordo_pn_1-650x800.jpg"
+      ],
+      "description": "BG202 — класична видовжена прямокутна форма, чіткі лінії, які набувають нового вигляду завдяки м’якій фактурі замші, щільні структуровані ручки у формі дуги довершують загальну композицію. Універсальний зручний розмір 38 х 16 х 9 см, основне відділення закривається на блискавку, а також є внутрішня кишенька для дрібничок, довжина ручок 60 см, що дає змогу дуже зручно носити її на плечі у різних варіантах верхнього одягу. Розмір: 38 х 16 (висота) х 9см. Орієнтовна вага: 500 г. Основне відділення закривається на блискавку. Усередині основного відділення є кишеня для дрібниць розміром 20 х 10 см. Довжина дуги ручок 60 см, без можливості регулювання. В основне відділення моделі BG202 легко помістяться косметичка CS105mini, блокнот NB101 або чохол для окулярів CS101. Можна помістити маленький планшет або книгу форматом А5, гаманець, смартфон, а також невелику пляшку з водою чи компактну дорожню парасольку. Дрібні речі, як-от ключі та металеве дзеркало HM001, можна буде помістити у внутрішню кишеню сумки. Матеріал: італійська замша вищого ґатунку, мʼякої, приємної на дотик фактури. Підкладка: Алькантара та дублюючі елементи для щільної структури. Важливо: Замшеві вироби потребують особливого догляду. Уникайте контакту з водою та вологою, бережіть від прямих сонячних променів. Для підтримки привабливого вигляду рекомендуємо використовувати спеціальні засоби для догляду за замшею. Зверніть увагу, що замша може злегка фарбувати при контакті зі світлим одягом. Детальна інструкція з дог",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-bg211-resort",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Сумка BG211 Resort",
+      "source_url": "https://bagllet.com/product/bg211_resort/",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 11600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2026/07/bg211_resort_5.jpg",
+        "https://bagllet.com/wp-content/uploads/2026/09/bg211_brown_pn_1-650x800.jpg",
+        "https://bagllet.com/wp-content/uploads/2026/09/bg211_brown_pn_3-650x800.jpg"
+      ],
+      "description": "BG211 — ще одне прочитання сумки-багет від Bagllet, представлене в колекції Resort у нових літніх відтінках. Видовжений трапецієподібний силует, округлі кути та чіткі грані отримали новий настрій у рожевому, оливковому та сливовому кольорах. Модель виконана з м’якої італійської шкіри з приємною природною фактурою та делікатним блиском. Поєднання м’якості матеріалу з виразними гранями надає сумці структурованого вигляду, зберігаючи легкість її видовженого силуету. Нові відтінки по-різному розкривають характер BG211 — від ніжного рожевого до природного оливкового та глибокого сливового. Широкий регульований ремінь дозволяє змінювати спосіб носіння залежно від настрою та образу. Розмір: 33 х 12 х 10 (звуження до 5) см. Орієнтовна вага: 350 г. Основне відділення закривається на клапан із магнітами. Усередині основного відділення є кишеня для дрібниць розміром 20 х 8 см. Регульований плечовий ремінь довжиною від 60 до 110 см. Матеріал: італійська шкіра вищого ґатунку, м’якої, приємної на дотик фактури. Підкладка: Алькантара та дублюючі елементи для щільної структури. Відтінок виробу на фотографії може відрізнятися від реального. Усі розміри, вказані в описі, є приблизними та можуть мати незначні відхилення. Ми постійно вдосконалюємо конструкцію наших виробів, тому відтінок підкладки може відрізнятися від зображень на сайті. Це не впливає на функціональність чи якість, а є результатом оновлення матеріалів та виробничих процесів, щоб забезпечити кращий досвід користування.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-bg128",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Сумка BG128",
+      "source_url": "https://bagllet.com/product/bg128/",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 6500,
+      "sale_price_uah": 5850,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2023/04/BG128_26.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/05/bg130_2-650x800.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/05/bg130_1-650x800.jpg"
+      ],
+      "description": "BG128 — абсолютно новий аксесуар в модельному ряді Bagllet. Трапецієвидна форма, доповнена плавними лініями, що створюють нове прочитання. Підкладка та дублюючі матеріали надають структурованого вигляду. Коротка комфортна ручка, ідеальний розмір та місткість. Справжня ода лаконічності. Розмір: 19,5 (15) х 14 х 8 (4,5) см. Товщина сумки звужується до верху. Орієнтовна вага: 250 г. Основне відділення закривається на блискавку. Усередині основного відділення на задній стінці кишеня — 14 х 9 см. Дуга ручки — 36 х 3,5 см. Матеріал: італійська шкіра вищого ґатунку з додатковим верхнім покриттям, що має водовідштовхувальний ефект, легка в догляді. Підкладка(моделі BG): Алькантара та дублюючі елементи для щільної структури. *Відтінок виробу на фотографії може відрізнятися від реального. Усі розміри, вказані в описі, є приблизними та можуть мати незначні відхилення.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-bg218",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Сумка BG218",
+      "source_url": "https://bagllet.com/product/bg218/",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 6500,
+      "sale_price_uah": 5850,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2026/06/bg218_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2026/06/bg220_1-650x800.jpg",
+        "https://bagllet.com/wp-content/uploads/2026/06/bg220_2-650x800.jpg"
+      ],
+      "description": "BG218 — компактна сумка з чистою геометрією та лаконічним характером. В основі моделі — проста форма, яка завдяки м’яким лініям та збалансованим пропорціям виглядає легкою та сучасною. М’яка італійська шкіра вищого ґатунку делікатно підкреслює силует сумки та додає виробу глибини й характеру. Лаконічні ручки комфортно лягають у руку або на згин ліктя, а відкрита конструкція з магнітною застібкою робить доступ до речей швидким і зручним. BG218 створена для тих випадків, коли хочеться взяти із собою лише найнеобхідніше. Компактний формат, стриманий дизайн та увага до деталей роблять її універсальним аксесуаром на щодень, який легко поєднується з різними образами. Розмір: 18 х 18 х 4 см. Орієнтовна вага: 250 г. Основне відділення закривається на магніт. Усередині основного відділення є кишеня для дрібниць розміром 18 х 8 см. Довжина дуги ручок 35 см, ширина 1,2 см. Матеріал: італійська шкіра вищого ґатунку, мʼякої, приємної на дотик фактури. Підкладка: Алькантара та дублюючі елементи для щільної структури. Відтінок виробу на фотографії може відрізнятися від реального. Усі розміри, вказані в описі, є приблизними та можуть мати незначні відхилення.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-cs104",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Чохол для ноутбука CS104",
+      "source_url": "https://bagllet.com/product/cs104/",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Чохол",
+      "slot": "other",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2023/11/cs104_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs104_video_pre.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs103_packing-330x406.jpg"
+      ],
+      "description": "Високоякісна шкіра і впізнавана геометрія всіх аксесуарів Bagllet. Дублюючі матеріали та приємна на дотик підкладка роблять виріб структурованим та зручним у використанні. Аксесуар, що завжди буде поруч. Деталь, яка робить життя комфортним. Мінімалістичний чохол для ноутбука захистить його від подряпин та пилу. Універсальний розмір для 13-14 дюймів: 35 x 24 см. Підійде для: MacBook Air 13 M2 від 2022, Macbook Pro 13 2016-2023, Macbook Pro 14 від 2021, та схожих за розміром моделей. Універсальний розмір для 15-16 дюймів: 39,5 x 26 см. Підійде для: MacBook Air 15 M2 від 2023, Macbook Pro 15 від 2016, Macbook Pro 16 від 2021, та схожих за розміром моделей. Матеріал: італійська шкіра вищого ґатунку з додатковим верхнім покриттям, що має водовідштовхувальний ефект, легка в догляді. Підкладка(моделі BG): Алькантара та дублюючі елементи для щільної структури. *Відтінок виробу на фотографії може відрізнятися від реального",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-cs101",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Чохол для окулярів CS101",
+      "source_url": "https://bagllet.com/product/cs101/",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Чохол",
+      "slot": "other",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2023/11/cs101_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs101_video_pre.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs101_pack-330x406.jpg"
+      ],
+      "description": "Високоякісна шкіра, дублюючі матеріали, приємна на дотик підкладка, для більшої структурованості виробу та зручності використання, найкраща фурнітура та впізнавана геометрія аксесуарів Bagllet. Аксесуар, що завжди буде поруч. Деталь, яка робить життя комфортним. Чохол для окулярів, що закривається на блискавку з трьох сторін. Підійде для окулярів, які мають масивну оправу. Розмір: 15,5 x 7,5 x 4,2 см. Матеріал: італійська шкіра вищого ґатунку з додатковим верхнім покриттям, що має водовідштовхувальний ефект, легка в догляді. Підкладка(моделі BG): Алькантара та дублюючі елементи для щільної структури. *Відтінок виробу на фотографії може відрізнятися від реального",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-cs102",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Чохол для окулярів CS102",
+      "source_url": "https://bagllet.com/product/cs102/",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Чохол",
+      "slot": "other",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 2300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2023/11/cs102_3.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs102_video.jpg",
+        "https://bagllet.com/wp-content/uploads/2023/11/cs102_packing-330x406.jpg"
+      ],
+      "description": "Високоякісна шкіра, дублюючі матеріали, приємна на дотик підкладка, для більшої структурованості виробу та зручності використання, і впізнавана геометрія аксесуарів Bagllet. Аксесуар, що завжди буде поруч. Деталь, яка робить життя комфортним. Чохол захистить ваші окуляри від подряпин та пилу. Розмір: 16,5 x 9 см. Матеріал: італійська шкіра вищого ґатунку з додатковим верхнім покриттям, що має водовідштовхувальний ефект, легка в догляді. Підкладка(моделі BG): Алькантара та дублюючі елементи для щільної структури. *Відтінок виробу на фотографії може відрізнятися від реального",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-w203",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Кардхолдер W203",
+      "source_url": "https://bagllet.com/product/w203/",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Кардхолдер",
+      "slot": "other",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2026/08/W203_brown_pn_01.jpg",
+        "https://bagllet.com/wp-content/uploads/2025/11/k201_2-650x800.jpg",
+        "https://bagllet.com/wp-content/uploads/2025/11/k201_3-650x800.jpg"
+      ],
+      "description": "Лаконічний, місткий та естетичний аксесуар, який робить щоденне користування приємнішим. Створений із високоякісної шкіри та витриманий у фірмовій геометрії Bagllet. Основне відділення призначене для зберігання дрібниць, карток та паперових купюр, складених у два або більше разів. Купюри не поміщаються в основне відділення без складання. Розмір: 14,5 × 7 см. Портмоне закривається на блискавку та має: 4 відділення для карток внутрішній простір для купюр, монет чи дрібних предметів Матеріал: італійська шкіра вищого ґатунку. Підкладка та дублюючі елементи для щільної структури. Паковання: щільна фірмова коробка, тонкий пакувальний папір. *Відтінок виробу на фотографії може відрізнятися від реального.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "bagllet-cs105mini",
+      "brand": "Bagllet",
+      "brand_id": "bagllet",
+      "name": "Косметичка CS105mini",
+      "source_url": "https://bagllet.com/product/cs105mini/",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Косметичка",
+      "slot": "other",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://bagllet.com/wp-content/uploads/2024/07/cs105mini_1.jpg",
+        "https://bagllet.com/wp-content/uploads/2024/07/cs105_cs105mini-1-330x201.png",
+        "https://bagllet.com/wp-content/uploads/2024/07/cs105_7-650x800.jpg"
+      ],
+      "description": "Розмір: 22 х 13 х 6 см. Основне відділення закривається на блискавку. Класичні улюблені форми, якісна шкіра та фурнітура, вивірений дизайн, базові кольори та естетика у кожній деталі — все те, за що ви цінуєте вироби Bagllet і що ми бережно відтворили в нових предметах для дому. Вироби, які легко та гармонійно впишуться в дизайн вашої оселі, наче займуть своє місце, але водночас не залишаться непоміченими. Матеріал: італійська шкіра вищого ґатунку з додатковим верхнім покриттям, що має водовідштовхувальний ефект, легка в догляді. Підкладка: Алькантара та дублюючі елементи для щільної структури. *Відтінок виробу на фотографії може відрізнятися від реального.",
+      "care": "та зберігання Доставка та",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120405",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120405",
+      "source_url": "https://estro.ua/product/ER00120405",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4799,
+      "sale_price_uah": 4070,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/e/86/2t7xvs---c16x9x50px50p--a997ceff64f95813b16d32bc381f886e.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/e/86/ceobzj---c4x3x50px50p--a997ceff64f95813b16d32bc381f886e.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/e/86/yawily---c1x1x50px50p--a997ceff64f95813b16d32bc381f886e.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120402",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120402",
+      "source_url": "https://estro.ua/product/ER00120402",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 5799,
+      "sale_price_uah": 4920,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/b/ee/t66fg4---c16x9x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/b/ee/gyy4qv---c4x3x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/b/ee/bncgxb---c1x1x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120403",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120403",
+      "source_url": "https://estro.ua/product/ER00120403",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4989,
+      "sale_price_uah": 4240,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/3/19/rqwn4s---c16x9x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/3/19/nkvlpc---c4x3x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/3/19/hpalxy---c1x1x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120414",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120414",
+      "source_url": "https://estro.ua/product/ER00120414",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 5299,
+      "sale_price_uah": 4230,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/a/dd/rebr2u---c16x9x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/a/dd/7is52e---c4x3x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/a/dd/ce3grb---c1x1x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120729",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120729",
+      "source_url": "https://estro.ua/product/ER00120729",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6199,
+      "sale_price_uah": 4640,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/5/2b/zy2rar---c16x9x50px50p--9bab07f394cdacca17a503211ad422b5.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/5/2b/gzuolu---c4x3x50px50p--9bab07f394cdacca17a503211ad422b5.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/5/2b/rmjak3---c1x1x50px50p--9bab07f394cdacca17a503211ad422b5.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117322",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117322",
+      "source_url": "https://estro.ua/product/ER00117322",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6989,
+      "sale_price_uah": 5590,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/2/85/qtf737---c16x9x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/2/85/nvktux---c4x3x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/2/85/klri3z---c1x1x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117316",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117316",
+      "source_url": "https://estro.ua/product/ER00117316",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 4990,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/8/ca/oual4a---c16x9x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/8/ca/yulcoy---c4x3x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/8/ca/b26wcf---c1x1x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120887",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка шкіряна коричнева Estro ER00120887",
+      "source_url": "https://estro.ua/product/ER00120887",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 4990,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/6/25/72c6wv---c16x9x50px50p--1076f3e7d121616639b1fb583259c256.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/6/25/4dev3h---c4x3x50px50p--1076f3e7d121616639b1fb583259c256.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/6/25/onlbw4---c1x1x50px50p--1076f3e7d121616639b1fb583259c256.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117332",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117332",
+      "source_url": "https://estro.ua/product/ER00117332",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6599,
+      "sale_price_uah": 4940,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/6/1d/acotz4---c16x9x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/6/1d/pah5jw---c4x3x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/6/1d/ufyqod---c1x1x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00119152",
+      "brand": "Estro",
+      "brand_id": "estro",
+      "name": "Сумка шкіряна чорна Estro ER00119152",
+      "source_url": "https://estro.ua/product/ER00119152",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 5350,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/9/1f/ifge53---c16x9x50px50p--0577d5347994400b371599e714f461f9.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/9/1f/sdcbcm---c4x3x50px50p--0577d5347994400b371599e714f461f9.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/9/1f/lnbtld---c1x1x50px50p--0577d5347994400b371599e714f461f9.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-pocket-burgundy-croco",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE POCKET BURGUNDY CROCO",
+      "source_url": "https://www.juna.com.ua/essence-pocket-burgundy-croco",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE POCKET у насиченому бордовому кольорі з глянцевою анімалістичною поверхнею. Компактний формат зберігає впізнавану форму ESSENCE: м’який корпус, короткі ручки та ремінь із пряжкою, що проходить по верхній частині корпусу й збирає об’єм.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE POCKET у насиченому бордовому кольорі з глянцевою анімалістичною поверхнею. Компактний формат зберігає впізнавану форму ESSENCE: м’який корпус, короткі ручки та ремінь із пряжкою, що проходить по верхній частині корпусу й збирає об’єм.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-fermoir-black-croco",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "FERMOIR CROCO",
+      "source_url": "https://www.juna.com.ua/fermoir-black-croco",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "FERMOIR у глибокому чорному кольорі з глянцевою анімалістичною поверхнею. Округлий корпус зібраний фермуаром, а коротка ручка підкреслює компактну форму моделі. Рельєфна поверхня додає глибини кольору й виразності силуету.Довжина ручки 60 смРозмір:34х12х20 см",
+      "care": "Доставка FERMOIR у глибокому чорному кольорі з глянцевою анімалістичною поверхнею. Округлий корпус зібраний фермуаром, а коротка ручка підкреслює компактну форму моделі. Рельєфна поверхня додає глибини кольору й виразності силуету.Довжина ручки 60 см",
+      "collections": []
+    },
+    {
+      "id": "juna-umbra-olive-suede",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "UMBRA SUEDE",
+      "source_url": "https://www.juna.com.ua/umbra-olive-suede",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 17900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "UMBRA OLIVE SUEDE у поєднанні чорної гладкої поверхні та оливкової замші. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними складками. Контраст матеріалів підкреслює об’єм моделі й робить силует виразнішим.Довжина ручки 68 смРозмір:42х14х28 см",
+      "care": "Доставка UMBRA OLIVE SUEDE у поєднанні чорної гладкої поверхні та оливкової замші. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними",
+      "collections": []
+    },
+    {
+      "id": "juna-fermoir-red",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "FERMOIR RED",
+      "source_url": "https://www.juna.com.ua/fermoir-red",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Чекаємо поставку у період 02-08.11FERMOIR у червоному кольорі. Витягнутий м’який корпус зібраний фермуаром, який формує верхню лінію сумки. Довга ручка дозволяє носити модель на плечі, зберігаючи її компактний горизонтальний силует.Довжина ручки 60 смРозмір:34х12х20 см",
+      "care": "Доставка Чекаємо поставку у період 02-08.11FERMOIR у червоному кольорі. Витягнутий м’який корпус зібраний фермуаром, який формує верхню лінію сумки. Довга ручка дозволяє носити модель на плечі, зберігаючи її компактний горизонтальний силует.Довжина ручки 60 см",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-pocket-olive-suede",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE POCKET OLIVE SUEDE",
+      "source_url": "https://www.juna.com.ua/essence-pocket-olive-suede",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у приглушеному оливковому відтінку із замшевою поверхнею. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE у приглушеному оливковому відтінку із замшевою поверхнею. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-pocket-chocolate",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE POCKET CHOCOLATE",
+      "source_url": "https://www.juna.com.ua/essence-pocket-chocolate",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у шоколадному кольорі. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE у шоколадному кольорі. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-umbra-chocolate",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "UMBRA CHOCOLATE",
+      "source_url": "https://www.juna.com.ua/umbra-chocolate",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 17900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "UMBRA CHOCOLATE у глибокому шоколадному кольорі. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними складками. Вони створюють об’єм і підкреслюють пластичність силуету.Довжина ручки 68 смРозмір:42х14х28 см",
+      "care": "Доставка UMBRA CHOCOLATE у глибокому шоколадному кольорі. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними",
+      "collections": []
+    },
+    {
+      "id": "juna-clutch-sienna",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "CLUTCH SIENNA",
+      "source_url": "https://www.juna.com.ua/clutch-sienna",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Клатч",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 9900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Клатч у червоно-коричневому відтінку з анімалістичним принтом. Стримана трапецієподібна форма залишає головну роль матеріалу, а мінімальна конструкція підкреслює принт. Компактний формат дозволяє носити клатч у руці або доповнювати його довгим ременем.Розмір: 31x7x14 смДовжина додаткового ременя - 110 см",
+      "care": "Доставка Клатч у червоно-коричневому відтінку з анімалістичним принтом. Стримана трапецієподібна форма залишає головну роль",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-mini-bronze-green",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "DESIRE MINI BRONZE GREEN",
+      "source_url": "https://www.juna.com.ua/desire-mini-bronze-green",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 10300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "DESIRE MINI у глибокому зеленому відтінку з виразною фактурою. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.Розмір 26х11х16 смВисота з ручкою 22",
+      "care": "Доставка DESIRE MINI у глибокому зеленому відтінку з виразною фактурою. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-mini-vermilion",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "DESIRE MINI VERMILION",
+      "source_url": "https://www.juna.com.ua/desire-mini-vermilion",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 10300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "DESIRE MINI у насиченому червоному кольорі. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.Розмір 26х11х16 смВисота з ручкою 22",
+      "care": "Доставка DESIRE MINI у насиченому червоному кольорі. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-entr-acte",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE MINI ENTR’ACTE",
+      "source_url": "https://www.juna.com.ua/essence-mini-entr-acte",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI з виразним анімалістичним принтом. М’який корпус тримає характерний об’єм моделі, ремінь із металевою пряжкою задає форму, а видовжені ручки дозволяють носити сумку на плечі.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI з виразним анімалістичним принтом. М’який корпус тримає характерний об’єм моделі, ремінь із металевою пряжкою задає форму, а видовжені ручки дозволяють носити сумку на плечі.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-bronze-green",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE MINI BRONZE GREEN",
+      "source_url": "https://www.juna.com.ua/essence-mini-bronze-green",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI у зеленому кольорі з анімалістичним принтом. У меншому форматі акцент зміщується на видовжені ручки та м’який об’єм сумки; ремінь із металевою пряжкою перехоплює його по центру й формує впізнаваний силует ESSENCE.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI у зеленому кольорі з анімалістичним принтом. У меншому форматі акцент зміщується на видовжені ручки та м’який об’єм сумки; ремінь із металевою пряжкою перехоплює його по центру й формує впізнаваний силует ESSENCE.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-celadon",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE MINI CELADON",
+      "source_url": "https://www.juna.com.ua/essence-mini-celadon",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI у приглушеному зеленому відтінку з матовою, м’якою поверхнею. Світлий тон робить об’єм моделі виразнішим, а тонкий ремінь із металевою пряжкою збирає форму по центру. Видовжені ручки дозволяють носити сумку на плечі.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI у приглушеному зеленому відтінку з матовою, м’якою поверхнею. Світлий тон робить об’єм моделі виразнішим, а тонкий ремінь із металевою пряжкою збирає форму по центру. Видовжені ручки дозволяють носити сумку на плечі.",
+      "collections": []
+    },
+    {
+      "id": "juna-mercer-red",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "MERCER",
+      "source_url": "https://www.juna.com.ua/mercer-red",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний",
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 16900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "MERCER IN RED у глибокому червоному кольорі з глянцевою анімалістичною поверхнею. Широка форма й витягнуті ручки задають силует, ремінь із металевою пряжкою проходить навколо корпусу та збирає об’єм. Лакована поверхня підкреслює рельєф матеріалу й глибину кольору.Довжина ручки - 44 смРозмір 44х18х35 см",
+      "care": "Доставка MERCER IN RED у глибокому червоному кольорі з глянцевою анімалістичною поверхнею. Широка форма й витягнуті ручки задають силует, ремінь із металевою пряжкою проходить навколо корпусу та збирає об’єм. Лакована поверхня підкреслює рельєф",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-vermilion",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE VERMILION",
+      "source_url": "https://www.juna.com.ua/essence-vermilion",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 15900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у насиченому червоному кольорі. Тонкий ремінь із металевою пряжкою перехоплює м’який корпус і задає форму, зберігаючи об’єм. Видовжені ручки врівноважують силует і дозволяють носити сумку на плечі.Довжина ручки - 44 смРозмір 44х18х35 см",
+      "care": "Доставка ESSENCE у насиченому червоному кольорі. Тонкий ремінь із металевою пряжкою перехоплює м’який корпус і задає форму, зберігаючи об’єм. Видовжені ручки врівноважують силует і дозволяють носити сумку на плечі.Довжина ручки - 44 см",
+      "collections": []
+    },
+    {
+      "id": "juna-startlet-milk",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "STARTLET",
+      "source_url": "https://www.juna.com.ua/startlet-milk",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний",
+        "рожевий"
+      ],
+      "sizes": null,
+      "price_uah": 3540,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Startlet створена для твоїх яскравих і святкових образів! Аксесуар виконаний зі шкіри, має металеві застібки, в комплекті є два ремені — короткий і довгий з можливістю регулювання.Розмір: 20х6х15 см",
+      "care": "Доставка Startlet створена для твоїх яскравих і святкових образів! Аксесуар виконаний зі шкіри, має металеві застібки, в комплекті є два ремені — короткий і довгий з можливістю регулювання.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-essence-mini-pink",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE MINI PINK",
+      "source_url": "https://www.juna.com.ua/essence-mini-pink",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": null,
+      "price_uah": 8330,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Компактна сумка з м'якої натуральної замші з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.Розмір:34х15х20 см",
+      "care": "Доставка Компактна сумка з м'якої натуральної замші з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-essence-mini-black",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "ESSENCE MINI",
+      "source_url": "https://www.juna.com.ua/essence-mini-black",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "бордовий",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Компактна сумка з м'якої натуральної шкіри з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.Розмір:34х15х20 см",
+      "care": "Доставка Компактна сумка з м'якої натуральної шкіри з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-clutch-reptile",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "CLUTCH",
+      "source_url": "https://www.juna.com.ua/clutch-reptile",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Клатч",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": null,
+      "price_uah": 9900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Лаконічний клатч із натуральної шкіри з м'якою структурованою формою. Акуратні рядки по периметру підкреслюють чистоту силуету. Універсальний формат робить його ідеальним доповненням як до денного, так і до вечірнього образу. Довжина додаткового ременя - 110 смРозмір: 31x7x14 см",
+      "care": "Доставка Лаконічний клатч із натуральної шкіри з м'якою структурованою формою. Акуратні рядки по периметру підкреслюють чистоту силуету. Універсальний формат робить його ідеальним доповненням як до денного, так і до вечірнього образу. Довжина додаткового ременя - 110 см",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-black-with-baisse",
+      "brand": "Juna",
+      "brand_id": "juna",
+      "name": "DESIRE WITH BAISSE",
+      "source_url": "https://www.juna.com.ua/desire-black-with-baisse",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Елегантність виглядає просто і невимушено, як сумочка DESIRE! Аксесуар виконаний в базових кольорах, які ідеально комбінуються з верхнім одягом і стануть чудовим доповненням осінніх образів.Розмір 38х14х27 смТепер сумка має дві зйомні ручки Коротша ручка 75 Довга ручка максимальна довжина 113 Довга ручка мінімальна довжина 97",
+      "care": "Доставка Елегантність виглядає просто і невимушено, як сумочка DESIRE! Аксесуар виконаний в базових кольорах, які ідеально комбінуються з верхнім одягом і стануть чудовим доповненням осінніх образів.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "pryanik-shopper-s1-oliva-54984",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 oliva",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1568142654984",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3533-3638-4162-b861-303266366230/IMG_1874-min.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-wb-kosmos-52546",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 wb kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1624095052546",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6334-3463-4861-b832-383763313832/IMG_4040.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-marsal-66239",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 marsal",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799266239",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6165-6463-4462-b761-623537343264/IMG_4183.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-skittels-74728",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 skittels",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799074728",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 8200,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3165-6665-4364-b334-623761623261/IMG_4026.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-black-mat-30776",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 black mat",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1497456130776",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3237-6530-4634-a130-643963376638/_MG_0083.jpg",
+        "https://static.tildacdn.net/tild6231-6431-4835-a262-323363613637/_MG_0073.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-black-and-kosmos-52316",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 black and kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976752316",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3334-3662-4566-a130-316562353834/_MG_0070.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-kosmos-17133",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976817133",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3961-6135-4162-b536-336236636336/_MG_0068.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-kosmos-and-black-00358",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper S1 kosmos and black",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1568142700358",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3639-3663-4839-a364-663662383230/_MG_0066.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-handle-over-the-shoulder-82651",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Handle over the shoulder",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1576663382651",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3466-3063-4265-a133-343736646265/noroot.png"
+      ],
+      "description": "Ручка через плече",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-w3-black-83344",
+      "brand": "Pryanik",
+      "brand_id": "pryanik",
+      "name": "Shopper W3",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/129999964-1567975983344",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "коньячний",
+        "червоний"
+      ],
+      "sizes": null,
+      "price_uah": 4900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6665-3763-4463-b661-616261353462/fullsizeoutput_2970.jpeg",
+        "https://static.tildacdn.net/tild3530-3332-4431-a432-363934626562/noroot.png",
+        "https://static.tildacdn.net/tild3866-6538-4065-b034-616236646265/noroot.png"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "sambag-ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак ролл Sambag Roll Top Zard шоколадний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+      "gender": "unisex",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238020/24238020-500x691.jpg?v=54567",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238020/242380201-500x691.jpg?v=50686"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак Sambag Loft сірий шовк",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": null,
+      "price_uah": 1830,
+      "sale_price_uah": 1650,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/22400030/22400030-500x691.jpg?v=69727",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/22400030/224000301-500x691.jpg?v=64775"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний оксфорд принт",
+      "source_url": "https://sambag.com.ua/rukzak/chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238731m/24238731m-500x691.jpg?v=96531",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238731m/24238731m1-500x691.jpg?v=100640"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-dali-lite-biliy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак Sambag Dali Lite білий",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-dali-lite-biliy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": null,
+      "price_uah": 2100,
+      "sale_price_uah": 1780,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/15373008/15373008-500x691.jpg?v=57340",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/15373008/153730081-500x691.jpg?v=52337"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак Sambag Zard Neo",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "рожевий",
+        "мʼятний"
+      ],
+      "sizes": null,
+      "price_uah": 2690,
+      "sale_price_uah": 2130,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25000064/25000064-500x691.jpg?v=51654",
+        "https://sambag.com.ua/image/cache/catalog/products/25000506/25000506-500x691.jpg?v=56913",
+        "https://sambag.com.ua/image/cache/catalog/products/25000514/25000514-500x691.jpg?v=59989"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-ryukzak-zard-0zn-chorniy-zhinochiy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак Sambag Zard Urban чорний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-zard-0zn-chorniy-zhinochiy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2530,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25000001/25000001-500x691.jpg?v=48876",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/25000001/250000011-500x691.jpg?v=50212"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-ryukzak-zardx-0kt-chorniy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Чоловічий рюкзак Sambag Zard Х чорний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-zardx-0kt-chorniy",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2270,
+      "sale_price_uah": 1930,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25428001m/25428001m-500x691.jpg?v=97753",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/25428001m/25428001m1-500x691.jpg?v=90527"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinocha-sumka-krossbodi-sambag-frame-chorna",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіноча сумка кроссбоді Sambag Frame чорна",
+      "source_url": "https://sambag.com.ua/sumki/zhinocha-sumka-krossbodi-sambag-frame-chorna",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Кросбоді",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 1830,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/50223401/50223401-500x691.jpg?v=49097",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/50223401/502234011-500x691.jpg?v=52068"
+      ],
+      "description": null,
+      "care": "і. Комфорт: М'який текстильний ремінь на металевих карабінах, що легко регулюється під ваш зріст. Функціональність: Всередині: Основне просторе відділення, та окрема кишеня на всю довжину спинки. Ззовні: Зручна кишеня на блискавці на задній частині сумки.",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Жіночий рюкзак Sambag Brix Classic шоколадний",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 2210,
+      "sale_price_uah": 1590,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/14511020/14511020-500x691.jpg?v=87347",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/14511020/145110201-500x691.jpg?v=81544"
+      ],
+      "description": null,
+      "care": "і. Підкладка: Міцний матеріал оксфорд середньої щільності, стійкий до подряпин і простий у догляді — нитки не вилазять, тканина не розтягується. Завдяки щільному з’єднанню частин підкладки навантаження рівномірно розподіляється по рюкзаку, що подовжує термін служби швів і зовнішнього",
+      "collections": []
+    },
+    {
+      "id": "sambag-cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
+      "brand": "Sambag",
+      "brand_id": "sambag",
+      "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний тканевий",
+      "source_url": "https://sambag.com.ua/rukzak/cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238065m/24238065m-500x691.jpg?v=81611",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238065m/24238065m1-500x691.jpg?v=70538"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
     {
       "id": "papaya-trench-maksi-920-mokko",
       "brand": "Papaya",

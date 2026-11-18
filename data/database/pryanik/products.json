@@ -37,12 +37,14 @@
         "ok": true,
         "fixed": []
       }
-    ]
+    ],
+    "brand_id": "pryanik"
   },
   "products": [
     {
       "id": "pryanik-shopper-s1-oliva-54984",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 oliva",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1568142654984",
       "gender": null,
@@ -64,6 +66,7 @@
     {
       "id": "pryanik-shopper-s1-wb-kosmos-52546",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 wb kosmos",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1624095052546",
       "gender": null,
@@ -85,6 +88,7 @@
     {
       "id": "pryanik-shopper-s1-marsal-66239",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 marsal",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799266239",
       "gender": null,
@@ -106,6 +110,7 @@
     {
       "id": "pryanik-shopper-s1-skittels-74728",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 skittels",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799074728",
       "gender": null,
@@ -127,6 +132,7 @@
     {
       "id": "pryanik-shopper-s1-black-mat-30776",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 black mat",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1497456130776",
       "gender": null,
@@ -151,6 +157,7 @@
     {
       "id": "pryanik-shopper-s1-black-and-kosmos-52316",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 black and kosmos",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976752316",
       "gender": null,
@@ -174,6 +181,7 @@
     {
       "id": "pryanik-shopper-s1-kosmos-17133",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 kosmos",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976817133",
       "gender": null,
@@ -195,6 +203,7 @@
     {
       "id": "pryanik-shopper-s1-kosmos-and-black-00358",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper S1 kosmos and black",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1568142700358",
       "gender": null,
@@ -218,6 +227,7 @@
     {
       "id": "pryanik-handle-over-the-shoulder-82651",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Handle over the shoulder",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1576663382651",
       "gender": null,
@@ -239,6 +249,7 @@
     {
       "id": "pryanik-shopper-w3-black-83344",
       "brand": "Pryanik",
+      "brand_id": "pryanik",
       "name": "Shopper W3",
       "source_url": "https://pryanik.in.ua/shopper#!/tproduct/129999964-1567975983344",
       "gender": null,

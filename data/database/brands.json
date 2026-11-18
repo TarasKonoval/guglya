@@ -1156,5 +1156,82 @@
     "segment": "Масмаркет",
     "default_gender": "female",
     "kind": "clothes"
+  },
+  {
+    "id": "juna",
+    "name": "Juna",
+    "site": "https://www.juna.com.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "estro",
+    "name": "Estro",
+    "site": "https://estro.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "sambag",
+    "name": "Sambag",
+    "site": "https://sambag.com.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "bagllet",
+    "name": "Bagllet",
+    "site": "https://bagllet.com",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "pryanik",
+    "name": "Pryanik",
+    "site": "https://pryanik.in.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "verbena",
+    "name": "Verbena",
+    "site": "https://verbena.com.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "vis",
+    "name": "VIS",
+    "site": "https://visbags.com",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
   }
 ]

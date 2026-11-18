@@ -32,12 +32,14 @@
         "ok": true,
         "fixed": []
       }
-    ]
+    ],
+    "brand_id": "sambag"
   },
   "products": [
     {
       "id": "sambag-ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак ролл Sambag Roll Top Zard шоколадний",
       "source_url": "https://sambag.com.ua/rukzak/ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
       "gender": "unisex",
@@ -63,13 +65,16 @@
     {
       "id": "sambag-zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак Sambag Loft сірий шовк",
       "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
       "gender": "female",
       "category": "Рюкзаки",
       "item_type": "Рюкзак",
       "slot": "bag",
-      "colors": [],
+      "colors": [
+        "сірий"
+      ],
       "sizes": null,
       "price_uah": 1830,
       "sale_price_uah": 1650,
@@ -86,6 +91,7 @@
     {
       "id": "sambag-chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний оксфорд принт",
       "source_url": "https://sambag.com.ua/rukzak/chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
       "gender": "male",
@@ -111,6 +117,7 @@
     {
       "id": "sambag-zhinochiy-ryukzak-sambag-dali-lite-biliy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак Sambag Dali Lite білий",
       "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-dali-lite-biliy",
       "gender": "female",
@@ -136,6 +143,7 @@
     {
       "id": "sambag-zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак Sambag Zard Neo",
       "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
       "gender": "female",
@@ -163,6 +171,7 @@
     {
       "id": "sambag-ryukzak-zard-0zn-chorniy-zhinochiy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак Sambag Zard Urban чорний",
       "source_url": "https://sambag.com.ua/rukzak/ryukzak-zard-0zn-chorniy-zhinochiy",
       "gender": "female",
@@ -188,6 +197,7 @@
     {
       "id": "sambag-ryukzak-zardx-0kt-chorniy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Чоловічий рюкзак Sambag Zard Х чорний",
       "source_url": "https://sambag.com.ua/rukzak/ryukzak-zardx-0kt-chorniy",
       "gender": "male",
@@ -213,6 +223,7 @@
     {
       "id": "sambag-zhinocha-sumka-krossbodi-sambag-frame-chorna",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіноча сумка кроссбоді Sambag Frame чорна",
       "source_url": "https://sambag.com.ua/sumki/zhinocha-sumka-krossbodi-sambag-frame-chorna",
       "gender": "female",
@@ -238,6 +249,7 @@
     {
       "id": "sambag-zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Жіночий рюкзак Sambag Brix Classic шоколадний",
       "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
       "gender": "female",
@@ -263,6 +275,7 @@
     {
       "id": "sambag-cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
       "brand": "Sambag",
+      "brand_id": "sambag",
       "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний тканевий",
       "source_url": "https://sambag.com.ua/rukzak/cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
       "gender": "male",

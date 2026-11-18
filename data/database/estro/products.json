@@ -32,12 +32,14 @@
         "ok": true,
         "fixed": []
       }
-    ]
+    ],
+    "brand_id": "estro"
   },
   "products": [
     {
       "id": "estro-er00120405",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00120405",
       "source_url": "https://estro.ua/product/ER00120405",
       "gender": "male",
@@ -63,6 +65,7 @@
     {
       "id": "estro-er00120402",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00120402",
       "source_url": "https://estro.ua/product/ER00120402",
       "gender": "male",
@@ -88,6 +91,7 @@
     {
       "id": "estro-er00120403",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00120403",
       "source_url": "https://estro.ua/product/ER00120403",
       "gender": "male",
@@ -113,6 +117,7 @@
     {
       "id": "estro-er00120414",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00120414",
       "source_url": "https://estro.ua/product/ER00120414",
       "gender": "male",
@@ -138,6 +143,7 @@
     {
       "id": "estro-er00120729",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00120729",
       "source_url": "https://estro.ua/product/ER00120729",
       "gender": "male",
@@ -163,6 +169,7 @@
     {
       "id": "estro-er00117322",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00117322",
       "source_url": "https://estro.ua/product/ER00117322",
       "gender": "male",
@@ -188,6 +195,7 @@
     {
       "id": "estro-er00117316",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00117316",
       "source_url": "https://estro.ua/product/ER00117316",
       "gender": "male",
@@ -213,6 +221,7 @@
     {
       "id": "estro-er00120887",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка шкіряна коричнева Estro ER00120887",
       "source_url": "https://estro.ua/product/ER00120887",
       "gender": "male",
@@ -238,6 +247,7 @@
     {
       "id": "estro-er00117332",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка через плече шкіряна чорна Estro ER00117332",
       "source_url": "https://estro.ua/product/ER00117332",
       "gender": "male",
@@ -263,6 +273,7 @@
     {
       "id": "estro-er00119152",
       "brand": "Estro",
+      "brand_id": "estro",
       "name": "Сумка шкіряна чорна Estro ER00119152",
       "source_url": "https://estro.ua/product/ER00119152",
       "gender": "male",

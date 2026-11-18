@@ -34,12 +34,14 @@
         "ok": true,
         "fixed": []
       }
-    ]
+    ],
+    "brand_id": "bagllet"
   },
   "products": [
     {
       "id": "bagllet-bg206",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Сумка BG206",
       "source_url": "https://bagllet.com/product/bg206/",
       "gender": null,
@@ -63,6 +65,7 @@
     {
       "id": "bagllet-bg202em",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Сумка BG202 Замша",
       "source_url": "https://bagllet.com/product/bg202em/",
       "gender": null,
@@ -86,6 +89,7 @@
     {
       "id": "bagllet-bg211-resort",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Сумка BG211 Resort",
       "source_url": "https://bagllet.com/product/bg211_resort/",
       "gender": null,
@@ -109,6 +113,7 @@
     {
       "id": "bagllet-bg128",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Сумка BG128",
       "source_url": "https://bagllet.com/product/bg128/",
       "gender": null,
@@ -132,6 +137,7 @@
     {
       "id": "bagllet-bg218",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Сумка BG218",
       "source_url": "https://bagllet.com/product/bg218/",
       "gender": null,
@@ -155,6 +161,7 @@
     {
       "id": "bagllet-cs104",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Чохол для ноутбука CS104",
       "source_url": "https://bagllet.com/product/cs104/",
       "gender": null,
@@ -178,6 +185,7 @@
     {
       "id": "bagllet-cs101",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Чохол для окулярів CS101",
       "source_url": "https://bagllet.com/product/cs101/",
       "gender": null,
@@ -201,6 +209,7 @@
     {
       "id": "bagllet-cs102",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Чохол для окулярів CS102",
       "source_url": "https://bagllet.com/product/cs102/",
       "gender": null,
@@ -224,6 +233,7 @@
     {
       "id": "bagllet-w203",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Кардхолдер W203",
       "source_url": "https://bagllet.com/product/w203/",
       "gender": null,
@@ -247,6 +257,7 @@
     {
       "id": "bagllet-cs105mini",
       "brand": "Bagllet",
+      "brand_id": "bagllet",
       "name": "Косметичка CS105mini",
       "source_url": "https://bagllet.com/product/cs105mini/",
       "gender": null,

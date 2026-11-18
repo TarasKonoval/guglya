@@ -34,12 +34,14 @@
         "ok": true,
         "fixed": []
       }
-    ]
+    ],
+    "brand_id": "juna"
   },
   "products": [
     {
       "id": "juna-essence-pocket-burgundy-croco",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE POCKET BURGUNDY CROCO",
       "source_url": "https://www.juna.com.ua/essence-pocket-burgundy-croco",
       "gender": null,
@@ -65,6 +67,7 @@
     {
       "id": "juna-fermoir-black-croco",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "FERMOIR CROCO",
       "source_url": "https://www.juna.com.ua/fermoir-black-croco",
       "gender": null,
@@ -91,6 +94,7 @@
     {
       "id": "juna-umbra-olive-suede",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "UMBRA SUEDE",
       "source_url": "https://www.juna.com.ua/umbra-olive-suede",
       "gender": null,
@@ -117,6 +121,7 @@
     {
       "id": "juna-fermoir-red",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "FERMOIR RED",
       "source_url": "https://www.juna.com.ua/fermoir-red",
       "gender": null,
@@ -142,6 +147,7 @@
     {
       "id": "juna-essence-pocket-olive-suede",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE POCKET OLIVE SUEDE",
       "source_url": "https://www.juna.com.ua/essence-pocket-olive-suede",
       "gender": null,
@@ -167,6 +173,7 @@
     {
       "id": "juna-essence-pocket-chocolate",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE POCKET CHOCOLATE",
       "source_url": "https://www.juna.com.ua/essence-pocket-chocolate",
       "gender": null,
@@ -192,6 +199,7 @@
     {
       "id": "juna-umbra-chocolate",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "UMBRA CHOCOLATE",
       "source_url": "https://www.juna.com.ua/umbra-chocolate",
       "gender": null,
@@ -217,6 +225,7 @@
     {
       "id": "juna-clutch-sienna",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "CLUTCH SIENNA",
       "source_url": "https://www.juna.com.ua/clutch-sienna",
       "gender": null,
@@ -240,6 +249,7 @@
     {
       "id": "juna-desire-mini-bronze-green",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "DESIRE MINI BRONZE GREEN",
       "source_url": "https://www.juna.com.ua/desire-mini-bronze-green",
       "gender": null,
@@ -265,6 +275,7 @@
     {
       "id": "juna-desire-mini-vermilion",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "DESIRE MINI VERMILION",
       "source_url": "https://www.juna.com.ua/desire-mini-vermilion",
       "gender": null,
@@ -288,6 +299,7 @@
     {
       "id": "juna-essence-mini-entr-acte",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE MINI ENTR’ACTE",
       "source_url": "https://www.juna.com.ua/essence-mini-entr-acte",
       "gender": null,
@@ -311,6 +323,7 @@
     {
       "id": "juna-essence-mini-bronze-green",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE MINI BRONZE GREEN",
       "source_url": "https://www.juna.com.ua/essence-mini-bronze-green",
       "gender": null,
@@ -336,6 +349,7 @@
     {
       "id": "juna-essence-mini-celadon",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE MINI CELADON",
       "source_url": "https://www.juna.com.ua/essence-mini-celadon",
       "gender": null,
@@ -359,6 +373,7 @@
     {
       "id": "juna-mercer-red",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "MERCER",
       "source_url": "https://www.juna.com.ua/mercer-red",
       "gender": null,
@@ -385,6 +400,7 @@
     {
       "id": "juna-essence-vermilion",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE VERMILION",
       "source_url": "https://www.juna.com.ua/essence-vermilion",
       "gender": null,
@@ -408,6 +424,7 @@
     {
       "id": "juna-startlet-milk",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "STARTLET",
       "source_url": "https://www.juna.com.ua/startlet-milk",
       "gender": null,
@@ -436,6 +453,7 @@
     {
       "id": "juna-essence-mini-pink",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE MINI PINK",
       "source_url": "https://www.juna.com.ua/essence-mini-pink",
       "gender": null,
@@ -463,6 +481,7 @@
     {
       "id": "juna-essence-mini-black",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "ESSENCE MINI",
       "source_url": "https://www.juna.com.ua/essence-mini-black",
       "gender": null,
@@ -492,6 +511,7 @@
     {
       "id": "juna-clutch-reptile",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "CLUTCH",
       "source_url": "https://www.juna.com.ua/clutch-reptile",
       "gender": null,
@@ -517,6 +537,7 @@
     {
       "id": "juna-desire-black-with-baisse",
       "brand": "Juna",
+      "brand_id": "juna",
       "name": "DESIRE WITH BAISSE",
       "source_url": "https://www.juna.com.ua/desire-black-with-baisse",
       "gender": null,
