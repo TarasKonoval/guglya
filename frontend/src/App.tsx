@@ -90,7 +90,7 @@ export default function App() {
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <footer className="footer">
-        Ґуґля — студентський проєкт, 2026. Демо-каталог: бренди й товари вигадані, ілюстрації наші.
+        Ґуґля — студентський проєкт, 2026. Речі та фото — від українських брендів, купівля на їхніх сайтах.
       </footer>
       <button className="fab" aria-label="Відгук" onClick={() => openFeedback("manual")}><ChatIcon /> <span className="fab-label">Відгук</span></button>
       {feedback && <FeedbackModal auto={feedback === "auto"} onClose={() => setFeedback(null)} />}

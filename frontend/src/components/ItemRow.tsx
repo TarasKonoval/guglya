@@ -73,13 +73,14 @@ type CardProps = {
 };
 
 function ItemCard({ p, original, selected, inCart, onPick, onCart }: CardProps) {
+  const [broken, setBroken] = useState(false);
+  if (broken && !original) return null; // brand's photo didn't load: don't offer it
   return (
     <article className={`item-card ${selected ? "selected" : ""}`}>
       <button className="item-pick" onClick={onPick} aria-pressed={selected}
         aria-label={`${p.title}, ${p.brand}, ${formatUah(p.price_uah)}${selected ? " — обрано" : " — обрати"}`}>
         <div className="item-img">
-          <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" loading="lazy" />
-          <span className={`badge ${original ? "" : "ai"}`}>{original ? "в образі" : "AI-підбір"}</span>
+          <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" loading="lazy" onError={() => setBroken(true)} />
           {selected && <span className="selected-mark"><CheckIcon /></span>}
         </div>
         <div className="item-meta">

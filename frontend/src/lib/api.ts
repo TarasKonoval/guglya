@@ -23,10 +23,10 @@ export async function api<T>(path: string, init: RequestInit = {}): Promise<T> {
   return res.json() as Promise<T>;
 }
 
-export type Slot = "hat" | "outer" | "top" | "dress" | "bottom" | "shoes";
-export const SLOTS: Slot[] = ["hat", "outer", "top", "dress", "bottom", "shoes"];
+export type Slot = "hat" | "outer" | "jacket" | "top" | "dress" | "bottom" | "shoes";
+export const SLOTS: Slot[] = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"];
 export const SLOT_LABELS: Record<Slot, string> = {
-  hat: "Шапка", outer: "Верхній одяг", top: "Кофта / сорочка", dress: "Сукня / костюм", bottom: "Низ", shoes: "Взуття",
+  hat: "Шапка", outer: "Верхній одяг", jacket: "Піджак", top: "Кофта / сорочка", dress: "Сукня / костюм", bottom: "Низ", shoes: "Взуття",
 };
 /** "dress" is a suit for men and a dress or set for women */
 export function slotLabel(slot: Slot, gender?: string) {

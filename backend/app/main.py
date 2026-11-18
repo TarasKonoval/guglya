@@ -10,7 +10,7 @@ from .auth import admin_user, current_user, is_admin, optional_user
 from .config import settings
 from .db import execute, fetch_all, fetch_one, transaction
 
-Slot = Literal["hat", "outer", "top", "dress", "bottom", "shoes"]
+Slot = Literal["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
                   p.image_url, p.product_url, p.is_demo"""
 
@@ -25,7 +25,7 @@ OUTFIT_SUMMARY = """
           + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
          coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by oi.person, array_position(array['hat','outer','top','dress','bottom','shoes'], oi.slot))
+                  order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -335,7 +335,7 @@ class OutfitIn(BaseModel):
 
 @app.post("/admin/outfits")
 def admin_create_outfit(body: OutfitIn, _: dict = Depends(admin_user)):
-    # a dress / set / suit already includes the bottom (a coat over it is fine)
+    # a dress / set / suit already includes the bottom (a blazer or coat over it is fine)
     if any(not look or {"dress", "bottom"} <= look.keys() for look in body.looks):
         raise HTTPException(400, "Each look needs items, and a dress/suit can't be combined with a bottom")
     if (body.gender == "couple") != (len(body.looks) == 2):
@@ -361,20 +361,23 @@ def admin_create_outfit(body: OutfitIn, _: dict = Depends(admin_user)):
 @app.get("/admin/outfits")
 def admin_list_outfits(_: dict = Depends(admin_user)):
     return fetch_all(
-        """select o.id, o.title, o.gender, o.is_published, o.created_at,
+        """select o.id, o.title, o.gender, o.is_published, o.cover_image_url, o.created_at,
                   bool_or(p.is_demo) as is_demo, count(oi.product_id)::int as item_count
            from outfits o left join outfit_items oi on oi.outfit_id = o.id left join products p on p.id = oi.product_id
            group by o.id order by o.sort_order, o.created_at"""
     )
 
 
-class PublishIn(BaseModel):
-    is_published: bool
+class OutfitPatch(BaseModel):
+    is_published: bool | None = None
+    cover_image_url: str | None = Field(default=None, pattern=r"^/img/looks/[0-9a-f-]{36}\.jpg$")
 
 
 @app.patch("/admin/outfits/{outfit_id}")
-def admin_publish(outfit_id: UUID, body: PublishIn, _: dict = Depends(admin_user)):
-    execute("update outfits set is_published = %s where id = %s", (body.is_published, outfit_id))
+def admin_update_outfit(outfit_id: UUID, body: OutfitPatch, _: dict = Depends(admin_user)):
+    """Publish/hide an outfit, or set its cover (an uploaded look photo; null = back to the item collage)."""
+    for field in body.model_fields_set & {"is_published", "cover_image_url"}:
+        execute(f"update outfits set {field} = %s where id = %s", (getattr(body, field), outfit_id))
     return {"ok": True}
 
 

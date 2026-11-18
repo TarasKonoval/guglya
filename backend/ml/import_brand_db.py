@@ -37,7 +37,8 @@ COLOR = {
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
 # The layer worn over a top or a dress/suit ("outer" slot); keep in sync with migration 006
-OUTER_TYPES = {"Пальто", "Куртка", "Піджак", "Бомбер", "Пуховик", "Тренч", "Шуба", "Парка", "Вітрівка", "Дублянка", "Косуха"}
+OUTER_TYPES = {"Пальто", "Куртка", "Бомбер", "Пуховик", "Тренч", "Шуба", "Парка", "Вітрівка", "Дублянка", "Косуха"}
+JACKET_TYPES = {"Піджак"}  # "jacket" slot (migration 007)
 MIN_PRICE = 100  # below this the scraper misread the price (e.g. "8 990" -> 8)
 GENDER = {"female": "women", "male": "men", "unisex": "unisex"}
 AUDIENCE = {"Жінкам": "women", "Жінкам (зараз)": "women", "Чоловікам": "men"}
@@ -55,7 +56,9 @@ def to_row(p: dict, brand: dict) -> tuple | None:
         return None
     on_sale = bool(sale) and MIN_PRICE <= sale < price
     kind = p.get("item_type")
-    category = "dress" if kind in DRESS_TYPES else "outer" if p["slot"] == "top" and kind in OUTER_TYPES else p["slot"]
+    category = ("dress" if kind in DRESS_TYPES else
+                "outer" if p["slot"] == "top" and kind in OUTER_TYPES else
+                "jacket" if p["slot"] == "top" and kind in JACKET_TYPES else p["slot"])
     color = next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
     return (
         p["name"] or p.get("item_type") or "Річ", category, color, sale if on_sale else price,

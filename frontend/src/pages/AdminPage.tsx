@@ -12,9 +12,13 @@ type Gender = (typeof GENDERS)[number]["id"];
 
 type Piece = {
   person: 1 | 2; slot: Slot; item_type: string; color: string | null; description: string; vector: number[];
+  part_of_suit: boolean; // the blazer / trousers of a suit: an alternative to the whole suit
   candidates: (Product & { item_type: string | null })[] | null; chosen: string | null; removed?: boolean;
 };
-type AdminOutfit = { id: string; title: string; gender: string; is_published: boolean; is_demo: boolean; item_count: number };
+type AdminOutfit = {
+  id: string; title: string; gender: string; is_published: boolean; is_demo: boolean; item_count: number;
+  cover_image_url: string | null;
+};
 
 /** Look photo -> max 1280 px JPEG (the agent gets base64, the cover goes to S3 as a blob). */
 async function shrink(file: File): Promise<Blob> {
@@ -25,6 +29,14 @@ async function shrink(file: File): Promise<Blob> {
   canvas.height = Math.round(bitmap.height * scale);
   canvas.getContext("2d")!.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
   return new Promise((ok, fail) => canvas.toBlob((b) => (b ? ok(b) : fail(new Error("jpeg"))), "image/jpeg", 0.85));
+}
+
+/** Look photo -> S3 (presigned PUT); returns the /img/looks/... path for the outfit */
+async function uploadCover(blob: Blob) {
+  const { upload_url, image_url } = await api<{ upload_url: string; image_url: string }>("/admin/upload-url", { method: "POST" });
+  const put = await fetch(upload_url, { method: "PUT", headers: { "Content-Type": "image/jpeg" }, body: blob });
+  if (!put.ok) throw new Error(`upload ${put.status}`);
+  return image_url;
 }
 
 const toBase64 = (b: Blob) =>
@@ -39,7 +51,7 @@ export default function AdminPage() {
   const [gender, setGender] = useState<Gender>("women");
   const [title, setTitle] = useState("");
   const [tag, setTag] = useState("");
-  const [useCover, setUseCover] = useState(false);
+  const [useCover, setUseCover] = useState(true);
   const [pieces, setPieces] = useState<Piece[]>([]);
   const [state, setState] = useState<"idle" | "detecting" | "publishing">("idle");
   const [message, setMessage] = useState<{ error?: string; done?: string } | null>(null);
@@ -72,7 +84,8 @@ export default function AdminPage() {
       });
       if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
       const data: { title: string; style_tag: string; pieces: Piece[] } = await res.json();
-      const found = data.pieces.map((p) => ({ ...p, candidates: null, chosen: null }));
+      // a suit comes as the whole suit + its blazer + its trousers; the whole suit is picked by default
+      const found = data.pieces.map((p) => ({ ...p, candidates: null, chosen: null, removed: p.part_of_suit }));
       setPieces(found);
       // AI suggestions; whatever the admin already typed wins
       setTitle((t) => t.trim() ? t : data.title);
@@ -101,13 +114,7 @@ export default function AdminPage() {
     setState("publishing");
     setMessage(null);
     try {
-      let cover: string | null = null;
-      if (useCover && photo) {
-        const { upload_url, image_url } = await api<{ upload_url: string; image_url: string }>("/admin/upload-url", { method: "POST" });
-        const put = await fetch(upload_url, { method: "PUT", headers: { "Content-Type": "image/jpeg" }, body: photo.blob });
-        if (!put.ok) throw new Error(`upload ${put.status}`);
-        cover = image_url;
-      }
+      const cover = useCover && photo ? await uploadCover(photo.blob) : null;
       const { id } = await api<{ id: string }>("/admin/outfits", {
         method: "POST",
         body: JSON.stringify({ title, gender, style_tag: tag || null, cover_image_url: cover, looks }),
@@ -125,12 +132,35 @@ export default function AdminPage() {
     }
   }
 
+  async function changeCover(o: AdminOutfit, file?: File) {
+    if (!file) return;
+    try {
+      const cover = await uploadCover(await shrink(file));
+      await api(`/admin/outfits/${o.id}`, { method: "PATCH", body: JSON.stringify({ cover_image_url: cover }) });
+      loadOutfits();
+    } catch (e) {
+      setMessage({ error: `Не вдалося змінити обкладинку: ${e instanceof Error ? e.message : e}` });
+    }
+  }
+
   async function togglePublished(o: AdminOutfit) {
     await api(`/admin/outfits/${o.id}`, { method: "PATCH", body: JSON.stringify({ is_published: !o.is_published }) });
     loadOutfits();
   }
 
   const update = (i: number, patch: Partial<Piece>) => setPieces((all) => all.map((x, j) => (j === i ? { ...x, ...patch } : x)));
+  // whole suit vs separates: bringing back one side takes out the other
+  const toggleRemoved = (i: number) => setPieces((all) => {
+    const p = all[i];
+    const back = p.removed;
+    return all.map((x, j) => {
+      if (j === i) return { ...x, removed: !back };
+      if (!back || x.person !== p.person) return x;
+      if (p.slot === "dress" && x.part_of_suit) return { ...x, removed: true };
+      if (p.part_of_suit && x.slot === "dress") return { ...x, removed: true };
+      return x;
+    });
+  });
   const offered = (p: Piece) => (p.candidates ?? []).filter((c) => !broken.has(c.id));
   // the chosen product got hidden or its photo is broken -> move to the next one in that row
   const firstOk = (p: Piece, skip: Set<string>) => offered(p).find((c) => !skip.has(c.id) && !hidden.has(c.id))?.id ?? null;
@@ -154,7 +184,9 @@ export default function AdminPage() {
   const dressAndBottom = [1, 2].some((n) => ["dress", "bottom"].every((s) => active.some((p) => p.person === n && p.slot === s)));
   const ready = title.trim().length >= 2 && active.length > 0 && !dressAndBottom &&
     (gender !== "couple" || [1, 2].every((n) => active.some((p) => p.person === n)));
-  const sorted = pieces.map((p, i) => ({ p, i })).sort((a, b) => a.p.person - b.p.person || SLOTS.indexOf(a.p.slot) - SLOTS.indexOf(b.p.slot));
+  // suit parts right under the whole suit
+  const order = (p: Piece) => (p.part_of_suit ? SLOTS.indexOf("dress") + (p.slot === "jacket" ? 0.1 : 0.2) : SLOTS.indexOf(p.slot));
+  const sorted = pieces.map((p, i) => ({ p, i })).sort((a, b) => a.p.person - b.p.person || order(a.p) - order(b.p));
 
   return (
     <main className="page admin">
@@ -181,7 +213,7 @@ export default function AdminPage() {
           </div>
           <label className="check">
             <input type="checkbox" checked={useCover} onChange={(e) => setUseCover(e.target.checked)} />
-            Фото як обкладинка (лише власні фото або з дозволом; інакше — колаж із речей)
+            Фото як обкладинка образу (зніми галочку — буде колаж із речей)
           </label>
           <button className="btn primary" disabled={!photo || state !== "idle"} onClick={detect}>
             {state === "detecting" ? "AI розглядає фото… (до хвилини)" : "Знайти речі"}
@@ -199,12 +231,14 @@ export default function AdminPage() {
               {gender === "couple" && `${p.person === 1 ? "Перший" : "Другий"} · `}{slotLabel(p.slot, gender)}
               <span className="muted small"> · {p.item_type}{p.color && ` · ${COLORS[p.color]?.[0] ?? p.color}`}</span>
             </h2>
-            <button className="link-strong small" onClick={() => update(i, { removed: !p.removed })}>
+            <button className="link-strong small" onClick={() => toggleRemoved(i)}>
               {p.removed ? "Повернути" : "Прибрати"}
             </button>
           </div>
           {p.removed ? (
-            <p className="hint pad-x">Не додаємо в образ.</p>
+            <p className="hint pad-x">
+              {p.part_of_suit ? "Частина костюма: поверни, щоб брати піджак і штани окремо замість цілого костюма." : "Не додаємо в образ."}
+            </p>
           ) : (
             <>
               <p className="hint pad-x">AI: «{p.description}»</p>
@@ -251,6 +285,10 @@ export default function AdminPage() {
               <Link to={`/outfit/${o.id}`} className="grow">
                 {o.title} <span className="muted small">· {GENDERS.find((g) => g.id === o.gender)?.label ?? o.gender} · {o.item_count} шт.{o.is_demo && " · демо"}</span>
               </Link>
+              <label className="chip">
+                {o.cover_image_url ? "Змінити обкладинку" : "Додати обкладинку"}
+                <input type="file" accept="image/*" hidden onChange={(e) => changeCover(o, e.target.files?.[0])} />
+              </label>
               <button className={`chip ${o.is_published ? "on" : ""}`} onClick={() => togglePublished(o)}>
                 {o.is_published ? "Опубліковано" : "Приховано"}
               </button>

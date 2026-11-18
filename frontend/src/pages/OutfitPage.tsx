@@ -50,8 +50,13 @@ export default function OutfitPage() {
   if (outfit === "missing") return <main className="page pad">Образ не знайдено. <Link to="/" className="link-strong">До образів</Link></main>;
 
   function swap(person: Person, slot: Slot, p: Product) {
-    if (picked[key(person, slot)]?.id === p.id) return;
-    setPicked((x) => ({ ...x, [key(person, slot)]: p }));
+    const k = key(person, slot);
+    if (picked[k]?.id === p.id) {
+      // tap the ticked item again: leave this piece out of my version
+      setPicked(({ [k]: _, ...rest }) => rest);
+      return;
+    }
+    setPicked((x) => ({ ...x, [k]: p }));
     track("swap", { outfit_id: id, product_id: p.id });
   }
 
@@ -72,7 +77,7 @@ export default function OutfitPage() {
             <HeartIcon filled={saved.has(outfit.id)} />
           </button>
         </div>
-        <p className="hint pad-x">Торкнись речі, щоб замінити її у своїй версії образу.</p>
+        <p className="hint pad-x">Торкнись речі, щоб замінити її. Торкнись обраної ще раз, щоб прибрати з образу.</p>
         {looks.map((l) => (
           <div key={l.person} className="look">
             {looks.length > 1 && <h2 className="look-title pad-x">{LOOK_LABELS[l.person]}</h2>}
@@ -96,7 +101,7 @@ export default function OutfitPage() {
         </div>
         <div className="check-total">
           <div><span className="check-label">АутфітЧек</span><strong>{formatUah(total)}</strong></div>
-          <button className="btn accent" onClick={() => setBuyOpen(true)}>Купити речі</button>
+          <button className="btn accent" disabled={!selected.length} onClick={() => setBuyOpen(true)}>Купити речі</button>
         </div>
       </aside>
 

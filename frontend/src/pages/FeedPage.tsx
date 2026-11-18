@@ -82,8 +82,10 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
             onClick={() => pickGender(g.id)}>{g.label}</button>
         ))}
       </div>
-      <button className={`chip ${active ? "on" : ""}`} aria-haspopup="dialog" onClick={() => setFiltersOpen(true)}>
-        <FilterIcon /> Фільтри{active ? ` · ${active}` : ""}
+      <button className={`chip ${reels ? "icon" : ""} ${active ? "on" : ""}`} aria-haspopup="dialog"
+        aria-label={`Фільтри${active ? `, обрано ${active}` : ""}`} onClick={() => setFiltersOpen(true)}>
+        <FilterIcon /> <span className="chip-label">Фільтри{active ? ` · ${active}` : ""}</span>
+        {reels && active > 0 && <span className="chip-count">{active}</span>}
       </button>
     </div>
   );

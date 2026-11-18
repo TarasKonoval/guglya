@@ -22,7 +22,7 @@ MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-4-6")
 CLIP = "patrickjohncyh/fashion-clip"
 ISSUER = f"https://cognito-idp.{os.environ['COGNITO_REGION']}.amazonaws.com/{os.environ['COGNITO_USER_POOL_ID']}"
 JWKS = jwt.PyJWKSet.from_json(os.environ["COGNITO_JWKS"])
-SLOTS = ["hat", "outer", "top", "dress", "bottom", "shoes"]
+SLOTS = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"]
 COLORS = ["black", "white", "grey", "beige", "brown", "blue", "green", "red", "burgundy",
           "pink", "purple", "yellow", "orange"]
 
@@ -35,15 +35,18 @@ You get a photo of a look. List the clothing pieces so we can find the closest r
 Rules:
 - Slots, one piece each per person:
   hat: any headwear.
-  outer: the outermost layer: coat, trench, jacket, puffer, bomber, or a blazer when it is not part of a suit.
+  outer: the outermost layer: coat, trench, jacket, puffer, bomber (not blazers).
+  jacket: a blazer (піджак), worn alone or under a coat.
   top: the layer under it: sweater, turtleneck, shirt, t-shirt, hoodie, cardigan, blouse. List it whenever it
-       is visible, also under a coat or a suit jacket.
-  dress: dress, jumpsuit, matching set, or a suit (matching jacket + trousers, also a three-piece). A suit is ONE
-       dress piece: do NOT also list its trousers as bottom or its jacket as outer.
-  bottom: trousers, jeans, skirt, shorts (only when there is no dress/suit).
+       is visible, also under a coat or a blazer.
+  dress: dress, jumpsuit, matching set, or a suit (matching blazer + trousers, also a three-piece).
+  bottom: trousers, jeans, skirt, shorts.
   shoes.
-- Layering example: long coat over a brown suit over a white turtleneck = outer (coat) + dress (suit) + top
-  (turtleneck) + shoes.
+- A suit is listed THREE times so the admin can pick the whole suit or separates: the whole suit as dress, its
+  blazer as jacket, its trousers as bottom, with part_of_suit = true on the blazer and the trousers. A dress or
+  jumpsuit is listed once, as dress (a separate blazer over a dress is a normal jacket, part_of_suit = false).
+- Layering example: long coat over a brown suit over a white turtleneck = outer (coat) + dress (suit) + jacket
+  (brown blazer) + bottom (brown trousers) + top (turtleneck) + shoes.
 - Skip bags, jewellery, belts, scarves, glasses, socks.
 - Only pieces you can actually see. If shoes are cut off, leave them out.
 - person: 1 for a single look. For a couple: 1 = the person on the left, 2 = on the right.
@@ -72,6 +75,7 @@ TOOL = {
                     "item_type": {"type": "string"},
                     "color": {"type": "string", "enum": COLORS},
                     "description": {"type": "string"},
+                    "part_of_suit": {"type": "boolean"},
                 },
                 "required": ["person", "slot", "item_type", "color", "description"],
             }}},
@@ -119,9 +123,10 @@ def detect(image: bytes, gender: str) -> dict:
             "person": person, "slot": p["slot"], "item_type": str(p.get("item_type", ""))[:40],
             "color": p.get("color") if p.get("color") in COLORS else None,
             "description": str(p["description"])[:200],
+            "part_of_suit": p.get("part_of_suit") is True and p["slot"] in ("jacket", "bottom"),
         })
-    # a suit/dress already includes the bottom
-    pieces = [p for p in pieces if not (p["slot"] == "bottom" and (p["person"], "dress") in seen)]
+    for p in pieces:  # "part of a suit" only makes sense next to that suit
+        p["part_of_suit"] = p["part_of_suit"] and (p["person"], "dress") in seen
     return {"title": str(found.get("title") or "").strip()[:80], "style_tag": str(found.get("style_tag") or "").strip()[:30],
             "pieces": pieces}
 
