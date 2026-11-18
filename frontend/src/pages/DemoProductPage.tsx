@@ -12,7 +12,7 @@ export default function DemoProductPage() {
 
   return (
     <main className="page demo-product">
-      {p && <img src={img(p.image_url)} alt={p.title} />}
+      {p && <img referrerPolicy="no-referrer" src={img(p.image_url)} alt={p.title} />}
       <div className="stack">
         {p && (
           <>

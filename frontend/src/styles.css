@@ -367,5 +367,10 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 .pick-card > span, .pick-card > strong { padding: 0 10px; }
 .pick-card .brand { color: var(--muted); font-size: 12px; }
 .pick-card.on { border-color: var(--ink); box-shadow: 0 0 0 1px var(--ink); }
+.pick-wrap { flex: 0 0 150px; display: grid; gap: 4px; align-content: start; scroll-snap-align: start; }
+.pick-wrap .pick-card { flex: none; }
+.pick-wrap > .small { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; padding: 4px 0; }
+.pick-wrap.hidden .pick-card { opacity: .35; }
+.row.removed h2 { opacity: .45; }
 .admin-list { list-style: none; padding: 0; margin: 8px 0 0; display: grid; }
 .admin-list li { display: flex; gap: 10px; align-items: center; min-height: 52px; border-bottom: 1px solid var(--line); }

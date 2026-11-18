@@ -81,7 +81,7 @@ function Reel({ outfit, first, saved, onToggleSave, onFeedback }: ReelProps) {
       {/* revealed behind the outfit while swiping left */}
       <div className="reel-under" aria-hidden>
         <span>Усі речі</span>
-        {outfit.items.map((it) => <img key={`${it.person}-${it.slot}`} src={img(it.image_url)} alt="" />)}
+        {outfit.items.map((it) => <img referrerPolicy="no-referrer" key={`${it.person}-${it.slot}`} src={img(it.image_url)} alt="" />)}
       </div>
 
       <div className={`reel-card ${dx ? "dragging" : ""} ${leaving ? "leaving" : ""}`}

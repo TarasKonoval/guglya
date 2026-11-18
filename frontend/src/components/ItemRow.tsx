@@ -1,18 +1,19 @@
 import { useEffect, useMemo, useState } from "react";
-import { api, COLORS, formatDiff, formatUah, img, SLOT_LABELS, type Person, type Product, type Slot } from "../lib/api";
+import { api, COLORS, formatDiff, formatUah, img, slotLabel, type Person, type Product, type Slot } from "../lib/api";
 import { addToCart, removeFromCart, useCart } from "../lib/cart";
 import { BagIcon, CheckIcon } from "./Icons";
 
 type Props = {
   outfitId: string;
   person: Person;
+  gender?: string;
   slot: Slot;
   original: Product;
   picked?: Product;
   onPick: (p: Product) => void;
 };
 
-export default function ItemRow({ outfitId, person, slot, original, picked, onPick }: Props) {
+export default function ItemRow({ outfitId, person, gender, slot, original, picked, onPick }: Props) {
   const [pool, setPool] = useState<Product[] | null>(null); // unfiltered, for the colour chips
   const [color, setColor] = useState<string | null>(null);
   const [filtered, setFiltered] = useState<Product[] | null>(null);
@@ -36,9 +37,9 @@ export default function ItemRow({ outfitId, person, slot, original, picked, onPi
   const alternatives = color ? filtered : pool?.slice(0, 5) ?? null;
 
   return (
-    <section className="row" aria-label={SLOT_LABELS[slot]}>
+    <section className="row" aria-label={slotLabel(slot, gender)}>
       <div className="row-head">
-        <h2>{SLOT_LABELS[slot]}</h2>
+        <h2>{slotLabel(slot, gender)}</h2>
         {colors.length > 1 && (
           <div className="chips scroll" role="group" aria-label="Колір">
             {colors.map((c) => (
@@ -77,7 +78,7 @@ function ItemCard({ p, original, selected, inCart, onPick, onCart }: CardProps) 
       <button className="item-pick" onClick={onPick} aria-pressed={selected}
         aria-label={`${p.title}, ${p.brand}, ${formatUah(p.price_uah)}${selected ? " — обрано" : " — обрати"}`}>
         <div className="item-img">
-          <img src={img(p.image_url)} alt="" loading="lazy" />
+          <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" loading="lazy" />
           <span className={`badge ${original ? "" : "ai"}`}>{original ? "в образі" : "AI-підбір"}</span>
           {selected && <span className="selected-mark"><CheckIcon /></span>}
         </div>

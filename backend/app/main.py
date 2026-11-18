@@ -10,7 +10,7 @@ from .auth import admin_user, current_user, is_admin, optional_user
 from .config import settings
 from .db import execute, fetch_all, fetch_one, transaction
 
-Slot = Literal["hat", "top", "dress", "bottom", "shoes"]
+Slot = Literal["hat", "outer", "top", "dress", "bottom", "shoes"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
                   p.image_url, p.product_url, p.is_demo"""
 
@@ -25,7 +25,7 @@ OUTFIT_SUMMARY = """
           + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
          coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by oi.person, array_position(array['hat','top','dress','bottom','shoes'], oi.slot))
+                  order by oi.person, array_position(array['hat','outer','top','dress','bottom','shoes'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -335,9 +335,9 @@ class OutfitIn(BaseModel):
 
 @app.post("/admin/outfits")
 def admin_create_outfit(body: OutfitIn, _: dict = Depends(admin_user)):
-    # a dress/set replaces the bottom (a coat on top of it is fine)
+    # a dress / set / suit already includes the bottom (a coat over it is fine)
     if any(not look or {"dress", "bottom"} <= look.keys() for look in body.looks):
-        raise HTTPException(400, "Each look needs items, and a dress can't be combined with a bottom")
+        raise HTTPException(400, "Each look needs items, and a dress/suit can't be combined with a bottom")
     if (body.gender == "couple") != (len(body.looks) == 2):
         raise HTTPException(400, "A couple outfit has exactly two looks")
     if fetch_one("select 1 from outfits where title = %s", (body.title.strip(),)):
@@ -375,4 +375,16 @@ class PublishIn(BaseModel):
 @app.patch("/admin/outfits/{outfit_id}")
 def admin_publish(outfit_id: UUID, body: PublishIn, _: dict = Depends(admin_user)):
     execute("update outfits set is_published = %s where id = %s", (body.is_published, outfit_id))
+    return {"ok": True}
+
+
+class HideIn(BaseModel):
+    hidden: bool
+
+
+@app.patch("/admin/products/{product_id}")
+def admin_hide_product(product_id: UUID, body: HideIn, _: dict = Depends(admin_user)):
+    """Hide a wrong product (wrong gender, broken photo) from matching and alternatives; re-imports keep it hidden."""
+    execute("update products set is_hidden = %s, in_stock = not %s where id = %s and not is_demo",
+            (body.hidden, body.hidden, product_id))
     return {"ok": True}

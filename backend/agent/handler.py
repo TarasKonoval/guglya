@@ -5,7 +5,8 @@ Only Cognito users in the "admins" group may call it. The admin page then sends 
 POST /admin/match on the main API, which searches the catalog (pgvector) and ranks by brand popularity.
 
 Request:  POST {"image": "<base64 JPEG>", "gender": "women" | "men" | "couple"}
-Response: {"pieces": [{"person": 1, "slot": "top", "item_type": "Пальто", "color": "beige",
+Response: {"title": "Беж і денім", "style_tag": "кежуал",
+           "pieces": [{"person": 1, "slot": "outer", "item_type": "Пальто", "color": "beige",
                        "description": "long beige wool coat", "vector": [512 floats]}]}
 """
 import base64
@@ -21,7 +22,7 @@ MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-4-6")
 CLIP = "patrickjohncyh/fashion-clip"
 ISSUER = f"https://cognito-idp.{os.environ['COGNITO_REGION']}.amazonaws.com/{os.environ['COGNITO_USER_POOL_ID']}"
 JWKS = jwt.PyJWKSet.from_json(os.environ["COGNITO_JWKS"])
-SLOTS = ["hat", "top", "dress", "bottom", "shoes"]
+SLOTS = ["hat", "outer", "top", "dress", "bottom", "shoes"]
 COLORS = ["black", "white", "grey", "beige", "brown", "blue", "green", "red", "burgundy",
           "pink", "purple", "yellow", "orange"]
 
@@ -32,16 +33,27 @@ tokenizer = CLIPTokenizerFast.from_pretrained(CLIP)  # text side only: pieces ar
 SYSTEM = """You are a fashion stylist for Ґуґля, a site of ready-made outfits from Ukrainian brands.
 You get a photo of a look. List the clothing pieces so we can find the closest real products in our catalog.
 Rules:
-- Slots: hat (any headwear), top (the OUTERMOST upper layer: coat, jacket, blazer, or the sweater/shirt if there is
-  no outer layer), dress (dress, jumpsuit, matching set or suit: no separate bottom then;
-  a coat or jacket worn over it is still the top), bottom, shoes.
-- At most one piece per slot per person. Skip bags, jewellery, belts, scarves, glasses, socks.
+- Slots, one piece each per person:
+  hat: any headwear.
+  outer: the outermost layer: coat, trench, jacket, puffer, bomber, or a blazer when it is not part of a suit.
+  top: the layer under it: sweater, turtleneck, shirt, t-shirt, hoodie, cardigan, blouse. List it whenever it
+       is visible, also under a coat or a suit jacket.
+  dress: dress, jumpsuit, matching set, or a suit (matching jacket + trousers, also a three-piece). A suit is ONE
+       dress piece: do NOT also list its trousers as bottom or its jacket as outer.
+  bottom: trousers, jeans, skirt, shorts (only when there is no dress/suit).
+  shoes.
+- Layering example: long coat over a brown suit over a white turtleneck = outer (coat) + dress (suit) + top
+  (turtleneck) + shoes.
+- Skip bags, jewellery, belts, scarves, glasses, socks.
 - Only pieces you can actually see. If shoes are cut off, leave them out.
 - person: 1 for a single look. For a couple: 1 = the person on the left, 2 = on the right.
 - description: short English product-style text for image search, e.g. "long beige wool trench coat with belt".
   Mention colour, material, cut and length; no brand names.
 - item_type: the product type in Ukrainian as a shop would name it (Пальто, Светр, Джинси, Сукня, Черевики...).
-- color: the closest of the allowed colour keys."""
+- color: the closest of the allowed colour keys.
+- title: a short catchy Ukrainian outfit name, 2-4 words, built from its key pieces or colours, like
+  "Тренч і широкі джинси", "Бордо з голови до пʼят", "Тиха розкіш у беж".
+- style_tag: one lowercase Ukrainian style word, like кежуал, класика, стрітстайл, спорт-шик, преппі, мінімалізм."""
 
 TOOL = {
     "toolSpec": {
@@ -49,7 +61,10 @@ TOOL = {
         "description": "Report the clothing pieces visible in the look photo.",
         "inputSchema": {"json": {
             "type": "object",
-            "properties": {"pieces": {"type": "array", "items": {
+            "properties": {
+                "title": {"type": "string"},
+                "style_tag": {"type": "string"},
+                "pieces": {"type": "array", "items": {
                 "type": "object",
                 "properties": {
                     "person": {"type": "integer", "enum": [1, 2]},
@@ -60,7 +75,7 @@ TOOL = {
                 },
                 "required": ["person", "slot", "item_type", "color", "description"],
             }}},
-            "required": ["pieces"],
+            "required": ["title", "style_tag", "pieces"],
         }},
     }
 }
@@ -80,7 +95,7 @@ def is_admin(headers: dict) -> bool:
     return claims.get("token_use") == "id" and "admins" in claims.get("cognito:groups", [])
 
 
-def detect(image: bytes, gender: str) -> list[dict]:
+def detect(image: bytes, gender: str) -> dict:
     who = {"couple": "a couple (two people)", "men": "a man", "women": "a woman"}.get(gender, "a person")
     resp = bedrock.converse(
         modelId=MODEL_ID,
@@ -90,12 +105,12 @@ def detect(image: bytes, gender: str) -> list[dict]:
             {"text": f"This look is for {who}. Report its pieces."},
         ]}],
         toolConfig={"tools": [TOOL], "toolChoice": {"tool": {"name": "report_pieces"}}},
-        inferenceConfig={"maxTokens": 1500},
+        inferenceConfig={"maxTokens": 2000},
     )
-    block = next(b["toolUse"] for b in resp["output"]["message"]["content"] if "toolUse" in b)
+    found = next(b["toolUse"] for b in resp["output"]["message"]["content"] if "toolUse" in b)["input"]
     # Model output is untrusted: keep only well-formed pieces, one per (person, slot)
     seen, pieces = set(), []
-    for p in block["input"].get("pieces", []):
+    for p in found.get("pieces", []):
         person = 2 if gender == "couple" and p.get("person") == 2 else 1
         if p.get("slot") not in SLOTS or (person, p["slot"]) in seen or not str(p.get("description", "")).strip():
             continue
@@ -105,7 +120,10 @@ def detect(image: bytes, gender: str) -> list[dict]:
             "color": p.get("color") if p.get("color") in COLORS else None,
             "description": str(p["description"])[:200],
         })
-    return pieces
+    # a suit/dress already includes the bottom
+    pieces = [p for p in pieces if not (p["slot"] == "bottom" and (p["person"], "dress") in seen)]
+    return {"title": str(found.get("title") or "").strip()[:80], "style_tag": str(found.get("style_tag") or "").strip()[:30],
+            "pieces": pieces}
 
 
 def embed(texts: list[str]) -> list[list[float]]:
@@ -130,7 +148,8 @@ def handler(event, _context):
     if len(image) > 4_000_000:
         return reply(413, {"detail": "Image too large (max 4 MB)"})
 
-    pieces = detect(image, body.get("gender", "women"))
+    result = detect(image, body.get("gender", "women"))
+    pieces = result["pieces"]
     for piece, vec in zip(pieces, embed([p["description"] for p in pieces]) if pieces else []):
         piece["vector"] = vec
-    return reply(200, {"pieces": pieces})
+    return reply(200, result)

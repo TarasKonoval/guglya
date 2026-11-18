@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { api, formatUah, img, SLOT_LABELS, SLOTS, track, type Outfit, type Person, type Product, type Slot } from "../lib/api";
+import { api, formatUah, img, slotLabel, SLOTS, track, type Outfit, type Person, type Product, type Slot } from "../lib/api";
 import { bump, setCurrentOutfit } from "../lib/feedback";
 import { useSaved } from "../lib/saved";
 import { addToCart, useCart } from "../lib/cart";
@@ -77,7 +77,7 @@ export default function OutfitPage() {
           <div key={l.person} className="look">
             {looks.length > 1 && <h2 className="look-title pad-x">{LOOK_LABELS[l.person]}</h2>}
             {SLOTS.filter((s) => l.products[s]).map((slot) => (
-              <ItemRow key={key(l.person, slot)} outfitId={outfit.id} person={l.person} slot={slot}
+              <ItemRow key={key(l.person, slot)} outfitId={outfit.id} person={l.person} gender={outfit.gender} slot={slot}
                 original={l.products[slot]!} picked={picked[key(l.person, slot)]} onPick={(p) => swap(l.person, slot, p)} />
             ))}
           </div>
@@ -88,7 +88,7 @@ export default function OutfitPage() {
         <div className="check-items">
           {selected.map(({ person, slot, p }) => (
             <div key={key(person, slot)} className="check-item">
-              <img src={img(p.image_url)} alt="" />
+              <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" />
               <span className="check-brand">{p.brand}</span>
               <span className="check-price">{formatUah(p.price_uah)}</span>
             </div>
@@ -106,10 +106,10 @@ export default function OutfitPage() {
           <ul className="buy-list">
             {selected.map(({ person, slot, p }) => (
               <li key={key(person, slot)}>
-                <img src={img(p.image_url)} alt="" />
+                <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" />
                 <div className="grow">
                   <div className="muted small">
-                    {looks.length > 1 && `${LOOK_LABELS[person]} · `}{SLOT_LABELS[slot]} · {p.brand}
+                    {looks.length > 1 && `${LOOK_LABELS[person]} · `}{slotLabel(slot, outfit.gender)} · {p.brand}
                   </div>
                   <div>{p.title}</div>
                   <strong>{formatUah(p.price_uah)}</strong>

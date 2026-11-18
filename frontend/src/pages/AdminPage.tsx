@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { api, authHeaders, COLORS, formatUah, img, SLOT_LABELS, SLOTS, type Product, type Slot } from "../lib/api";
+import { api, authHeaders, COLORS, formatUah, img, slotLabel, SLOTS, type Product, type Slot } from "../lib/api";
 
 const AGENT_URL = import.meta.env.VITE_AGENT_URL ?? "";
 const GENDERS = [
@@ -12,7 +12,7 @@ type Gender = (typeof GENDERS)[number]["id"];
 
 type Piece = {
   person: 1 | 2; slot: Slot; item_type: string; color: string | null; description: string; vector: number[];
-  candidates: (Product & { item_type: string | null })[] | null; chosen: string | null;
+  candidates: (Product & { item_type: string | null })[] | null; chosen: string | null; removed?: boolean;
 };
 type AdminOutfit = { id: string; title: string; gender: string; is_published: boolean; is_demo: boolean; item_count: number };
 
@@ -44,6 +44,8 @@ export default function AdminPage() {
   const [state, setState] = useState<"idle" | "detecting" | "publishing">("idle");
   const [message, setMessage] = useState<{ error?: string; done?: string } | null>(null);
   const [outfits, setOutfits] = useState<AdminOutfit[]>([]);
+  const [hidden, setHidden] = useState<Set<string>>(new Set()); // hidden from the catalog by an admin
+  const [broken, setBroken] = useState<Set<string>>(new Set()); // photo didn't load: not offered
 
   const loadOutfits = () => api<AdminOutfit[]>("/admin/outfits").then(setOutfits).catch(() => {});
   useEffect(() => {
@@ -69,8 +71,12 @@ export default function AdminPage() {
         body: JSON.stringify({ image: await toBase64(photo.blob), gender }),
       });
       if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
-      const found: Piece[] = (await res.json()).pieces.map((p: Piece) => ({ ...p, candidates: null, chosen: null }));
+      const data: { title: string; style_tag: string; pieces: Piece[] } = await res.json();
+      const found = data.pieces.map((p) => ({ ...p, candidates: null, chosen: null }));
       setPieces(found);
+      // AI suggestions; whatever the admin already typed wins
+      setTitle((t) => t.trim() ? t : data.title);
+      setTag((t) => t.trim() ? t : data.style_tag);
       // couples: we don't know each person's gender, so search everything
       const g = gender === "couple" ? "unisex" : gender;
       found.forEach((p, i) =>
@@ -88,7 +94,7 @@ export default function AdminPage() {
   }
 
   async function publish() {
-    const chosen = pieces.filter((p) => p.chosen);
+    const chosen = pieces.filter((p) => p.chosen && !p.removed);
     const looks = ([1, 2] as const)
       .map((n) => Object.fromEntries(chosen.filter((p) => p.person === n).map((p) => [p.slot, p.chosen])))
       .filter((l) => Object.keys(l).length);
@@ -125,8 +131,29 @@ export default function AdminPage() {
   }
 
   const update = (i: number, patch: Partial<Piece>) => setPieces((all) => all.map((x, j) => (j === i ? { ...x, ...patch } : x)));
-  const ready = title.trim().length >= 2 && pieces.some((p) => p.chosen) &&
-    (gender !== "couple" || [1, 2].every((n) => pieces.some((p) => p.person === n && p.chosen)));
+  const offered = (p: Piece) => (p.candidates ?? []).filter((c) => !broken.has(c.id));
+  // the chosen product got hidden or its photo is broken -> move to the next one in that row
+  const firstOk = (p: Piece, skip: Set<string>) => offered(p).find((c) => !skip.has(c.id) && !hidden.has(c.id))?.id ?? null;
+  const reselect = (bad: string, skip: Set<string>) =>
+    setPieces((all) => all.map((x) => (x.chosen === bad ? { ...x, chosen: firstOk(x, skip) } : x)));
+
+  async function hideProduct(id: string, hide: boolean) {
+    await api(`/admin/products/${id}`, { method: "PATCH", body: JSON.stringify({ hidden: hide }) });
+    const next = new Set(hidden);
+    if (hide) next.add(id); else next.delete(id);
+    setHidden(next);
+    if (hide) reselect(id, next);
+  }
+  function photoFailed(id: string) {
+    const next = new Set(broken).add(id);
+    setBroken(next);
+    reselect(id, next);
+  }
+
+  const active = pieces.filter((p) => p.chosen && !p.removed);
+  const dressAndBottom = [1, 2].some((n) => ["dress", "bottom"].every((s) => active.some((p) => p.person === n && p.slot === s)));
+  const ready = title.trim().length >= 2 && active.length > 0 && !dressAndBottom &&
+    (gender !== "couple" || [1, 2].every((n) => active.some((p) => p.person === n)));
   const sorted = pieces.map((p, i) => ({ p, i })).sort((a, b) => a.p.person - b.p.person || SLOTS.indexOf(a.p.slot) - SLOTS.indexOf(b.p.slot));
 
   return (
@@ -166,30 +193,43 @@ export default function AdminPage() {
       {message?.done && <p className="pad">Опубліковано ✓ <Link className="link-strong" to={`/outfit/${message.done}`}>Відкрити образ</Link></p>}
 
       {sorted.map(({ p, i }) => (
-        <section key={i} className="row">
+        <section key={i} className={`row ${p.removed ? "removed" : ""}`}>
           <div className="row-head pad-x">
             <h2>
-              {gender === "couple" && `${p.person === 1 ? "Перший" : "Другий"} · `}{SLOT_LABELS[p.slot]}
+              {gender === "couple" && `${p.person === 1 ? "Перший" : "Другий"} · `}{slotLabel(p.slot, gender)}
               <span className="muted small"> · {p.item_type}{p.color && ` · ${COLORS[p.color]?.[0] ?? p.color}`}</span>
             </h2>
-            <button className="link-strong small" onClick={() => update(i, { chosen: null, candidates: [] })}>Прибрати</button>
+            <button className="link-strong small" onClick={() => update(i, { removed: !p.removed })}>
+              {p.removed ? "Повернути" : "Прибрати"}
+            </button>
           </div>
-          <p className="hint pad-x">AI: «{p.description}»</p>
-          <div className="scroller">
-            {p.candidates === null
-              ? [0, 1, 2].map((k) => <div key={k} className="pick-card skeleton" />)
-              : p.candidates.map((c) => (
-                  <button key={c.id} className={`pick-card ${p.chosen === c.id ? "on" : ""}`} aria-pressed={p.chosen === c.id}
-                    onClick={() => update(i, { chosen: c.id })}>
-                    <img src={img(c.image_url)} alt="" loading="lazy" />
-                    <span className="brand">{c.brand}</span>
-                    <span className="title">{c.title}</span>
-                    <strong>{formatUah(c.price_uah)}</strong>
-                    <span className="muted small">схожість {Math.round((c.similarity ?? 0) * 100)}%</span>
-                  </button>
-                ))}
-            {p.candidates?.length === 0 && <p className="muted empty">Не додаємо в образ</p>}
-          </div>
+          {p.removed ? (
+            <p className="hint pad-x">Не додаємо в образ.</p>
+          ) : (
+            <>
+              <p className="hint pad-x">AI: «{p.description}»</p>
+              <div className="scroller">
+                {p.candidates === null
+                  ? [0, 1, 2].map((k) => <div key={k} className="pick-card skeleton" />)
+                  : offered(p).map((c) => (
+                      <div key={c.id} className={`pick-wrap ${hidden.has(c.id) ? "hidden" : ""}`}>
+                        <button className={`pick-card ${p.chosen === c.id ? "on" : ""}`} aria-pressed={p.chosen === c.id}
+                          disabled={hidden.has(c.id)} onClick={() => update(i, { chosen: c.id })}>
+                          <img referrerPolicy="no-referrer" src={img(c.image_url)} alt="" loading="lazy" onError={() => photoFailed(c.id)} />
+                          <span className="brand">{c.brand}</span>
+                          <span className="title">{c.title}</span>
+                          <strong>{formatUah(c.price_uah)}</strong>
+                          <span className="muted small">схожість {Math.round((c.similarity ?? 0) * 100)}%</span>
+                        </button>
+                        <button className="link small" onClick={() => hideProduct(c.id, !hidden.has(c.id))}>
+                          {hidden.has(c.id) ? "Приховано · повернути" : "Сховати з каталогу"}
+                        </button>
+                      </div>
+                    ))}
+                {p.candidates !== null && offered(p).length === 0 && <p className="muted empty">Нічого схожого в каталозі</p>}
+              </div>
+            </>
+          )}
         </section>
       ))}
 
@@ -199,6 +239,7 @@ export default function AdminPage() {
             {state === "publishing" ? "Публікуємо…" : "Опублікувати образ"}
           </button>
           {!title.trim() && <p className="hint">Додай назву образу.</p>}
+          {dressAndBottom && <p className="hint">Сукня / костюм уже містить низ: прибери «Низ» або «{slotLabel("dress", gender)}».</p>}
         </div>
       )}
 

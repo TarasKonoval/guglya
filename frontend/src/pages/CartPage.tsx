@@ -25,7 +25,7 @@ export default function CartPage() {
             {items.map((p) => (
               <li key={p.id}>
                 <button className="cart-item" onClick={() => toBrand(p)}>
-                  <img src={img(p.image_url)} alt="" />
+                  <img referrerPolicy="no-referrer" src={img(p.image_url)} alt="" />
                   <div className="grow">
                     <div className="muted small">{p.slot ? `${SLOT_LABELS[p.slot]} · ` : ""}{p.brand}</div>
                     <div>{p.title}</div>

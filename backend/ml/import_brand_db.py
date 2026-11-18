@@ -8,6 +8,8 @@ keeps its embedding unless its photo changed. Products that disappeared from the
 importable are marked out of stock (never deleted: clicks and outfits may point at them).
 Popularity (Instagram followers) comes from data/database/brand_popularity.json when present.
 
+Admin-hidden products stay hidden. Run backend/ml/embed.py, then backend/ml/classify_gender.py after an import.
+
 Skipped: accessories (slot "other"), products without a (plausible) UAH price, products marked out of stock.
 """
 import json
@@ -34,6 +36,8 @@ COLOR = {
 }
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
+# The layer worn over a top or a dress/suit ("outer" slot); keep in sync with migration 006
+OUTER_TYPES = {"Пальто", "Куртка", "Піджак", "Бомбер", "Пуховик", "Тренч", "Шуба", "Парка", "Вітрівка", "Дублянка", "Косуха"}
 MIN_PRICE = 100  # below this the scraper misread the price (e.g. "8 990" -> 8)
 GENDER = {"female": "women", "male": "men", "unisex": "unisex"}
 AUDIENCE = {"Жінкам": "women", "Жінкам (зараз)": "women", "Чоловікам": "men"}
@@ -50,7 +54,8 @@ def to_row(p: dict, brand: dict) -> tuple | None:
     if not price or price < MIN_PRICE or not p.get("photos"):
         return None
     on_sale = bool(sale) and MIN_PRICE <= sale < price
-    category = "dress" if p.get("item_type") in DRESS_TYPES else p["slot"]
+    kind = p.get("item_type")
+    category = "dress" if kind in DRESS_TYPES else "outer" if p["slot"] == "top" and kind in OUTER_TYPES else p["slot"]
     color = next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
     return (
         p["name"] or p.get("item_type") or "Річ", category, color, sale if on_sale else price,
@@ -95,8 +100,10 @@ def main() -> None:
                        values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, true, false)
                        on conflict (product_url) do update set brand_id = excluded.brand_id, title = excluded.title,
                          category = excluded.category, color = excluded.color, price_uah = excluded.price_uah,
-                         old_price_uah = excluded.old_price_uah, photos = excluded.photos, gender = excluded.gender,
-                         item_type = excluded.item_type, sizes = excluded.sizes, in_stock = true,
+                         old_price_uah = excluded.old_price_uah, photos = excluded.photos,
+                         -- "unisex" means the scrape didn't say: keep what classify_gender.py found
+                         gender = case when excluded.gender = 'unisex' then products.gender else excluded.gender end,
+                         item_type = excluded.item_type, sizes = excluded.sizes, in_stock = not products.is_hidden,
                          image_url = excluded.image_url,
                          -- a new photo needs a new embedding
                          embedding = case when products.image_url = excluded.image_url then products.embedding end""",
