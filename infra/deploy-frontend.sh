@@ -19,7 +19,7 @@ VITE_COGNITO_DOMAIN=$(out cognito_domain)
 VITE_GOOGLE_ENABLED=$(out google_enabled)
 VITE_DONATE_URL=${VITE_DONATE_URL:-}
 VITE_AGENT_URL=$(out agent_url)
-VITE_CLARITY_ID=${VITE_CLARITY_ID:-}
+VITE_CLARITY_ID=${VITE_CLARITY_ID:-zftevqb23f}  # Microsoft Clarity project (heatmaps); public id
 ENV
 
 cd ../frontend
