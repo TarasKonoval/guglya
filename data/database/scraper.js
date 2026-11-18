@@ -487,7 +487,9 @@
     const seen = new Set();
     list = list.filter((p) => { const k = p.id; if (seen.has(k)) return false; seen.add(k); return true; });
     const pr = { [OUT]: 1, [KNIT]: 2, [TOP]: 2, [SET]: 2, [DRESS]: 2, [BOT]: 2, [ETNO]: 2, [SHOES]: CFG.kind === 'shoes' ? 1 : 3, [TEE]: 3, [BODY]: 3, [ACC]: 5, [UND]: 6, [SWIM]: 6 };
-    const capHat = CFG.kind === 'hats' ? LIMIT : 20, capOther = CFG.kind === 'hats' ? LIMIT : 30;
+    // accessory brands (kind hats / bags / scarves): their accessories are the catalog, so no cap
+    const accBrand = ['hats', 'bags', 'scarves'].includes(CFG.kind);
+    const capHat = accBrand ? LIMIT : 20, capOther = accBrand ? LIMIT : 30;
     const sorted = list.map((p, i) => [p, i]).sort((a, b) =>
       (a[0].in_stock === false) - (b[0].in_stock === false) ||
       (pr[a[0].category] || 4) - (pr[b[0].category] || 4) || a[1] - b[1]).map((x) => x[0]);

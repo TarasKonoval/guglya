@@ -2,7 +2,7 @@
 FashionCLIP zero-shot. Brands that are unisex by design ("keep_unisex": true in brands.json) are left unisex.
 
 Usage (from repo root, after backend/ml/embed.py):
-  DATABASE_URL=... python backend/ml/classify_gender.py [--dry-run]
+  DATABASE_URL=... python backend/ml/classify_gender.py [--dry-run] [--only id1,id2]
 
 Compares each stored image embedding with the text "menswear" vs "womenswear". On products whose gender we
 know, the score gap is about +7 for men and -7 for women; only clear cases (|gap| >= MARGIN) are changed,
@@ -35,10 +35,13 @@ def text_vectors() -> np.ndarray:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--only", help="comma-separated brand ids: classify just these brands")
     args = ap.parse_args()
 
     texts = text_vectors()
-    unisex_brands = [b["id"] for b in json.loads(BRANDS_JSON.read_text(encoding="utf-8")) if b.get("keep_unisex")]
+    only = args.only.split(",") if args.only else None
+    unisex_brands = [b["id"] for b in json.loads(BRANDS_JSON.read_text(encoding="utf-8"))
+                     if b.get("keep_unisex") and (only is None or b["id"] in only)]
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         # unisex-by-design brands: everything back to unisex (an earlier run may have split them by the model's gender)
         if not args.dry_run:
@@ -51,8 +54,9 @@ def main() -> None:
         rows = conn.execute(
             """select p.id, p.embedding::text from products p join brands b on b.id = p.brand_id
                where (p.gender = 'unisex' or p.gender is null) and not p.is_demo and p.embedding is not null
-                 and p.title not ilike '%%унісекс%%' and not (b.slug = any(%s))""",
-            (unisex_brands,),
+                 and p.title not ilike '%%унісекс%%' and not (b.slug = any(%s))
+                 and (%s::text[] is null or b.slug = any(%s))""",
+            (unisex_brands, only, only),
         ).fetchall()
         if not rows:
             print("Nothing to classify.")

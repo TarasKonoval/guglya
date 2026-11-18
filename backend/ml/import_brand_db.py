@@ -1,7 +1,9 @@
 """Load the scraped brand catalog (data/database/products.json, built by data/database/merge.py) into Postgres.
 
 Usage (from repo root):
-  DATABASE_URL=... python backend/ml/import_brand_db.py [data/database/products.json]
+  DATABASE_URL=... python backend/ml/import_brand_db.py [data/database/products.json] [--only id1,id2]
+
+--only: import just these brands (others are not touched at all, e.g. while a teammate imports theirs).
 
 Re-running is safe: brands upsert by name, products by product_url (the brand's product page). A product
 keeps its embedding unless its photo changed. Products that disappeared from the file or are no longer
@@ -97,7 +99,10 @@ def to_row(p: dict, brand: dict) -> tuple | None:
 
 
 def main() -> None:
-    src = Path(sys.argv[1]) if len(sys.argv) > 1 else DB_DIR / "products.json"
+    args = sys.argv[1:]
+    only = set(args[args.index("--only") + 1].split(",")) if "--only" in args else None
+    files = [a for i, a in enumerate(args) if not a.startswith("--") and (i == 0 or args[i - 1] != "--only")]
+    src = Path(files[0]) if files else DB_DIR / "products.json"
     data = json.loads(src.read_text(encoding="utf-8"))
     brands = {b["id"]: b for b in json.loads((DB_DIR / "brands.json").read_text(encoding="utf-8"))}
     pop_file = DB_DIR / "brand_popularity.json"
@@ -106,6 +111,8 @@ def main() -> None:
     by_brand: dict[str, list[tuple]] = {}
     skipped = 0
     for p in data["products"]:
+        if only is not None and p["brand_id"] not in only:
+            continue
         row = to_row(p, brands.get(p["brand_id"], {}))
         if row:
             by_brand.setdefault(p["brand_id"], []).append(row)
