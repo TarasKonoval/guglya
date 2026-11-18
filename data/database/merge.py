@@ -113,7 +113,19 @@ def main(src):
                 cats[p["category"]]["types"][p["item_type"]] += 1
     categories = [{"category": c, "slot": v["slot"].most_common(1)[0][0], "item_types": [t for t, _ in v["types"].most_common()]}
                   for c, v in sorted(cats.items(), key=lambda x: -sum(x[1]["slot"].values()))]
-    (HERE / "categories.json").write_text(json.dumps(categories, ensure_ascii=False, indent=2), encoding="utf-8")
+    # Не губимо записи, додані вручну або scrape_brands.mjs (сумки, головні убори тощо): лише доповнюємо.
+    cat_path = HERE / "categories.json"
+    if cat_path.exists():
+        old = json.loads(cat_path.read_text(encoding="utf-8"))
+        new = {c["category"]: c for c in categories}
+        for c in old:
+            if c["category"] in new:
+                n = new[c["category"]]
+                n["item_types"] += [t for t in c["item_types"] if t not in n["item_types"]]
+                n["slot"] = c["slot"]
+            else:
+                categories.append(c)
+    cat_path.write_text(json.dumps(categories, ensure_ascii=False, indent=2), encoding="utf-8")
 
     brands = [b | {"products_count": len(per_brand.get(b["id"], ({}, []))[1])} for b in BRANDS.values()]
     db = {

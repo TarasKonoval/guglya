@@ -1,0 +1,267 @@
+{
+  "_meta": {
+    "brand": "Pryanik",
+    "site": "https://pryanik.in.ua",
+    "extracted_at": "2026-11-18",
+    "count": 10,
+    "method": "html",
+    "scope": "усі товари",
+    "discovery": "sitemap → сторінки категорій Tilda (статичні картки)",
+    "candidates": 158,
+    "checked": 35,
+    "skipped": {
+      "no name/price/url/photo": 7,
+      "gift card / kids": 1
+    },
+    "issues": [
+      "Tilda-картки не містять наявності — in_stock = null; 1 фото на товар"
+    ],
+    "requests": 39,
+    "minutes": 1,
+    "verified": [
+      {
+        "id": "pryanik-shopper-s1-oliva-54984",
+        "url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1568142654984",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "pryanik-shopper-s1-black-and-kosmos-52316",
+        "url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976752316",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "pryanik-shopper-s1-wb-kosmos-52546",
+        "url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1624095052546",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "pryanik-shopper-s1-oliva-54984",
+      "brand": "Pryanik",
+      "name": "Shopper S1 oliva",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1568142654984",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3533-3638-4162-b861-303266366230/IMG_1874-min.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-wb-kosmos-52546",
+      "brand": "Pryanik",
+      "name": "Shopper S1 wb kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1624095052546",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6334-3463-4861-b832-383763313832/IMG_4040.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-marsal-66239",
+      "brand": "Pryanik",
+      "name": "Shopper S1 marsal",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799266239",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6165-6463-4462-b761-623537343264/IMG_4183.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-skittels-74728",
+      "brand": "Pryanik",
+      "name": "Shopper S1 skittels",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/281802034-1594799074728",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 8200,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3165-6665-4364-b334-623761623261/IMG_4026.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-black-mat-30776",
+      "brand": "Pryanik",
+      "name": "Shopper S1 black mat",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1497456130776",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3237-6530-4634-a130-643963376638/_MG_0083.jpg",
+        "https://static.tildacdn.net/tild6231-6431-4835-a262-323363613637/_MG_0073.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-black-and-kosmos-52316",
+      "brand": "Pryanik",
+      "name": "Shopper S1 black and kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976752316",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3334-3662-4566-a130-316562353834/_MG_0070.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-kosmos-17133",
+      "brand": "Pryanik",
+      "name": "Shopper S1 kosmos",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1567976817133",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3961-6135-4162-b536-336236636336/_MG_0068.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-s1-kosmos-and-black-00358",
+      "brand": "Pryanik",
+      "name": "Shopper S1 kosmos and black",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1568142700358",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4990,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3639-3663-4839-a364-663662383230/_MG_0066.jpg"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-handle-over-the-shoulder-82651",
+      "brand": "Pryanik",
+      "name": "Handle over the shoulder",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/211550479-1576663382651",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 400,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild3466-3063-4265-a133-343736646265/noroot.png"
+      ],
+      "description": "Ручка через плече",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "pryanik-shopper-w3-black-83344",
+      "brand": "Pryanik",
+      "name": "Shopper W3",
+      "source_url": "https://pryanik.in.ua/shopper#!/tproduct/129999964-1567975983344",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "коньячний",
+        "червоний"
+      ],
+      "sizes": null,
+      "price_uah": 4900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://static.tildacdn.net/tild6665-3763-4463-b661-616261353462/fullsizeoutput_2970.jpeg",
+        "https://static.tildacdn.net/tild3530-3332-4431-a432-363934626562/noroot.png",
+        "https://static.tildacdn.net/tild3866-6538-4065-b034-616236646265/noroot.png"
+      ],
+      "description": "Сумка шопер",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

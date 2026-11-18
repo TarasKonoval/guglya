@@ -1,0 +1,289 @@
+{
+  "_meta": {
+    "brand": "Sambag",
+    "site": "https://sambag.com.ua",
+    "extracted_at": "2026-11-18",
+    "count": 10,
+    "method": "html",
+    "scope": "усі товари",
+    "discovery": "sitemap",
+    "candidates": 570,
+    "checked": 16,
+    "skipped": {},
+    "issues": [],
+    "requests": 20,
+    "minutes": 0.5,
+    "verified": [
+      {
+        "id": "sambag-ryukzak-zardx-0kt-chorniy",
+        "url": "https://sambag.com.ua/rukzak/ryukzak-zardx-0kt-chorniy",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "sambag-ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+        "url": "https://sambag.com.ua/rukzak/ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "sambag-ryukzak-zard-0zn-chorniy-zhinochiy",
+        "url": "https://sambag.com.ua/rukzak/ryukzak-zard-0zn-chorniy-zhinochiy",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "sambag-ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак ролл Sambag Roll Top Zard шоколадний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-roll-sambag-uniseks-rolltop-ltt-shokoladniy",
+      "gender": "unisex",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238020/24238020-500x691.jpg?v=54567",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238020/242380201-500x691.jpg?v=50686"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак Sambag Loft сірий шовк",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-loft-ln-siriy-shovk",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 1830,
+      "sale_price_uah": 1650,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/22400030/22400030-500x691.jpg?v=69727",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/22400030/224000301-500x691.jpg?v=64775"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
+      "brand": "Sambag",
+      "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний оксфорд принт",
+      "source_url": "https://sambag.com.ua/rukzak/chorniy-cholovichiy-ryukzak-roll-top-oksford-print",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238731m/24238731m-500x691.jpg?v=96531",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238731m/24238731m1-500x691.jpg?v=100640"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-dali-lite-biliy",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак Sambag Dali Lite білий",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-dali-lite-biliy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": null,
+      "price_uah": 2100,
+      "sale_price_uah": 1780,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/15373008/15373008-500x691.jpg?v=57340",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/15373008/153730081-500x691.jpg?v=52337"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак Sambag Zard Neo",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-zard-lzn-chorniy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "рожевий",
+        "мʼятний"
+      ],
+      "sizes": null,
+      "price_uah": 2690,
+      "sale_price_uah": 2130,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25000064/25000064-500x691.jpg?v=51654",
+        "https://sambag.com.ua/image/cache/catalog/products/25000506/25000506-500x691.jpg?v=56913",
+        "https://sambag.com.ua/image/cache/catalog/products/25000514/25000514-500x691.jpg?v=59989"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-ryukzak-zard-0zn-chorniy-zhinochiy",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак Sambag Zard Urban чорний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-zard-0zn-chorniy-zhinochiy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2530,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25000001/25000001-500x691.jpg?v=48876",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/25000001/250000011-500x691.jpg?v=50212"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-ryukzak-zardx-0kt-chorniy",
+      "brand": "Sambag",
+      "name": "Чоловічий рюкзак Sambag Zard Х чорний",
+      "source_url": "https://sambag.com.ua/rukzak/ryukzak-zardx-0kt-chorniy",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2270,
+      "sale_price_uah": 1930,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/25428001m/25428001m-500x691.jpg?v=97753",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/25428001m/25428001m1-500x691.jpg?v=90527"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinocha-sumka-krossbodi-sambag-frame-chorna",
+      "brand": "Sambag",
+      "name": "Жіноча сумка кроссбоді Sambag Frame чорна",
+      "source_url": "https://sambag.com.ua/sumki/zhinocha-sumka-krossbodi-sambag-frame-chorna",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Кросбоді",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 1830,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/50223401/50223401-500x691.jpg?v=49097",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/50223401/502234011-500x691.jpg?v=52068"
+      ],
+      "description": null,
+      "care": "і. Комфорт: М'який текстильний ремінь на металевих карабінах, що легко регулюється під ваш зріст. Функціональність: Всередині: Основне просторе відділення, та окрема кишеня на всю довжину спинки. Ззовні: Зручна кишеня на блискавці на задній частині сумки.",
+      "collections": []
+    },
+    {
+      "id": "sambag-zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
+      "brand": "Sambag",
+      "name": "Жіночий рюкзак Sambag Brix Classic шоколадний",
+      "source_url": "https://sambag.com.ua/rukzak/zhinochiy-ryukzak-sambag-brix-classic-shokoladniy",
+      "gender": "female",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 2210,
+      "sale_price_uah": 1590,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/14511020/14511020-500x691.jpg?v=87347",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/14511020/145110201-500x691.jpg?v=81544"
+      ],
+      "description": null,
+      "care": "і. Підкладка: Міцний матеріал оксфорд середньої щільності, стійкий до подряпин і простий у догляді — нитки не вилазять, тканина не розтягується. Завдяки щільному з’єднанню частин підкладки навантаження рівномірно розподіляється по рюкзаку, що подовжує термін служби швів і зовнішнього",
+      "collections": []
+    },
+    {
+      "id": "sambag-cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
+      "brand": "Sambag",
+      "name": "Чоловічий рюкзак ролл Sambag Roll Top Zard чорний тканевий",
+      "source_url": "https://sambag.com.ua/rukzak/cholovichiy-ryukzak-sambag-rolltop-zard-chorniy-tkaneviy",
+      "gender": "male",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2320,
+      "sale_price_uah": 1970,
+      "in_stock": true,
+      "photos": [
+        "https://sambag.com.ua/image/cache/catalog/products/24238065m/24238065m-500x691.jpg?v=81611",
+        "https://sambag.com.ua/image/cache/no_image-21x21.png?v=539",
+        "https://sambag.com.ua/image/cache/catalog/products/24238065m/24238065m1-500x691.jpg?v=70538"
+      ],
+      "description": null,
+      "care": "ати за замшевою сумкою Сервісні служби Мапа сайту Рюкзаки по колекціям Бананки по колекціям Сумки по колекціям Контактна інформація Контакти (097) 904-76-01 [email protected] ОПТ ДРОП viberSambag© 2018-2026. All Rights ReservedПоказати більшеМи використовуємо cookie-файли. Продовжуючи користуватися сайтом без зміни налаштувань, ви даєте згоду на використання ваших cookie-файлів.Ok",
+      "collections": []
+    }
+  ]
+}

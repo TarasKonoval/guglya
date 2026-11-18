@@ -1,0 +1,21 @@
+{
+  "_meta": {
+    "brand": "Verbena",
+    "site": "https://verbena.com.ua",
+    "extracted_at": "2026-11-18",
+    "count": 0,
+    "method": "products.json",
+    "scope": "усі товари",
+    "discovery": "products.json + collections",
+    "candidates": 355,
+    "checked": 355,
+    "skipped": {
+      "gift card / kids": 1
+    },
+    "issues": [
+      "ЗАБЛОКОВАНО: HTTP 429 (rate limit) навіть після пауз"
+    ],
+    "note": "Не зібрано: HTTP 429 (rate limit) навіть після пауз"
+  },
+  "products": []
+}

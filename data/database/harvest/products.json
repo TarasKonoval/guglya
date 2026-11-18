@@ -1,0 +1,289 @@
+{
+  "_meta": {
+    "brand": "Harvest",
+    "site": "https://harvest-clothing.com.ua",
+    "extracted_at": "2026-11-18",
+    "count": 10,
+    "method": "json-ld",
+    "scope": "лише сумки, рюкзаки, головні убори",
+    "discovery": "sitemap",
+    "candidates": 286,
+    "checked": 16,
+    "skipped": {},
+    "issues": [],
+    "requests": 20,
+    "minutes": 0.5,
+    "verified": [
+      {
+        "id": "harvest-arizona-ecoleather-black-01",
+        "url": "https://harvest-clothing.com.ua/bags/men/sumki-iz-ekokozhi/arizona-ecoleather-black-01",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "harvest-basic-pack-matt-black",
+        "url": "https://harvest-clothing.com.ua/backpacks/unisex-backpack/basic-pack-matt-black",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "harvest-arizona-grey",
+        "url": "https://harvest-clothing.com.ua/bags/men/sumki-cherez-pleche-3103/arizona-grey",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "harvest-alaska-leather-black",
+      "brand": "Harvest",
+      "name": "“Alaska“ шкіряна, чорна",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-z-naturalnoy-shkyri/alaska-leather-black",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 7950,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/991099005700050000/alaska-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/991099005700050000/bagg1-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/991099005700050000/bagg2-1000x1250.webp"
+      ],
+      "description": "“Alaska“ - проста, зручна і без зайвих деталей. Підійде на кожен день, коли хочеться, щоб усе необхідне було під рукою:виготовлена з натуральної шкіри;передня кишеня на кнопці;містке основне відділення з кишенями на блискавці для документів чи дрібниць;ремінь із регулюванням довжини.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-arizon-gridstop-brown",
+      "brand": "Harvest",
+      "name": "“Arizona“ X-Gridstop",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-z-nylony/arizon-gridstop-brown",
+      "gender": "unisex",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "браун",
+        "сіра",
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2150,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537014210160000/gt4-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537014200040000/siriv-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537014200050000/lua-1000x1250.webp"
+      ],
+      "description": "Сумка виготовлена з матеріалу X-Gridstop - легкої, але міцної тканини з характерним армованим плетінням у вигляді сітки. Така структура підвищує стійкість матеріалу до розривів і механічних пошкоджень, а також робить його практичним для щоденного використання: містке загальне відділення на блискавці; додаткова кишеня спереду для дрібничок, що також закривається на блискавку; всередині дві додаткові кишені на блискавках; зручний ремінець, що регулюється по довжині; щільна поліестерова підкладка.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-arizona-ecoleather-black-01",
+      "brand": "Harvest",
+      "name": "“ARIZONA“ екошкіра, чорна",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-iz-ekokozhi/arizona-ecoleather-black-01",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2595,
+      "sale_price_uah": 2150,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000412510000/fj-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000412510000/29-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000412510000/26-1000x1250.webp"
+      ],
+      "description": "Дуже зручна та практична мінімалістична сумка для повсякденного використання. Якщо ти шукаєш аксесуар, що підійде для різних образів - сумка Арізона - саме те, що тобі потрібно: виготовлена з якісної екошкіри; містке загальне відділення на металевій блискавці; додаткова кишеня спереду для дрібничок, що також закривається на блискавку; всередині дві додаткові кишені на блискавках; зручний ремінець, що регулюється по довжині; щільна поліестерова підкладка.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-arizona-grey",
+      "brand": "Harvest",
+      "name": "“ARIZONA“ сiра",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-cherez-pleche-3103/arizona-grey",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 2150,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000040000/030537000000040000/vr-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000040000/030537000000040000/75-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000040000/030537000000040000/72-1000x1250.webp"
+      ],
+      "description": "Дуже зручна та практична мінімалістична сумка для повсякденного використання. Якщо ти шукаєш аксесуар, що підійде для різних образів - сумка Арізона - саме те, що тобі потрібно: виготовлена з міцного матеріалу CORDURA 1000D; містке загальне відділення на блискавці; додаткова кишеня спереду для дрібничок, що також закривається на блискавку; всередині дві додаткові кишені на блискавках; зручний ремінець, що регулюється по довжині; щільна поліестерова підкладка.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-arizona-cordura-black",
+      "brand": "Harvest",
+      "name": "“ARIZONA“ чорна",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-cherez-pleche-3103/arizona-cordura-black",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2595,
+      "sale_price_uah": 2150,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000050000/z11-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000050000/4-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030537000000050000/7-1000x1250.webp"
+      ],
+      "description": "Дуже зручна та практична мінімалістична сумка для повсякденного використання. Якщо ти шукаєш аксесуар, що підійде для різних образів - сумка Арізона - саме те, що тобі потрібно: виготовлена з міцного матеріалу CORDURA 1000D; містке загальне відділення на блискавці; додаткова кишеня спереду для дрібничок, що також закривається на блискавку; всередині дві додаткові кишені на блискавках; зручний ремінець, що регулюється по довжині; щільна поліестерова підкладка.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-basic-bag-02-gray",
+      "brand": "Harvest",
+      "name": "“Basic Bag“ поліестер, світло-сіра",
+      "source_url": "https://harvest-clothing.com.ua/bags/women/nylon-bag/basic-bag-02-gray",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 1320,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/031085000310280000/12kd-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/031085000310280000/a2-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/031085000310280000/a3-1000x1250.webp"
+      ],
+      "description": "Коли не хочеться брати зайве, але й залишити щось важливе вдома — не варіант, на допомогу приходить Basic Bag. Це саме та сумка, яка стає частиною щоденного ритму: швидко взяв, закинув через плече — і вперед у свої справи: незважаючи на компактний розмір, сумка має містке основне відділення з кишеньками для ваших дрібничок; на передній частині сумки є зручна кишенька на блискавці; розмір ремінця регулюється відповідно до ваших потреб; задня частина сумки виконана з піноматеріалу та вентиляційної сітки Air-Mesh.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-basic-pack-02-beige",
+      "brand": "Harvest",
+      "name": "“Basic Pack“",
+      "source_url": "https://harvest-clothing.com.ua/backpacks/unisex-backpack/basic-pack-02-beige",
+      "gender": "unisex",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "бежевий",
+        "світло-сірий"
+      ],
+      "sizes": null,
+      "price_uah": 2695,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/041082000311830000/alvp-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/041082000310220000/bbbaaa-1000x1250-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/041082000311830000/m3-1000x1250.webp"
+      ],
+      "description": "Зручний, місткий і стильний — підходить для міста, навчання та активного життя. Нічого зайвого, тільки комфорт і функціональність на кожен день: зручне основне відділення з кишенями для дрібниць; містка кишеня на блискавці на передній стінці; потаємна кишенька на задній стінці та дві кишеньки по боках, що чудово підходять для парасольки чи пляшки з водою; відділення для ноутбуку до 15,6 дюймів, стінки якого захищені м'яким піноматеріалом; м’яка спинка, що виконана з піноматеріалу та плащової тканини та регульовані лямки виконані з піноматеріалу та вентиляційної сітки Air-Mesh, забезпечують комфорт навіть за тривалого носіння.",
+      "care": "за виробом не прасувати;не прати у пральній машині, оскільки це зношує",
+      "collections": []
+    },
+    {
+      "id": "harvest-basic-pack-matt-black",
+      "brand": "Harvest",
+      "name": "“Basic Pack“ матовий, чорний",
+      "source_url": "https://harvest-clothing.com.ua/backpacks/unisex-backpack/basic-pack-matt-black",
+      "gender": "unisex",
+      "category": "Рюкзаки",
+      "item_type": "Рюкзак",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 2995,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/0408040013000510000/bbb-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/0408040013000510000/b11000x1250-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/0408040013000510000/b61000x1250-1000x1250.webp"
+      ],
+      "description": "Зручний, місткий і стильний — підходить для міста, навчання та активного життя. Нічого зайвого, тільки комфорт і функціональність на кожен день: зручне основне відділення з кишенями для дрібниць; містка кишеня на блискавці на передній стінці; потаємна кишенька на задній стінці та дві кишеньки по боках, що чудово підходять для парасольки чи пляшки з водою; відділення для ноутбуку до 15,6 дюймів, стінки якого захищені м'яким піноматеріалом; м’яка спинка, що виконана з піноматеріалу та плащової тканини та регульовані лямки виконані з піноматеріалу та вентиляційної сітки Air-Mesh, забезпечують комфорт навіть за тривалого носіння.",
+      "care": "за виробом не прасувати;не прати у пральній машині, оскільки це зношує",
+      "collections": []
+    },
+    {
+      "id": "harvest-basic-waist-mat-black",
+      "brand": "Harvest",
+      "name": "“Basic Waist“ матова, чорна",
+      "source_url": "https://harvest-clothing.com.ua/bags/men/sumki-iz-ekokozhi/basic-waist-mat-black",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Бананка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 1650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831001500050000/kl1-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831001500050000/kl3-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831001500050000/kl4-1000x1250.webp"
+      ],
+      "description": "Basic Waist - легка, компактна й практична:зручне основне відділення;кишеня на блискавці на задній стінці;всередині є дві кишеньки-сітки та одна кишенька на липучці з іншого боку.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "harvest-basic-waist-pink-check",
+      "brand": "Harvest",
+      "name": "“Basic Waist“ принт check",
+      "source_url": "https://harvest-clothing.com.ua/bags/women/poyasny-sumki-women/basic-waist-pink-check",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Бананка",
+      "slot": "bag",
+      "colors": [
+        "рожевий",
+        "жовтий"
+      ],
+      "sizes": null,
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831000000000128/gb-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831000000000129/yel-1000x1250.webp",
+        "https://harvest-clothing.com.ua/image/cache/catalog/0NEW_PRODUCTS/030831000000000128/mt2-2-1000x1250.webp"
+      ],
+      "description": "Ця бананка просто cute overload. Маленька і така стильна, що хочеться носити її щодня: зручне основне відділення; кишеня на блискавці на задній стінці; всередині є дві кишеньки-сітки та одна кишенька на липучці з іншого боку.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

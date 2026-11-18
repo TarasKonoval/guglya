@@ -1,0 +1,19 @@
+{
+  "_meta": {
+    "brand": "VIS",
+    "site": "https://visbags.com",
+    "extracted_at": "2026-11-18",
+    "count": 0,
+    "method": null,
+    "scope": "усі товари",
+    "discovery": null,
+    "candidates": 0,
+    "checked": 0,
+    "skipped": {},
+    "issues": [
+      "ЗАБЛОКОВАНО: захист від ботів (HTTP 403, Cloudflare/капча) на https://visbags.com/sitemap.xml"
+    ],
+    "note": "Не зібрано: захист від ботів (HTTP 403, Cloudflare/капча) на https://visbags.com/sitemap.xml"
+  },
+  "products": []
+}

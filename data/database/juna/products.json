@@ -1,0 +1,546 @@
+{
+  "_meta": {
+    "brand": "Juna",
+    "site": "https://www.juna.com.ua",
+    "extracted_at": "2026-11-18",
+    "count": 20,
+    "method": "html",
+    "scope": "усі товари",
+    "discovery": "сторінки категорій (2)",
+    "candidates": 79,
+    "checked": 52,
+    "skipped": {
+      "не сторінка товару": 20
+    },
+    "issues": [],
+    "requests": 65,
+    "minutes": 1.6,
+    "verified": [
+      {
+        "id": "juna-essence-mini-bronze-green",
+        "url": "https://www.juna.com.ua/essence-mini-bronze-green",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "juna-essence-pocket-olive-suede",
+        "url": "https://www.juna.com.ua/essence-pocket-olive-suede",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "juna-essence-pocket-chocolate",
+        "url": "https://www.juna.com.ua/essence-pocket-chocolate",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "juna-essence-pocket-burgundy-croco",
+      "brand": "Juna",
+      "name": "ESSENCE POCKET BURGUNDY CROCO",
+      "source_url": "https://www.juna.com.ua/essence-pocket-burgundy-croco",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE POCKET у насиченому бордовому кольорі з глянцевою анімалістичною поверхнею. Компактний формат зберігає впізнавану форму ESSENCE: м’який корпус, короткі ручки та ремінь із пряжкою, що проходить по верхній частині корпусу й збирає об’єм.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE POCKET у насиченому бордовому кольорі з глянцевою анімалістичною поверхнею. Компактний формат зберігає впізнавану форму ESSENCE: м’який корпус, короткі ручки та ремінь із пряжкою, що проходить по верхній частині корпусу й збирає об’єм.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-fermoir-black-croco",
+      "brand": "Juna",
+      "name": "FERMOIR CROCO",
+      "source_url": "https://www.juna.com.ua/fermoir-black-croco",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "FERMOIR у глибокому чорному кольорі з глянцевою анімалістичною поверхнею. Округлий корпус зібраний фермуаром, а коротка ручка підкреслює компактну форму моделі. Рельєфна поверхня додає глибини кольору й виразності силуету.Довжина ручки 60 смРозмір:34х12х20 см",
+      "care": "Доставка FERMOIR у глибокому чорному кольорі з глянцевою анімалістичною поверхнею. Округлий корпус зібраний фермуаром, а коротка ручка підкреслює компактну форму моделі. Рельєфна поверхня додає глибини кольору й виразності силуету.Довжина ручки 60 см",
+      "collections": []
+    },
+    {
+      "id": "juna-umbra-olive-suede",
+      "brand": "Juna",
+      "name": "UMBRA SUEDE",
+      "source_url": "https://www.juna.com.ua/umbra-olive-suede",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 17900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "UMBRA OLIVE SUEDE у поєднанні чорної гладкої поверхні та оливкової замші. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними складками. Контраст матеріалів підкреслює об’єм моделі й робить силует виразнішим.Довжина ручки 68 смРозмір:42х14х28 см",
+      "care": "Доставка UMBRA OLIVE SUEDE у поєднанні чорної гладкої поверхні та оливкової замші. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними",
+      "collections": []
+    },
+    {
+      "id": "juna-fermoir-red",
+      "brand": "Juna",
+      "name": "FERMOIR RED",
+      "source_url": "https://www.juna.com.ua/fermoir-red",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Чекаємо поставку у період 02-08.11FERMOIR у червоному кольорі. Витягнутий м’який корпус зібраний фермуаром, який формує верхню лінію сумки. Довга ручка дозволяє носити модель на плечі, зберігаючи її компактний горизонтальний силует.Довжина ручки 60 смРозмір:34х12х20 см",
+      "care": "Доставка Чекаємо поставку у період 02-08.11FERMOIR у червоному кольорі. Витягнутий м’який корпус зібраний фермуаром, який формує верхню лінію сумки. Довга ручка дозволяє носити модель на плечі, зберігаючи її компактний горизонтальний силует.Довжина ручки 60 см",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-pocket-olive-suede",
+      "brand": "Juna",
+      "name": "ESSENCE POCKET OLIVE SUEDE",
+      "source_url": "https://www.juna.com.ua/essence-pocket-olive-suede",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у приглушеному оливковому відтінку із замшевою поверхнею. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE у приглушеному оливковому відтінку із замшевою поверхнею. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-pocket-chocolate",
+      "brand": "Juna",
+      "name": "ESSENCE POCKET CHOCOLATE",
+      "source_url": "https://www.juna.com.ua/essence-pocket-chocolate",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 10900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у шоколадному кольорі. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 смРозмір 24х10х15 см",
+      "care": "Доставка ESSENCE у шоколадному кольорі. М’який корпус сумки формує характерний об’єм, а ремінь із пряжкою проходить по верхній частині корпусу й збирає форму. Короткі ручки зберігають впізнаваний силует ESSENCE.Довжина ручки 24 см, додатковий ремінець 130 см",
+      "collections": []
+    },
+    {
+      "id": "juna-umbra-chocolate",
+      "brand": "Juna",
+      "name": "UMBRA CHOCOLATE",
+      "source_url": "https://www.juna.com.ua/umbra-chocolate",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 17900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "UMBRA CHOCOLATE у глибокому шоколадному кольорі. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними складками. Вони створюють об’єм і підкреслюють пластичність силуету.Довжина ручки 68 смРозмір:42х14х28 см",
+      "care": "Доставка UMBRA CHOCOLATE у глибокому шоколадному кольорі. Витягнуті ручки поєднані з широким корпусом, нижня частина якого формується м’якими горизонтальними",
+      "collections": []
+    },
+    {
+      "id": "juna-clutch-sienna",
+      "brand": "Juna",
+      "name": "CLUTCH SIENNA",
+      "source_url": "https://www.juna.com.ua/clutch-sienna",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Клатч",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 9900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Клатч у червоно-коричневому відтінку з анімалістичним принтом. Стримана трапецієподібна форма залишає головну роль матеріалу, а мінімальна конструкція підкреслює принт. Компактний формат дозволяє носити клатч у руці або доповнювати його довгим ременем.Розмір: 31x7x14 смДовжина додаткового ременя - 110 см",
+      "care": "Доставка Клатч у червоно-коричневому відтінку з анімалістичним принтом. Стримана трапецієподібна форма залишає головну роль",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-mini-bronze-green",
+      "brand": "Juna",
+      "name": "DESIRE MINI BRONZE GREEN",
+      "source_url": "https://www.juna.com.ua/desire-mini-bronze-green",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 10300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "DESIRE MINI у глибокому зеленому відтінку з виразною фактурою. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.Розмір 26х11х16 смВисота з ручкою 22",
+      "care": "Доставка DESIRE MINI у глибокому зеленому відтінку з виразною фактурою. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-mini-vermilion",
+      "brand": "Juna",
+      "name": "DESIRE MINI VERMILION",
+      "source_url": "https://www.juna.com.ua/desire-mini-vermilion",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 10300,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "DESIRE MINI у насиченому червоному кольорі. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.Розмір 26х11х16 смВисота з ручкою 22",
+      "care": "Доставка DESIRE MINI у насиченому червоному кольорі. Чітка форма моделі пом’якшена заокругленою ручкою, а ремінь із металевою пряжкою проходить по верхній частині корпусу й задає характерну лінію DESIRE.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-entr-acte",
+      "brand": "Juna",
+      "name": "ESSENCE MINI ENTR’ACTE",
+      "source_url": "https://www.juna.com.ua/essence-mini-entr-acte",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI з виразним анімалістичним принтом. М’який корпус тримає характерний об’єм моделі, ремінь із металевою пряжкою задає форму, а видовжені ручки дозволяють носити сумку на плечі.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI з виразним анімалістичним принтом. М’який корпус тримає характерний об’єм моделі, ремінь із металевою пряжкою задає форму, а видовжені ручки дозволяють носити сумку на плечі.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-bronze-green",
+      "brand": "Juna",
+      "name": "ESSENCE MINI BRONZE GREEN",
+      "source_url": "https://www.juna.com.ua/essence-mini-bronze-green",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI у зеленому кольорі з анімалістичним принтом. У меншому форматі акцент зміщується на видовжені ручки та м’який об’єм сумки; ремінь із металевою пряжкою перехоплює його по центру й формує впізнаваний силует ESSENCE.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI у зеленому кольорі з анімалістичним принтом. У меншому форматі акцент зміщується на видовжені ручки та м’який об’єм сумки; ремінь із металевою пряжкою перехоплює його по центру й формує впізнаваний силует ESSENCE.",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-mini-celadon",
+      "brand": "Juna",
+      "name": "ESSENCE MINI CELADON",
+      "source_url": "https://www.juna.com.ua/essence-mini-celadon",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE MINI у приглушеному зеленому відтінку з матовою, м’якою поверхнею. Світлий тон робить об’єм моделі виразнішим, а тонкий ремінь із металевою пряжкою збирає форму по центру. Видовжені ручки дозволяють носити сумку на плечі.Розмір: 34х15х20",
+      "care": "Доставка ESSENCE MINI у приглушеному зеленому відтінку з матовою, м’якою поверхнею. Світлий тон робить об’єм моделі виразнішим, а тонкий ремінь із металевою пряжкою збирає форму по центру. Видовжені ручки дозволяють носити сумку на плечі.",
+      "collections": []
+    },
+    {
+      "id": "juna-mercer-red",
+      "brand": "Juna",
+      "name": "MERCER",
+      "source_url": "https://www.juna.com.ua/mercer-red",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний",
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 16900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "MERCER IN RED у глибокому червоному кольорі з глянцевою анімалістичною поверхнею. Широка форма й витягнуті ручки задають силует, ремінь із металевою пряжкою проходить навколо корпусу та збирає об’єм. Лакована поверхня підкреслює рельєф матеріалу й глибину кольору.Довжина ручки - 44 смРозмір 44х18х35 см",
+      "care": "Доставка MERCER IN RED у глибокому червоному кольорі з глянцевою анімалістичною поверхнею. Широка форма й витягнуті ручки задають силует, ремінь із металевою пряжкою проходить навколо корпусу та збирає об’єм. Лакована поверхня підкреслює рельєф",
+      "collections": []
+    },
+    {
+      "id": "juna-essence-vermilion",
+      "brand": "Juna",
+      "name": "ESSENCE VERMILION",
+      "source_url": "https://www.juna.com.ua/essence-vermilion",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": null,
+      "price_uah": 15900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "ESSENCE у насиченому червоному кольорі. Тонкий ремінь із металевою пряжкою перехоплює м’який корпус і задає форму, зберігаючи об’єм. Видовжені ручки врівноважують силует і дозволяють носити сумку на плечі.Довжина ручки - 44 смРозмір 44х18х35 см",
+      "care": "Доставка ESSENCE у насиченому червоному кольорі. Тонкий ремінь із металевою пряжкою перехоплює м’який корпус і задає форму, зберігаючи об’єм. Видовжені ручки врівноважують силует і дозволяють носити сумку на плечі.Довжина ручки - 44 см",
+      "collections": []
+    },
+    {
+      "id": "juna-startlet-milk",
+      "brand": "Juna",
+      "name": "STARTLET",
+      "source_url": "https://www.juna.com.ua/startlet-milk",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний",
+        "рожевий"
+      ],
+      "sizes": null,
+      "price_uah": 3540,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Startlet створена для твоїх яскравих і святкових образів! Аксесуар виконаний зі шкіри, має металеві застібки, в комплекті є два ремені — короткий і довгий з можливістю регулювання.Розмір: 20х6х15 см",
+      "care": "Доставка Startlet створена для твоїх яскравих і святкових образів! Аксесуар виконаний зі шкіри, має металеві застібки, в комплекті є два ремені — короткий і довгий з можливістю регулювання.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-essence-mini-pink",
+      "brand": "Juna",
+      "name": "ESSENCE MINI PINK",
+      "source_url": "https://www.juna.com.ua/essence-mini-pink",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": null,
+      "price_uah": 8330,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Компактна сумка з м'якої натуральної замші з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.Розмір:34х15х20 см",
+      "care": "Доставка Компактна сумка з м'якої натуральної замші з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-essence-mini-black",
+      "brand": "Juna",
+      "name": "ESSENCE MINI",
+      "source_url": "https://www.juna.com.ua/essence-mini-black",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "бордовий",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 11900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Компактна сумка з м'якої натуральної шкіри з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.Розмір:34х15х20 см",
+      "care": "Доставка Компактна сумка з м'якої натуральної шкіри з характерним об'ємним силуетом. Декоративний ремінь із металевою пряжкою підкреслює форму та додає виробу витончений акцент. Дві широкі ручки довжиною 60 см забезпечують зручне носіння на плечі. Мінімалістичний дизайн поєднує практичність із сучасною естетикою.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    },
+    {
+      "id": "juna-clutch-reptile",
+      "brand": "Juna",
+      "name": "CLUTCH",
+      "source_url": "https://www.juna.com.ua/clutch-reptile",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Клатч",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": null,
+      "price_uah": 9900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Лаконічний клатч із натуральної шкіри з м'якою структурованою формою. Акуратні рядки по периметру підкреслюють чистоту силуету. Універсальний формат робить його ідеальним доповненням як до денного, так і до вечірнього образу. Довжина додаткового ременя - 110 смРозмір: 31x7x14 см",
+      "care": "Доставка Лаконічний клатч із натуральної шкіри з м'якою структурованою формою. Акуратні рядки по периметру підкреслюють чистоту силуету. Універсальний формат робить його ідеальним доповненням як до денного, так і до вечірнього образу. Довжина додаткового ременя - 110 см",
+      "collections": []
+    },
+    {
+      "id": "juna-desire-black-with-baisse",
+      "brand": "Juna",
+      "name": "DESIRE WITH BAISSE",
+      "source_url": "https://www.juna.com.ua/desire-black-with-baisse",
+      "gender": null,
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 12900,
+      "sale_price_uah": null,
+      "in_stock": null,
+      "photos": [
+        "https://www.juna.com.ua/catalog/view/theme/amica/assets/images/juna/loader.png",
+        "https://www.juna.com.ua/image/catalog/ESSENCE%20POCKET/BURGUNDY%20CROCO/37.webp",
+        "https://www.juna.com.ua/image/catalog/FERMOIR/BLACK%20CROCO/01.webp"
+      ],
+      "description": "Елегантність виглядає просто і невимушено, як сумочка DESIRE! Аксесуар виконаний в базових кольорах, які ідеально комбінуються з верхнім одягом і стануть чудовим доповненням осінніх образів.Розмір 38х14х27 смТепер сумка має дві зйомні ручки Коротша ручка 75 Довга ручка максимальна довжина 113 Довга ручка мінімальна довжина 97",
+      "care": "Доставка Елегантність виглядає просто і невимушено, як сумочка DESIRE! Аксесуар виконаний в базових кольорах, які ідеально комбінуються з верхнім одягом і стануть чудовим доповненням осінніх образів.",
+      "collections": [
+        "КОЛЕКЦІЇ /"
+      ]
+    }
+  ]
+}

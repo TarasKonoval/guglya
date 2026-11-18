@@ -1,0 +1,293 @@
+{
+  "_meta": {
+    "brand": "Gepur",
+    "site": "https://gepur.com/uk",
+    "extracted_at": "2026-11-18",
+    "count": 10,
+    "method": "json-ld",
+    "scope": "лише сумки, рюкзаки, головні убори",
+    "discovery": "сторінки категорій (4)",
+    "candidates": 48,
+    "checked": 16,
+    "skipped": {},
+    "issues": [],
+    "requests": 26,
+    "minutes": 0.6,
+    "verified": [
+      {
+        "id": "gepur-sumka-50565",
+        "url": "https://gepur.com/uk/product/sumka-50565",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "gepur-shopper-50522",
+        "url": "https://gepur.com/uk/product/shopper-50522",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "gepur-sumka-50569",
+        "url": "https://gepur.com/uk/product/sumka-50569",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "gepur-sumka-50770",
+      "brand": "Gepur",
+      "name": "сумка з паєтками",
+      "source_url": "https://gepur.com/uk/product/sumka-50770",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний",
+        "золотий"
+      ],
+      "sizes": null,
+      "price_uah": 699,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50770/simple/537/50770_4_1.jpg?1795011698",
+        "https://img.gepur.com/products/55000/50838/simple/537/50838_1_1.jpg?1794482563",
+        "https://img.gepur.com/products/55000/50770/simple/537/50770_3_1.jpg?1794490392"
+      ],
+      "description": "Маленький аксесуар із великим талантом привертати увагу. Паєтки ловлять світло, бахрома реагує на кожен рух, а звичайний жест перетворюється на маленьку виставу. Іноді для вечірнього настрою достатньо просто взяти правильну сумку Сумка з паєтками, на одне відділення. Довжина 41 см, з бахромою - 69 см, ширина 25 см. На підкладці Твій час проявлятися",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-shopper-50522",
+      "brand": "Gepur",
+      "name": "Біла сумка-шопер TINA KAROL X GEPUR",
+      "source_url": "https://gepur.com/uk/product/shopper-50522",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Шопер",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": null,
+      "price_uah": 1299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50522/simple/537/50522_1_1.jpg?1790779531",
+        "https://img.gepur.com/products/55000/50522/simple/537/50522_2_1.jpg?1790779530",
+        "https://img.gepur.com/products/55000/50522/simple/537/50522_3_1.jpg?1790779537"
+      ],
+      "description": "TINA KAROL X GEPUR. БЛАГОДІЙНИЙ МЕРЧ. Разом із Тіною ми створили лімітований благодійний мерч з фразами улюблених пісень: «Життя має продовження» та «Здатись ти завжди ще встигнеш». Прибуток від продажу мерчу буде спрямовано до фонду Тіни на допомогу онкохворим дітям Об'ємна сумка-шопер - мікс стилю та комфорту. Одне об'ємне відділення, є внутрішня кишеня для мобільного Сумка великого розміру підходить для покупок. Без підкладки. Довжина 49 см, ширина 14 см, висота 35 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-48692",
+      "brand": "Gepur",
+      "name": "Срібляста сумка зі стразами",
+      "source_url": "https://gepur.com/uk/product/sumka-48692",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "срібний"
+      ],
+      "sizes": null,
+      "price_uah": 1299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/50000/48692/simple/537/48692_1_1.jpg?1754496255",
+        "https://img.gepur.com/products/50000/48692/simple/537/48692_2_1.jpg?1754496262",
+        "https://img.gepur.com/products/50000/48692/simple/537/48692_3_1.jpg?1754496247"
+      ],
+      "description": "Вечірня сумка декорована стразами, є довгий знімний ланцюг. Одне відділення застібається на кнопку. Срібляста фурнітура. Ширина 2,5 см, довжина 18,5 см, висота 10 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50577",
+      "brand": "Gepur",
+      "name": "Чорна сумка прямокутної форми із натуральної шкіри",
+      "source_url": "https://gepur.com/uk/product/sumka-50577",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 5999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50577/simple/537/50577_1_1.jpg?1787640342",
+        "https://img.gepur.com/products/55000/50577/simple/537/50577_2_1.jpg?1787640347",
+        "https://img.gepur.com/products/55000/50577/simple/537/50577_3_1.jpg?1787640353"
+      ],
+      "description": "Містка сумка прямокутної форми із натуральної шкіри. Модель з двома довгими ручками, висота ручок 25 см. Одне об'ємне відділення застібається на блискавку. Є внутрішня перегородка відділення на блискавці та кишеня для мобільного телефону. Ширина сумки 9 см, довжина 38 см, висота 27 см. На підкладці",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50575",
+      "brand": "Gepur",
+      "name": "Зелена сумка із натуральної замші з ремнем",
+      "source_url": "https://gepur.com/uk/product/sumka-50575",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 4999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50575/simple/537/50575_1_1.jpg?1787651531",
+        "https://img.gepur.com/products/55000/50575/simple/537/50575_2_1.jpg?1787651534",
+        "https://img.gepur.com/products/55000/50575/simple/537/50575_3_1.jpg?1787651524"
+      ],
+      "description": "Сумка із натуральної замші з двома ручками та знімним ременем. Одне об'ємне відділення застібається на блискавку та кнопку, є внутрішня кишеня для мобільного. На підкладці. Ширина 9 см, довжина 26 см, висота 20 см. Висота ручок 11 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50569",
+      "brand": "Gepur",
+      "name": "сумка із фактурної натуральної шкіри",
+      "source_url": "https://gepur.com/uk/product/sumka-50569",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий",
+        "зелений"
+      ],
+      "sizes": null,
+      "price_uah": 3799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50569/simple/537/50569_1_1.jpg?1787640280",
+        "https://img.gepur.com/products/55000/50570/simple/537/50570_1_1.jpg?1787640498",
+        "https://img.gepur.com/products/55000/50569/simple/537/50569_2_1.jpg?1787640286"
+      ],
+      "description": "Сумка із натуральної шкіри з ремнем, довжину якого можна ергулювати. Одне об'ємне відділення застібається на блискавку, є внутрішня кишеня для мобільного. На підкладці. Ширина 8,5 см, довжина 22 см, висота 17 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50565",
+      "brand": "Gepur",
+      "name": "Сумка із натуральної замші у відтінку",
+      "source_url": "https://gepur.com/uk/product/sumka-50565",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий",
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 4999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50565/simple/537/50565_1_1.jpg?1787640267",
+        "https://img.gepur.com/products/55000/50566/simple/537/50566_1_1.jpg?1787640270",
+        "https://img.gepur.com/products/55000/50565/simple/537/50565_2_1.jpg?1787640257"
+      ],
+      "description": "Сумка із натуральної замші з двома довгими ручками. Одне об'ємне відділення застібається на блискавку та кнопку, є внутрішня кишеня для мобільного. На підкладці. Ширина 10 см, довжина 31 см, висота 19 см. Висота ручок 26 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50573",
+      "brand": "Gepur",
+      "name": "Темно-синя сумка із фактурної натуральної шкіри",
+      "source_url": "https://gepur.com/uk/product/sumka-50573",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": null,
+      "price_uah": 4699,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50573/simple/537/50573_1_1.jpg?1787650745",
+        "https://img.gepur.com/products/55000/50573/simple/537/50573_2_1.jpg?1787650733",
+        "https://img.gepur.com/products/55000/50573/simple/537/50573_3_1.jpg?1787650743"
+      ],
+      "description": "Сумка із натуральної шкіри з двома ручками і знімним ремнем, довжину якого можна регулювати. Одне об'ємне відділення застібається на блискавку, є внутрішня кишеня для мобільного. На підкладці. Ширина 11 см, довжина 24,5 см, висота 16 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50574",
+      "brand": "Gepur",
+      "name": "Сумка із натуральної замші у шоколадному відтінку з ремнем",
+      "source_url": "https://gepur.com/uk/product/sumka-50574",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": null,
+      "price_uah": 4999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50574/simple/537/50574_1_1.jpg?1787745465",
+        "https://img.gepur.com/products/55000/50574/simple/537/50574_2_1.jpg?1787745444",
+        "https://img.gepur.com/products/55000/50574/simple/537/50574_3_1.jpg?1787745456"
+      ],
+      "description": "Сумка із натуральної замші з двома ручками та знімним ременем. Одне об'ємне відділення застібається на блискавку та кнопку, є внутрішня кишеня для мобільного. На підкладці. Ширина 9 см, довжина 26 см, висота 20 см. Висота ручок 11 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    },
+    {
+      "id": "gepur-sumka-50572",
+      "brand": "Gepur",
+      "name": "Сумка-півмісяць із натуральної замші та екошкіри у бордовому відтінку",
+      "source_url": "https://gepur.com/uk/product/sumka-50572",
+      "gender": "female",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": null,
+      "price_uah": 3999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://img.gepur.com/products/55000/50572/simple/537/50572_1_1.jpg?1787640314",
+        "https://img.gepur.com/products/55000/50572/simple/537/50572_2_1.jpg?1787640322",
+        "https://img.gepur.com/products/55000/50572/simple/537/50572_3_1.jpg?1787640317"
+      ],
+      "description": "Комбінована сумка із натуральної замші та екошкіри з короткою ручкою та знімним ремнем. Одне об'ємне відділення застібається на блискавку, є внутрішня кишеня для мобільного. На підкладці. Ширина 7 см, довжина 28 см, висота 12 см. Висота ручок 13 см",
+      "care": "Таблиця розмірівДоставка та",
+      "collections": []
+    }
+  ]
+}

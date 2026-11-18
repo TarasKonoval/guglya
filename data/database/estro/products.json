@@ -1,0 +1,289 @@
+{
+  "_meta": {
+    "brand": "Estro",
+    "site": "https://estro.ua",
+    "extracted_at": "2026-11-18",
+    "count": 10,
+    "method": "json-ld",
+    "scope": "лише сумки, рюкзаки, головні убори",
+    "discovery": "сторінки категорій (18)",
+    "candidates": 226,
+    "checked": 16,
+    "skipped": {},
+    "issues": [],
+    "requests": 55,
+    "minutes": 1.4,
+    "verified": [
+      {
+        "id": "estro-er00120403",
+        "url": "https://estro.ua/product/ER00120403",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "estro-er00120402",
+        "url": "https://estro.ua/product/ER00120402",
+        "ok": true,
+        "fixed": []
+      },
+      {
+        "id": "estro-er00120887",
+        "url": "https://estro.ua/product/ER00120887",
+        "ok": true,
+        "fixed": []
+      }
+    ]
+  },
+  "products": [
+    {
+      "id": "estro-er00120405",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120405",
+      "source_url": "https://estro.ua/product/ER00120405",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4799,
+      "sale_price_uah": 4070,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/e/86/2t7xvs---c16x9x50px50p--a997ceff64f95813b16d32bc381f886e.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/e/86/ceobzj---c4x3x50px50p--a997ceff64f95813b16d32bc381f886e.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/e/86/yawily---c1x1x50px50p--a997ceff64f95813b16d32bc381f886e.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120402",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120402",
+      "source_url": "https://estro.ua/product/ER00120402",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 5799,
+      "sale_price_uah": 4920,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/b/ee/t66fg4---c16x9x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/b/ee/gyy4qv---c4x3x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/b/ee/bncgxb---c1x1x50px50p--f67866951a8e1eef590201fd83c23eeb.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120403",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120403",
+      "source_url": "https://estro.ua/product/ER00120403",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 4989,
+      "sale_price_uah": 4240,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/3/19/rqwn4s---c16x9x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/3/19/nkvlpc---c4x3x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/3/19/hpalxy---c1x1x50px50p--7bd9ac3f772aa748b303df2ca218a193.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120414",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120414",
+      "source_url": "https://estro.ua/product/ER00120414",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 5299,
+      "sale_price_uah": 4230,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/a/dd/rebr2u---c16x9x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/a/dd/7is52e---c4x3x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/a/dd/ce3grb---c1x1x50px50p--649d55728cf3c2ef13cb29015abb8dda.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120729",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00120729",
+      "source_url": "https://estro.ua/product/ER00120729",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6199,
+      "sale_price_uah": 4640,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/5/2b/zy2rar---c16x9x50px50p--9bab07f394cdacca17a503211ad422b5.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/5/2b/gzuolu---c4x3x50px50p--9bab07f394cdacca17a503211ad422b5.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/5/2b/rmjak3---c1x1x50px50p--9bab07f394cdacca17a503211ad422b5.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117322",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117322",
+      "source_url": "https://estro.ua/product/ER00117322",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6989,
+      "sale_price_uah": 5590,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/2/85/qtf737---c16x9x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/2/85/nvktux---c4x3x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/2/85/klri3z---c1x1x50px50p--4ebcbcc0378f92d6cc5e3e55326f3852.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117316",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117316",
+      "source_url": "https://estro.ua/product/ER00117316",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 4990,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/8/ca/oual4a---c16x9x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/8/ca/yulcoy---c4x3x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/8/ca/b26wcf---c1x1x50px50p--60c0dd9878bab1b5c4ea65296d35eca8.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00120887",
+      "brand": "Estro",
+      "name": "Сумка шкіряна коричнева Estro ER00120887",
+      "source_url": "https://estro.ua/product/ER00120887",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 4990,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/6/25/72c6wv---c16x9x50px50p--1076f3e7d121616639b1fb583259c256.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/6/25/4dev3h---c4x3x50px50p--1076f3e7d121616639b1fb583259c256.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/6/25/onlbw4---c1x1x50px50p--1076f3e7d121616639b1fb583259c256.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00117332",
+      "brand": "Estro",
+      "name": "Сумка через плече шкіряна чорна Estro ER00117332",
+      "source_url": "https://estro.ua/product/ER00117332",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка на плече",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6599,
+      "sale_price_uah": 4940,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/6/1d/acotz4---c16x9x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/6/1d/pah5jw---c4x3x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/6/1d/ufyqod---c1x1x50px50p--2560fe47ef2707f2db8c5c10679621d6.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    },
+    {
+      "id": "estro-er00119152",
+      "brand": "Estro",
+      "name": "Сумка шкіряна чорна Estro ER00119152",
+      "source_url": "https://estro.ua/product/ER00119152",
+      "gender": "male",
+      "category": "Сумки",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": null,
+      "price_uah": 6299,
+      "sale_price_uah": 5350,
+      "in_stock": null,
+      "photos": [
+        "https://s.estro.ua/static/content/thumbs/1600x900/9/1f/ifge53---c16x9x50px50p--0577d5347994400b371599e714f461f9.jpg",
+        "https://s.estro.ua/static/content/thumbs/1200x900/9/1f/sdcbcm---c4x3x50px50p--0577d5347994400b371599e714f461f9.jpg",
+        "https://s.estro.ua/static/content/thumbs/1000x1000/9/1f/lnbtld---c1x1x50px50p--0577d5347994400b371599e714f461f9.jpg"
+      ],
+      "description": null,
+      "care": "у за взуттям (аерозолі) - відносяться до товарів, що не підлягають",
+      "collections": []
+    }
+  ]
+}
