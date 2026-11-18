@@ -177,30 +177,40 @@ def gender_ok(target: str) -> str:
 def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = None, limit: int = 5):
     """AI alternatives: same category and the same kind of item (trousers vs sweatpants, loafers vs boots...; the
     whole category only if that kind has < MIN_GROUP candidates), in stock, other brands (one per brand first), for
-    the outfit's gender (a couple look: the original item's gender); ranked by CLIP similarity with bonuses for the
-    exact item type and popular brands. Clearly different items (similarity < MIN_SIMILARITY) are left out."""
+    the outfit's gender (a couple look: the original item's gender).
+    Items published from the builder keep its search (AI description of the look photo as a FashionCLIP text
+    vector + colour): they are ranked exactly like /admin/match, so visitors see the row the admin picked from.
+    Older items: by the chosen product's photo (similarity >= MIN_SIMILARITY). Bonuses: same colour, exact item
+    type, popular brands."""
     return fetch_all(
         f"""with hero as (
-              select p.id, p.brand_id, p.embedding, p.category, p.price_uah, p.item_type, {type_group("p")} as grp,
+              select p.id, p.brand_id, p.category, p.price_uah, p.item_type, {type_group("p")} as grp,
+                     coalesce(oi.query_vector, p.embedding) as v, oi.query_vector is not null as by_text,
+                     coalesce(oi.query_color, p.color) as want_color,
                      case when o.gender in ('men', 'women') then o.gender else p.gender end as target
               from outfit_items oi join outfits o on o.id = oi.outfit_id join products p on p.id = oi.product_id
               where oi.outfit_id = %(outfit)s and oi.person = %(person)s and oi.slot = %(slot)s
             ), pop as ({BRAND_POPULARITY}), pool as (
-              select {PRODUCT_COLS},
+              select {PRODUCT_COLS}, hero.by_text,
                      p.price_uah - hero.price_uah as price_diff,
-                     1 - (p.embedding <=> hero.embedding) as similarity,
+                     1 - (p.embedding <=> hero.v) as similarity,
                      coalesce(pop.score, 0) as brand_score,
+                     (p.color is not distinct from hero.want_color) as same_color,
                      (p.item_type is not distinct from hero.item_type) as same_type,
                      ({type_group("p")} is not distinct from hero.grp) as same_group
               from products p join brands b on b.id = p.brand_id left join pop on pop.brand_id = p.brand_id, hero
               where p.category = hero.category and p.in_stock and p.brand_id <> hero.brand_id
                 and p.embedding is not null and {gender_ok("hero.target")}
-                and 1 - (p.embedding <=> hero.embedding) >= {MIN_SIMILARITY}
+                -- text-to-image scores are ~0.3, image-to-image ~0.7-0.9: the floor only applies to photo search
+                and (hero.by_text or 1 - (p.embedding <=> hero.v) >= {MIN_SIMILARITY})
             ), ranked as (
               select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
               where (same_group or n_group < {MIN_GROUP}) and (%(color)s::text is null or color = %(color)s)
             ), scored as (
-              select *, similarity + {SAME_TYPE_BONUS} * same_type::int + {POPULARITY_WEIGHT} * brand_score as score
+              -- same weights as /admin/match for builder items
+              select *, similarity + 0.02 * same_color::int
+                        + (case when by_text then 0.03 else {SAME_TYPE_BONUS} end) * same_type::int
+                        + {POPULARITY_WEIGHT} * brand_score as score
               from ranked
             )
             select id, title, brand, category, color, price_uah, image_url, product_url, is_demo,
@@ -403,6 +413,17 @@ class OutfitIn(BaseModel):
     style_tag: str | None = Field(default=None, max_length=30)
     cover_image_url: str | None = Field(default=None, pattern=r"^/img/looks/[0-9a-f-]{36}\.jpg$")
     looks: list[dict[Slot, UUID]] = Field(min_length=1, max_length=2)
+    # per look, the builder's search for each slot (kept so the outfit page shows the same alternatives)
+    queries: list[dict[Slot, "QueryIn"]] | None = None
+
+
+class QueryIn(BaseModel):
+    vector: list[float] = Field(min_length=512, max_length=512)
+    color: str | None = Field(default=None, max_length=20)
+    text: str | None = Field(default=None, max_length=200)
+
+
+OutfitIn.model_rebuild()
 
 
 def check_outfit(body: OutfitIn, outfit_id: UUID | None = None) -> None:
@@ -415,12 +436,15 @@ def check_outfit(body: OutfitIn, outfit_id: UUID | None = None) -> None:
         raise HTTPException(409, "An outfit with this title already exists")
 
 
-def insert_items(conn, outfit_id: UUID, looks: list[dict]) -> None:
-    for person, look in enumerate(looks, 1):
+def insert_items(conn, outfit_id: UUID, body: OutfitIn) -> None:
+    for person, look in enumerate(body.looks, 1):
+        queries = (body.queries or [])[person - 1] if len(body.queries or []) >= person else {}
         for slot, product_id in look.items():
+            q = queries.get(slot)
             conn.execute(
-                "insert into outfit_items (outfit_id, person, slot, product_id) values (%s, %s, %s, %s)",
-                (outfit_id, person, slot, product_id),
+                """insert into outfit_items (outfit_id, person, slot, product_id, query_text, query_color, query_vector)
+                   values (%s, %s, %s, %s, %s, %s, %s::vector)""",
+                (outfit_id, person, slot, product_id, q and q.text, q and q.color, q and str(q.vector)),
             )
 
 
@@ -434,18 +458,20 @@ def admin_create_outfit(body: OutfitIn, _: dict = Depends(admin_user)):
                returning id""",
             (body.title.strip(), body.gender, (body.style_tag or "").strip().lstrip("#") or None, body.cover_image_url),
         ).fetchone()
-        insert_items(conn, outfit["id"], body.looks)
+        insert_items(conn, outfit["id"], body)
     return outfit
 
 
 @app.get("/admin/outfits/{outfit_id}")
 def admin_get_outfit(outfit_id: UUID, _: dict = Depends(admin_user)):
-    """A published outfit for editing in the builder: each item with its image embedding as the search vector."""
+    """A published outfit for editing in the builder: each item with its stored builder search (query_*), or its
+    image embedding as the search vector for items published without one."""
     outfit = fetch_one("select id, title, gender, style_tag, cover_image_url from outfits where id = %s", (outfit_id,))
     if not outfit:
         raise HTTPException(404, "Outfit not found")
     outfit["items"] = fetch_all(
-        f"""select oi.person, oi.slot, {PRODUCT_COLS}, p.item_type, p.embedding::text as vector
+        f"""select oi.person, oi.slot, {PRODUCT_COLS}, p.item_type, p.embedding::text as vector,
+                   oi.query_vector::text as query_vector, oi.query_text, oi.query_color
             from outfit_items oi join products p on p.id = oi.product_id join brands b on b.id = p.brand_id
             where oi.outfit_id = %s
             order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes'], oi.slot)""",
@@ -467,7 +493,7 @@ def admin_update_outfit_items(outfit_id: UUID, body: OutfitIn, _: dict = Depends
         if not updated:
             raise HTTPException(404, "Outfit not found")
         conn.execute("delete from outfit_items where outfit_id = %s", (outfit_id,))
-        insert_items(conn, outfit_id, body.looks)
+        insert_items(conn, outfit_id, body)
     return {"id": outfit_id}
 
 

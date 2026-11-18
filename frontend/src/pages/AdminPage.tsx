@@ -17,6 +17,7 @@ type Piece = {
   candidates: Candidate[] | null; chosen: string | null; removed?: boolean;
   only_color?: string | null; // colour chip: show only this colour
   keep?: Candidate; // editing: the item already in the outfit, always offered first
+  by_text: boolean; // vector is the AI's description (saved with the outfit: the outfit page ranks the same way)
 };
 type AdminOutfit = {
   id: string; title: string; gender: string; is_published: boolean; is_demo: boolean; item_count: number;
@@ -24,7 +25,9 @@ type AdminOutfit = {
 };
 type EditOutfit = {
   id: string; title: string; gender: Gender; style_tag: string | null; cover_image_url: string | null;
-  items: (Candidate & { person: 1 | 2; slot: Slot; vector: string })[];
+  items: (Candidate & {
+    person: 1 | 2; slot: Slot; vector: string; query_vector: string | null; query_text: string | null; query_color: string | null;
+  })[];
 };
 
 /** Look photo -> max 1280 px JPEG (the agent gets base64, the cover goes to S3 as a blob). */
@@ -122,7 +125,7 @@ export default function AdminPage() {
       if (!res.ok) throw new Error(`${res.status} ${await res.text()}`);
       const data: { title: string; style_tag: string; pieces: Piece[] } = await res.json();
       // a suit comes as the whole suit + its blazer + its trousers; the whole suit is picked by default
-      const found = data.pieces.map((p) => ({ ...p, candidates: null, chosen: null, removed: p.part_of_suit }));
+      const found = data.pieces.map((p) => ({ ...p, candidates: null, chosen: null, removed: p.part_of_suit, by_text: true }));
       setPieces(found);
       // AI suggestions; whatever the admin already typed wins
       setTitle((t) => t.trim() ? t : data.title);
@@ -148,9 +151,10 @@ export default function AdminPage() {
     if (data.cover_image_url)
       fetch(img(data.cover_image_url)).then((r) => r.blob()).then((blob) =>
         setPhoto((ph) => (ph?.stored === data.cover_image_url ? { ...ph, blob } : ph))).catch(() => {});
-    const loaded: Piece[] = data.items.map(({ person, slot, vector, ...product }) => ({
-      person, slot, item_type: product.item_type ?? "", color: product.color, description: product.title,
-      vector: JSON.parse(vector), part_of_suit: false, candidates: null, chosen: product.id, keep: product,
+    const loaded: Piece[] = data.items.map(({ person, slot, vector, query_vector, query_text, query_color, ...product }) => ({
+      person, slot, item_type: product.item_type ?? "", color: query_color ?? product.color,
+      description: query_text ?? product.title, vector: JSON.parse(query_vector ?? vector), by_text: !!query_vector,
+      part_of_suit: false, candidates: null, chosen: product.id, keep: product,
     }));
     setPieces(loaded);
     loaded.forEach((p, i) => search(i, p, data.gender));
@@ -159,15 +163,17 @@ export default function AdminPage() {
 
   async function publish() {
     const chosen = pieces.filter((p) => p.chosen && !p.removed);
-    const looks = ([1, 2] as const)
-      .map((n) => Object.fromEntries(chosen.filter((p) => p.person === n).map((p) => [p.slot, p.chosen])))
-      .filter((l) => Object.keys(l).length);
+    const people = ([1, 2] as const).filter((n) => chosen.some((p) => p.person === n));
+    const looks = people.map((n) => Object.fromEntries(chosen.filter((p) => p.person === n).map((p) => [p.slot, p.chosen])));
+    // the AI search of each piece goes with the outfit: its page shows the same alternatives as here
+    const queries = people.map((n) => Object.fromEntries(chosen.filter((p) => p.person === n && p.by_text)
+      .map((p) => [p.slot, { vector: p.vector, color: p.color, text: p.description }])));
     setState("publishing");
     setMessage(null);
     try {
       // an unchanged stored cover is reused, a new photo is uploaded
       const cover = !useCover || !photo ? null : photo.stored ?? (photo.blob ? await uploadCover(photo.blob) : null);
-      const body = JSON.stringify({ title, gender, style_tag: tag || null, cover_image_url: cover, looks });
+      const body = JSON.stringify({ title, gender, style_tag: tag || null, cover_image_url: cover, looks, queries });
       const { id } = editing
         ? await api<{ id: string }>(`/admin/outfits/${editing}`, { method: "PUT", body })
         : await api<{ id: string }>("/admin/outfits", { method: "POST", body });
@@ -300,7 +306,7 @@ export default function AdminPage() {
             </p>
           ) : (
             <>
-              <p className="hint pad-x">{p.keep ? "Зараз в образі" : "AI"}: «{p.description}»</p>
+              <p className="hint pad-x">{p.by_text ? "AI" : "Зараз в образі"}: «{p.description}»</p>
               <div className="swatches pad-x" role="group" aria-label="Колір">
                 {Object.entries(COLORS).map(([c, [label, hex]]) => (
                   <button key={c} className={`swatch-btn ${p.only_color === c ? "on" : ""}`} aria-pressed={p.only_color === c}
