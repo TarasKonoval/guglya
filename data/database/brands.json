@@ -305,7 +305,8 @@
     "audience": "Унісекс",
     "segment": "Середній",
     "default_gender": "unisex",
-    "kind": "clothes"
+    "kind": "clothes",
+    "keep_unisex": true
   },
   {
     "id": "whyme",
@@ -455,28 +456,17 @@
     "name": "byMe",
     "site": "https://byme.ua",
     "instagram": null,
-    "brand_type": "Взуття",
+    "brand_type": "Жіночий і чоловічий одяг",
     "audience": "Ж + Ч",
     "segment": null,
     "default_gender": null,
-    "kind": "shoes"
+    "kind": "clothes"
   },
   {
     "id": "kachorovska",
     "name": "Kachorovska",
     "site": "https://kachorovska.com",
     "instagram": "https://instagram.com/kachorovska_atelier",
-    "brand_type": "Взуття",
-    "audience": "Ж + Ч",
-    "segment": "Середній",
-    "default_gender": null,
-    "kind": "shoes"
-  },
-  {
-    "id": "circul",
-    "name": "Circul",
-    "site": "https://circulmark.com",
-    "instagram": "https://instagram.com/circulmark",
     "brand_type": "Взуття",
     "audience": "Ж + Ч",
     "segment": "Середній",
@@ -580,7 +570,8 @@
     "audience": "Унісекс",
     "segment": null,
     "default_gender": "unisex",
-    "kind": "clothes"
+    "kind": "clothes",
+    "keep_unisex": true
   },
   {
     "id": "cover",
@@ -668,7 +659,8 @@
     "audience": "Унісекс",
     "segment": null,
     "default_gender": "unisex",
-    "kind": "clothes"
+    "kind": "clothes",
+    "keep_unisex": true
   },
   {
     "id": "harvest",

@@ -1,0 +1,1939 @@
+{
+  "_meta": {
+    "brand": "PROBLÈMES",
+    "brand_id": "problemes",
+    "site": "https://problemes.store",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 74,
+    "found": 74,
+    "candidates": 75,
+    "checked": 75,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "problemes-problemes-utility-womens-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Куртка Problemes Utility жіноча",
+      "source_url": "https://problemes.store/product/problemes-utility-womens-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 10000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/77.webp"
+      ],
+      "description": "Джинсова куртка з ефектом вінтажного вицвітання та декоративними потертостями. Об'ємний силует, високий комір і акцентні шви створюють відчуття кастомізованого archive-item. • щільний денім • оверсайз крій • вінтажне вицвітання та декоративні потертості • високий комір зі застібкою • застібка на блискавку та кнопки • чотири функціональні кишені • спущена лінія плеча • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "problemes-problemes-cargo-black-womens-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Куртка Problemes Cargo Black жіноча",
+      "source_url": "https://problemes.store/product/problemes-cargo-black-womens-jacket/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 10000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/79.webp"
+      ],
+      "description": "Куртка з щільного деніму з утилітарною конструкцією та акцентними кишенями. Високий комір, металева блискавка й вінтажне вицвітання створюють відчуття кастомізованого archive-item. • щільний денім • оверсайз крій • вінтажне вицвітання тканини • високий комір • металева блискавка по всій довжині • шість функціональних кишень • кишені на блискавках • спущена лінія плеча • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "problemes-problemes-2025-black-mens-bomber-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Бомбер Problemes 2025 Black чоловічий",
+      "source_url": "https://problemes.store/product/problemes-2025-black-mens-bomber-jacket/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 7499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/07/5.webp"
+      ],
+      "description": "Куртка зі якісної екошкіри у вільному силуеті. Лаконічний дизайн, високий комір і мінімалістичні деталі роблять її універсальною базою для образів у стилі PROBLEMES. • екошкіра з фактурною поверхнею • вільний oversize-крій • високий комір • застібка на блискавку • прорізні кишені на блискавках • еластичний пояс і манжети • мінімалістичний дизайн",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-utility-mens-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Куртка Problemes Utility чоловіча",
+      "source_url": "https://problemes.store/product/problemes-utility-mens-jacket/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 10000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/77.webp"
+      ],
+      "description": "Джинсова куртка з ефектом вінтажного вицвітання та декоративними потертостями. Об'ємний силует, високий комір і акцентні шви створюють відчуття кастомізованого archive-item. • щільний денім • оверсайз крій • вінтажне вицвітання та декоративні потертості • високий комір зі застібкою • застібка на блискавку та кнопки • чотири функціональні кишені • спущена лінія плеча • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "problemes-problemes-cargo-black-mens-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Куртка Problemes Cargo Black чоловіча",
+      "source_url": "https://problemes.store/product/problemes-cargo-black-mens-jacket/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 10000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/79.webp"
+      ],
+      "description": "Куртка з щільного деніму з утилітарною конструкцією та акцентними кишенями. Високий комір, металева блискавка й вінтажне вицвітання створюють відчуття кастомізованого archive-item. • щільний денім • оверсайз крій • вінтажне вицвітання тканини • високий комір • металева блискавка по всій довжині • шість функціональних кишень • кишені на блискавках • спущена лінія плеча • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": [
+        "Sale"
+      ]
+    },
+    {
+      "id": "problemes-zip-hoodie-problems-creator",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-худі Problems Creator",
+      "source_url": "https://problemes.store/product/zip-hoodie-problems-creator/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-khudi-problems-creator-1.webp"
+      ],
+      "description": "Чорне худі на блискавці з великим написом Problems Creator на грудях. Принт з ефектом потертості та контрастна блискавка задають гранжевий настрій. Пряме висловлювання Problemes для тих, хто впізнає себе в назві. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-red-riot-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Red Riot",
+      "source_url": "https://problemes.store/product/red-riot-jeans/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/dzhynsy-red-riot-1.webp"
+      ],
+      "description": "Червоні джинси вільного крою з потертостями, розривами та довгими ремінними деталями. Необроблені краї й неоднорідний відтінок підсилюють гранжевий характер моделі. Широкі штанини збираються складками поверх взуття. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір XS) Хлопець – 93-75-95 / 190 см (на ньому розмір М)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-gtp-zip-up-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-худі GTP",
+      "source_url": "https://problemes.store/product/gtp-zip-up-hoodie/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-khudi-gtp-1.webp"
+      ],
+      "description": "Чорне худі на блискавці з графікою Grand Theft Problems, зірками та рожевими акцентами. Великі зображення спереду, на спині й рукавах відсилають до ігрового світу та візуальної культури нульових. Вільний силует доповнює характер моделі. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-red-division-zip-up-sweatshirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-світшот Red Division",
+      "source_url": "https://problemes.store/product/red-division-zip-up-sweatshirt/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-svitshot-red-division.webp"
+      ],
+      "description": "Червоний світшот на блискавці з коміром-стійкою та графікою в дусі перегонової форми. Білі логотипи, зірки й великі написи на спині контрастують із насиченим кольором основи. Спортивний силует доповнює візуальну мову Department 77. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-camo-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Camo",
+      "source_url": "https://problemes.store/product/camo-jeans/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/dzhynsy-camo-1.webp"
+      ],
+      "description": "Камуфляжні джинси вільного крою із широкими штанинами. Утилітарний візерунок та об’ємний силует задають розслаблений вуличний характер. Поєднуються з укороченим верхом, об’ємними худі та куртками. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-red-flare-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Red Flare",
+      "source_url": "https://problemes.store/product/red-flare-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/dzhynsy-red-flare-1.webp"
+      ],
+      "description": "Червоні джинси розкльошеного крою з контрастними бризками та металевим декором на кишенях. Виразний силует і насичений колір поєднують естетику нульових із гранжевим характером Problemes. Параметри моделі: 81-60-81 / 174 см (на ній розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-rose-camo-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Rose Camo",
+      "source_url": "https://problemes.store/product/rose-camo-jeans/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/dzhynsy-rose-camo-1.webp"
+      ],
+      "description": "Джинси вільного крою, у яких камуфляжний візерунок доповнений контрастними трояндами. Квітковий мотив додає несподівану деталь до утилітарної основи, а широкі штанини створюють об’ємний силует. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-chief-executive-zip-up-sweatshirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-світшот Chief Executive",
+      "source_url": "https://problemes.store/product/chief-executive-zip-up-sweatshirt/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-svitshot-chief-executive-1.webp"
+      ],
+      "description": "Чорний світшот на блискавці з коміром-стійкою та контрастною графікою спереду, на спині й рукавах. Напис Chief Executive перетворює модель на іронічну форму керівника Department 77. Доповніть однойменними штанами для повного комплекту. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-chief-executive-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Chief Executive",
+      "source_url": "https://problemes.store/product/chief-executive-pants/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/shtany-chief-executive.webp"
+      ],
+      "description": "Чорні штани вільного крою із широкими штанинами та фірмовою графікою Department 77. Контрастні написи вирізняються на лаконічній основі. Утворюють комплект із зіп-світшотом Chief Executive та легко поєднуються з футболками й лонгслівами. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-studio-chaos-zip-up-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-худі Studio Chaos",
+      "source_url": "https://problemes.store/product/studio-chaos-zip-up-hoodie/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-khudi-studio-chaos-1.webp"
+      ],
+      "description": "Сіре худі на блискавці з капюшоном, жовтими логотипами та графікою в дусі малюнків на полях. Написи, символи й велике число 77 нашаровуються одне на одне, створюючи настрій творчого безладу в студії Problemes. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-studio-chaos-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Studio Chaos",
+      "source_url": "https://problemes.store/product/studio-chaos-pants/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/shtany-studio-chaos-1.webp"
+      ],
+      "description": "Сірі штани вільного крою із широкими штанинами, жовтими акцентами та малюнками в стилі скетчів. Графіка спереду й ззаду продовжує історію Studio Chaos. Носіть у комплекті із зіп-худі або як окремий акцент. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-studio-crew-zip-up-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-худі Studio Crew",
+      "source_url": "https://problemes.store/product/studio-crew-zip-up-hoodie/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/zip-khudi-studio-crew-1.webp"
+      ],
+      "description": "Синьо-графітовий худі на блискавці з капюшоном, гербами, зірками та фірмовою графікою Studio. Композиція нагадує форму команди, зібрану з емблем і клубних знаків. Приглушені кольори принта підтримують вінтажний настрій моделі. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-studio-crew-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Studio Crew",
+      "source_url": "https://problemes.store/product/studio-crew-pants/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/shtany-studio-crew.webp"
+      ],
+      "description": "Синьо-графітові штани вільного крою із широкими штанинами та графікою у вигляді клубних емблем. Логотипи й герби продовжують оформлення зіп-худі Studio Crew. Разом вони створюють комплект в естетиці вінтажної спортивної форми. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-racing-zip-up-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Зіп-худі Problemes Racing",
+      "source_url": "https://problemes.store/product/problemes-racing-zip-up-hoodie/",
+      "gender": null,
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/IMG_5669.webp"
+      ],
+      "description": "Легкий зіп-худі з м'якого футеру у вільному силуеті. Контрастні принти в стилі motorsport, об'ємний капюшон і застібка-блискавка роблять модель виразною базою для повсякденних образів. • м'який щільний футер • вільний крій • застібка на блискавку • об'ємний капюшон • принти спереду та на рукавах",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-racing-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Problemes Racing",
+      "source_url": "https://problemes.store/product/problemes-racing-pants/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/IMG_5671.webp"
+      ],
+      "description": "Легкі спортивні штани з м’якого футеру у вільному силуеті. Еластичний пояс на шнурку, широка посадка та яскраві графічні принти. Оновлений дизайн містить фіксатори знизу для адаптації посадки. • м’який щільний футер • вільний крій • еластичний пояс зі шнурком • широкі штанини • графічні принти спереду",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-pink-flare-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Pink Flare",
+      "source_url": "https://problemes.store/product/pink-flare-jeans/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 6000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/83.webp"
+      ],
+      "description": "Рожеві джинси-кльош у стилі Y2K roadside culture та естетики нульових. Вінтажний силует, washed texture та faded pink відтінок відсилають до old-school fashion aesthetics та archive denim. • flare fit • денім рожевого відтінку • washed effect Параметри моделі: 84-61-91 / 175 см (на ній розмір XS)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-oversized-spray-denim-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Problemes Oversized Spray Denim",
+      "source_url": "https://problemes.store/product/problemes-oversized-spray-denim-jeans/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 6000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/1-40.webp"
+      ],
+      "description": "Широкі двоколірні джинси з контрастними половинами та необробленим швом. Довгі декоративні пояси й великий логотип PROBLEMES створюють впізнаваний силует у стилі бренду. • щільний денім • вільний baggy-крій • контрастний дизайн із двох відтінків деніму • необроблений декоративний шов • довгі пояси-стрічки • фірмовий принт PROBLEMES • класична застібка на ґудзик і блискавку • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-graffiti-melange-sweatpants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани спортивні Graffiti Melange",
+      "source_url": "https://problemes.store/product/graffiti-melange-sweatpants/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "меланж"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 4000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/19.webp"
+      ],
+      "description": "Вільні спортивні штани з хаотичним арт-принтом та ефектом ручної графіки. Натхненні garage culture, street-art aesthetics та кастомізованими racing-item’ами. • relaxed fit • меланжева тканина • принт по всій поверхні • еластичний пояс Параметри моделей: Дівчина – 84-61-91 / 175 см Хлопець – 87-68-91 / 183 см",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-grunge-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Grunge",
+      "source_url": "https://problemes.store/product/grunge-jeans/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S"
+      ],
+      "price_uah": 6000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/9-1.webp"
+      ],
+      "description": "Широкі distressed-джинси з вінтажним faded-effect та рваними деталями у стилі гранжевої streetwear aesthetics. Вицвілий денім, необроблені елементи та oversized силует створюють відчуття archive-item з естетики нульових. • baggy fit • distressed details • washed effect • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір XS) Хлопець – 87-68-91 / 183 см (на ньому розмір S)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-olive-blue-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Problemes Olive Blue",
+      "source_url": "https://problemes.store/product/problemes-olive-blue-jeans/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "синій",
+        "оливковий"
+      ],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/7-15.webp"
+      ],
+      "description": "Широкі джинси з панельною конструкцією та ефектом вицвілого деніму. Акцентні шви й об'ємний силует додають характеру, залишаючи образ лаконічним. • щільний денім • широкий крій • панельний дизайн • ефект вінтажного деніму • контрастні шви",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-cargo-black-womens-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Problemes Cargo Black жіночі",
+      "source_url": "https://problemes.store/product/problemes-cargo-black-womens-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/3-39.webp"
+      ],
+      "description": "Широкі карго-джинси з ефектом вицвілого деніму та акцентними накладними кишенями. Вільний силует і довгі декоративні ремінці додають образу характеру без зайвих деталей. • щільний денім • широкий крій • ефект вінтажного деніму • накладні карго-кишені • довгі декоративні ремінці",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-cargo-black-mens-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Problemes Cargo Black чоловічі",
+      "source_url": "https://problemes.store/product/problemes-cargo-black-mens-jeans/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/3-39.webp"
+      ],
+      "description": "Широкі карго-джинси з ефектом вицвілого деніму та акцентними накладними кишенями. Вільний силует і довгі декоративні ремінці додають образу характеру без зайвих деталей. • щільний денім • широкий крій • ефект вінтажного деніму • накладні карго-кишені • довгі декоративні ремінці",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-tiger-gray-womens-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Tiger Gray жіночі",
+      "source_url": "https://problemes.store/product/tiger-gray-womens-pants/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "XS/S",
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/17.webp"
+      ],
+      "description": "Спортивні штани з авторськими принтами та вільним силуетом. Акцентна графіка, м'який матераіл і relaxed-крій роблять модель самостійним елементом образу. • вільний крій • еластичний пояс зі шнурком • авторські принти з усіх боків • кишені з боків • еластичні манжети внизу",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-tiger-gray-mens-pants",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Штани Tiger Gray чоловічі",
+      "source_url": "https://problemes.store/product/tiger-gray-mens-pants/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/17.webp"
+      ],
+      "description": "Спортивні штани з авторськими принтами та вільним силуетом. Акцентна графіка, м'який матераіл і relaxed-крій роблять модель самостійним елементом образу. • вільний крій • еластичний пояс зі шнурком • авторські принти з усіх боків • кишені з боків • еластичні манжети внизу",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-womens-wide-strap-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Wide Strap жіночі",
+      "source_url": "https://problemes.store/product/womens-wide-strap-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/5-31.webp"
+      ],
+      "description": "Широкі джинси з акцентними контрастними швами та довгими декоративними ремінцями. Вільний силует і clean-дизайн легко поєднуються з базовими та акцентними образами. • щільний денім • широкий крій • довгі декоративні ремінці",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-mens-wide-strap-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Wide Strap чоловічі",
+      "source_url": "https://problemes.store/product/mens-wide-strap-jeans/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/5-31.webp"
+      ],
+      "description": "Широкі джинси з акцентними контрастними швами та довгими декоративними ремінцями. Вільний силует і clean-дизайн легко поєднуються з базовими та акцентними образами. • щільний денім • широкий крій • довгі декоративні ремінці",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-womens-eco-leather-vest",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Жилетка Problemes з екошкіри жіноча",
+      "source_url": "https://problemes.store/product/problemes-womens-eco-leather-vest/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 4000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/81.webp"
+      ],
+      "description": "Жилет із фактурної екошкіри з утилітарними кишенями та металевими кнопками. Чіткий силует, функціональні деталі й мінімалістичний дизайн роблять модель універсальною основою для багатошарових образів. • фактурна екошкіра • прямий крій • застібка на металеві кнопки • чотири накладні кишені з клапанами • декоративна вишивка на верхній кишені • гладка підкладка • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-mens-eco-leather-vest",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Жилетка Problemes з екошкіри чоловіча",
+      "source_url": "https://problemes.store/product/problemes-mens-eco-leather-vest/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Жилет",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 4000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/81.webp"
+      ],
+      "description": "Жилет із фактурної екошкіри з утилітарними кишенями та металевими кнопками. Чіткий силует, функціональні деталі й мінімалістичний дизайн роблять модель універсальною основою для багатошарових образів. • фактурна екошкіра • прямий крій • застібка на металеві кнопки • чотири накладні кишені з клапанами • декоративна вишивка на верхній кишені • гладка підкладка • унісекс модель",
+      "care": "Рекомендована лише професійна хімчистка",
+      "collections": []
+    },
+    {
+      "id": "problemes-rose-womens-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Худі Rose жіночий",
+      "source_url": "https://problemes.store/product/rose-womens-hoodie/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/65-1.webp"
+      ],
+      "description": "Худі з оверсайз кроєм і великим графічним принтом спереду. Щільна бавовна, об'ємний капюшон і вінтажне фарбування тканини роблять модель комфортною для щоденного носіння. • щільна бавовна • оверсайз крій • вінтажне фарбування тканини • об'ємний капюшон зі шнурками • кишеня-кенгуру • еластичні манжети та пояс • великий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-home-alone-hoodie-womens",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Худі Home Аlone жіночий",
+      "source_url": "https://problemes.store/product/home-alone-hoodie-womens/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 5300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/07/1.webp"
+      ],
+      "description": "Худі з м'якої щільної бавовни у вільному оверсайз силуеті. Об'ємний капюшон, спущена лінія плеча та кишеня-кенгуру роблять модель комфортною базою для щоденного гардероба. • щільна бавовна • оверсайз крій • об'ємний капюшон зі шнурками • кишеня-кенгуру • спущена лінія плеча • еластичні манжети та пояс • м'яка внутрішня сторона • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-motel-shorts",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Шорти Motel",
+      "source_url": "https://problemes.store/product/motel-shorts/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 1400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/21.webp"
+      ],
+      "description": "Легкі шорти у стилі motel-core aesthetics. Повітряна фактура та пастельний відтінок відсилають до атмосфери літніх хайвеїв і заходів сонця. • relaxed fit • легка тканина • еластичний пояс • фірмова нашивка",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-layered-denim-mini-skirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Спідниця Layered Denim Mini",
+      "source_url": "https://problemes.store/product/layered-denim-mini-skirt/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 4500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/85.webp"
+      ],
+      "description": "Двошарова мініспідниця з контрастного деніму у рожевому та фіолетовому відтінках. Асиметрична конструкція, необроблений край, зміщені кишені та ряд металевих ґудзиків створюють ефект перероблених джинсів і додають моделі характеру PROBLEMES. • двошарова конструкція• контрастний денім• асиметричний крій• необроблений край• декоративні кишені• застібка на металеві ґудзики",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-rose-mens-hoodie",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Худі Rose чоловічий",
+      "source_url": "https://problemes.store/product/rose-mens-hoodie/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 5000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/65-1.webp"
+      ],
+      "description": "Худі з оверсайз кроєм і великим графічним принтом спереду. Щільна бавовна, об'ємний капюшон і вінтажне фарбування тканини роблять модель комфортною для щоденного носіння. • щільна бавовна • оверсайз крій • вінтажне фарбування тканини • об'ємний капюшон зі шнурками • кишеня-кенгуру • еластичні манжети та пояс • великий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-home-alone-hoodie-mens",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Худі Home Аlone чоловічий",
+      "source_url": "https://problemes.store/product/home-alone-hoodie-mens/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS/S",
+        "M/L"
+      ],
+      "price_uah": 5300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/07/1.webp"
+      ],
+      "description": "Худі з м'якої щільної бавовни у вільному оверсайз силуеті. Об'ємний капюшон, спущена лінія плеча та кишеня-кенгуру роблять модель комфортною базою для щоденного гардероба. • щільна бавовна • оверсайз крій • об'ємний капюшон зі шнурками • кишеня-кенгуру • спущена лінія плеча • еластичні манжети та пояс • м'яка внутрішня сторона • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-gtp-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів GTP",
+      "source_url": "https://problemes.store/product/gtp-longsleeve/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/lonhsliv-gtp-1.webp"
+      ],
+      "description": "Лонгслів із графікою Grand Theft Problems в естетиці ігрового міста. Автомобілі, пальми, зірки та велика типографіка зібрані в насичену композицію. Контрастні принти роблять модель центральним елементом образу з денімом або вільними штанами. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-longsleeve-wanted-problems",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Wanted Problems",
+      "source_url": "https://problemes.store/product/longsleeve-wanted-problems/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/lonhsliv-wanted-problems.webp"
+      ],
+      "description": "Білий укорочений лонгслів прилеглого силуету з написом Wanted Problems на грудях і графікою вздовж рукавів. Приглушені червоні та блакитні відтінки принта підкреслюють естетику нульових. Виконаний із трикотажу з бавовною, модалом та еластаном. Параметри моделі: 81-60-81 / 174 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-longsleeve-race-studio",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Race Studio",
+      "source_url": "https://problemes.store/product/longsleeve-race-studio/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/lonhsliv-race-studio-1.webp"
+      ],
+      "description": "Білий лонгслів із різнокольоровою перегоновою графікою та полум’ям на рукавах. Великі логотипи, написи Race і Speedway та ефект потертості принта нагадують вінтажний мерч перегонових команд. Вільний крій підтримує естетику нульових. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-longsleeve-problems-dealer",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Problems Dealer",
+      "source_url": "https://problemes.store/product/longsleeve-problems-dealer/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/lonhsliv-problems-dealer-1.webp"
+      ],
+      "description": "Чорний лонгслів із рожевим написом Problems Dealer та великим числом 77 на спині. Графіка з цінниками, стікерами й оголошеннями про розпродаж продовжує іронічну історію бренду: проблеми завжди в наявності. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-hysteric-icon-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Hysteric Icon",
+      "source_url": "https://problemes.store/product/hysteric-icon-longsleeve/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/lonhsliv-hysteric-icon.webp"
+      ],
+      "description": "Чорний укорочений лонгслів прилеглого силуету з контрастним написом Hysteric Icon і червоною зіркою на грудях. Невеликі логотипи доповнюють центральну графіку. Виразно поєднується з розкльошеними джинсами та об’ємним камуфляжним денімом. Параметри моделі: 81-60-81 / 174 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-racing-legend-longsleeve-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Racing Legend",
+      "source_url": "https://problemes.store/product/racing-legend-longsleeve-shirt/",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/08/IMG_5676.webp"
+      ],
+      "description": "Лонгслів оверсайз-крою з авторськими принтами у стилі racing aesthetics. Графіка натхненна вінтажним motorsport merch, гоночною культурою та спонсорською айдентикою перегонів. • натуральна бавовна • оверсайз крій • авторські принти спереду, на спині та рукавах • спущена лінія плеча • унісекс",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-formula-1-longsleeve-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Formula 1",
+      "source_url": "https://problemes.store/product/formula-1-longsleeve-shirt/",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/08/IMG_5678.webp"
+      ],
+      "description": "Лонгслів оверсайз-крою у глибокому кольорі фуме з авторською racing-графікою, натхненною Formula 1 та естетикою motorsport merch. Контрастні принти розміщені спереду, на спині та рукавах. • натуральна бавовна • оверсайз крій • авторські принти • спущена лінія плеча • унісекс",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-daytona-longsleeve-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Daytona",
+      "source_url": "https://problemes.store/product/daytona-longsleeve-shirt/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/08/long_daytona.webp"
+      ],
+      "description": "Лонгслів оверсайз-крою з авторським принтом у стилі racing aesthetics. Графіка натхненна вінтажним motorsport merch, Daytona Speedway та спонсорською айдентикою перегонів. • натуральна бавовна• оверсайз крій• авторсьий принти• спущена лінія плеча• унісекс",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-racing-legend-white-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Racing Legend White",
+      "source_url": "https://problemes.store/product/racing-legend-white-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/36-1.webp"
+      ],
+      "description": "Футболка з принтом у стилі класичного автоспорту та вільною посадкою. Контрастна графіка, ретро-логотипи й oversized силует роблять модель акцентною частиною повсякденного образу. • щільна бавовна • вільний oversize-крій • кругла горловина • великий принт спереду • графіка у стилі vintage racing",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-jdm-crop-top",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Кроп-футболка JDM",
+      "source_url": "https://problemes.store/product/jdm-crop-top/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/28.webp"
+      ],
+      "description": "Укорочена футболка з графікою у стилі японського автоспорту, street racing culture та естетики нульових. Контрастні принти, racing-деталі та стилістика old-school JDM posters відсилають до культури нічних перегонів Токіо. • slim fit • еластична тканина • принт спереду та на спині • cropped length Параметри моделі: 84-61-91 / 175 см (на ній розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-gods-wear-problems-t-shirt-white",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Gods Wear Problems White",
+      "source_url": "https://problemes.store/product/gods-wear-problems-t-shirt-white/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/43-1.webp"
+      ],
+      "description": "Оверсайз-футболка в білому кольорі з racing-принтом спереду. Натхненна естетикою motorsport culture та культовими fashion-референсами 2000-х. • oversized fit • щільна бавовна • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problems-rally-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Problems Rally",
+      "source_url": "https://problemes.store/product/problems-rally-t-shirt/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/50-1.webp"
+      ],
+      "description": "Оверсайз-футболка з мотоспортивною графікою у стилі vintage racing culture та archive merch нульових. Вицвілий washed effect, великі принти та стилістика old-school rally posters створюють відчуття речі зі старого motorsport garage. • oversized fit • щільна бавовна • washed effect • принт спереду та на спині • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-erotica-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Erotica",
+      "source_url": "https://problemes.store/product/erotica-longsleeve/",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/IMG_2181-1.webp"
+      ],
+      "description": "Облягаючий молочний лонгслів із мінімалістичним силуетом та принтом Erotica. М’яка еластична тканина та slim fit підкреслюють силует і створюють ефект другої шкіри. • slim fit • еластична тканина • long sleeves",
+      "care": "рекомендоване лише ручне прання при температурі до 30°C використовувати щадні засоби не викручувати виріб сушити природним способом, машинне сушіння заборонене відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-racing-moto-t-shirt-black",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Racing Moto Black",
+      "source_url": "https://problemes.store/product/racing-moto-t-shirt-black/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "M"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/52-1.webp"
+      ],
+      "description": "Оверсайз-футболка у чорному кольорі з racing-принтом у стилі вінтажного автоспорту та естетики нульових. Контрастні деталі, великі принти та стилістика старих гоночних постерів створюють відчуття архівного мерчу. • oversized fit • щільна бавовна • принт спереду та на спині • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problems-records-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Problems Records",
+      "source_url": "https://problemes.store/product/problems-records-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/46-1.webp"
+      ],
+      "description": "Оверсайз-футболка з музичною графікою у стилі club culture, ретро-постерів та естетики нульових. Принти у стилі old-school music merch та washed mood відсилають до атмосфери нічного міста, вечірок і archive aesthetics. • oversized fit • щільна бавовна • принт спереду та на спині • унісекс Параметри моделі: 84-61-91 / 175 см",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-creative-director-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Creative Director",
+      "source_url": "https://problemes.store/product/creative-director-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/38-1.webp"
+      ],
+      "description": "Оверсайз-футболка з гранжевою графікою та distressed-effect принтом у стилі streetwear culture та естетики нульових. Вицвілий відтінок, контрастна typographic-графіка та washed texture створюють відчуття old-school merch та archive-item. • oversized fit • щільна бавовна • washed effect • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-racing-moto-t-shirt-white",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Racing Moto White",
+      "source_url": "https://problemes.store/product/racing-moto-t-shirt-white/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/48-1.webp"
+      ],
+      "description": "Оверсайз-футболка у білому кольорі з racing-принтом у стилі вінтажного автоспорту та естетики нульових. Контрастні деталі, великі принти та стилістика старих гоночних постерів створюють відчуття архівного мерчу. • oversized fit • щільна бавовна • принт спереду та на спині • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-gods-wear-problems-t-shirt-black",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Gods Wear Problems Black",
+      "source_url": "https://problemes.store/product/gods-wear-problems-t-shirt-black/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "M"
+      ],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/39-1.webp"
+      ],
+      "description": "Оверсайз-футболка в чорному кольорі з racing-принтом спереду. Натхненна естетикою motorsport culture та культовими fashion-референсами 2000-х. • oversized fit • щільна бавовна • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-rose-white-womens-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Rose White жіноча",
+      "source_url": "https://problemes.store/product/rose-white-womens-t-shirt/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "XS/S",
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/44-1.webp"
+      ],
+      "description": "Оверсайз футболка з авторським принтом у стилі gothic aesthetics. Контрастна графіка з трояндою та вільний силует роблять її акцентом будь-якого образу. • щільна бавовна • оверсайз крій • авторський принт спереду • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-problems-mixed-type-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Майка Problems Mixed Type",
+      "source_url": "https://problemes.store/product/problems-mixed-type-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/33-1.webp"
+      ],
+      "description": "Оверсайз-майка з racing-графікою у стилі автоспорту, streetwear aesthetics та культових нульових. Яскравий логотип, контрастні деталі та стилістика old-school merch створюють відчуття archive-item із початку 2000-х. • oversized fit • щільна бавовна • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір L)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problems-studio-t-shirt-lemon",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Problems Studio Lemon",
+      "source_url": "https://problemes.store/product/problems-studio-t-shirt-lemon/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/41-1.webp"
+      ],
+      "description": "Оверсайз-футболка у вицвілому лимонному відтінку з gradient-effect фарбуванням та гранжевим racing-принтом. Натхненна vintage motorsport aesthetics та old racing merch. • oversized fit • washed gradient effect • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см Хлопець – 87-68-91 / 183 см",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-racing-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Майка Racing",
+      "source_url": "https://problemes.store/product/racing-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/32-1.webp"
+      ],
+      "description": "Рвана sleeveless-майка з вінтажним racing-принтом, гранжевою текстурою та washed effect у стилі old-school motorsport culture. Необроблені краї, вицвілий відтінок та графіка у дусі archive racing merch створюють відчуття речі з початку 2000-х. • oversized fit • щільна бавовна • distressed details • принт спереду • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір M)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-sex-entertainment-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Майка Sex &amp; Entertainment",
+      "source_url": "https://problemes.store/product/sex-entertainment-t-shirt/",
+      "gender": null,
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/30-1.webp"
+      ],
+      "description": "Оверсайз sleeveless-майка з провокативною графікою у стилі поп-андеграунду та естетики Y2K. Контрастний принт, грубий силует та стилістика концертного мерчу створюють відчуття речі з архівів нульових. • oversized fit • щільна бавовна • принт спереду та на спині • унісекс Параметри моделей: Дівчина – 84-61-91 / 175 см (на ній розмір S) Хлопець – 87-68-91 / 183 см (на ньому розмір L)",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-womens-breaking-news-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Breaking News жіночий",
+      "source_url": "https://problemes.store/product/womens-breaking-news-longsleeve/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/60-1.webp"
+      ],
+      "description": "Лонгслів із ефектом багатошаровості, що поєднує оверсайз футболку та вшиті довгі рукави. Вінтажний бордовий відтінок і графічний принт із мікрофоном створюють образ із настроєм old-school медіа та попкультури. • щільна бавовна • ефект двошарового виробу • оверсайз крій • вшиті довгі рукави • вінтажне фарбування тканини • кругла горловина • спущена лінія плеча • великий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-electric-womens-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Electric жіночий",
+      "source_url": "https://problemes.store/product/electric-womens-longsleeve/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/62-1.webp"
+      ],
+      "description": "Лонгслів із ефектом багатошаровості, що поєднує оверсайз футболку та вшиті довгі рукави. Вільний силует, насичений синій відтінок і контрастний фірмовий принт створюють виразний образ. • щільна бавовна • ефект двошарового виробу • оверсайз крій • вшиті довгі рукави • кругла горловина • спущена лінія плеча • фірмовий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-studio-mens-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Problemes Studio чоловічий",
+      "source_url": "https://problemes.store/product/problemes-studio-mens-longsleeve/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/56-1.webp"
+      ],
+      "description": "Лонгслів у техніці layered effect із логотипом Problemes Studio. Поєднання футболки та довгих рукавів створює багатошаровий силует для повсякденних образів. • щільна бавовна • layered effect • оверсайз крій • мінімалістичний принт спереду • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-womens-longsleeve-tattoo",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Tattoo жіночий",
+      "source_url": "https://problemes.store/product/womens-longsleeve-tattoo/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/57.webp"
+      ],
+      "description": "Лонгслів у техніці layered effect з авторськими принтами у стилі gothic aesthetics. Поєднання футболки та довгих рукавів створює багатошаровий силует із характерною графікою. • щільна бавовна • layered effect • оверсайз крій • авторські принти спереду та на рукавах • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-mens-breaking-news-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Breaking News чоловічий",
+      "source_url": "https://problemes.store/product/mens-breaking-news-longsleeve/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/60-1.webp"
+      ],
+      "description": "Лонгслів із ефектом багатошаровості, що поєднує оверсайз футболку та вшиті довгі рукави. Вінтажний бордовий відтінок і графічний принт із мікрофоном створюють образ із настроєм old-school медіа та попкультури. • щільна бавовна • ефект двошарового виробу • оверсайз крій • вшиті довгі рукави • вінтажне фарбування тканини • кругла горловина • спущена лінія плеча • великий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-studio-womens-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Problemes Studio жіночий",
+      "source_url": "https://problemes.store/product/problemes-studio-womens-longsleeve/",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/56-1.webp"
+      ],
+      "description": "Лонгслів у техніці layered effect із логотипом Problemes Studio. Поєднання футболки та довгих рукавів створює багатошаровий силует для повсякденних образів. • щільна бавовна • layered effect • оверсайз крій • мінімалістичний принт спереду • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-electric-mens-longsleeve",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Electric чоловічий",
+      "source_url": "https://problemes.store/product/electric-mens-longsleeve/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/62-1.webp"
+      ],
+      "description": "Лонгслів із ефектом багатошаровості, що поєднує оверсайз футболку та вшиті довгі рукави. Вільний силует, насичений синій відтінок і контрастний фірмовий принт створюють виразний образ. • щільна бавовна • ефект двошарового виробу • оверсайз крій • вшиті довгі рукави • кругла горловина • спущена лінія плеча • фірмовий принт спереду • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-rose-white-mens-t-shirt",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Футболка Rose White чоловіча",
+      "source_url": "https://problemes.store/product/rose-white-mens-t-shirt/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/44-1.webp"
+      ],
+      "description": "Оверсайз футболка з авторським принтом у стилі gothic aesthetics. Контрастна графіка з трояндою та вільний силует роблять її акцентом будь-якого образу. • щільна бавовна • оверсайз крій • авторський принт спереду • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-mens-longsleeve-tattoo",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Лонгслів Tattoo чоловічий",
+      "source_url": "https://problemes.store/product/mens-longsleeve-tattoo/",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "M/L",
+        "XL"
+      ],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/06/57.webp"
+      ],
+      "description": "Лонгслів у техніці layered effect з авторськими принтами у стилі gothic aesthetics. Поєднання футболки та довгих рукавів створює багатошаровий силует із характерною графікою. • щільна бавовна • layered effect • оверсайз крій • авторські принти спереду та на рукавах • кругла горловина • спущена лінія плеча • унісекс модель",
+      "care": "прати виріб вивернутим навиворіт при машинному пранні вибирати режим для делікатних тканин з мінімальною кількістю обертів (до 800 обертів) для прання використовувати щадні засоби температура води 30°C сушити виріб природним способом у горизонтальному положенні, машинне сушіння суворо заборонене прасувати при середній температурі тільки з виворотної сторони, уникаючи області принта легка хімчистка допустима відбілювання заборонене",
+      "collections": []
+    },
+    {
+      "id": "problemes-problemes-cap-gray",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Кепка Problemes Cap Gray",
+      "source_url": "https://problemes.store/product/problemes-cap-gray/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "ONE SIZE"
+      ],
+      "price_uah": 2700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/07/7.webp"
+      ],
+      "description": "Distressed details, washed effect і вишивка Problemes — усе, що потрібно для образу без зайвих пояснень. Зістарений ефект, потертості та регульована застібка роблять її аксесуаром, який завершує будь-який лук. • ефект washed • декоративні потертості • вишивка Problemes • регульований розмір • універсальна посадка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-night-rider-jacket",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Куртка Night Rider",
+      "source_url": "https://problemes.store/product/night-rider-jacket/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L"
+      ],
+      "price_uah": 10000,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/kurtka-night-rider-1.webp"
+      ],
+      "description": "Чорна куртка з екошкіри з байкерським силуетом, центральною блискавкою та коміром-стійкою на кнопці. Рельєфні шви на плечах підкреслюють крій. Логотипи спереду й велика графіка на спині пов’язують модель з історією Department 77. Параметри моделей: Дівчина – 81-60-81 / 174 см (на ній розмір S) Хлопець – 93-75-95 / 190 см (на ньому розмір L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "problemes-black-flare-jeans",
+      "brand": "PROBLÈMES",
+      "brand_id": "problemes",
+      "name": "Джинси Black Flare",
+      "source_url": "https://problemes.store/product/black-flare-jeans/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "XS",
+        "S",
+        "M"
+      ],
+      "price_uah": 6500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://problemes.store/wp-content/uploads/2026/10/dzhynsy-black-flare-1.webp"
+      ],
+      "description": "Чорні розкльошені джинси з контрастними хрестами та металевими деталями на кишенях і внизу штанин. Приглушений відтінок деніму підкреслює графіку та відсилає до рок-естетики нульових. Параметри моделі: 81-60-81 / 174 см (на ній розмір XS)",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

@@ -25,11 +25,15 @@ brand_popularity.json ───────────────────�
 2. **Збір** (Андрій): `cd data/database && npm install && node scrape.mjs --out <папка> --only <id>`.
    Справжній Chrome через Playwright відкриває сайт і запускає `scraper.js`: спершу Shopify `/products.json`,
    далі sitemap + JSON-LD, далі обхід меню. До 300 товарів на бренд. Результат: `<папка>/guglya_<id>.json`.
-3. **Злиття**: `python3 data/database/merge.py <папка>` → `products.json` (уся база), `<id>/products.json`,
-   `categories.json`. Тут нормалізуються кольори, тип речі (Пальто, Кеди…), слот, стать.
-4. **Популярність**: `data/database/brand_popularity.json` — `{ "<id>": { "instagram": "...", "instagram_followers": N } }`.
+3. **Російські назви → українські** (якщо сайт віддає російську навіть на українській версії, як Stimma й Solmar):
+   `python3 data/database/ua_names.py <папка>/guglya_<id>.json [--lang-prefix /ua]` — бере назву з <title>
+   української сторінки товару. Імпорт у будь-якому разі пропускає російські назви.
+4. **Злиття**: `python3 data/database/merge.py <папка> --keep` → `products.json` (уся база), `<id>/products.json`,
+   `categories.json`. `--keep` лишає бренди, яких немає в папці (сирі файли Андрія не потрібні). Тут
+   нормалізуються кольори, тип речі (Пальто, Кеди…), слот, стать.
+5. **Популярність**: `data/database/brand_popularity.json` — `{ "<id>": { "instagram": "...", "instagram_followers": N } }`.
    Заповнюємо вручну з Instagram (автоматичний збір Instagram заборонений їхніми правилами).
-5. **Імпорт у базу сайту** (з кореня репо, `export AWS_PROFILE=guglya`):
+6. **Імпорт у базу сайту** (з кореня репо, `export AWS_PROFILE=guglya`):
    ```
    export DATABASE_URL=$(aws ssm get-parameter --name /guglya/database_url --with-decryption \
      --query Parameter.Value --output text --region eu-central-1)
@@ -44,9 +48,25 @@ brand_popularity.json ───────────────────�
 
 ## Що імпорт пропускає
 - аксесуари (слот `other`: сумки, прикраси, ремені, шарфи), товари без фото, «немає в наявності»;
-- **товари без ціни в гривнях** — тому зараз не на сайті Anna October, Ksenia Schnaider, Ali Saulidi, Knitlab,
-  TTSWTRS, WHY ME (ціни в $/€ або не знайдені); O.Taje — усе «немає в наявності»;
+- **товари без ціни в гривнях** — зараз не на сайті Anna October, Ksenia Schnaider, Knitlab (ціни не знайдені),
+  Ali Saulidi, WHY ME, Blast Out Studio (лише $); O.Taje — усе «немає в наявності»;
+- **російські назви** (ы/э/ъ/ё, «мужской», «в цвете»…);
 - ціни нижче 100 ₴ (помилка збору, напр. «8 990» → 8).
+
+## Стать
+- зі сторінки товару (жіноче/чоловіче), інакше `default_gender` бренду, інакше `classify_gender.py` за фото;
+- `"keep_unisex": true` у brands.json (German Apparel, Cuprum Depot, O(FourFour)) — завжди унісекс;
+- чоловічим образам пропонуємо лише чоловіче, жіночим — жіноче + унісекс.
+
+## Не вдалося зібрати (18 листопада 2026)
+| Бренд | Причина |
+| --- | --- |
+| Six Zeros, COVER, Капелюх, OMG Shoes, M-Tac, Lilcorner | власні сайти (JS / OpenCart): scraper.js не впізнає сторінки товарів — потрібен окремий адаптер |
+| Rikky Hype | Cloudflare з інтерактивною перевіркою (потрібна людина) |
+| CTRL | у ctrl.ua зламаний SSL-сертифікат |
+| Circul | домен circulmark.com тепер веде на сторонній сайт — бренд прибрано |
+| Ali Saulidi, WHY ME, Blast Out Studio | ціни лише в доларах |
+| Staff, The Suits | товари є, але фото не завантажуються для ембедингів (Staff 403, The Suits блокує IP після збору) — на сайті їх не видно, доки `embed.py` не порахує вектори |
 
 ## Як працює підбір
 - **Слоти**: hat, outer (пальто, куртки), jacket (піджак), top (светр, сорочка, футболка), dress (сукня,

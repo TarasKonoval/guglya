@@ -33,7 +33,9 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
   комбінезон/костюм, replaces top+bottom). Brand popularity = Instagram followers in `data/database/brand_popularity.json`.
 - Alternatives ranking: CLIP similarity + 0.06 same item type + 0.05 × brand popularity (70% followers, 30% our clicks),
   outfit's gender (men: men only; women: women + unisex), similarity >= 0.6, one per brand first.
-- Adding brands / how the catalog pipeline works: docs/catalog.md.
+- Adding brands / how the catalog pipeline works: docs/catalog.md (scrape.mjs -> ua_names.py -> merge.py --keep ->
+  import_brand_db.py -> embed.py -> classify_gender.py). 59 brands / 10 710 products on 18 Nov; no Russian names, UAH only.
+- Alternatives stay within the item's kind (TYPE_GROUPS + title rules in backend/app/main.py), whole slot if < 3.
 - Feed: Жінкам / Чоловікам / Парам toggle (outfits.gender); couple outfits = two looks (outfit_items.person 1/2).
   Sort/colour filters in a «Фільтри» sheet. Header: saved ♡, profile (name, surname, phone in users), cart (cart_items).
   Brand pages open only from the cart (clicks are still logged via /clicks).

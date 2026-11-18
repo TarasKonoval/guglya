@@ -5,8 +5,8 @@
     "item_types": [
       "Брюки",
       "Спідниця",
-      "Джинси",
       "Шорти",
+      "Джинси",
       "Спортивні штани",
       "Легінси",
       "Чіноси"
@@ -18,33 +18,10 @@
     "item_types": [
       "Сорочка",
       "Піджак",
-      "Світшот",
       "Худі",
+      "Світшот",
       "Жилет",
       "Блуза"
-    ]
-  },
-  {
-    "category": "Верхній одяг",
-    "slot": "top",
-    "item_types": [
-      "Куртка",
-      "Пальто",
-      "Бомбер",
-      "Пуховик",
-      "Тренч",
-      "Шуба",
-      "Парка",
-      "Дублянка",
-      "Вітрівка",
-      "Косуха"
-    ]
-  },
-  {
-    "category": "Сукні",
-    "slot": "top",
-    "item_types": [
-      "Сукня"
     ]
   },
   {
@@ -54,8 +31,31 @@
       "Футболка",
       "Топ",
       "Майка",
-      "Корсет",
-      "Поло"
+      "Поло",
+      "Корсет"
+    ]
+  },
+  {
+    "category": "Верхній одяг",
+    "slot": "top",
+    "item_types": [
+      "Куртка",
+      "Пальто",
+      "Бомбер",
+      "Тренч",
+      "Пуховик",
+      "Шуба",
+      "Парка",
+      "Вітрівка",
+      "Дублянка",
+      "Косуха"
+    ]
+  },
+  {
+    "category": "Сукні",
+    "slot": "top",
+    "item_types": [
+      "Сукня"
     ]
   },
   {
@@ -69,23 +69,39 @@
     ]
   },
   {
+    "category": "Взуття",
+    "slot": "shoes",
+    "item_types": [
+      "Черевики",
+      "Туфлі",
+      "Сандалі",
+      "Взуття",
+      "Лофери",
+      "Кросівки",
+      "Кеди",
+      "Мюлі",
+      "Чоботи",
+      "Капці"
+    ]
+  },
+  {
     "category": "Аксесуари",
     "slot": "other",
     "item_types": [
       "Шапка",
       "Сумка",
       "Кепка",
-      "Шарф",
       "Ремінь",
+      "Шарф",
       "Шкарпетки",
       "Капелюх",
       "Прикраси",
       "Рукавички",
+      "Панама",
       "Окуляри",
       "Гаманець",
-      "Балаклава",
       "Хустка",
-      "Панама"
+      "Балаклава"
     ]
   },
   {
@@ -96,22 +112,6 @@
       "Комбінезон",
       "Спортивний костюм",
       "Класичний костюм"
-    ]
-  },
-  {
-    "category": "Взуття",
-    "slot": "shoes",
-    "item_types": [
-      "Туфлі",
-      "Черевики",
-      "Сандалі",
-      "Взуття",
-      "Кросівки",
-      "Мюлі",
-      "Лофери",
-      "Чоботи",
-      "Кеди",
-      "Капці"
     ]
   },
   {
@@ -130,11 +130,6 @@
     ]
   },
   {
-    "category": "ВІН",
-    "slot": "other",
-    "item_types": []
-  },
-  {
     "category": "Нижня білизна",
     "slot": "other",
     "item_types": [
@@ -143,9 +138,11 @@
     ]
   },
   {
-    "category": "ACCESSORIES",
+    "category": "Купальники",
     "slot": "other",
-    "item_types": []
+    "item_types": [
+      "Купальник"
+    ]
   },
   {
     "category": "Одяг",
@@ -153,7 +150,27 @@
     "item_types": []
   },
   {
-    "category": "Accessories",
+    "category": "ВІН",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "WOMEN",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ACCESSORIES",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Товари за бонуси",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Краватки",
     "slot": "other",
     "item_types": []
   },
@@ -173,7 +190,17 @@
     "item_types": []
   },
   {
-    "category": "Товари за бонуси",
+    "category": "Headband",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessories",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "верхній одяг",
     "slot": "other",
     "item_types": []
   },
@@ -183,16 +210,14 @@
     "item_types": []
   },
   {
-    "category": "Cape",
+    "category": "Book",
     "slot": "other",
     "item_types": []
   },
   {
-    "category": "Купальники",
+    "category": "Cape",
     "slot": "other",
-    "item_types": [
-      "Купальник"
-    ]
+    "item_types": []
   },
   {
     "category": "HEADWEAR",
@@ -200,12 +225,32 @@
     "item_types": []
   },
   {
-    "category": "Underwear",
+    "category": "10% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Метелики",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Для навчання",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "Аксесуари > Резинки для волосся",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "20% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Смокінги",
     "slot": "other",
     "item_types": []
   },
@@ -235,12 +280,17 @@
     "item_types": []
   },
   {
-    "category": "Headband",
+    "category": "Подарункові листівки",
     "slot": "other",
     "item_types": []
   },
   {
-    "category": "Подарункові листівки",
+    "category": "ЖІНОЧЕ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Хустинки",
     "slot": "other",
     "item_types": []
   },
@@ -250,7 +300,12 @@
     "item_types": []
   },
   {
-    "category": "All products",
+    "category": "All Products",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Leotard",
     "slot": "other",
     "item_types": []
   },
@@ -285,7 +340,17 @@
     "item_types": []
   },
   {
-    "category": "Black Orchid",
+    "category": "ALL - PRODUCTS - FOR - PRE ORDER",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "BASIC",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "English",
     "slot": "other",
     "item_types": []
   },
@@ -346,6 +411,106 @@
   },
   {
     "category": "Summer mood",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "кімоно",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "туніки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "аксесуари",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cuprum Depot x Good People",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "40% OFF",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "twistergame",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Cuprum Depot x Behind Blue Eyes",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "GIFT BOX",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "LITE",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "TEC",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Black Edition",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Legging",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Collar",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Bra",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "MELTED WATER",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Українська",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Термоодяг",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "wrapin",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "All",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessorises",
     "slot": "other",
     "item_types": []
   },
@@ -435,32 +600,12 @@
     "item_types": []
   },
   {
-    "category": "Термоодяг",
-    "slot": "other",
-    "item_types": []
-  },
-  {
     "category": "Благодійність",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "Трикотаж",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "wrapin",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "All",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "Accessorises",
     "slot": "other",
     "item_types": []
   },

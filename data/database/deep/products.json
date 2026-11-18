@@ -1,0 +1,4293 @@
+{
+  "_meta": {
+    "brand": "deep",
+    "brand_id": "deep",
+    "site": "https://deep.in.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 177,
+    "found": 177,
+    "candidates": 212,
+    "checked": 212,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "deep-anorakolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісовий Анорак оливкового кольору унісекс",
+      "source_url": "https://deep.in.ua/product/anorakolive/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-140.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-140-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват по грудям – 60см Довжина виробу по спині – 65см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 55см На фото: вона 173см – 84/61/91 (розмір OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakyellow",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісовий Анорак картатий жовтого кольору унісекс",
+      "source_url": "https://deep.in.ua/product/anorakyellow/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-9.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-9-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват по грудям – 60см Довжина виробу по спині – 65см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 55см На фото: вона 173см – 84/61/91 (розмір OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakpink",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісовий Анорак картатий рожевого кольору унісекс",
+      "source_url": "https://deep.in.ua/product/anorakpink/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-62.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-62-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват по грудям – 60см Довжина виробу по спині – 65см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 55см На фото: вона 173см – 84/61/91 (розмір OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісовий Анорак графітового кольору унісекс",
+      "source_url": "https://deep.in.ua/product/anorakgri/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-101.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-101-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват по грудям – 60см Довжина виробу по спині – 65см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 55см На фото: вона 173см – 84/61/91 (розмір OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakcarpathians",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісовий анорак \"Карпати\" жіночий",
+      "source_url": "https://deep.in.ua/product/anorakcarpathians/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-126.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват по грудям – 63см Довжина виробу по спині – 64см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 51см На фото: вона 173см – 84/61/91 (розмір OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpuffersilver27",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий срібного кольору (мікроріпстоп)",
+      "source_url": "https://deep.in.ua/product/herpuffersilver27/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-263.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-263-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 65см Довжина - 65см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpuffertartangrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий тартан сірого кольору",
+      "source_url": "https://deep.in.ua/product/herpuffertartangrey/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-270.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-270-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 65см Довжина - 65см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpufferwhitegri27",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий картатий графітово-білого кольору",
+      "source_url": "https://deep.in.ua/product/herpufferwhitegri27/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-208.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-208-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 65см Довжина - 65см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpufferrustcheckered27",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий в коричнево-руду клітинку",
+      "source_url": "https://deep.in.ua/product/herpufferrustcheckered27/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-177.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-177-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 65см Довжина - 65см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpufferslimfitburgundy",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий приталений бургунді",
+      "source_url": "https://deep.in.ua/product/herpufferslimfitburgundy/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-29.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-29-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 63см Довжина (по підкладці) - 70см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-herpufferslimfitblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик жіночий приталений чорного кольору",
+      "source_url": "https://deep.in.ua/product/herpufferslimfitblack/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 7000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-38.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-38-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Напівобхват (по підкладці) - 63см Довжина (по підкладці) - 70см Плечовий шов - 19см Рукав від плеча - 59см На фото: вона 173см 84/61/91 (пуховик OneSize)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-autunmcoatblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноче пальто-кімоно осіннє чорного кольору",
+      "source_url": "https://deep.in.ua/product/autunmcoatblack/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Пальто",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 7200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-331.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 130см Півобхват грудей (по підкладці) - 66см Довжина плечового шва + рукав - 75см Довжина бічного шва - 94см Півобхвати низу рукава - 16см На фото : вона 172 - 84 - 60 -92",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakautumnblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Осінній анорак унісекс із жатої плащової тканини чорний",
+      "source_url": "https://deep.in.ua/product/anorakautumnblack/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-301.jpg"
+      ],
+      "description": "Заміри: OneSize Півобхват по грудям – 58см Довжина виробу по спині – 70см Плечовий шов – 19см Рукав від плечового шва – 70см На фото: Вона - 172 - 84 - 60 -92 Він - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-anorakautumnmustard",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Осінній анорак унісекс із жатої плащової тканини гірчичний",
+      "source_url": "https://deep.in.ua/product/anorakautumnmustard/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-164.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-164-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Півобхват по грудям – 58см Довжина виробу по спині – 70см Плечовий шов – 19см Рукав від плечового шва – 70см На фото: Вона - 172 - 84 - 60 -92 Він - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-famecottoncoatgeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Легка жіноча джинсова куртка з контрастною підкладкою пісочна",
+      "source_url": "https://deep.in.ua/product/famecottoncoatgeige/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 4700,
+      "sale_price_uah": 3760,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/1-318.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/1-318-683x1024.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 66см Напівоб`єм грудей - 65см Довжина плеча + рукав - 78см На фото: Розмір на дівчині ОS - Параметри моделі: 83-60-88, зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-autunmkimoblackpre",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча куртка-кімоно осіння чорного кольору",
+      "source_url": "https://deep.in.ua/product/autunmkimoblackpre/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4160,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-46.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 71см Півобхват грудей - 55см - 65см (регулюється завʼязками) Довжина плечового шва + рукав - 76см Півобхвати низу рукава - 15см На фото : вона 172 - 84 - 60 -92",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-autunmkimonuts",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча куртка-кімоно осіння горіхового кольору",
+      "source_url": "https://deep.in.ua/product/autunmkimonuts/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4160,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-324.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-324-683x1024.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 71см Півобхват грудей - 55см - 65см (регулюється завʼязками) Довжина плечового шва + рукав - 76см Півобхвати низу рукава - 15см На фото : вона 172 - 84 - 60 -92",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-jku",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Весняна куртка хакі унісекс",
+      "source_url": "https://deep.in.ua/product/jku/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 4800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-296.jpg"
+      ],
+      "description": ". Заміри: XS/S Ширина по грудям – 62см Довжина по спині – 60см Довжина плеча з рукавом – 74см M/L Ширина по грудям – 66см Довжина по спині – 70см Довжина плеча з рукавом – 83см На фото: вона 171 - 74/58/86 XS/S він 182 - 107/80/90 M/L",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bomberblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Чоловічий осінній бомбер чорного кольору",
+      "source_url": "https://deep.in.ua/product/bomberblack/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4160,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-373.jpg"
+      ],
+      "description": "Заміри: S/M Півобхват по грудям – 62см Довжина по спині – 75см Довжина плеча з рукавом – 82м L/XL Півобхват по грудям – 66см Довжина по спині – 78см Довжина плеча з рукавом – 84м На фото: Він S/M - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bombernuts",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Чоловічий осінній бомбер горіхового кольору",
+      "source_url": "https://deep.in.ua/product/bombernuts/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4160,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-361.jpg"
+      ],
+      "description": "Заміри: S/M Півобхват по грудям – 62см Довжина по спині – 75см Довжина плеча з рукавом – 82м L/XL Півобхват по грудям – 66см Довжина по спині – 78см Довжина плеча з рукавом – 84м На фото: Він S/M - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bomberkhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Чоловічий осінній бомбер кольору хакі",
+      "source_url": "https://deep.in.ua/product/bomberkhaki/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4160,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-348.jpg"
+      ],
+      "description": "Заміри: S/M Півобхват по грудям – 62см Довжина по спині – 75см Довжина плеча з рукавом – 82м L/XL Півобхват по грудям – 66см Довжина по спині – 78см Довжина плеча з рукавом – 84м На фото: Він S/M - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hispufferblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик Зимовий чоловічий чорного кольору",
+      "source_url": "https://deep.in.ua/product/hispufferblack/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 7500,
+      "sale_price_uah": 5500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-139.jpg"
+      ],
+      "description": "Заміри: S/M Напівобхват (по підкладці) - 63см Довжина - 73см Плечовий шов - 19см Рукав від плеча - 66см L/XL Напівобхват (по підкладці) - 67см Довжина - 75см Плечовий шов - 20см Рукав від плеча - 68см На фото: він 184см 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hispufferchoco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик Зимовий чоловічий шоколадного кольору",
+      "source_url": "https://deep.in.ua/product/hispufferchoco/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 7500,
+      "sale_price_uah": 5500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-208.jpg"
+      ],
+      "description": "Заміри: S/M Напівобхват (по підкладці) - 63см Довжина - 73см Плечовий шов - 19см Рукав від плеча - 66см L/XL Напівобхват (по підкладці) - 67см Довжина - 75см Плечовий шов - 20см Рукав від плеча - 68см На фото: він 184см 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hispuffersilver",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Пуховик Зимовий чоловічий срібного кольору",
+      "source_url": "https://deep.in.ua/product/hispuffersilver/",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 7500,
+      "sale_price_uah": 5500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-192.jpg"
+      ],
+      "description": "Заміри: S/M Напівобхват (по підкладці) - 63см Довжина - 73см Плечовий шов - 19см Рукав від плеча - 66см L/XL Напівобхват (по підкладці) - 67см Довжина - 75см Плечовий шов - 20см Рукав від плеча - 68см На фото: він 184см 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hoodieburgundy",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі оверсайз бургунді з утепленням (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodieburgundy/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/10/%D1%85%D1%83%D0%B4%D1%962.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 68см Ширина по низу - 48см Довжина по спині - 65см Плечовий шов - 28см Рукав - 54см M/L Ширина по грудям - 72см Ширина по низу - 52см Довжина по спині - 71см Плечовий шов - 29см Рукав - 55см На фот: вона 173см – 84/61/91 (розмір XS/S) він 184см – 98/80/91 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hoodiegray25",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі оверсайз сірий меланж з утепленням (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodiegray25/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-67.jpg"
+      ],
+      "description": "Заміри: XS/S – цей розмір відправимо 17-го листопада! Ширина по грудям - 68см Ширина по низу - 48см Довжина по спині - 65см Плечовий шов - 28см Рукав - 54см M/L Ширина по грудям - 72см Ширина по низу - 52см Довжина по спині - 71см Плечовий шов - 29см Рукав - 55см На фот: вона 173см – 84/61/91 (розмір XS/S) він 184см – 98/80/91 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-zipcarpathians",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Флісова кофта на замку \"Карпати\" унісекс",
+      "source_url": "https://deep.in.ua/product/zipcarpathians/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-118.jpg"
+      ],
+      "description": "Заміри: XS/S Напівобхват по грудям – 60см Довжина виробу по спині – 63см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 55см M/L Напівобхват по грудям – 64см Довжина виробу по спині – 72см Плечовий шов – 24см (спущене плече) Рукав від плечового шва – 66см На фото: вона 173см – 84/61/91 (розмір XS/S) він 184см – 98/80/91 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hoodiegri25",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі оверсайз графітовий з утепленням (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodiegri25/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-108.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 68см Ширина по низу - 48см Довжина по спині - 65см Плечовий шов - 28см Рукав - 54см M/L Ширина по грудям - 72см Ширина по низу - 52см Довжина по спині - 71см Плечовий шов - 29см Рукав - 55см На фот: вона 173см – 84/61/91 (розмір XS/S) він 184см – 98/80/91 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hoodieblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі оверсайз чорний з утепленням (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodieblack/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-17.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 68см Ширина по низу - 48см Довжина по спині - 65см Плечовий шов - 28см Рукав - 54см M/L Ширина по грудям - 72см Ширина по низу - 52см Довжина по спині - 71см Плечовий шов - 29см Рукав - 55см На фот: вона 173см – 84/61/91 (розмір XS/S) він 184см – 98/80/91 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-hoodiezipbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі на блискавці оверсайз пісочний (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodiezipbeige/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-109.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-109-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 63см Ширина по низу - 47см Довжина по спині - 65см Плечовий шов - 24см Рукав - 55см M/L Ширина по грудям - 72см Ширина по низу - 51см Довжина по спині - 69см Плечовий шов - 29см Рукав - 55см На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст; 171 см Розмір на чоловікові M/L - Параметри моделі: 88-71-89 , зріст; 184 см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-hoodiezipyellow",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі на блискавці оверсайз жовтий (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodiezipyellow/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-82.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-82-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 63см Ширина по низу - 47см Довжина по спині - 65см Плечовий шов - 24см Рукав - 55см M/L Ширина по грудям - 72см Ширина по низу - 51см Довжина по спині - 69см Плечовий шов - 29см Рукав - 55см На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст; 171 см Розмір на чоловікові M/L - Параметри моделі: 88-71-89 , зріст; 184 см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-hoodiezippink",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Худі на блискавці оверсайз рожеві (унісекс)",
+      "source_url": "https://deep.in.ua/product/hoodiezippink/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-124.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-124-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 63см Ширина по низу - 47см Довжина по спині - 65см Плечовий шов - 24см Рукав - 55см M/L Ширина по грудям - 72см Ширина по низу - 51см Довжина по спині - 69см Плечовий шов - 29см Рукав - 55см На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст; 171 см Розмір на чоловікові M/L - Параметри моделі: 88-71-89 , зріст; 184 см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-sweatshirtsich",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Світшот з вибійкою \"СІЧ\" унісекс",
+      "source_url": "https://deep.in.ua/product/sweatshirtsich/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/27-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F2-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": ". Заміри: S/M Ширина по грудям - 63см Ширина по низу - 48см Довжина по спині - 68см Плечовий шов - 18см Рукав - 65см L/XL Ширина по грудям - 67см Ширина по низу - 52см Довжина по спині - 74см Плечовий шов - 18,5см Рукав - 69см Тканина - Бавовна 100% (футер без флісу) На фот: вона 171см - 74/58/86 (розмір S/M) він 182см - 107/80/90 (розмір L/XL)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-flispantsolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани плащові стьобані флісом оливкового кольору жіночі",
+      "source_url": "https://deep.in.ua/product/flispantsolive/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-133-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 33-45см (резинка в поясі) Півобхват по стегнам – 57см Довжина по бічному шву – 104см Довжина шагового шву - 75см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 37-49см (резинка в поясі) Півобхват по стегнам – 61см Довжина по бічному шву – 106см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-flispantsviolet",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани плащові стьобані флісом фіолетового кольору жіночі",
+      "source_url": "https://deep.in.ua/product/flispantsviolet/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-92.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 33-45см (резинка в поясі) Півобхват по стегнам – 57см Довжина по бічному шву – 104см Довжина шагового шву - 75см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 37-49см (резинка в поясі) Півобхват по стегнам – 61см Довжина по бічному шву – 106см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-flispantsred",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани плащові стьобані флісом червоного кольору жіночі",
+      "source_url": "https://deep.in.ua/product/flispantsred/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-56.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-56-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 33-45см (резинка в поясі) Півобхват по стегнам – 57см Довжина по бічному шву – 104см Довжина шагового шву - 75см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 37-49см (резинка в поясі) Півобхват по стегнам – 61см Довжина по бічному шву – 106см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-flispantsgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани плащові стьобані флісом графітового кольору жіночі",
+      "source_url": "https://deep.in.ua/product/flispantsgri/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-2.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 33-45см (резинка в поясі) Півобхват по стегнам – 57см Довжина по бічному шву – 104см Довжина шагового шву - 75см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 37-49см (резинка в поясі) Півобхват по стегнам – 61см Довжина по бічному шву – 106см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmfempantsburgundy",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі палацо з утепленням бургунді",
+      "source_url": "https://deep.in.ua/product/warmfempantsburgundy/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/10/%D1%88%D1%82%D0%B0%D0%BD%D0%B83.jpeg"
+      ],
+      "description": "Заміри: XS/S Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L - цей розмір відправимо 27-го листопада! Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-olympicnuts",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Олімпійка унісекс мікроріпстоп горіхового кольору",
+      "source_url": "https://deep.in.ua/product/olympicnuts/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-213.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-213-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по грудям – 62см Довжина по спині – 66см Довжина плеча з рукавом – 78м M/L Півобхват по грудям – 66см Довжина по спині – 71см Довжина плеча з рукавом – 85см На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-olympicblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Олімпійка унісекс мікроріпстоп чорного кольору",
+      "source_url": "https://deep.in.ua/product/olympicblack/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-295.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по грудям – 62см Довжина по спині – 66см Довжина плеча з рукавом – 78м M/L Півобхват по грудям – 66см Довжина по спині – 71см Довжина плеча з рукавом – 85см На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pantsnuts",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани унісекс мікрорипстоп горіхового кольору",
+      "source_url": "https://deep.in.ua/product/pantsnuts/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-205.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-44см (резинка в поясі) Півобхват по стегнам – 66см Довжина по бічному шву – 104см Довжина шагового шву - 74см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 36-48см (резинка в поясі) Півобхват по стегнам – 66см Довжина по бічному шву – 107см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsautumnmustard",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі плащові гірчичний",
+      "source_url": "https://deep.in.ua/product/bananapantsautumnmustard/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-183-1.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-183-1-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-40см (резинка в поясі) Півобхват по стегнам – 58см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см M/L Півобхват по талії – 36-49см (резинка в поясі) Півобхват по стегнам – 62см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см Тканина - плащова",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsautumnblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі плащові чорні",
+      "source_url": "https://deep.in.ua/product/bananapantsautumnblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-4.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-4-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-40см (резинка в поясі) Півобхват по стегнам – 58см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см M/L Півобхват по талії – 36-49см (резинка в поясі) Півобхват по стегнам – 62см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см Тканина - плащова",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirtautumnmustard",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спідниця міді балун з жатої плащової тканини гірчична",
+      "source_url": "https://deep.in.ua/product/skirtautumnmustard/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-160.jpg"
+      ],
+      "description": "Заміри: OneSize Довжина – 74см; Півобхват поясу – 30см - 44см (Регулюється) Півобхат стегон – 65 см; На фото: Розмір на дівчині ОS - Параметри моделі: 172 - 84 - 60 -92",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-croptshirtpolkadot",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кроп теніска з жатої бавовни жіноча polka dot",
+      "source_url": "https://deep.in.ua/product/croptshirtpolkadot/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-283.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-283-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 61см Довжина по спині - 48см Довжина плеча - 19см Довжина рукава - 20см Тканина - бавовна 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-croptshirtolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кроп теніска з жатої бавовни жіноча оливкового кольору",
+      "source_url": "https://deep.in.ua/product/croptshirtolive/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-198.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-198-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 61см Довжина по спині - 48см Довжина плеча - 19см Довжина рукава - 20см Тканина - бавовна 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-croptshirtblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кроп теніска з жатої бавовни жіноча чорного кольору",
+      "source_url": "https://deep.in.ua/product/croptshirtblack/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/catalog-16713.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 61см Довжина по спині - 48см Довжина плеча - 19см Довжина рукава - 20см Тканина - бавовна 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-denimshirtchoco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сорочка джинсова шоколадна унісекс",
+      "source_url": "https://deep.in.ua/product/denimshirtchoco/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-93-%E2%80%94-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 58см Довжина по спині – 74см Довжина плеча з рукавом – 17,5 + 57см M/L Ширина по грудям – 62см Довжина по спині – 81см Довжина плеча з рукавом – 18 + 64см На фото: Дівчина 171см - 74/58/86 (розмір XS/S) Хлопець 182см - 107/80/90 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shirttenselgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча сорочка оверсайз з довгим рукавом графітового кольору",
+      "source_url": "https://deep.in.ua/product/shirttenselgrey/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-131.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-131-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 63см Довжина по спині - 73см Довжина плеча - 17см Довжина рукава - 54см &nbsp;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shirttenselblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча сорочка оверсайз з довгим рукавом чорного кольору",
+      "source_url": "https://deep.in.ua/product/shirttenselblack/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/05/1-183.jpg",
+        "https://deep.in.ua/wp-content/uploads/2024/05/1-183-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 63см Довжина по спині - 73см Довжина плеча - 17см Довжина рукава - 54см &nbsp;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longtenselkimobeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Довге кімоно напівпрозоре з тенселю пісочного кольору",
+      "source_url": "https://deep.in.ua/product/longtenselkimobeige/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2400,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-99.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-99-683x1024.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 142см Напівоб`єм грудей - від 45см до 65см (регулюється) Довжина плеча - 25см Довжина рукава - 54см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shirt-native",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Вишита сорочка \"Native\" джинсова",
+      "source_url": "https://deep.in.ua/product/shirt_native/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-31-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "S/M (на зріст до 174см) Довжина по спинці – 75 см; півобхват грудей - 54 см; довжина плеча – 18 см; довжина рукава – 57 см; M/L (на зріст 175-187см) Довжина по спинці – 79 см; півобхват грудей - 58 см; довжина плеча – 19 см; довжина рукава – 60 см; Тканина: Джинс (турція)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-kimonostellar-jeens-black",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно з вишивкою \"Сузірʼя\" джинсове чорне",
+      "source_url": "https://deep.in.ua/product/kimonostellar_jeens_black/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/08/17-scaled.jpg"
+      ],
+      "description": "Заміри: Довжина по спинці - 70 см; ширина по грудям - 58 см+ (Регулюється завʼязками) довжина плеча - 20 см; довжина рукава - 58 см; ширина низа рукава - 19 см Тканина: джинс (бавовна 100%)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-kimonostellarmilkdenim",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно з вишивкою \"Сузірʼя\" джинсове молочне",
+      "source_url": "https://deep.in.ua/product/kimonostellarmilkdenim/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2023/12/13-1-scaled.jpg"
+      ],
+      "description": "Заміри: Довжина по спинці - 70 см; ширина по грудям - 58 см+ (Регулюється завʼязками) довжина плеча - 20 см; довжина рукава - 58 см; ширина низа рукава - 19 см Тканина: Джинс",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-litopys-nich-denim",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Вишита сорочка \"Літопис Ніч\" ДЖИНСОВА",
+      "source_url": "https://deep.in.ua/product/litopys-nich-denim/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2023/06/29-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "S/M (на зріст до 174см) Довжина по спинці – 75 см; півобхват грудей - 54 см; довжина плеча – 18 см; довжина рукава – 57 см; M/L (на зріст 175-188см) Довжина по спинці – 79 см; півобхват грудей - 58 см; довжина плеча – 19 см; довжина рукава – 60 см; XL (на зріст 189-195см) Довжина по спинці – 88 см; півобхват грудей - 60 см; довжина плеча – 20 см; довжина рукава – 69 см; Тканина: Джинс (турція)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-litopys-denj-denim",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Вишита сорочка \"Літопис День\" ДЖИНСОВА",
+      "source_url": "https://deep.in.ua/product/litopys-denj-denim/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2023/06/27-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F2-scaled.jpg"
+      ],
+      "description": "S/M (на зріст до 174см) Довжина по спинці – 75 см; півобхват грудей - 54 см; довжина плеча – 18 см; довжина рукава – 57 см; M/L (на зріст 175-188см) Довжина по спинці – 79 см; півобхват грудей - 58 см; довжина плеча – 19 см; довжина рукава – 60 см; XL (на зріст 189-195см) Довжина по спинці – 88 см; півобхват грудей - 60 см; довжина плеча – 20 см; довжина рукава – 69 см; Тканина: Джинс (бавовна 100%)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtfolk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Теніска лляна з вибійкою \"Фолк\" молочна",
+      "source_url": "https://deep.in.ua/product/tshirtfolk/",
+      "gender": "unisex",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/DSC_0310-.jpeg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 56см Довжина по спині - 73см Довжина плеча з рукавом - 48см Низ рукава - 20см M/L Ширина по грудям - 60см Довжина по спині - 76см Довжина плеча з рукавом - 50см Низ рукава - 21см Тканина - Льон 100% Ілюстрації - вибійка (ручна робота)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-litopys-night-linen",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Вишита сорочка “Літопис Ніч” ЛЛЯНА",
+      "source_url": "https://deep.in.ua/product/litopys_night_linen/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/03/29-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled-2.jpg"
+      ],
+      "description": "S/M (на зріст до 174см) Довжина по спинці – 75 см; півобхват грудей - 54 см; довжина плеча – 18 см; довжина рукава – 57 см; M/L (на зріст 175-188см) Довжина по спинці – 79 см; півобхват грудей - 58 см; довжина плеча – 19 см; довжина рукава – 60 см; XL (на зріст 189-195см) Довжина по спинці – 88 см; півобхват грудей - 60 см; довжина плеча – 20 см; довжина рукава – 69 см; Тканина: льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-checkered-shirt-blue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сорочка картата синя унісекс",
+      "source_url": "https://deep.in.ua/product/checkered_shirt_blue/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/09/1-349.jpg",
+        "https://deep.in.ua/wp-content/uploads/2024/09/1-349-683x1024.jpg"
+      ],
+      "description": ". Заміри: XS/S Ширина по грудям – 60см Довжина по спині – 72см Довжина плеча з рукавом – 76см M/L Ширина по грудям – 65см Довжина по спині – 80см Довжина плеча з рукавом – 80см На фото: Дівчина 171см (розмір XS/S) Хлопець 184см (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtwtsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Літня жіноча теніска з вишивкою \"ДОРОГА ДО МОРЯ\" чорного кольору",
+      "source_url": "https://deep.in.ua/product/tshirtwtsblack/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 3200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-229.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-229-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Півобхват по грудям - 59см Довжина по спині - 72см Довжина плеча з рукавом - 40см Тканина - бавовна Ілюстрації - вишивка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-dressfolkblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сукня лляна з вибійкою \"Фолк\" чорна",
+      "source_url": "https://deep.in.ua/product/dressfolkblack/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/DSC_0321cc.jpeg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 46см Ширина по стегнам - 60см Ширина по низу - 72см Довжина загальна - 118см (бретелі регулюється) Довжина від пройми - 108см Довшина розрізу - 43см M/L Ширина по грудям - 50см Ширина по стегнам - 64см Ширина по низу - 76см Довжина загальна - 118см (бретелі регулюється) Довжина від пройми - 108см Довшина розрізу - 43см Тканина - Льон 100% Ілюстрації - вибійка (ручна робота)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-kimowtsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Коротке жіноче кімоно з вишивкою \"ДОРОГА ДО МОРЯ\" чорного кольору",
+      "source_url": "https://deep.in.ua/product/kimowtsblack/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 4800,
+      "sale_price_uah": 3900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-244.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 67см Довжина по спині - 90см Довжина плеча з рукавом - 72см Тканина - бавовна Ілюстрації - вишивка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-dressfolkbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сукня лляна з вибійкою \"Фолк\" бежева",
+      "source_url": "https://deep.in.ua/product/dressfolkbeige/",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/DSC_0319xx-.jpeg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям - 46см Ширина по стегнам - 60см Ширина по низу - 72см Довжина загальна - 118см (бретелі регулюється) Довжина від пройми - 108см Довшина розрізу - 43см M/L Ширина по грудям - 50см Ширина по стегнам - 64см Ширина по низу - 76см Довжина загальна - 118см (бретелі регулюється) Довжина від пройми - 108см Довшина розрізу - 43см Тканина - Льон 100% Ілюстрації - вибійка (ручна робота)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-olympicjerseyblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Олімпійка ТРЕК синя унісекс",
+      "source_url": "https://deep.in.ua/product/olympicjerseyblue/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": 3800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-549.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-549-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 61см Довжина по спині – 63см Довжина плеча з рукавом – 79см M/L Ширина по грудям – 66см Довжина по спині – 68см Довжина плеча з рукавом – 84см На фото: Дівчина 172см/83-60-90 (розмір XS/S) Хлопець 180см/98-80-117 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-checkeredpantsblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Картаті жіночі брюки палаццо сині",
+      "source_url": "https://deep.in.ua/product/checkeredpantsblue/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2240,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-133.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-133-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-36см (резинка в поясі) Півобхват по стегнам – 59см Довжина по бічному шву – 106см Довжина шагового шву - 73см Ширина по низу - 31см M/L Півобхват по талії – 36-40см (резинка в поясі) Півобхват по стегнам – 63см Довжина по бічному шву – 107см Довжина шагового шву - 41см Ширина по низу - 31,5см Дівчина фото - 171см - 74/58/86 (Розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-checkeredpantsbrown",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Картаті жіночі брюки палаццо коричневі",
+      "source_url": "https://deep.in.ua/product/checkeredpantsbrown/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2240,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-163.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-163-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-36см (резинка в поясі) Півобхват по стегнам – 59см Довжина по бічному шву – 106см Довжина шагового шву - 73см Ширина по низу - 31см M/L Півобхват по талії – 36-40см (резинка в поясі) Півобхват по стегнам – 63см Довжина по бічному шву – 107см Довжина шагового шву - 41см Ширина по низу - 31,5см Дівчина фото - 171см - 74/58/86 (Розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pantstrackblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани ТРЕК сині унісекс",
+      "source_url": "https://deep.in.ua/product/pantstrackblue/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": 2200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-546.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по талії – 32-38см (резинка в поясі) Ширина по стегнам – 58см Довжина по бічному шву – 105см M/L Ширина по талії – 35-42см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 108см На фото: Дівчина 172см/83-60-90 (розмір XS/S) Хлопець 180см/98-80-117 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-palazzofempantsyello",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі трикотажні палацо жовті",
+      "source_url": "https://deep.in.ua/product/palazzofempantsyello/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2400,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-94.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-94-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-olympicnmnmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча олімпійка сатинова з принтом \"НАМАЛЮЙ МЕНІ НІЧ\" молочного кольору",
+      "source_url": "https://deep.in.ua/product/olympicnmnmilk/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 4200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-38.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-38-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям – 61см Довжина по спині – 63см Довжина плеча з рукавом – 79см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pantsnmnmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спортивні штани сатинові з лампасами \"НАМАЛЮЙ МЕНІ НІЧ\" молочного кольору",
+      "source_url": "https://deep.in.ua/product/pantsnmnmilk/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-27.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-27-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 30-46см (резинка в поясі) Півобхват по стегнам – 51см Довжина по бічному шву – 100см Кроковий шов - 71см Півобхват по низу - 32см M/L Ширина по талії – 35-52см (резинка в поясі) Ширина по стегнам – 55см Довжина по бічному шву – 102см Кроковий шов - 72см Півобхват по низу - 34см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-olympicnmnblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча олімпійка сатинова з принтом \"НАМАЛЮЙ МЕНІ НІЧ\" синього кольору",
+      "source_url": "https://deep.in.ua/product/olympicnmnblue/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4500,
+      "sale_price_uah": 4200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-17.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-17-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям – 61см Довжина по спині – 63см Довжина плеча з рукавом – 79см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shortsnmnmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спортивні жіночі шорти з сітки \"НАМАЛЮЙ МЕНІ НІЧ\" білого кольору",
+      "source_url": "https://deep.in.ua/product/shortsnmnmilk/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-260.jpg"
+      ],
+      "description": "Заміри: OneSize Напівоб`єм талії - від 30см до 47см (резинка в поясі) Напівоб`єм стегон - 53см Довжина по бічному шву - 36см Шов сідла - 32см",
+      "care": "ручне прання. Опис Додаткова інформація",
+      "collections": []
+    },
+    {
+      "id": "deep-shortsnmnblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спортивні жіночі шорти з сітки \"НАМАЛЮЙ МЕНІ НІЧ\" синього кольору",
+      "source_url": "https://deep.in.ua/product/shortsnmnblue/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-267.jpg"
+      ],
+      "description": "Заміри: OneSize Напівоб`єм талії - від 30см до 47см (резинка в поясі) Напівоб`єм стегон - 53см Довжина по бічному шву - 36см Шов сідла - 32см",
+      "care": "ручне прання. Опис Додаткова інформація",
+      "collections": []
+    },
+    {
+      "id": "deep-pantsnmnblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спортивні штани сатинові з лампасами \"НАМАЛЮЙ МЕНІ НІЧ\" синього кольору",
+      "source_url": "https://deep.in.ua/product/pantsnmnblue/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-2.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 30-46см (резинка в поясі) Півобхват по стегнам – 51см Довжина по бічному шву – 100см Кроковий шов - 71см Півобхват по низу - 32см M/L Ширина по талії – 35-52см (резинка в поясі) Ширина по стегнам – 55см Довжина по бічному шву – 102см Кроковий шов - 72см Півобхват по низу - 34см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantspolkadot",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі з жатої бавовни polka dot",
+      "source_url": "https://deep.in.ua/product/bananapantspolkadot/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-235.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-235-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по талії – 32-40см (резинка в поясі) Ширина по стегнам – 58см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см M/L Ширина по талії – 36-49см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см Тканана - бавовна 100%",
+      "care": "у. Особливості крою: резинка на спинці для зручної посадки, передні кишені у рельєфних швах, анатомічний крій «банани». Матеріал: жата бавовна. З чим поєднувати: Носіть комплектом із нашою кроп-теніскою для створення ефектного монохромного луку в стилі sporty chic. * Цей колір трошки просвічується!",
+      "collections": []
+    },
+    {
+      "id": "deep-pantstrackblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани ТРЕК чорні унісекс",
+      "source_url": "https://deep.in.ua/product/pantstrackblack/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": 2200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9-%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%BF%D0%BB%D0%B0%D1%89%D1%96%D0%B2%D0%BA%D0%B0-15.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по талії – 32-38см (резинка в поясі) Ширина по стегнам – 58см Довжина по бічному шву – 105см M/L Ширина по талії – 35-42см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 108см На фото: Дівчина 172см/83-60-90 (розмір XS/S) Хлопець 183см/99-77-100 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі з жатої бавовни чорного кольору",
+      "source_url": "https://deep.in.ua/product/bananapantsblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-167-scaled.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по талії – 32-40см (резинка в поясі) Ширина по стегнам – 58см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см M/L Ширина по талії – 36-49см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см Тканана - бавовна 100%",
+      "care": "у. Особливості крою: резинка на спинці для зручної посадки, передні кишені у рельєфних швах, анатомічний крій «банани». Матеріал: жата бавовна. З чим поєднувати: Носіть комплектом із нашою кроп-теніскою для створення ефектного монохромного луку в стилі sporty chic.",
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі з жатої бавовни оливкового кольору",
+      "source_url": "https://deep.in.ua/product/bananapantsolive/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-190.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-190-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по талії – 32-40см (резинка в поясі) Ширина по стегнам – 58см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см M/L Ширина по талії – 36-49см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 104см Довжина шарового шву - 73см Ширина по шизу - 22см Тканана - бавовна 100%",
+      "care": "у. Особливості крою: резинка на спинці для зручної посадки, передні кишені у рельєфних швах, анатомічний крій «банани». Матеріал: жата бавовна. З чим поєднувати: Носіть комплектом із нашою кроп-теніскою для створення ефектного монохромного луку в стилі sporty chic.",
+      "collections": []
+    },
+    {
+      "id": "deep-balloonfitbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіночі бавовняні штани Balloon Fit пісочні",
+      "source_url": "https://deep.in.ua/product/balloonfitbeige/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/IMG_7154.png"
+      ],
+      "description": "Заміри: XS Довжина по бічному шву – 105см; Півобхват поясу - 34см; Півобхват стегон – 49см; Півобхват по низу - 22см. S Довжина по бічному шву – 106см; Півобхват поясу - 36см; Півобхват стегон – 51см; Півобхват по низу - 23см. M Довжина по бічному шву – 107см; Півобхват поясу - 38см; Півобхват стегон – 53см; Півобхват по низу - 24см. На фото: Розмір на дівчині XS - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-aladdinpantsgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани аладдіни жіночі графітового кольору",
+      "source_url": "https://deep.in.ua/product/aladdinpantsgrey/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-117.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 27-45см (резинка в поясі) Півобхват по стегнам – 62смм Довжина по бічному шву – 105см Кроковий шов - 75см Півобхват по низу - 11-22см (резинка) M/L Ширина по талії – 30-51см (резинка в поясі) Ширина по стегнам – 67см Довжина по бічному шву – 106см Кроковий шов - 76см Півобхват по низу - 12-23см (резинка)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-palazzolinenpantskhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Брюки жіночі лляні Палацо хакі",
+      "source_url": "https://deep.in.ua/product/palazzolinenpantskhaki/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1400,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-8-1-scaled.jpg"
+      ],
+      "description": "Заміри: XS/S Довжина по бічному шву – 107см Довжина шарового шву - 81см Півобхват поясу - від 31см до 49см (резинка в поясі) Півобхат стегон – 60см Півобхат по низу - 33м M/L Довжина по бічному шву – 108см Довжина шарового шву - 81 Півобхват поясу - від 35см до 53см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу - 34м. Тканина - льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-denimjacketblackolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жакет джинсовий оливковий унісекс",
+      "source_url": "https://deep.in.ua/product/denimjacketblackolive/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%BA%D0%BE%D0%B9%D0%BE%D1%82-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0-9.jpg"
+      ],
+      "description": ". Заміри: S/M Ширина по грудям – 60см Довжина по спині – 65см Довжина плеча з рукавом – 77см M/L Ширина по грудям – 64см Довжина по спині – 70см Довжина плеча з рукавом – 85см На фото: Дівчина 172см/83-60-90 (розмір S/M) Хлопець 183см/99-77-100 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-denimjacketbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жакет джинсовий бежевий унісекс",
+      "source_url": "https://deep.in.ua/product/denimjacketbeige/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D0%B6%D0%B0%D0%BA%D0%B5%D1%82-%D1%96-%D0%B1%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D0%B8-%D0%B1%D0%B5%D0%B6-5.jpg"
+      ],
+      "description": ". Заміри: S/M Ширина по грудям – 60см Довжина по спині – 65см Довжина плеча з рукавом – 77см M/L Ширина по грудям – 64см Довжина по спині – 70см Довжина плеча з рукавом – 85см На фото: Дівчина 172см/83-60-90 (розмір S/M) Хлопець 180см/98-80-117 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-kimonojacketgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно-жакет графітовий (унісекс)",
+      "source_url": "https://deep.in.ua/product/kimonojacketgri/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 4800,
+      "sale_price_uah": 3500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-291.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-291-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 45см -53см (регулюється завʼязками) Довжина по спині – 68см Довжина плеча з рукавом – 73см M/L Ширина по грудям – 52см -60см (регулюється завʼязками) Довжина по спині – 73см Довжина плеча з рукавом – 59см На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171 см Розмір на чоловікові M/L - Параметри моделі: 88-71-89 , зріст - 184 см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-suitshortsgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіночі костюмні бермуди Графітові",
+      "source_url": "https://deep.in.ua/product/suitshortsgri/",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-281.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-281-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Довжина по бічному шву – 61см; Півобхват поясу - 35см; Півобхват стегон – 52см; Півобхват по низу - 30см. S/M Довжина по бічному шву – 61см; Півобхват поясу - 38см - 45см (резинка в поясі); Півобхват стегон – 60см; Півобхват по низу - 32см. На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-joggers-milk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Джогери флісові жіночі молочні",
+      "source_url": "https://deep.in.ua/product/joggers-milk/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/03/1-56.jpg"
+      ],
+      "description": ". Заміри: XS/S Довжина по бічному шву – 97 см; Півобхват поясу – від 31см до 40см (резинка в поясі); Півобхат стегон – 60 см; M/L Довжина по бічному шву – 98 см; Півобхват поясу – від 33см до 45см (резинка в поясі); Півобхат стегон – 64 см; Тканина: фліс",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bermudadenimolive",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Бермуди жіночі джинсові оливкові",
+      "source_url": "https://deep.in.ua/product/bermudadenimolive/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D0%B1%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D0%B8-%D0%BE%D0%BB%D0%B8%D0%B2%D0%B0-%D0%BA%D0%B0%D1%80%D0%B4%D0%B8%D0%B3%D0%B0%D0%BD-2.jpg"
+      ],
+      "description": "Заміри: XS Довжина по бічному шву – 64см; Півобхват поясу - 35см (резинка в поясі); Півобхват стегон – 55см; Півобхват по низу - 32см. S Довжина по бічному шву – 65см; Півобхват поясу - 37см; Півобхват стегон – 57см; Півобхват по низу - 32см. M Довжина по бічному шву – 66см; Півобхват поясу - 39см; Півобхват стегон – 59см; Півобхват по низу - 32см. На фото: Дівчина 172см/83-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bermudadenimbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Бермуди жіночі джинсові бежеві",
+      "source_url": "https://deep.in.ua/product/bermudadenimbeige/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D0%B6%D0%B0%D0%BA%D0%B5%D1%82-%D1%96-%D0%B1%D0%B5%D1%80%D0%BC%D1%83%D0%B4%D0%B8-%D0%B1%D0%B5%D0%B6-10.jpg"
+      ],
+      "description": "Заміри: XS Довжина по бічному шву – 64см; Півобхват поясу - 35см (резинка в поясі); Півобхват стегон – 55см; Півобхват по низу - 32см. S Довжина по бічному шву – 65см; Півобхват поясу - 37см; Півобхват стегон – 57см; Півобхват по низу - 32см. M Довжина по бічному шву – 66см; Півобхват поясу - 39см; Півобхват стегон – 59см; Півобхват по низу - 32см. На фото: Дівчина 172см/83-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shortskimobeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Шорти жіночі \"Кімо\" бежеві",
+      "source_url": "https://deep.in.ua/product/shortskimobeige/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-61-scaled.jpg"
+      ],
+      "description": ". Заміри: XS/S Напівоб`єм талії - від 30см до 47см (резинка в поясі) Напівоб`єм стегон - 53см Довжина по бічному шву - 36см Шов сідла - 32см M/L Напівоб`єм талії - від 34см до 51см (резинка в поясі) Напівоб`єм стегон - 57см Довжина по бічному шву - 37см Шов сідла - 34см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirt-maxi-milk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "СПІДНИЦЯ МАКСІ МОЛОЧНА",
+      "source_url": "https://deep.in.ua/product/skirt-maxi-milk/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2090,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/12/1-93.jpg"
+      ],
+      "description": "Заміри: XS Довжина – 103см; Півобхват поясу - 35см; Півобхат стегон – 56см; S Довжина – 104см; Півобхват поясу - 37см; Півобхат стегон – 58см; M Довжина – 105см; Півобхват поясу - 39см; Півобхат стегон – 60см; Тканина - Віскоза",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirt-maxi-black",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "СПІДНИЦЯ МАКСІ ЧОРНА",
+      "source_url": "https://deep.in.ua/product/skirt-maxi-black/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2090,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/12/1-26-1.jpg"
+      ],
+      "description": "Заміри: XS Довжина – 103см; Півобхват поясу - 35см; Півобхат стегон – 56см; S Довжина – 104см; Півобхват поясу - 37см; Півобхат стегон – 58см; M Довжина – 105см; Півобхват поясу - 39см; Півобхат стегон – 60см; Тканина - Віскоза",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmfempantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі палацо з утепленням чорні",
+      "source_url": "https://deep.in.ua/product/warmfempantsblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-29.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L – цей розмір відправимо 18-го листопада! Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmfempantsgray",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі палацо з утепленням сірий меланж",
+      "source_url": "https://deep.in.ua/product/warmfempantsgray/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-60.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-denimshirtsich",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сорочка джинсова з вибійкою \"СІЧ\" унісекс",
+      "source_url": "https://deep.in.ua/product/denimshirtsich/",
+      "gender": "unisex",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/27-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F3-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 58см Довжина по спині – 74см Довжина плеча з рукавом – 17,5 + 57см M/L Ширина по грудям – 62см Довжина по спині – 81см Довжина плеча з рукавом – 18 + 64см На фото: Дівчина 171см - 74/58/86 (розмір XS/S) Хлопець 182см - 107/80/90 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmfempantsgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі палацо з утепленням графітові",
+      "source_url": "https://deep.in.ua/product/warmfempantsgri/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-104.jpg"
+      ],
+      "description": "Заміри: XS/S – цей розмір відправимо 18-го листопада! Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: вона 173см – 84/61/91 (розмір XS/S)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-linentshirtstriped",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Теніска чоловіча Лляна смугаста",
+      "source_url": "https://deep.in.ua/product/linentshirtstriped/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1600,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-70-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 59см Довжина по спині - 79см Довжина плеча з рукавом - 49см Низ рукава - 20см L/XL Ширина по грудям - 63см Довжина по спині - 80см Довжина плеча з рукавом - 50см Низ рукава - 21см Тканина - Льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-blackshirt",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сорочка чоловіча Лляна чорна",
+      "source_url": "https://deep.in.ua/product/blackshirt/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": 2500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/05/Catalog0988.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 67см Довжина по спині - 79см Довжина плеча - 18.5см Довжина рукава - 63см L/XL Ширина по грудям - 71см Довжина по спині - 84см Довжина плеча - 19см Довжина рукава - 69см Тканина - льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-linentshirtblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "ТЕНІСКА ЛЛЯНА чорна",
+      "source_url": "https://deep.in.ua/product/linentshirtblack/",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/Catalog1012.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 59см Довжина по спині - 79см Довжина плеча з рукавом - 49см Низ рукава - 20см L/XL Ширина по грудям - 63см Довжина по спині - 80см Довжина плеча з рукавом - 50см Низ рукава - 21см Тканина - Льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmmanpantsgray",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі з утепленням прямі сірий меланж",
+      "source_url": "https://deep.in.ua/product/warmmanpantsgray/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-82.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 38-55см (резинка в поясі) Ширина по стегнам - 64см Довжина - 108см Ширина низу брючини - 23см L/XL Ширина по поясу - 40-58см (резинка в поясі) Ширина по стегнам - 68см Довжина - 110см Ширина низу брючини - 24см він 184см – 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-chinosdenimgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі джинсові Чіноси сірий",
+      "source_url": "https://deep.in.ua/product/chinosdenimgrey/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-383.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: бавовна",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-chinosdenimchoco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі джинсові Чіноси шоколадні",
+      "source_url": "https://deep.in.ua/product/chinosdenimchoco/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-212.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-212-683x1024.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: бавовна",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-chinos-denim-khaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі джинсові Чіноси капучино",
+      "source_url": "https://deep.in.ua/product/chinos_denim_khaki/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2023/12/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-175.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: бавовна",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-chinosdenim-black",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі Джинсові ЧІНОСИ чорні",
+      "source_url": "https://deep.in.ua/product/chinosdenim_black/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/01/%D0%B6%D0%B0%D0%BA%D0%B5%D1%82-%D1%87%D0%BE%D1%80%D0%BD%D0%B8%D0%B9-%D1%87%D1%96%D0%BD%D0%BE%D1%81%D0%B8-%D1%87%D0%BE%D1%80%D0%BD%D1%96-9.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: бавовна",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-malepantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі трикотажні прямі чорні",
+      "source_url": "https://deep.in.ua/product/malepantsblack/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-185.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 36см-52см (резинка в поясі) Ширина по стегнам - 56см Довжина - 110см Ширина низу брючини - 23см L/XL Ширина по поясу - 50-56см (резинка в поясі) Ширина по стегнам - 60см Довжина - 112см Ширина низу брючини - 24см На фото: Розмір на чоловіков S/M - Параметри моделі: 88-71-89 , зріст - 184см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-malepantsbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі трикотажні прямі пісочні",
+      "source_url": "https://deep.in.ua/product/malepantsbeige/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-115.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-115-683x1024.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 36см-52см (резинка в поясі) Ширина по стегнам - 56см Довжина - 110см Ширина низу брючини - 23см L/XL Ширина по поясу - 50-56см (резинка в поясі) Ширина по стегнам - 60см Довжина - 112см Ширина низу брючини - 24см На фото: Розмір на чоловіков S/M - Параметри моделі: 88-71-89 , зріст - 184см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-malepantsgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі трикотажні прямі сірий меланж",
+      "source_url": "https://deep.in.ua/product/malepantsgrey/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-21.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-21-683x1024.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 36см-52см (резинка в поясі) Ширина по стегнам - 56см Довжина - 110см Ширина низу брючини - 23см L/XL Ширина по поясу - 50-56см (резинка в поясі) Ширина по стегнам - 60см Довжина - 112см Ширина низу брючини - 24см На фото: Розмір на чоловіков S/M - Параметри моделі: 88-71-89 , зріст - 184см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-chinoslinenbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі Лляні ЧІНОСИ капучино",
+      "source_url": "https://deep.in.ua/product/chinoslinenbeige/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/%D0%9A%D0%BE%D0%BF%D0%B8%D1%8F-Catalog0959.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shortsdeepgray",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "ШОРТИ \"deep\" сірі",
+      "source_url": "https://deep.in.ua/product/shortsdeepgray/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-132-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 57см; Півобхват поясу - 35-42см (резинка в поясі); Півобхат стегон – 61см; Півобхат по низу - 35см. L/XL Довжина по бічному шву – 59см; Півобхват поясу - 37-48см (резинка в поясі); Півобхат стегон – 64см; Півобхат по низу - 36см. Тканина - двунитка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-linenchinosgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі Лляні ЧІНОСИ сірий",
+      "source_url": "https://deep.in.ua/product/linenchinosgrey/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Чіноси",
+      "slot": "bottom",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": 2800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/%D1%87%D1%96%D0%BD%D0%BE%D1%81%D0%B8-%D1%81%D1%96%D1%80%D1%961-1.png",
+        "https://deep.in.ua/wp-content/uploads/2026/05/%D1%87%D1%96%D0%BD%D0%BE%D1%81%D0%B8-%D1%81%D1%96%D1%80%D1%961-1-682x1024.png"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 102см; Півобхват поясу - від 38см до 48см (резинка в поясі); Півобхат стегон – 62см; Півобхат по низу - 18см. L/XL Довжина по бічному шву – 104 см; Півобхват поясу - від 42см до 52см (резинка в поясі); Півобхат стегон – 66см; Півобхат по низу -19см. Тканина: льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-linenbermudablack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Шорти чоловічі Лляні чорні",
+      "source_url": "https://deep.in.ua/product/linenbermudablack/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-103-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 57см; Півобхват поясу - 36-44см (резинка в поясі); Півобхат стегон – 60см; Півобхат по низу - 33см. L/XL Довжина по бічному шву – 58см; Півобхват поясу - 39-48см (резинка в поясі); Півобхат стегон – 64см; Півобхат по низу - 34см. Тканина - льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-linenbermudachoco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Шорти чоловічі Лляні шоколадні",
+      "source_url": "https://deep.in.ua/product/linenbermudachoco/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-75-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Довжина по бічному шву – 57см; Півобхват поясу - 36-44см (резинка в поясі); Півобхат стегон – 60см; Півобхат по низу - 33см. L/XL Довжина по бічному шву – 58см; Півобхват поясу - 39-48см (резинка в поясі); Півобхат стегон – 64см; Півобхат по низу - 34см. Тканина - льон 100%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamafolk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама джинсова \"Фолк\" бежева",
+      "source_url": "https://deep.in.ua/product/panamafolk/",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-96-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Панама зі шнурком, обʼєм голови регулюється шнуром. Виготовлена з канвасу. Принт виконаний технікою вибійка.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longpremiumblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Лонгслів унісекс оверсайз з преміальної бавовни чорного кольору",
+      "source_url": "https://deep.in.ua/product/longpremiumblack/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-369.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по грудям - 58см Довжина - 67см Плече + рукав - 70см M/L Півобхват по грудям - 64см Півобхват по низу - 64см Довжина - 69см Плече + рукав - 79см На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longpremiumchoco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Лонгслів унісекс оверсайз з преміальної бавовни шоколадного кольору",
+      "source_url": "https://deep.in.ua/product/longpremiumchoco/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-320.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-320-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по грудям - 58см Довжина - 67см Плече + рукав - 70см M/L Півобхват по грудям - 64см Півобхват по низу - 64см Довжина - 69см Плече + рукав - 79см На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tanktopwhite",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Майка жіноча базова біла",
+      "source_url": "https://deep.in.ua/product/tanktopwhite/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-97.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-97-683x1024.jpg"
+      ],
+      "description": "Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtbaseblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка жіноча базова синя",
+      "source_url": "https://deep.in.ua/product/tshirtbaseblue/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/06/1-4.jpg"
+      ],
+      "description": "Заміри: XS Півобхват по грудям - 40см Довжина по спині - 48см Довжина плеча - 10см Довжина рукава - 17см S Півобхват по грудям - 42см Довжина по спині - 49см Довжина плеча - 10,5см Довжина рукава - 17,5см M Півобхват по грудям - 44см Довжина по спині - 50см Довжина плеча - 11см Довжина рукава - 18см Тканина: Бавовна 95%, еластан 5% На фото: Дівчина 170см/81-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtbasemilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка жіноча базова молочна",
+      "source_url": "https://deep.in.ua/product/tshirtbasemilk/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/06/1-54.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/06/1-54-683x1024.jpg"
+      ],
+      "description": "Заміри: XS Півобхват по грудям - 40см Довжина по спині - 48см Довжина плеча - 10см Довжина рукава - 17см S Півобхват по грудям - 42см Довжина по спині - 49см Довжина плеча - 10,5см Довжина рукава - 17,5см M Півобхват по грудям - 44см Довжина по спині - 50см Довжина плеча - 11см Довжина рукава - 18см Тканина: Бавовна 95%, еластан 5% На фото: Дівчина 170см/81-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtbasered",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка жіноча базова червона",
+      "source_url": "https://deep.in.ua/product/tshirtbasered/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/06/1-4-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Заміри: XS Півобхват по грудям - 40см Довжина по спині - 48см Довжина плеча - 10см Довжина рукава - 17см S Півобхват по грудям - 42см Довжина по спині - 49см Довжина плеча - 10,5см Довжина рукава - 17,5см M Півобхват по грудям - 44см Довжина по спині - 50см Довжина плеча - 11см Довжина рукава - 18см Тканина: Бавовна 95%, еластан 5% На фото: Дівчина 170см/81-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tanktopblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Майка жіноча базова чорна",
+      "source_url": "https://deep.in.ua/product/tanktopblack/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-97-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-майка-жіноча-базова-сірий-меланж",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Майка жіноча базова сірий меланж",
+      "source_url": "https://deep.in.ua/product/%d0%bc%d0%b0%d0%b9%d0%ba%d0%b0-%d0%b6%d1%96%d0%bd%d0%be%d1%87%d0%b0-%d0%b1%d0%b0%d0%b7%d0%be%d0%b2%d0%b0-%d1%81%d1%96%d1%80%d0%b8%d0%b9-%d0%bc%d0%b5%d0%bb%d0%b0%d0%bd%d0%b6/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1000,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-17.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-17-683x1024.jpg"
+      ],
+      "description": "Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtsich",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка з вибійкою \"Січ\" бежева",
+      "source_url": "https://deep.in.ua/product/tshirtsich/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/%D1%84%D1%83%D1%82-%D1%81%D1%96%D1%87-%D0%BF%D0%BE%D0%BB%D0%BA%D0%B0-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 57см Довжина по спині - 68см Довжина плеча з рукавом - 42см M/L Ширина по грудям - 61см Довжина по спині - 76см Довжина плеча з рукавом - 52см Тканина: Бавовна 95%, еластан 5%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtnmnwhite",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сітчаста спортивна жіноча футболка \"НАМАЛЮЙ МЕНІ НІЧ\" білого кольору",
+      "source_url": "https://deep.in.ua/product/tshirtnmnwhite/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-261.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-261-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям – см Довжина по спині – см Шов плеча - см Рукав - см",
+      "care": "ручне прання. Опис Додаткова інформація",
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtnmnblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Сітчаста спортивна жіноча футболка \"НАМАЛЮЙ МЕНІ НІЧ\" синього кольору",
+      "source_url": "https://deep.in.ua/product/tshirtnmnblue/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1200,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-269.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-269-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям – см Довжина по спині – см Шов плеча - см Рукав - см",
+      "care": "ручне прання. Опис Додаткова інформація",
+      "collections": []
+    },
+    {
+      "id": "deep-slimtshirtblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка жіноча СЛІМ блакитна",
+      "source_url": "https://deep.in.ua/product/slimtshirtblue/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1200,
+      "sale_price_uah": 800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-237-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 37см Довжина від плеча – від 42см+ (тягнеться) Шов плеча - 11см Рукав - 8см M/L Ширина по грудям – 41см Довжина від плеча – від 43см+ (тягнеться) Шов плеча - 11см Рукав - 8см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-futbolkafolkmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка з вибійкою \"Фолк\" молочна",
+      "source_url": "https://deep.in.ua/product/futbolkafolkmilk/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/DSC_0307%D1%8F.jpeg"
+      ],
+      "description": ". Заміри: S/M Ширина по грудям - 57см Довжина по спині - 68см Довжина плеча з рукавом - 42см M/L Ширина по грудям - 61см Довжина по спині - 76см Довжина плеча з рукавом - 52см Тканина: Бавовна 95%, еластан 5%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-futbolkafolkblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка з вибійкою \"Фолк\" чорна",
+      "source_url": "https://deep.in.ua/product/futbolkafolkblack/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/DSC_0309%D1%8F-.jpeg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 57см Довжина по спині - 68см Довжина плеча з рукавом - 42см M/L Ширина по грудям - 61см Довжина по спині - 76см Довжина плеча з рукавом - 52см Тканина: Бавовна 95%, еластан 5%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-topkimobeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Топ жіночий бежевий",
+      "source_url": "https://deep.in.ua/product/topkimobeige/",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1300,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-59-scaled.jpg"
+      ],
+      "description": ". Заміри: XS/S Ширина по грудях - 47см Ширина по низу - 53см Довжина - 41см Довжина під проймою - 22м M/L Ширина по грудях - 51см Ширина по низу - 57см Довжина - 41см Довжина під проймою - 22см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtdeepgray",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "ФУТБОЛКА \"deep\" сіра",
+      "source_url": "https://deep.in.ua/product/tshirtdeepgray/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-128-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 59см Довжина по спині - 70см Довжина плеча з рукавом - 45см L/XL Ширина по грудям - 61см Довжина по спині - 72см Довжина плеча з рукавом - 46см Тканина: двунитка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-tshirtdeepgraphitу",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "ФУТБОЛКА \"deep\" графітова",
+      "source_url": "https://deep.in.ua/product/tshirtdeepgraphit%d1%83/",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/05/1-136-scaled.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по грудям - 59см Довжина по спині - 70см Довжина плеча з рукавом - 45см L/XL Ширина по грудям - 61см Довжина по спині - 72см Довжина плеча з рукавом - 46см Тканина: двунитка",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoatburgundy",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно зимове довге жіноче бургунді кольору",
+      "source_url": "https://deep.in.ua/product/wintercoatburgundy/",
+      "gender": "female",
+      "category": "ЖІНОЧЕ",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-240.jpg"
+      ],
+      "description": "Заміри: XS/S Довжина по спині - 123см Півобхват грудей (по підкладці) - 63см Довжина плечового шва + рукав - 71см M/L Довжина по спині - 128см Півобхват грудей (по підкладці) - 68см Довжина плечового шва + рукав - 73см На фото : вона 173см 84/61/91 - M/L",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoatblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно зимове довге жіноче синього кольору",
+      "source_url": "https://deep.in.ua/product/wintercoatblue/",
+      "gender": "female",
+      "category": "ЖІНОЧЕ",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-237.jpg"
+      ],
+      "description": "Заміри: XS/S Довжина по спині - 123см Півобхват грудей (по підкладці) - 63см Довжина плечового шва + рукав - 71см M/L Довжина по спині - 128см Півобхват грудей (по підкладці) - 68см Довжина плечового шва + рукав - 73см На фото : вона 173см 84/61/91 - M/L",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoatblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно зимове довге жіноче чорного кольору",
+      "source_url": "https://deep.in.ua/product/wintercoatblack/",
+      "gender": "female",
+      "category": "ЖІНОЧЕ",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/10/12.jpeg"
+      ],
+      "description": "Заміри: XS/S Довжина по спині - 123см Півобхват грудей (по підкладці) - 63см Довжина плечового шва + рукав - 71см M/L Довжина по спині - 128см Півобхват грудей (по підкладці) - 68см Довжина плечового шва + рукав - 73см На фото : вона 173см 84/61/91 - M/L",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamaautumnviolet2",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама з м'якими полями з жатої плащової тканини фіолетова",
+      "source_url": "https://deep.in.ua/product/panamaautumnviolet2/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-148.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-148-683x1024.jpg"
+      ],
+      "description": "Заміри: Обхват голови - 60см (можливо зменшувати) Висота - 10см Поле -8см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamaautumnviolet1",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама з жорсткими полями з жатої плащової тканини фіолетова",
+      "source_url": "https://deep.in.ua/product/panamaautumnviolet1/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-315-1.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-315-1-683x1024.jpg"
+      ],
+      "description": "Заміри: Обхват голови - 60см (можливо зменшувати) Висота - 8см Поле -7см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamaautumnmustard1",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама з жорсткими полями з жатої плащової тканини гірчична",
+      "source_url": "https://deep.in.ua/product/panamaautumnmustard1/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-279.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-279-683x1024.jpg"
+      ],
+      "description": "Заміри: Обхват голови - 60см (можливо зменшувати) Висота - 8см Поле -7см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamacheckblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама картата з прозорим верхом та фіксатором блакитно біла",
+      "source_url": "https://deep.in.ua/product/panamacheckblue/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [
+        "білий",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1400,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-461.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-461-683x1024.jpg"
+      ],
+      "description": ".",
+      "care": "тільки ручне прання без обертів, вертикальне сушіння, без прасування.",
+      "collections": []
+    },
+    {
+      "id": "deep-panamacheckblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама картата з прозорим верхом та фіксатором чорно біла",
+      "source_url": "https://deep.in.ua/product/panamacheckblack/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [
+        "чорний",
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1400,
+      "sale_price_uah": 900,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-515.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-515-683x1024.jpg"
+      ],
+      "description": ".",
+      "care": "тільки ручне прання без обертів, вертикальне сушіння, без прасування.",
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoverburgundy",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Хустка на флісі жіноча бургунді кольору",
+      "source_url": "https://deep.in.ua/product/wintercoverburgundy/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-248.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/11/1-248-683x1024.jpg"
+      ],
+      "description": "Передзамовлення! Відправимо 18-го листопада &nbsp; Функціональна та стильна хустка, що стане незамінним аксесуаром взимку. Матеріали: Зовнішній шар — водонепроникна плащівка, внутрішній — теплий фліс. Захист: Надійно захищає шию та груди від вітру та вологи. Фіксація: Швидка застібка на кнопці спереду. Варіативність: Можливість носити хустку як у застебнутому, так і у зав'язаному вигляді. Оригінальне доповнення, яке особливо гармонійно виглядатиме з довгим кімоно .",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoverblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Хустка на флісі жіноча чорного кольору",
+      "source_url": "https://deep.in.ua/product/wintercoverblack/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/10/11.jpeg"
+      ],
+      "description": "Передзамовлення! Відправимо 23-го листопада Функціональна та стильна хустка, що стане незамінним аксесуаром взимку. Матеріали: Зовнішній шар — водонепроникна плащівка, внутрішній — теплий фліс. Захист: Надійно захищає шию та груди від вітру та вологи. Фіксація: Швидка застібка на кнопці спереду. Варіативність: Можливість носити хустку як у застебнутому, так і у зав'язаному вигляді. Оригінальне доповнення, яке особливо гармонійно виглядатиме з довгим кімоно .",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoverblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Хустка на флісі жіноча синього кольору",
+      "source_url": "https://deep.in.ua/product/wintercoverblue/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-246-1.jpg"
+      ],
+      "description": "Передзамовлення! Відправимо 10-го листопада Функціональна та стильна хустка, що стане незамінним аксесуаром взимку. Матеріали: Зовнішній шар — водонепроникна плащівка, внутрішній — теплий фліс. Захист: Надійно захищає шию та груди від вітру та вологи. Фіксація: Швидка застібка на кнопці спереду. Варіативність: Можливість носити хустку як у застебнутому, так і у зав'язаному вигляді. Оригінальне доповнення, яке особливо гармонійно виглядатиме з довгим кімоно .",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoverbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Хустка на флісі жіноча бежевого кольору",
+      "source_url": "https://deep.in.ua/product/wintercoverbeige/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Хустка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-276.jpg"
+      ],
+      "description": "Функціональна та стильна хустка, що стане незамінним аксесуаром взимку. Матеріали: Зовнішній шар — водонепроникна плащівка, внутрішній — теплий фліс. Захист: Надійно захищає шию та груди від вітру та вологи. Фіксація: Швидка застібка на кнопці спереду. Варіативність: Можливість носити хустку як у застебнутому, так і у зав'язаному вигляді. Оригінальне доповнення, яке особливо гармонійно виглядатиме з довгим кімоно .",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pajama-tanktop-milk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамна Майка молочна",
+      "source_url": "https://deep.in.ua/product/pajama_tanktop_milk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8229-scaled-1-2-2.jpg"
+      ],
+      "description": "Базова майка з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajama-tanktop-grey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамна Майка сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajama_tanktop_grey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 900,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8339-scaled.jpg"
+      ],
+      "description": "Базова майка з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamacardiganmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Кардиган молочний",
+      "source_url": "https://deep.in.ua/product/pajamacardiganmilk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/di12718-scaled-1-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Кардиган на ґудзиках з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamacardigangrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Кардиган сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamacardigangrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_7686-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Кардиган на ґудзиках з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamalongmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Лонгслів молочний",
+      "source_url": "https://deep.in.ua/product/pajamalongmilk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA-%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2024-04-02-%D0%BE-21.54.48-2-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Лонгслів з ґудзиками з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamalonggrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Лонгслів сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamalonggrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_7724-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Лонгслів з ґудзиками з бавовняного ажурного трикотажу",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamatopgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Топ сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamatopgrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8327-scaled.jpg"
+      ],
+      "description": "Топ базовий, виготовлений з бавовняного ажурного трикотажу (приємний трикотаж який використовують для новонароджених, уяви як буде зручно!). Внизу на резинці, бретелі із регулюванням довжини.",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamapantiesmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Трусики молочні",
+      "source_url": "https://deep.in.ua/product/pajamapantiesmilk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%97%D0%BD%D1%96%D0%BC%D0%BE%D0%BA-%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0-2024-04-02-%D0%BE-21.50.16-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-1.jpg"
+      ],
+      "description": "Сліпи базові, із невеликим драпіруванням, виготовлений із ніжного бавовняного ажурного трикотажу.",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamapantiesgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Трусики сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamapantiesgrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8328-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Сліпи базові, із невеликим драпіруванням, виготовлений із ніжного бавовняного ажурного трикотажу.",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamashortsgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Шорти сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamashortsgrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8346-scaled.jpg"
+      ],
+      "description": "Шорти з рюшами з бавовняного ажурного трикотажу, пояс на резинці",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajamapantsgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Штани сірий меланж",
+      "source_url": "https://deep.in.ua/product/pajamapantsgrey/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "меланж"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_7666-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-scaled.jpg"
+      ],
+      "description": "Штани вільного крою з поясом на резинці, виконані з бавовняного ажурного трикотажу. В обох розмірах можна обрати дві довжини 105см або 114см",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-anorakautumnviolet",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Осінній анорак унісекс із жатої плащової тканини фіолетовий",
+      "source_url": "https://deep.in.ua/product/anorakautumnviolet/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [],
+      "price_uah": 4200,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-106.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-106-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Півобхват по грудям – 58см Довжина виробу по спині – 70см Плечовий шов – 19см Рукав від плечового шва – 70см На фото: Вона - 172 - 84 - 60 -92 Він - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-famecottoncoatterracotta",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Легка жіноча джинсова куртка з контрастною підкладкою цегляна",
+      "source_url": "https://deep.in.ua/product/famecottoncoatterracotta/",
+      "gender": "female",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4700,
+      "sale_price_uah": 3760,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-120.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-120-683x1024.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 66см Напівоб`єм грудей - 65см Довжина плеча + рукав - 78см На фото: Розмір на дівчині ОS - Параметри моделі: 84-60-92, зріст - 172см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-sherpajacketgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Осіння куртка Шерпа графітова унісекс",
+      "source_url": "https://deep.in.ua/product/sherpajacketgri/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-192.jpg"
+      ],
+      "description": "Заміри: XS/S - цей розмір відправимо 7-го листопада! Ширина по грудям – 59см Довжина по спині – 58см Довжина плеча з рукавом – 71см M/L - цей розмір відправимо 6-го листопада! Ширина по грудям – 61см Довжина по спині – 70см Довжина плеча з рукавом – 80см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-sherpajacket-choco",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Осіння куртка Шерпа шоколадна унісекс",
+      "source_url": "https://deep.in.ua/product/sherpajacket_choco/",
+      "gender": "unisex",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2024/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-173-%E2%80%94-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B5.jpeg"
+      ],
+      "description": "Заміри: XS/S Ширина по грудям – 59см Довжина по спині – 58см Довжина плеча з рукавом – 71см M/L - цей розмір відправимо 5-го листопада! Ширина по грудям – 61см Довжина по спині – 70см Довжина плеча з рукавом – 80см На фото: вона 171 - 74/58/86 (розмір XS/S) він 182 - 107/80/90 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани унісекс мікрорипстоп чорного кольору",
+      "source_url": "https://deep.in.ua/product/pantsblack/",
+      "gender": "unisex",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 3300,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-291.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-44см (резинка в поясі) Півобхват по стегнам – 66см Довжина по бічному шву – 104см Довжина шагового шву - 74см Ширина по низу - 30см (затяжка з фіксатором) M/L Півобхват по талії – 36-48см (резинка в поясі) Півобхват по стегнам – 66см Довжина по бічному шву – 107см Довжина шагового шву - 76см Ширина по низу - 32см (затяжка з фіксатором) На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsautumnkhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі плащові хакі",
+      "source_url": "https://deep.in.ua/product/bananapantsautumnkhaki/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2500,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-75.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-75-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-40см (резинка в поясі) Півобхват по стегнам – 58см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см M/L Півобхват по талії – 36-49см (резинка в поясі) Півобхват по стегнам – 62см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см Тканина - плащова",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-bananapantsautumnviolet",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани Банани жіночі плащові фіолетові",
+      "source_url": "https://deep.in.ua/product/bananapantsautumnviolet/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "фіолетовий"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-109.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-109-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 32-40см (резинка в поясі) Півобхват по стегнам – 58см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см M/L Півобхват по талії – 36-49см (резинка в поясі) Півобхват по стегнам – 62см Довжина по бічному шву – 104см Довжина шагового шву - 71см Ширина по низу - 22см Тканина - плащова",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirtautumnblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спідниця міді балун з жатої плащової тканини чорна",
+      "source_url": "https://deep.in.ua/product/skirtautumnblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-3.jpg"
+      ],
+      "description": "Заміри: OneSize Довжина – 74см; Півобхват поясу – 30см - 44см (Регулюється) Півобхат стегон – 65 см; На фото: Розмір на дівчині ОS - Параметри моделі: 172 - 84 - 60 -92",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-shirttenselkhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Жіноча сорочка оверсайз з довгим рукавом кольору хакі",
+      "source_url": "https://deep.in.ua/product/shirttenselkhaki/",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 3000,
+      "sale_price_uah": 2000,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-158.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-158-683x1024.jpg"
+      ],
+      "description": "Заміри: OneSize Ширина по грудям - 63см Довжина по спині - 73см Довжина плеча - 17см Довжина рукава - 54см &nbsp;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-palazzofempantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани жіночі трикотажні палацо чорні",
+      "source_url": "https://deep.in.ua/product/palazzofempantsblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2400,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/03/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-%D0%B2%D0%B5%D1%81%D0%BD%D0%B0-26-176.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по поясу - 32-50см (резинка в поясі) Півобхват по стегнам - 60см Довжина - 108см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) M/L Півобхват по поясу - 36-56см (резинка в поясі) Півобхват по стегнам - 64см Довжина - 110см Півобхват низу брючини - 31см (затягуються резинкоюз з фіксатором) На фото: Розмір на дівчині XS/S - Параметри моделі: 83-60-88 , зріст - 171см",
+      "care": "прання в звичайному режимі 30 градусів, вертикальне сушіння без прямих сонячних променів.",
+      "collections": []
+    },
+    {
+      "id": "deep-aladdinpantskhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани аладдіни жіночі кольору хакі",
+      "source_url": "https://deep.in.ua/product/aladdinpantskhaki/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 1700,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-144.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-144-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по талії – 27-45см (резинка в поясі) Півобхват по стегнам – 62смм Довжина по бічному шву – 105см Кроковий шов - 75см Півобхват по низу - 11-22см (резинка) M/L Ширина по талії – 30-51см (резинка в поясі) Ширина по стегнам – 67см Довжина по бічному шву – 106см Кроковий шов - 76см Півобхват по низу - 12-23см (резинка)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirtpantsblue",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Широкі літні штани-спідниця з розрізами синього кольору",
+      "source_url": "https://deep.in.ua/product/skirtpantsblue/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1900,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-56.jpg",
+        "https://deep.in.ua/wp-content/uploads/2026/05/1-56-683x1024.jpg"
+      ],
+      "description": "Заміри: XS/S - відправимо 28-го серпня Півобхват по талії – 30-43см (резинка в поясі) Півобхват по стегнам – 60см Довжина по бічному шву – 108см Довжина шарового шву - 73см M/L Півобхват по талії – 35-49см (резинка в поясі) Півобхват по стегнам – 65см Довжина по бічному шву – 110см Довжина шарового шву - 74см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-skirttartanblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Спідниця плісе \"Тартан\" чорна клітинка",
+      "source_url": "https://deep.in.ua/product/skirttartanblack/",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1000,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/02/%D1%87%D0%BE%D1%80%D0%BD%D0%B0-%D0%B6%D0%B8%D0%BB%D0%B5%D1%82%D0%BA%D0%B0-%D1%81%D0%BF%D1%96%D0%B4%D0%BD%D0%B8%D1%86%D1%8F-2.jpg"
+      ],
+      "description": ". Заміри: XS Довжина – 57см; Півобхват поясу - 36см; Півобхат стегон – 58см; S Довжина – 57см; Півобхват поясу - 38см; Півобхат стегон – 60см; M Довжина – 57см; Півобхват поясу - 40см; Півобхат стегон – 62см; На фото: Дівчина 172см/83-60-90 (розмір XS)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmmanpantsblack",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі з утепленням прямі чорні",
+      "source_url": "https://deep.in.ua/product/warmmanpantsblack/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-3.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 38-55см (резинка в поясі) Ширина по стегнам - 64см Довжина - 108см Ширина низу брючини - 23см L/XL Ширина по поясу - 40-58см (резинка в поясі) Ширина по стегнам - 68см Довжина - 110см Ширина низу брючини - 24см він 184см – 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-warmmanpantsgri",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі з утепленням прямі графітові",
+      "source_url": "https://deep.in.ua/product/warmmanpantsgri/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/10/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-46.jpg"
+      ],
+      "description": "Заміри: S/M Ширина по поясу - 38-55см (резинка в поясі) Ширина по стегнам - 64см Довжина - 108см Ширина низу брючини - 23см L/XL Ширина по поясу - 40-58см (резинка в поясі) Ширина по стегнам - 68см Довжина - 110см Ширина низу брючини - 24см він 184см – 98/80/91 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-raincoatpantskhaki",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Штани чоловічі плащові хакі",
+      "source_url": "https://deep.in.ua/product/raincoatpantskhaki/",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1400,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-291.jpg",
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3-deep-%D0%BE%D1%81%D1%96%D0%BD%D1%8C-2025-291-683x1024.jpg"
+      ],
+      "description": ". Заміри: S/M Ширина по талії – 34-44см (резинка в поясі) Ширина по стегнам – 61см Довжина по бічному шву – 108см Шаговий шов - 73см Ширина по низу брючини - 23,5см L/XL Ширина по талії – 41-60см (резинка в поясі) Ширина по стегнам – 62см Довжина по бічному шву – 109см Шаговий шов - 74см Ширина по низу брючини - 24см На фото: Хлопець 182см - 107/80/90 (розмір S/M)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longpremiummilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Лонгслів унісекс оверсайз з преміальної бавовни молочного кольору",
+      "source_url": "https://deep.in.ua/product/longpremiummilk/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1500,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-272.jpg"
+      ],
+      "description": "Заміри: XS/S Півобхват по грудям - 58см Довжина - 67см Плече + рукав - 70см M/L Півобхват по грудям - 64см Півобхват по низу - 64см Довжина - 69см Плече + рукав - 79см На фото: Вона XS/S - 172 - 84 - 60 -92 Він M/L - 183 - 93 - 72 - 94",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-futbolka-oversize-black-amp-white",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Футболка Oversize Black &amp; White",
+      "source_url": "https://deep.in.ua/product/futbolka-oversize-black-amp-white/",
+      "gender": "unisex",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1100,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2023/07/43777494-1-2.jpg"
+      ],
+      "description": ". Заміри: S/M Ширина по грудям - 57см Довжина по спині - 68см Довжина плеча з рукавом - 42см M/L Ширина по грудям - 61см Довжина по спині - 76см Довжина плеча з рукавом - 52см Тканина: Бавовна 95%, еластан 5%",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longsichgraphite",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Лонгслів графітовий з принтом \"СІЧ\" унісекс",
+      "source_url": "https://deep.in.ua/product/longsichgraphite/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "графіт"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 1100,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BB%D0%BE%D0%BD%D0%B3-%D1%81%D1%96%D1%87-%D0%B3%D1%80%D0%B0%D1%84-scaled.jpg"
+      ],
+      "description": ". Заміри: XS/S Півобхват по грудям - 61см Півобхват по низу - 61см Довжина - 70см Плече + рукав - 73см M/L Півобхват по грудям - 67см Півобхват по низу - 67см Довжина - 76см Плече + рукав - 79см Тканина: Бавовна 100% На фото: Дівчина 171см - 74/58/86 (розмір XS/S) Хлопець 182см - 107/80/90 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-longsichgrey",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Лонгслів сірий з принтом \"СІЧ\" унісекс",
+      "source_url": "https://deep.in.ua/product/longsichgrey/",
+      "gender": "unisex",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 1100,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/09/%D0%BB%D0%BE%D0%BD%D0%B3-%D1%81%D1%96%D1%87-%D1%81%D1%96%D1%80%D0%B8%D0%B9-scaled.jpg"
+      ],
+      "description": ". Заміри: XS/S Півобхват по грудям - 61см Півобхват по низу - 61см Довжина - 70см Плече + рукав - 73см M/L Півобхват по грудям - 67см Півобхват по низу - 67см Довжина - 76см Плече + рукав - 79см Тканина: Бавовна 100% На фото: Дівчина 171см - 74/58/86 (розмір XS/S) Хлопець 182см - 107/80/90 (розмір M/L)",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-wintercoatbeige",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Кімоно зимове довге жіноче бежевого кольору",
+      "source_url": "https://deep.in.ua/product/wintercoatbeige/",
+      "gender": "female",
+      "category": "ЖІНОЧЕ",
+      "item_type": null,
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 5700,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2025/11/deep-%D0%B7%D0%B8%D0%BC%D0%B0-2025-258.jpg"
+      ],
+      "description": "Заміри: Onesize Довжина по спині - 128см Напівобхват грудей (по підкладці) - 68см Довжина плечового шва + рукав - 73см На фото : вона 173см 84/61/91",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-panamaautumnblack1",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Панама з жорсткими полями з жатої плащової тканини чорна",
+      "source_url": "https://deep.in.ua/product/panamaautumnblack1/",
+      "gender": "unisex",
+      "category": "Аксесуари",
+      "item_type": "Панама",
+      "slot": "hat",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/09/1-305.jpg"
+      ],
+      "description": "Заміри: Обхват голови - 60см (можливо зменшувати) Висота - 8см Поле -7см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "deep-pajamatopmilk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамний Топ молочний",
+      "source_url": "https://deep.in.ua/product/pajamatopmilk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 700,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8386-scaled-1-2.jpg"
+      ],
+      "description": "Топ базовий, виготовлений з бавовняного ажурного трикотажу (приємний трикотаж який використовують для новонароджених, уяви як буде зручно!). Внизу на резинці, бретелі із регулюванням довжини.",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-pajama-shorts-milk",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Шорти молочні",
+      "source_url": "https://deep.in.ua/product/pajama_shorts_milk/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/IMG_8392-scaled-1-2.jpg"
+      ],
+      "description": "Шорти з рюшами з бавовняного ажурного трикотажу, пояс на резинці",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    },
+    {
+      "id": "deep-піжамні-штани-молочні",
+      "brand": "deep",
+      "brand_id": "deep",
+      "name": "Піжамні Штани молочні",
+      "source_url": "https://deep.in.ua/product/%d0%bf%d1%96%d0%b6%d0%b0%d0%bc%d0%bd%d1%96-%d1%88%d1%82%d0%b0%d0%bd%d0%b8-%d0%bc%d0%be%d0%bb%d0%be%d1%87%d0%bd%d1%96/",
+      "gender": "female",
+      "category": "Нижня білизна",
+      "item_type": "Піжама / Халат",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1500,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://deep.in.ua/wp-content/uploads/2026/02/di12754-scaled-1-%D0%BA%D0%BE%D0%BF%D1%96%D1%8F.jpg"
+      ],
+      "description": "Штани вільного крою з поясом на резинці, виконані з бавовняного ажурного трикотажу. В обох розмірах можна обрати дві довжини 105см або 114см",
+      "care": null,
+      "collections": [
+        "ПІЖАМИ"
+      ]
+    }
+  ]
+}

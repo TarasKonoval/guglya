@@ -1,0 +1,1804 @@
+{
+  "_meta": {
+    "brand": "VVS Studios",
+    "brand_id": "vvsstudios",
+    "site": "https://www.vvsstudios.com",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 55,
+    "found": 55,
+    "candidates": 87,
+    "checked": 87,
+    "errors": [
+      "Error: 404 https://www.vvsstudios.com/category/%D1%88%D1%82%D0%B0%D0%BD%D0%B8",
+      "Error: 404 https://www.vvsstudios.com/category/%D1%81%D0%B2%D0%B5%D1%82%D1%80%D0%B8",
+      "Error: 404 https://www.vvsstudios.com/category/%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2%D0%B8",
+      "Error: 404 https://www.vvsstudios.com/category/%D1%85%D1%83%D0%B4%D1%96",
+      "Error: 404 https://www.vvsstudios.com/category/%D0%BD%D0%BE%D0%B2%D0%B8%D0%BD%D0%BA%D0%B8-2",
+      "Error: 404 https://www.vvsstudios.com/category/%D0%B2%D1%81%D1%96-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D0%B8"
+    ]
+  },
+  "products": [
+    {
+      "id": "vvsstudios-шкіряна-куртка",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Шкіряна куртка",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%88%D0%BA%D1%96%D1%80%D1%8F%D0%BD%D0%B0-%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2899,
+      "sale_price_uah": 2599,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_a1511ab8da6544fdbc1b409cdce69a16~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_77f28f2cfe574fdabf42794956ab7fa7~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_095041013e4f43abb1cc1f52e8326550~mv2.png"
+      ],
+      "description": "Новинка! 🔥 Шкіряна куртка Фактурна екошкіра, оверсайз-крій та розкішне драпірування. Прихована планка на кнопках додає моделі лаконічності та робить силует ще більш стильним.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-пухова-куртка",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Пухова куртка",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BF%D1%83%D1%85%D0%BE%D0%B2%D0%B0-%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Пуховик",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3999,
+      "sale_price_uah": 3599,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/e79a65_33a4ec8e391d47a48869f028f5cda6b8~mv2.jpeg",
+        "https://static.wixstatic.com/media/e79a65_f316d1a055cd4038b0fbd48e32452015~mv2.jpeg",
+        "https://static.wixstatic.com/media/e79a65_5253dfbc3d7d4e92a1134eceacbae0ff~mv2.jpeg"
+      ],
+      "description": "Об’ємний укорочений пуховик у глибокому чорному кольорі — стильне та практичне рішення для холодного сезону. Модель має актуальний oversize-силует, високий комір-стійку, який захищає від вітру та холоду. Наповнювач — екопух, легкий та м’який матеріал, що добре зберігає тепло, забезпечуючи комфорт у повсякденному носінні. Особливості моделі: • Об’ємний укорочений крій • Високий комір-стійка • Наповнювач — екопух • Легкість та комфорт • Універсальний чорний колір Ідеально поєднується з джинсами, класичними брюками та спортивними образами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копия-куртка-харінгтон-бомбер",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Куртка харінгтон бомбер",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F-%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0-%D1%85%D0%B0%D1%80%D1%96%D0%BD%D0%B3%D1%82%D0%BE%D0%BD-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5%D1%80",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий",
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2399,
+      "sale_price_uah": 1999,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_d45cf1988499416c90db1538c1da03bc~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_bc78b775a9124669848b937c2b118b80~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_ae532bf51acf4823880bf758c9f2e858~mv2.jpg"
+      ],
+      "description": "Лаконічний бомбер із чітким силуетом та сучасною подачею. Модель поєднує мінімалістичний дизайн і виразну фактуру, створюючи акцентний елемент образу без зайвих деталей. Завдяки еластичним манжетам і низу бомбер добре тримає форму, а вільна посадка забезпечує комфорт у повсякденному носінні. Ідеально поєднується як з базовими топами та денімом, так і з більш структурованими елементами гардероба.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-куртка-харінгтон-бомбер",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Куртка харінгтон бомбер",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0-%D1%85%D0%B0%D1%80%D1%96%D0%BD%D0%B3%D1%82%D0%BE%D0%BD-%D0%B1%D0%BE%D0%BC%D0%B1%D0%B5%D1%80",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Бомбер",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "коричневий",
+        "синій"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2399,
+      "sale_price_uah": 1999,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_6b253a29833d499f8f5b22d99546ba8f~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_d0d07d72feac44d78ec2df6f9290ff91~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_594d6b494af04162a5b0ed61e56e249c~mv2.jpg"
+      ],
+      "description": "Лаконічний бомбер із чітким силуетом та сучасною подачею. Модель поєднує мінімалістичний дизайн і виразну фактуру, створюючи акцентний елемент образу без зайвих деталей. Завдяки еластичним манжетам і низу бомбер добре тримає форму, а вільна посадка забезпечує комфорт у повсякденному носінні. Ідеально поєднується як з базовими топами та денімом, так і з більш структурованими елементами гардероба.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-aviator-jacket",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Aviator Jacket",
+      "source_url": "https://www.vvsstudios.com/product-page/aviator-jacket",
+      "gender": "male",
+      "category": "Верхній одяг",
+      "item_type": "Куртка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "price_uah": 3599,
+      "sale_price_uah": 2799,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_a1c1ba4866784c1b82d09bf70b4b3f55~mv2.jpeg",
+        "https://static.wixstatic.com/media/a46ad0_ca9eab373eeb4b3380ca3b391f5895c3~mv2.jpeg",
+        "https://static.wixstatic.com/media/a46ad0_b870c8785e2743d38456c3123e93b5cd~mv2.jpeg"
+      ],
+      "description": "Шкіряна куртка Aviator Jacket | Brown 🤎 Стиль, який не потребує зайвих деталей. Коричнева шкіряна куртка з виразною фактурою, відкладним коміром та накладними кишенями. Вільний крій, продуманий силует і універсальний відтінок — ідеальне доповнення до повсякденних образів. Aviator Jacket — твій акцент у гардеробі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-в-язаний-birmingham-women",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм вʼязаний Birmingham Women",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%B2%CA%BC%D1%8F%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9-birmingham-women",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5999,
+      "sale_price_uah": 4799,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_097b2c5e4dbf4da6b9a20abb30b942c0~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_0584a9293f834dcfa244fcb84bfbd58b~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_6646ebf144e440ca8575ebd10dbed144~mv2.png"
+      ],
+      "description": "В’язаний костюм Birmingham Лаконічний дизайн, натхнений естетикою фільму «Джентльмени» Гая Річі. Виготовлений із преміальної пряжі: 10% вовни, 60% бавовни та 30% нейлону. Костюм зберігає тепло, добре пропускає повітря, стійкий до зношування та довго тримає форму. Ідеальний вибір для осені, зими та весни.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-stone",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм STONE",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-stone",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": 4399,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_737b1325c649446ab868c246a986c282~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_c2663850584a447382caae61da1c7b42~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_3b9bb59aeff643aebbd1df5010f9d1a0~mv2.jpg"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-в-язаний-birmingham",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм вʼязаний Birmingham",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%B2%CA%BC%D1%8F%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9-birmingham",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "синій",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_73eb8b7293dc40f5969f4a4c52aa9c8d~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_8c3d3ab5de6345c79ee82e2b026e699e~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_4a02969d42d842a7adc29a095e02d9e1~mv2.png"
+      ],
+      "description": "В’язаний костюм Birmingham Лаконічний дизайн, натхнений естетикою фільму «Джентльмени» Гая Річі. Виготовлений із преміальної пряжі: 10% вовни, 60% бавовни та 30% нейлону. Костюм зберігає тепло, добре пропускає повітря, стійкий до зношування та довго тримає форму. Ідеальний вибір для осені, зими та весни.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-костюм-спортивний",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм з флісом sport chik",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9-%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3399,
+      "sale_price_uah": 3199,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_3a3149269d914028b9357630d197192c~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_19c19b80f53e420e8beb3857d191c05c~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_880cf805425547c69d7bd14f277c5d33~mv2.png"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-detroit-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм Detroit",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-detroit-1",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": 4399,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_3a782a6a4ab24d7a993417e4eaab8459~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_28d5807eb7c24a5c91772c2f2f6a41cb~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_f2f3dd6fdd134a00b7b8f7770b712c60~mv2.jpg"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-лляний-авторський",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм лляний авторський",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%BB%D0%BB%D1%8F%D0%BD%D0%B8%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B8%D0%B9",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3999,
+      "sale_price_uah": 2499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_f12c4253a1704423a3dd7caf8aaab327~mv2.jpeg",
+        "https://static.wixstatic.com/media/7e25c6_192dae1c5fbf4188b7787b2189d70840~mv2.jpeg",
+        "https://static.wixstatic.com/media/7e25c6_ad714715f34a4cc9b5874ea8abcbcd65~mv2.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-detroit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм Detroit",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-detroit",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 5500,
+      "sale_price_uah": 4399,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_a82947d7131243df865ef610d6e67921~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_f2cb65380c10471294de22725d7cd791~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_35905df4b3bc46ee9f1cc718d3f672d1~mv2.jpg"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-костюм-лляний",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Костюм лляний",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%81%D1%82%D1%8E%D0%BC-%D0%BB%D0%BB%D1%8F%D0%BD%D0%B8%D0%B9",
+      "gender": "male",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2499,
+      "sale_price_uah": 1749,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_a04a5123138043ef8e987e1d25bd2695~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_80f569aa31bc45418f3f5ddac0bcbe4f~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_22ead9b8afa64d07922eb7b1094a1f07~mv2.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-кофта-з-флісом-sport-chik",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Кофта з флісом sport chik",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D1%84%D1%82%D0%B0-%D0%B7-%D1%84%D0%BB%D1%96%D1%81%D0%BE%D0%BC-sport-chik",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 1620,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_14aef52909ab4320a8417128aa7ea9bc~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_c578a5aa347d43aaaf5011a74689ebcc~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_880cf805425547c69d7bd14f277c5d33~mv2.png"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-штани-з-флісом-sport-chik",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Штани з флісом sport chik",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%88%D1%82%D0%B0%D0%BD%D0%B8-%D0%B7-%D1%84%D0%BB%D1%96%D1%81%D0%BE%D0%BC-sport-chik",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 1620,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_3a3149269d914028b9357630d197192c~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_829772f92642466bbf3cf6cb691720d7~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_b1b352dd9f114f19b774b6892c6041a8~mv2.png"
+      ],
+      "description": "Функціональний костюм у мінімалістичному стилі, створений для сучасного міського ритму. Комплект складається зі світшоту на блискавці та брюк із чистим, лаконічним силуетом. Продумані пропорції та щільна тканина забезпечують комфорт і цілісний вигляд образу. Костюм легко адаптується до різних сценаріїв - від повсякденних виходів до подорожей або роботи в relaxed-форматі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-брюки-широкі-oxford",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Брюки широкі Oxford",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%B1%D1%80%D1%8E%D0%BA%D0%B8-%D1%88%D0%B8%D1%80%D0%BE%D0%BA%D1%96-oxford",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2499,
+      "sale_price_uah": 2199,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_3eba8e926b694f23b28f2bfba3742dde~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_1c8ac2eeff2e4b89a226e02331f448ed~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_566783cffadb4f80bc8ddc90599ef8bc~mv2.jpg"
+      ],
+      "description": "Лаконічні штани з продуманими пропорціями та чітким силуетом. Модель поєднує класичну форму з комфортною посадкою, що робить її універсальною для щоденних і більш зібраних образів. Акуратні складки спереду додають структури, а прямий крій забезпечує свободу рухів і сучасний вигляд. Штани легко поєднуються як з базовими трикотажними виробами, так і з більш формальними елементами гардероба.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-джинси-baggy",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Джинси Baggy",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%B4%D0%B6%D0%B8%D0%BD%D1%81%D0%B8-baggy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2199,
+      "sale_price_uah": 1760,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_452d70b6730f4be18b6a495fa316c4aa~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_6769dfdbf9014b4f96d4a550408bfe2e~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_dcb871e0b576473cbf38f71a97ac2f47~mv2.png"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-світшот-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий світшот 1/4 zip",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9-%D1%81%D0%B2%D1%96%D1%82%D1%88%D0%BE%D1%82-1",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1699,
+      "sale_price_uah": 1299,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_1c50a16c8e0b40768e8a3eb8c49cb592~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_e56547a3d3ab43419fedcbb50ea76869~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_8f726bfec4fd4e1ebae8f88c2af2a2e0~mv2.jpg"
+      ],
+      "description": "Цей світшот — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-светр-зіп-сірий",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Светр зіп сірий",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%81%D0%B2%D0%B5%D1%82%D1%80-%D0%B7%D1%96%D0%BF-%D1%81%D1%96%D1%80%D0%B8%D0%B9",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 3899,
+      "sale_price_uah": 3499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/e79a65_29afe082348e493fa8f0596b6781ab59~mv2.jpg",
+        "https://static.wixstatic.com/media/abe366_888853edd8a04c6991a5d0deac2f82d0~mv2.png",
+        "https://static.wixstatic.com/media/abe366_7232e299e25a41af8c20f48a5454cfad~mv2.png"
+      ],
+      "description": "Лаконічний кардиган на блискавці з чистими лініями та продуманою посадкою. М’яка фактура матеріалу забезпечує комфорт у повсякденному носінні, а комір-стійка додає образу структурності та сучасного характеру. Модель легко інтегрується в базовий гардероб: поєднується з класичними брюками, денімом або більш relaxed силуетами. Підходить як для міського стилю, так і для smart casual образів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-світшот",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий світшот 1/4 zip",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9-%D1%81%D0%B2%D1%96%D1%82%D1%88%D0%BE%D1%82",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1699,
+      "sale_price_uah": 1299,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_c827a06ab4f048bcb7f4dbc2a2180b37~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_fb506290fc7f4b008c0c1e10b3dff730~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_ed410fb5198a40239fa51b902a0653e8~mv2.png"
+      ],
+      "description": "Цей світшот — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-джинси-прямі-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Джинси Regular",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%B4%D0%B6%D0%B8%D0%BD%D1%81%D0%B8-%D0%BF%D1%80%D1%8F%D0%BC%D1%96-1",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1699,
+      "sale_price_uah": 480,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_ceea6c2e918c40ae91e822833f85cb09~mv2.png",
+        "https://static.wixstatic.com/media/55b644_39f5bbc2d9e14dd7871b5f03ef0a5e0d~mv2.png",
+        "https://static.wixstatic.com/media/55b644_09257ac51d474692b18386fbd1cc4a4a~mv2.jpg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-футболка-в-язана-old-money",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка вʼязана old money",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0-%D0%B2%CA%BC%D1%8F%D0%B7%D0%B0%D0%BD%D0%B0-old-money",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 799,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_a7396a1f23e04c77a5c50c0dae59921e~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_3f07ca01434049428821e235ed973900~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_f68b2b1607634f8295150f82ac6def3f~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-шорти-baggy",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Шорти Baggy",
+      "source_url": "https://www.vvsstudios.com/product-page/шорти-baggy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "блакитний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 699,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_268a11b153b14d51ba4a23902d72131a~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_18c27f17af0b4ceba819c5b5f735780b~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_2b7e294911f94ba494a968c5dfe9449f~mv2.jpg"
+      ],
+      "description": "Чоловічі шорти baggy — комфортна база на теплий сезон із вільним, розслабленим силуетом. Об’ємний крій виглядає стильно та сучасно, легко поєднується з футболками, худі чи сорочками oversize.М’який щільний денім і зручна посадка забезпечують комфорт упродовж дня та свободу рухів. Ідеальний варіант для casual і streetwear образів із кедами, кросівками або сандалями.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-футболка-в-язана-old-money-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка вʼязана old money",
+      "source_url": "https://www.vvsstudios.com/product-page/футболка-вʼязана-old-money-1",
+      "gender": "male",
+      "category": "Светри",
+      "item_type": "Светр",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 799,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_e223fda1f70a4b08be7c9b0277e94ac2~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_949f4611849e4d38b4d91d9a235b4121~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_1fc1dea4400b4852b44624ea45b519fb~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копия-чоловічі-джинси-мом",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічі джинси МОМ",
+      "source_url": "https://www.vvsstudios.com/product-page/копия-чоловічі-джинси-мом",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "блакитний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_8b92a18a9a594ac7b9cd5c2928397519~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_3875241abeed4c46a4387de6310f1ea8~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_3a9e496ef3e34fe38adc0f09faf8a020~mv2.jpeg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-світшот-зіп-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Світшот зіп",
+      "source_url": "https://www.vvsstudios.com/product-page/світшот-зіп-1",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_c13b44c735be4ebe85962e81eb3331c9~mv2.png",
+        "https://static.wixstatic.com/media/abe366_5e91e1293217477a88f6737b4b3e6aee~mv2.png",
+        "https://static.wixstatic.com/media/abe366_43ab164d997a479e8d961ae8221cbdf3~mv2.png"
+      ],
+      "description": "Мінімалістичний світшот на блискавці з чітким силуетом та акуратною посадкою. Модель поєднує спортивну функціональність і стриману естетику, що робить її універсальною для щоденного гардероба. Комір-стійка формує структурований верх, а м’яка, щільна тканина забезпечує комфорт протягом усього дня. Світшот легко комбінується як з класичними брюками, так і з повсякденними образами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічі-джинси-мом",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічі джинси МОМ",
+      "source_url": "https://www.vvsstudios.com/product-page/чоловічі-джинси-мом",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "блакитний",
+        "синій"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_3199f26934ef49cfb34f942f1c137270~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_9a40d2b36c554070a6123a506a9d7a03~mv2.png",
+        "https://static.wixstatic.com/media/55b644_8b92a18a9a594ac7b9cd5c2928397519~mv2.jpeg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-брюки-широкі-oxford-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Брюки широкі Oxford",
+      "source_url": "https://www.vvsstudios.com/product-page/брюки-широкі-oxford-1",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2499,
+      "sale_price_uah": 2199,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_67920029ac2245c49cf0d3f993772be7~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_a2aa9f6d52a74b4d99c0d78ef8520c3e~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_7ea4a45b9f7748518c3838514ea9e2f7~mv2.jpg"
+      ],
+      "description": "Лаконічні штани з продуманими пропорціями та чітким силуетом. Модель поєднує класичну форму з комфортною посадкою, що робить її універсальною для щоденних і більш зібраних образів. Акуратні складки спереду додають структури, а прямий крій забезпечує свободу рухів і сучасний вигляд. Штани легко поєднуються як з базовими трикотажними виробами, так і з більш формальними елементами гардероба.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копия-шорти-baggy",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Шорти Baggy",
+      "source_url": "https://www.vvsstudios.com/product-page/копия-шорти-baggy",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "блакитний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 699,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_c0f9a69b3c9944d6ba8c74b1e9eb1b31~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_63f111dfd2ac494f92388c98b011e089~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_ca0b268433dd44e98a47e24b51881841~mv2.jpg"
+      ],
+      "description": "Чоловічі шорти baggy — комфортна база на теплий сезон із вільним, розслабленим силуетом. Об’ємний крій виглядає стильно та сучасно, легко поєднується з футболками, худі чи сорочками oversize.М’який щільний денім і зручна посадка забезпечують комфорт упродовж дня та свободу рухів. Ідеальний варіант для casual і streetwear образів із кедами, кросівками або сандалями.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-штани-спортивні",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Штани спортивні",
+      "source_url": "https://www.vvsstudios.com/product-page/штани-спортивні",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_1f89836072a94add983acf24c2581c20~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_a47a7ba2b2c74cfa8759ceb2fc87f392~mv2.png",
+        "https://static.wixstatic.com/media/abe366_cc0b7ee19922410fa3f99ac7e46dd22f~mv2.png"
+      ],
+      "description": "Мінімалістичні штани з чистим силуетом і продуманою посадкою, створені для щоденного комфорту без втрати стилю. М’яка, щільна тканина забезпечує приємні відчуття та зберігає форму протягом носіння. Лаконічний дизайн дозволяє легко поєднувати модель як зі світшотом із комплекту, так і з базовими елементами гардероба - футболками, худі або верхнім одягом.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-штани-лляні-oversize",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Штани лляні Oversize",
+      "source_url": "https://www.vvsstudios.com/product-page/штани-лляні-oversize",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_517eb7cffba9437092ce78f010ffce37~mv2.jpeg",
+        "https://static.wixstatic.com/media/7e25c6_0eebdbe693e842e8b75261812fc2f22a~mv2.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-джинси-baggy-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Джинси Baggy",
+      "source_url": "https://www.vvsstudios.com/product-page/джинси-baggy-1",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 2199,
+      "sale_price_uah": 1760,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_b7f6968e75614dce96464c62e47f8541~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_ccba576fda474d44b395edf5ae26e8dc~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_398dc84b71d1474390400f8c4d570d4e~mv2.jpg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-світшот-зіп-2",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Світшот зіп",
+      "source_url": "https://www.vvsstudios.com/product-page/світшот-зіп-2",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_1ec73f6428964d09be0d5b5d060a6b5b~mv2.png",
+        "https://static.wixstatic.com/media/abe366_c854ec0434544515b73b0f029c469647~mv2.png",
+        "https://static.wixstatic.com/media/abe366_cc302ca77fad414d882aa94e1d024670~mv2.png"
+      ],
+      "description": "Мінімалістичний світшот на блискавці з чітким силуетом та акуратною посадкою. Модель поєднує спортивну функціональність і стриману естетику, що робить її універсальною для щоденного гардероба. Комір-стійка формує структурований верх, а м’яка, щільна тканина забезпечує комфорт протягом усього дня. Світшот легко комбінується як з класичними брюками, так і з повсякденними образами.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копія-штани-спортивні",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Штани спортивні",
+      "source_url": "https://www.vvsstudios.com/product-page/копія-штани-спортивні",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "сірий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_0592837ab6e44b1da84bb84a7764cd17~mv2.png",
+        "https://static.wixstatic.com/media/abe366_5e91e1293217477a88f6737b4b3e6aee~mv2.png",
+        "https://static.wixstatic.com/media/abe366_43ab164d997a479e8d961ae8221cbdf3~mv2.png"
+      ],
+      "description": "Мінімалістичні штани з чистим силуетом і продуманою посадкою, створені для щоденного комфорту без втрати стилю. М’яка, щільна тканина забезпечує приємні відчуття та зберігає форму протягом носіння. Лаконічний дизайн дозволяє легко поєднувати модель як зі світшотом із комплекту, так і з базовими елементами гардероба - футболками, худі або верхнім одягом.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копія-чоловічі-джинси",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічі джинси",
+      "source_url": "https://www.vvsstudios.com/product-page/копія-чоловічі-джинси",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "блакитний"
+      ],
+      "sizes": [
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 2499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_d638228399f54a448a8cfba2da9a19b1~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_9f17b4c4b44b4de3b411bb5dfdfc4f7e~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_f31c1e49a4df43cb94f75e97ff6ffce2~mv2.jpeg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-лонгслів-поло-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий лонгслів-поло",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9-%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D0%BE%D0%BB%D0%BE-1",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_fc0344d0eafe4fc4a46504f67f2c8264~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_93997f8d246044418f540d7cad801b3c~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_4c9719d311844069b082b64d9ae72e6e~mv2.png"
+      ],
+      "description": "Цей лонгслів-поло — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного лонгсліва. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-лонгслів-з-ґудзиками",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів Henley",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-%D0%B7-%D2%91%D1%83%D0%B4%D0%B7%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1599,
+      "sale_price_uah": 1280,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_496164decc4849199bafa5cc0847982a~mv2.png",
+        "https://static.wixstatic.com/media/a46ad0_e85c5bed791d4227a862d7df364a5c9c~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_ab197316899a4f4a828f994c5fcf02df~mv2.jpg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-лонгслів-з-ґудзиками-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів Henley",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-%D0%B7-%D2%91%D1%83%D0%B4%D0%B7%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8-1",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1599,
+      "sale_price_uah": 1280,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_890a1ef6691e4745b932a10177ec4fef~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_aa1c7a23d48141cca14802c68ae71916~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_526803e88dd94cc68e859b34d1f11364~mv2.jpg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-лонгслів-поло",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий лонгслів-поло",
+      "source_url": "https://www.vvsstudios.com/product-page/%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D1%87%D0%B8%D0%B9-%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-%D0%BF%D0%BE%D0%BB%D0%BE",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий",
+        "коричневий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1799,
+      "sale_price_uah": 1199,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/a46ad0_59c06fa32acb41f39c9b4d333add4bcb~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_1b65ca9d629749c98649937204ab6a61~mv2.jpg",
+        "https://static.wixstatic.com/media/a46ad0_a22e07cd003f4c6d92a9661caaf4eaf7~mv2.jpg"
+      ],
+      "description": "Цей лонгслів-поло — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного лонгсліва. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-поло-футболка-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Поло футболка",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BF%D0%BE%D0%BB%D0%BE-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0-1",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1299,
+      "sale_price_uah": 780,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_a14d63c5518f4c579d1b443aabec6c85~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_6f2ee8a7965e4cf9884c7bf058e4547d~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_e37765a8fa60473e9decc5b4c61d3da1~mv2.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-майка-рубчик",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Майка рубчик",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BC%D0%B0%D0%B9%D0%BA%D0%B0-%D1%80%D1%83%D0%B1%D1%87%D0%B8%D0%BA",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": 400,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_d7cef134a84a46d58b5f4237fead05c4~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_27a2c25f7b854f4f9c31ef19e7e4a9f9~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_dc078eaec3004379bc556d91d5205bc9~mv2.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-лонгслів-oversize-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів oversize",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-oversize-1",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 840,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_cb4dfc8c5ede48e0af7923f889589c9d~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_5171195a53e34b33aa0b106637c5ca8c~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_ac3cff533f4c44bb97a00e15b69c02e2~mv2.jpg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-поло-футболка",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Поло футболка",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BF%D0%BE%D0%BB%D0%BE-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D0%BA%D0%B0",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 1299,
+      "sale_price_uah": 780,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_2cf2b5d798444665a936ddf0c94a426f~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_a59fcc6ab47c4aa387faa2080240288c~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_cc62ec99c56c435ca20d7e59da51c41d~mv2.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копія-лонгслів-slim-fit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Майка рубчик",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BA%D0%BE%D0%BF%D1%96%D1%8F-%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-slim-fit",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Майка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": 400,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_4239d848d6984150938c68b86b86a534~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_3596f9212ee34180b4e44974cb2c0b88~mv2.jpg",
+        "https://static.wixstatic.com/media/7e25c6_77d92f54e89b4a6e960d11379232076c~mv2.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-лонгслів-oversize",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів oversize",
+      "source_url": "https://www.vvsstudios.com/product-page/%D0%BB%D0%BE%D0%BD%D0%B3%D1%81%D0%BB%D1%96%D0%B2-oversize",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 840,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_4e52a0eb16b2461c9d6d108253a27f2e~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_ec3ea41aee4f40ca9104f36c40ed6511~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_303bff2ba2f041da89026339f26defbf~mv2.jpeg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-лонгслів-зіп-2",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий лонгслів зіп",
+      "source_url": "https://www.vvsstudios.com/product-page/чоловічий-лонгслів-зіп-2",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 2299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_2108b310dbb6400ea5ebe55cb0d548f7~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_118f49c5501c430fadaac99cdf9da4b9~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_cc38c99c7c43454bb63b4df54c19f7cf~mv2.jpeg"
+      ],
+      "description": "Цей лонгслів-поло — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного лонгсліва. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копия-футболка-slim-fit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка slim fit",
+      "source_url": "https://www.vvsstudios.com/product-page/копия-футболка-slim-fit",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 999,
+      "sale_price_uah": 499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_bf06395b63744ce3b86aba55d69bad36~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_1938a7554a33429bb3df3ae9fcacf046~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_fb271867c67d4b27aae1e5a5d263ce27~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-футболка-oversize",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка Oversize",
+      "source_url": "https://www.vvsstudios.com/product-page/футболка-oversize",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 999,
+      "sale_price_uah": 499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_a598890fef9a42518b941d06285bdd58~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_70591a24bacc4482a921a01c7454efd1~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_ebdff99496fd4cb789f397e11d50ae86~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-чоловічий-лонгслів-зіп-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Чоловічий лонгслів зіп",
+      "source_url": "https://www.vvsstudios.com/product-page/чоловічий-лонгслів-зіп-1",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+      ],
+      "price_uah": 2299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/abe366_947510817b434c6a9858a0abff257662~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_b8edbc7471af4d85a240a7e9bacd10c6~mv2.jpeg",
+        "https://static.wixstatic.com/media/abe366_39f258be2f244fefbf54247ab64211df~mv2.jpeg"
+      ],
+      "description": "Цей лонгслів-поло — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Акуратний комір і лаконічна застібка додають образу більш “дорогого” настрою, ніж у звичайного лонгсліва. М’яка трикотажна фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-лонгслів-slim-fit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів slim fit",
+      "source_url": "https://www.vvsstudios.com/product-page/лонгслів-slim-fit",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 699,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_e563d2a63f4a4a13861a22434825686e~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_b781e1916d1e4f518f7121fc85708288~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_b777a70669954fb1b3c16cdfe346779a~mv2.jpeg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-копия-лонгслів-slim-fit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Лонгслів slim fit",
+      "source_url": "https://www.vvsstudios.com/product-page/копия-лонгслів-slim-fit",
+      "gender": "male",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 1399,
+      "sale_price_uah": 699,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_665011c611e641a9b0861253f879646e~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_fdcad8a8858548e9aa29a0e35e94c63c~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_a04edae93d8a41058dc6fd0559ba58a8~mv2.jpg"
+      ],
+      "description": "Цей лонгслів — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-футболка-oversize-1",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка Oversize",
+      "source_url": "https://www.vvsstudios.com/product-page/футболка-oversize-1",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 999,
+      "sale_price_uah": 499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_d6e498f89b694357a0c7e66e82e2959f~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_57e962e9a13a4e87a9fb6b51a42ffc7f~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_a598890fef9a42518b941d06285bdd58~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-футболка-slim-fit",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Футболка slim fit",
+      "source_url": "https://www.vvsstudios.com/product-page/футболка-slim-fit",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [
+        "білий",
+        "чорний"
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "price_uah": 999,
+      "sale_price_uah": 499,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_9e8eb91a45394cd7b93d73ad7eac2ae3~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_729a3daf2d8a41c68d31f4b8303ae3de~mv2.jpg",
+        "https://static.wixstatic.com/media/55b644_4dabaff36bbe415ea25cc99a6d68a680~mv2.jpg"
+      ],
+      "description": "Ця футболка — ідеальний варіант, коли хочеться виглядати зібрано без зайвих зусиль. Фактура та гудзики додають образу більш “дорогого” настрою, ніж у звичайного світшоту. М’яка фактура комфортно сідає по фігурі та легко вписується і в casual, і в smart-casual. Носи з джинсами або класичними штанами — виглядає однаково доречно.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-сумка",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Сумка",
+      "source_url": "https://www.vvsstudios.com/product-page/сумка",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [
+        "OS"
+      ],
+      "price_uah": 3899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/7e25c6_6e89c20762bd48589b3900a30f57b1ee~mv2.jpeg",
+        "https://static.wixstatic.com/media/7e25c6_c47e13a709b245289d57fadd5722aeee~mv2.jpeg",
+        "https://static.wixstatic.com/media/7e25c6_1a63fa7e60cf4de3aa7cb27b8e77cce1~mv2.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vvsstudios-джинси-прямі",
+      "brand": "VVS Studios",
+      "brand_id": "vvsstudios",
+      "name": "Джинси Regular",
+      "source_url": "https://www.vvsstudios.com/product-page/джинси-прямі",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [
+        "29",
+        "30",
+        "31",
+        "32",
+        "33",
+        "34",
+        "36",
+        "38"
+      ],
+      "price_uah": 1699,
+      "sale_price_uah": 480,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/55b644_dba840fdfd914a6186bf6e4a732b3563~mv2.jpeg",
+        "https://static.wixstatic.com/media/55b644_5db24ad8110c44a88b7b7992379f1746~mv2.png",
+        "https://static.wixstatic.com/media/55b644_a7d558a08c9e43e2af659621bc1a2562~mv2.jpeg"
+      ],
+      "description": "Чоловічі джинси — універсальна база на щодень із чистим, акуратним силуетом. Прямий крій виглядає сучасно та легко поєднується з будь-яким взуттям — від кросівок до черевиків. Комфортна посадка та щільний денім допомагають тримати форму й залишатися зручними протягом дня. Ідеальний варіант для casual образів із худі, світшотом або сорочкою.",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

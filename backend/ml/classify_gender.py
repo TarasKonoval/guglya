@@ -1,5 +1,5 @@
 """Sort "unisex" / unknown-gender products (the scrape didn't say) into women / men from their photo, with
-FashionCLIP zero-shot. Brands that are unisex by design (default_gender "unisex" in brands.json) are left as is.
+FashionCLIP zero-shot. Brands that are unisex by design ("keep_unisex": true in brands.json) are left unisex.
 
 Usage (from repo root, after backend/ml/embed.py):
   DATABASE_URL=... python backend/ml/classify_gender.py [--dry-run]
@@ -38,7 +38,7 @@ def main() -> None:
     args = ap.parse_args()
 
     texts = text_vectors()
-    unisex_brands = [b["id"] for b in json.loads(BRANDS_JSON.read_text(encoding="utf-8")) if b.get("default_gender") == "unisex"]
+    unisex_brands = [b["id"] for b in json.loads(BRANDS_JSON.read_text(encoding="utf-8")) if b.get("keep_unisex")]
     with psycopg.connect(os.environ["DATABASE_URL"]) as conn:
         # unisex-by-design brands: everything back to unisex (an earlier run may have split them by the model's gender)
         if not args.dry_run:
