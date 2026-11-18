@@ -22,7 +22,7 @@ MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-4-6")
 CLIP = "patrickjohncyh/fashion-clip"
 ISSUER = f"https://cognito-idp.{os.environ['COGNITO_REGION']}.amazonaws.com/{os.environ['COGNITO_USER_POOL_ID']}"
 JWKS = jwt.PyJWKSet.from_json(os.environ["COGNITO_JWKS"])
-SLOTS = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
+SLOTS = ["hat", "scarf", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
 COLORS = ["black", "white", "grey", "beige", "brown", "blue", "green", "red", "burgundy",
           "pink", "purple", "yellow", "orange"]
 
@@ -35,6 +35,8 @@ You get a photo of a look. List the clothing pieces so we can find the closest r
 Rules:
 - Slots, one piece each per person:
   hat: any headwear.
+  scarf: a scarf, snood, kerchief or stole worn around the neck or shoulders (item_type: Шарф, Снуд, Хустка,
+       Палантин).
   outer: the outermost layer: coat, trench, jacket, puffer, bomber (not blazers).
   jacket: a blazer (піджак), worn alone or under a coat.
   top: the layer under it: sweater, turtleneck, shirt, t-shirt, hoodie, cardigan, blouse. List it whenever it
@@ -49,7 +51,7 @@ Rules:
   jumpsuit is listed once, as dress (a separate blazer over a dress is a normal jacket, part_of_suit = false).
 - Layering example: long coat over a brown suit over a white turtleneck = outer (coat) + dress (suit) + jacket
   (brown blazer) + bottom (brown trousers) + top (turtleneck) + shoes.
-- Skip jewellery, belts, scarves, glasses, socks (list the bag).
+- Skip jewellery, belts, glasses, socks (list the bag and the scarf).
 - Only pieces you can actually see. If shoes are cut off, leave them out.
 - person: 1 for a single look. For a couple: 1 = the person on the left, 2 = on the right.
 - description: short English product-style text for image search, e.g. "long beige wool trench coat with belt".

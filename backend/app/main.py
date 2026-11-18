@@ -10,7 +10,7 @@ from .auth import admin_user, current_user, is_admin, optional_user
 from .config import settings
 from .db import execute, fetch_all, fetch_one, transaction
 
-Slot = Literal["hat", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
+Slot = Literal["hat", "scarf", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
                   p.image_url, p.product_url, p.is_demo"""
 
@@ -25,7 +25,7 @@ OUTFIT_SUMMARY = """
           + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
          coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by oi.person, array_position(array['hat','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot))
+                  order by oi.person, array_position(array['hat','scarf','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -149,6 +149,9 @@ TYPE_GROUPS = {
     "tote": ["Шопер"],
     "clutch": ["Клатч"],
     "backpack": ["Рюкзак"],
+    "long_scarf": ["Шарф", "Палантин"],
+    "kerchief": ["Хустка"],
+    "snood": ["Снуд"],
 }
 GROUP_OF = {t.lower(): g for g, types in TYPE_GROUPS.items() for t in types}
 # Shop types are sometimes too broad ("Брюки" for fleece joggers, "Взуття" for anything): the title decides first
@@ -211,11 +214,11 @@ def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = No
                 -- text-to-image scores are ~0.3, image-to-image ~0.7-0.9: the floor only applies to photo search
                 and (hero.by_text or 1 - (p.embedding <=> hero.v) >= {MIN_SIMILARITY})
             ), ranked as (
-              -- same kind of item; bags and hats may also be another kind in the same colour (a brown handbag is
+              -- same kind of item; bags, hats and scarves may also be another kind in the same colour (a brown handbag is
               -- a better swap for a brown shopper than a white shopper); a chip colour keeps the kind
               select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
               where case when %(color)s::text is not null then color = %(color)s and (same_group or n_group < {MIN_GROUP})
-                         else same_group or n_group < {MIN_GROUP} or (same_color and category in ('bag', 'hat')) end
+                         else same_group or n_group < {MIN_GROUP} or (same_color and category in ('bag', 'hat', 'scarf')) end
             ), scored as (
               -- same weights as /admin/match for builder items
               select *, similarity + 0.02 * same_color::int
@@ -489,7 +492,7 @@ def admin_get_outfit(outfit_id: UUID, _: dict = Depends(admin_user)):
                    oi.query_vector::text as query_vector, oi.query_text, oi.query_color
             from outfit_items oi join products p on p.id = oi.product_id join brands b on b.id = p.brand_id
             where oi.outfit_id = %s
-            order by oi.person, array_position(array['hat','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot)""",
+            order by oi.person, array_position(array['hat','scarf','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot)""",
         (outfit_id,),
     )
     return outfit

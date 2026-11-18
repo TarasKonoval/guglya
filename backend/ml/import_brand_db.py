@@ -12,7 +12,7 @@ Popularity (Instagram followers) comes from data/database/brand_popularity.json 
 
 Admin-hidden products stay hidden. Run backend/ml/embed.py, then backend/ml/classify_gender.py after an import.
 
-Skipped: accessories (slot "other"), products without a (plausible) UAH price, products marked out of stock,
+Skipped: accessories (slot "other") except bags and scarves, products without a (plausible) UAH price, products marked out of stock,
 Russian product names.
 """
 import json
@@ -85,6 +85,29 @@ def bag_kind(p: dict) -> str | None:
     return hit or ("Сумка" if p.get("slot") == "bag" else None)
 
 
+# Scarves (slot "scarf", migration 010): older scrapes put them into "other" ("Шарф", "Хустка"); the title decides
+# and gives the kind. Bandanas, hair scarves and pocket squares are not outfit scarves.
+SCARF_KINDS = [
+    (re.compile(r"снуд|snood|хомут", re.I), "Снуд"),
+    (re.compile(r"палантин|\bstole", re.I), "Палантин"),
+    (re.compile(r"хустк|косинк|kerchief|\bshawl", re.I), "Хустка"),
+    (re.compile(r"шарф|scarf|бактус", re.I), "Шарф"),
+]
+NOT_SCARF = re.compile(r"бандан|для волосся|пов.язк|резинк|паше|нагрудн|маск|брелок|кольє|чокер|visor|козир|сережк|браслет", re.I)
+
+
+def scarf_kind(p: dict, brand: dict | None = None) -> str | None:
+    """'Шарф' / 'Снуд' / 'Хустка' / 'Палантин' if this product is a scarf, else None."""
+    name = re.sub(re.escape(p.get("brand") or ""), " ", p.get("name") or "", flags=re.I)  # "My Scarf" is a brand
+    if p.get("slot") not in ("scarf", "other") or NOT_SCARF.search(name):
+        return None
+    hit = next((kind for rx, kind in SCARF_KINDS if rx.search(name)), None)
+    # scarf brands name their scarves by print ("Passion"): their scraped type is enough
+    if not hit and (brand or {}).get("kind") == "scarves" and p.get("item_type") in ("Шарф", "Хустка"):
+        hit = p["item_type"]
+    return hit or ("Шарф" if p.get("slot") == "scarf" else None)
+
+
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
 # The layer worn over a top or a dress/suit ("outer" slot); keep in sync with migration 006
@@ -103,14 +126,15 @@ def brand_gender(b: dict) -> str:
 
 def to_row(p: dict, brand: dict) -> tuple | None:
     bag = bag_kind(p)
-    if (p.get("slot") not in ("hat", "top", "bottom", "shoes") and not bag) or p.get("in_stock") is False:
+    scarf = None if bag else scarf_kind(p, brand)
+    if (p.get("slot") not in ("hat", "top", "bottom", "shoes") and not bag and not scarf) or p.get("in_stock") is False:
         return None
     price, sale = p.get("price_uah"), p.get("sale_price_uah")
     if not price or price < MIN_PRICE or not p.get("photos") or RUSSIAN.search(p.get("name") or ""):
         return None
     on_sale = bool(sale) and MIN_PRICE <= sale < price
-    kind = bag or p.get("item_type")
-    category = ("bag" if bag else "dress" if kind in DRESS_TYPES else
+    kind = bag or scarf or p.get("item_type")
+    category = ("bag" if bag else "scarf" if scarf else "dress" if kind in DRESS_TYPES else
                 "outer" if p["slot"] == "top" and kind in OUTER_TYPES else
                 "jacket" if p["slot"] == "top" and kind in JACKET_TYPES else p["slot"])
     color = title_color(p.get("name") or "") or next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
@@ -161,7 +185,7 @@ def main() -> None:
                                              photos, product_url, gender, item_type, sizes, in_stock, is_demo)
                        values (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, true, false)
                        on conflict (product_url) do update set brand_id = excluded.brand_id, title = excluded.title,
-                         category = excluded.category, color = excluded.color, price_uah = excluded.price_uah,
+                         category = excluded.category, color = coalesce(excluded.color, products.color), price_uah = excluded.price_uah,
                          old_price_uah = excluded.old_price_uah, photos = excluded.photos,
                          -- "unisex" means the scrape didn't say: keep what classify_gender.py found
                          gender = case when excluded.gender = 'unisex' then products.gender else excluded.gender end,
