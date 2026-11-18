@@ -20,12 +20,15 @@ from transformers import CLIPModel, CLIPProcessor
 MODEL = "patrickjohncyh/fashion-clip"  # 512-dim CLIP fine-tuned on fashion product images
 DEVICE = "mps" if torch.backends.mps.is_available() else "cpu"
 BATCH = 32
+# Some brands' image servers refuse the python-requests default (Staff: 403); site visitors' browsers get the photos
+HEADERS = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) "
+                         "Chrome/130 Safari/537.36"}
 
 
 def load_image(url: str) -> Image.Image:
     if url.startswith("/"):
         url = os.environ["IMAGE_BASE_URL"].rstrip("/") + url
-    resp = requests.get(url, timeout=30)
+    resp = requests.get(url, timeout=30, headers=HEADERS)
     resp.raise_for_status()
     img = Image.open(io.BytesIO(resp.content)).convert("RGB")
     img.thumbnail((448, 448))  # brand photos can be several MB; CLIP needs 224 px

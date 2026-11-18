@@ -5,7 +5,7 @@
     "site": "https://artellshoes.com",
     "extracted_at": "2026-11-18",
     "mode": "sitemap-products",
-    "count": 136,
+    "count": 138,
     "found": 195,
     "candidates": 199,
     "checked": 199,
@@ -197,7 +197,7 @@
       "gender": "male",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [],
       "sizes": [],
       "price_uah": 11500,
@@ -277,24 +277,24 @@
       "collections": []
     },
     {
-      "id": "artell-10996",
+      "id": "artell-choboty-znynochi-vysoki-na-pidborah-shokolad-36",
       "brand": "Artell",
       "brand_id": "artell",
-      "name": "ЧЕРЕВИКИ ЖІНОЧІ САФАРІ БУТС",
-      "source_url": "https://artellshoes.com/cherevyky-zhinochi-safari-buts/10996/",
+      "name": "ЧОБОТИ ЖІНОЧІ ВИСОКІ НА ПІДБОРАХ",
+      "source_url": "https://artellshoes.com/choboty-znynochi-vysoki-na-pidborah-shokolad-36/",
       "gender": "female",
       "category": "Взуття",
-      "item_type": "Черевики",
+      "item_type": "Чоботи",
       "slot": "shoes",
       "colors": [],
       "sizes": [],
-      "price_uah": 6200,
+      "price_uah": 9600,
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://artellshoes.com/content/images/47/1588x1567l80mc0/78979673912072.webp"
+        "https://artellshoes.com/content/images/16/500x500l80mc0/choboty-znynochi-vysoki-na-pidborah-shokolad-36-34683593703858.webp"
       ],
-      "description": "Масивні черевики у стилі сафарі з акцентом на практичність та комфорт. Витриманий дизайн і зручна шнурівка роблять цю модель універсальною для щоденного носіння. Черевики легко поєднуються з різними образами, додаючи впевненості й виразності у кожному кроці. Доступні три варіанти підкладки — від класичної до більш теплої та м’якої, щоб кожен міг обрати рівень комфорту на свій смак",
+      "description": "Високі жіночі чоботи з натуральної замші шоколадного кольору. Вільна халява з м’якими складками, загострений носок і невисокі підбори створюють виразний та елегантний силует. Натуральна шкіряна підкладка забезпечує комфорт. Висота підборів: 4 см Обʼєм халяви: 40 см Обʼєм ноги в найширшому місці: 38 см Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
       "care": null,
       "collections": []
     },
@@ -321,24 +321,24 @@
       "collections": []
     },
     {
-      "id": "artell-choboty-znynochi-vysoki-na-pidborah-shokolad-36",
+      "id": "artell-10996",
       "brand": "Artell",
       "brand_id": "artell",
-      "name": "ЧОБОТИ ЖІНОЧІ ВИСОКІ НА ПІДБОРАХ",
-      "source_url": "https://artellshoes.com/choboty-znynochi-vysoki-na-pidborah-shokolad-36/",
+      "name": "ЧЕРЕВИКИ ЖІНОЧІ САФАРІ БУТС",
+      "source_url": "https://artellshoes.com/cherevyky-zhinochi-safari-buts/10996/",
       "gender": "female",
       "category": "Взуття",
-      "item_type": "Чоботи",
+      "item_type": "Черевики",
       "slot": "shoes",
       "colors": [],
       "sizes": [],
-      "price_uah": 9600,
+      "price_uah": 6200,
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://artellshoes.com/content/images/16/500x500l80mc0/choboty-znynochi-vysoki-na-pidborah-shokolad-36-34683593703858.webp"
+        "https://artellshoes.com/content/images/47/1588x1567l80mc0/78979673912072.webp"
       ],
-      "description": "Високі жіночі чоботи з натуральної замші шоколадного кольору. Вільна халява з м’якими складками, загострений носок і невисокі підбори створюють виразний та елегантний силует. Натуральна шкіряна підкладка забезпечує комфорт. Висота підборів: 4 см Обʼєм халяви: 40 см Обʼєм ноги в найширшому місці: 38 см Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
+      "description": "Масивні черевики у стилі сафарі з акцентом на практичність та комфорт. Витриманий дизайн і зручна шнурівка роблять цю модель універсальною для щоденного носіння. Черевики легко поєднуються з різними образами, додаючи впевненості й виразності у кожному кроці. Доступні три варіанти підкладки — від класичної до більш теплої та м’якої, щоб кожен міг обрати рівень комфорту на свій смак",
       "care": null,
       "collections": []
     },
@@ -365,28 +365,6 @@
       "collections": []
     },
     {
-      "id": "artell-cherevyky-zhinochi-ski-boots",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ЧЕРЕВИКИ ЖІНОЧІ SKI BOOTS",
-      "source_url": "https://artellshoes.com/cherevyky-zhinochi-ski-boots/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Черевики",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 6400,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/2/1500x1500l80mc0/35274186221705.webp"
-      ],
-      "description": "Ski Boots — виразні черевики з характерним об’ємним силуетом для міського ритму. Вони додають образу впевненості та легко поєднуються з джинсами, трикотажем, спідницями й верхнім одягом.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-11491",
       "brand": "Artell",
       "brand_id": "artell",
@@ -409,24 +387,24 @@
       "collections": []
     },
     {
-      "id": "artell-11173",
+      "id": "artell-cherevyky-zhinochi-ski-boots",
       "brand": "Artell",
       "brand_id": "artell",
-      "name": "КЕДИ ЧОЛОВІЧІ BAREFOOT",
-      "source_url": "https://artellshoes.com/kedy-cholovichi-barefoot/11173/",
-      "gender": "male",
+      "name": "ЧЕРЕВИКИ ЖІНОЧІ SKI BOOTS",
+      "source_url": "https://artellshoes.com/cherevyky-zhinochi-ski-boots/",
+      "gender": "female",
       "category": "Взуття",
-      "item_type": "Кеди",
+      "item_type": "Черевики",
       "slot": "shoes",
       "colors": [],
       "sizes": [],
-      "price_uah": 5800,
+      "price_uah": 6400,
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://artellshoes.com/content/images/24/1000x1000l80mc0/11143381158601.webp"
+        "https://artellshoes.com/content/images/2/1500x1500l80mc0/35274186221705.webp"
       ],
-      "description": "Чоловічі кеди Barefoot створені для тих, хто цінує природність руху та мінімалістичний дизайн. Лаконічний силует добре вписується у casual-гардероб і підходить для активного щоденного ритму.",
+      "description": "Ski Boots — виразні черевики з характерним об’ємним силуетом для міського ритму. Вони додають образу впевненості та легко поєднуються з джинсами, трикотажем, спідницями й верхнім одягом.",
       "care": null,
       "collections": []
     },
@@ -453,6 +431,28 @@
       "collections": []
     },
     {
+      "id": "artell-11173",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "КЕДИ ЧОЛОВІЧІ BAREFOOT",
+      "source_url": "https://artellshoes.com/kedy-cholovichi-barefoot/11173/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Кеди",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/24/1000x1000l80mc0/11143381158601.webp"
+      ],
+      "description": "Чоловічі кеди Barefoot створені для тих, хто цінує природність руху та мінімалістичний дизайн. Лаконічний силует добре вписується у casual-гардероб і підходить для активного щоденного ритму.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "artell-cherevyky-cholovichi-urban-boots",
       "brand": "Artell",
       "brand_id": "artell",
@@ -469,6 +469,50 @@
       "in_stock": false,
       "photos": [
         "https://artellshoes.com/content/images/8/1800x1800l80mc0/33700470327727.webp"
+      ],
+      "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-cherevyky-cholovichi-duck-boots",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ЧЕРЕВИКИ ЧОЛОВІЧІ DUCK BOOTS",
+      "source_url": "https://artellshoes.com/cherevyky-cholovichi-duck-boots/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9600,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/22/1800x1800l80mc0/51147416783167.webp"
+      ],
+      "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-cherevyky-cholovichi-combat-boots",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ЧЕРЕВИКИ ЧОЛОВІЧІ COMBAT BOOTS",
+      "source_url": "https://artellshoes.com/cherevyky-cholovichi-combat-boots/",
+      "gender": "male",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 9600,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/4/1800x1800l80mc0/77232475408376.webp"
       ],
       "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
       "care": null,
@@ -497,28 +541,6 @@
       "collections": []
     },
     {
-      "id": "artell-cherevyky-cholovichi-duck-boots",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ЧЕРЕВИКИ ЧОЛОВІЧІ DUCK BOOTS",
-      "source_url": "https://artellshoes.com/cherevyky-cholovichi-duck-boots/",
-      "gender": "male",
-      "category": "Взуття",
-      "item_type": "Черевики",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 9600,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/22/1800x1800l80mc0/51147416783167.webp"
-      ],
-      "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-mokasyny-cholovichi-moccasin",
       "brand": "Artell",
       "brand_id": "artell",
@@ -537,28 +559,6 @@
         "https://artellshoes.com/content/images/44/1442x1442l80mc0/23706123375477.webp"
       ],
       "description": "Чоловічі мокасини — комфортна пара з м’яким силуетом для повсякденного стилю. Вони легко поєднуються з джинсами, брюками та шортами, залишаючись доречними у місті й під час подорожей.",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "artell-cherevyky-cholovichi-combat-boots",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ЧЕРЕВИКИ ЧОЛОВІЧІ COMBAT BOOTS",
-      "source_url": "https://artellshoes.com/cherevyky-cholovichi-combat-boots/",
-      "gender": "male",
-      "category": "Взуття",
-      "item_type": "Черевики",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 9600,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/4/1800x1800l80mc0/77232475408376.webp"
-      ],
-      "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
       "care": null,
       "collections": []
     },
@@ -739,6 +739,28 @@
       "collections": []
     },
     {
+      "id": "artell-kedy-zhinochi-barefoot",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "КЕДИ ЖІНОЧІ BAREFOOT",
+      "source_url": "https://artellshoes.com/kedy-zhinochi-barefoot/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Кеди",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5100,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/4/1000x1000l80mc0/11503354518444.webp"
+      ],
+      "description": "Кеди Barefoot — мінімалістична модель для тих, хто цінує природність руху та легкість у повсякденному взутті. Сучасний силует легко вписується в базовий міський гардероб.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "artell-cherevyky-cholovichi-hiking-boots",
       "brand": "Artell",
       "brand_id": "artell",
@@ -779,28 +801,6 @@
         "https://artellshoes.com/content/images/14/1800x1800l80mc0/cherevyky-zhinochi-na-blyskavtsi-z-khutrom-43895386568839.webp"
       ],
       "description": "Жіночі зимові черевики з натуральної замші з м’якою хутряною підкладкою. Зручна блискавка забезпечує легке взування, а лаконічний дизайн робить модель універсальною для повсякденних зимових образів. Тепла підкладка дарує комфорт у холодну погоду. Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "artell-kedy-zhinochi-barefoot",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "КЕДИ ЖІНОЧІ BAREFOOT",
-      "source_url": "https://artellshoes.com/kedy-zhinochi-barefoot/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Кеди",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 5100,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/4/1000x1000l80mc0/11503354518444.webp"
-      ],
-      "description": "Кеди Barefoot — мінімалістична модель для тих, хто цінує природність руху та легкість у повсякденному взутті. Сучасний силует легко вписується в базовий міський гардероб.",
       "care": null,
       "collections": []
     },
@@ -849,28 +849,6 @@
       "collections": []
     },
     {
-      "id": "artell-11569",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "БАЛЕТКИ ЖІНОЧІ З БАНТОМ",
-      "source_url": "https://artellshoes.com/baletky-zhinochi-z-bantom/11569/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Туфлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4600,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/20/1800x1800l80mc0/74069524273827.webp"
-      ],
-      "description": "Лаконічні балетки — універсальне взуття для щоденних і більш жіночних образів. Акуратна форма легко поєднується з джинсами, спідницями та сукнями, додаючи образу легкості.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-cherevyky-cholovichi-ski-boots",
       "brand": "Artell",
       "brand_id": "artell",
@@ -889,6 +867,28 @@
         "https://artellshoes.com/content/images/40/1800x1800l80mc0/60372750677893.webp"
       ],
       "description": "Urban Trail — чоловічі черевики з натуральної шкіри преміум-класу, створені для активного міського життя та подорожей. Модель поєднує сучасний дизайн, ручну роботу й максимально комфортну посадку. Основа взуття — італійська підошва Vibram, яка забезпечує надійне зчеплення та довговічність на різних поверхнях. Черевики підходять для міста, прогулянок і активного відпочинку, зберігаючи стиль і впевненість у кожному кроці. Urban Trail — універсальність, що працює щодня.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-11569",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "БАЛЕТКИ ЖІНОЧІ З БАНТОМ",
+      "source_url": "https://artellshoes.com/baletky-zhinochi-z-bantom/11569/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4600,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/20/1800x1800l80mc0/74069524273827.webp"
+      ],
+      "description": "Лаконічні балетки — універсальне взуття для щоденних і більш жіночних образів. Акуратна форма легко поєднується з джинсами, спідницями та сукнями, додаючи образу легкості.",
       "care": null,
       "collections": []
     },
@@ -1047,28 +1047,6 @@
       "collections": []
     },
     {
-      "id": "artell-10711",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "БАЛЕТКИ ЖІНОЧІ",
-      "source_url": "https://artellshoes.com/baletky-zhinochi/10711/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Туфлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4300,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/12/1200x1200l80mc0/87586876422376.webp"
-      ],
-      "description": "Жіночі балетки з натуральної замші. М’яка посадка, округлий носок і ремінець із пряжкою забезпечують комфорт протягом дня. Внутрішня частина — натуральна шкіра. Акуратна форма та стриманий дизайн легко поєднуються з базовим гардеробом.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-10639",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1087,6 +1065,28 @@
         "https://artellshoes.com/content/images/40/960x960l80mc0/88001061595930.webp"
       ],
       "description": "Масивні шкіряні черевики Duck Boots від Artell Shoes — це поєднання брутальності та комфорту. Ручна робота з натуральної шкіри, посилена прошивка та стійка підошва забезпечують довговічність і стильний вигляд. Ідеальні для прохолодного сезону, вони поєднуються як із кежуал-образами, так і з більш сміливими луками.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-10711",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "БАЛЕТКИ ЖІНОЧІ",
+      "source_url": "https://artellshoes.com/baletky-zhinochi/10711/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/12/1200x1200l80mc0/87586876422376.webp"
+      ],
+      "description": "Жіночі балетки з натуральної замші. М’яка посадка, округлий носок і ремінець із пряжкою забезпечують комфорт протягом дня. Внутрішня частина — натуральна шкіра. Акуратна форма та стриманий дизайн легко поєднуються з базовим гардеробом.",
       "care": null,
       "collections": []
     },
@@ -1399,28 +1399,6 @@
       "collections": []
     },
     {
-      "id": "artell-miuli-zhinochi",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "МЮЛІ ЖІНОЧІ",
-      "source_url": "https://artellshoes.com/miuli-zhinochi/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Мюлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4100,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/26/1500x1500l80mc0/24436593898679.webp"
-      ],
-      "description": "Мюлі — зручна відкрита модель для теплого сезону й невимушених міських образів. Вони легко взуваються, виглядають акуратно та добре поєднуються із сукнями, спідницями, брюками й джинсами.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-11071",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1439,6 +1417,28 @@
         "https://artellshoes.com/content/images/22/1000x1000l80mc0/73509464740805.webp"
       ],
       "description": "Черевички Ski Boots Teddy — затишна акцентна модель для прохолодної погоди. Об’ємна фактура додає образу м’якості, а виразний силует добре поєднується з денімом, трикотажем і верхнім одягом.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-miuli-zhinochi",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "МЮЛІ ЖІНОЧІ",
+      "source_url": "https://artellshoes.com/miuli-zhinochi/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Мюлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/26/1500x1500l80mc0/24436593898679.webp"
+      ],
+      "description": "Мюлі — зручна відкрита модель для теплого сезону й невимушених міських образів. Вони легко взуваються, виглядають акуратно та добре поєднуються із сукнями, спідницями, брюками й джинсами.",
       "care": null,
       "collections": []
     },
@@ -1465,28 +1465,6 @@
       "collections": []
     },
     {
-      "id": "artell-11149",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "БАЛЕТКИ ЖІНОЧІ TEDDY",
-      "source_url": "https://artellshoes.com/baletky-zhinochi-teddy/11149/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Туфлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 3900,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/50/1500x1500l80mc0/20316634474214.webp"
-      ],
-      "description": "Балетки Teddy — жіночна модель із м’якою фактурою для тих, хто цінує затишні деталі в образі. Вони добре доповнюють повсякденний гардероб і додають йому делікатної виразності.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-11377",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1505,6 +1483,28 @@
         "https://artellshoes.com/content/images/28/1500x1500l80mc0/39024471523979.webp"
       ],
       "description": "Класичні рибацькі сандалі у сучасному виконанні з акцентом на комфорт та витривалість. Підошва Vibram додає моделі міцності та забезпечує впевненість у щоденному використанні. Стриманий дизайн робить цю пару універсальною й доречною у різних стилях та ситуаціях.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-11149",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "БАЛЕТКИ ЖІНОЧІ TEDDY",
+      "source_url": "https://artellshoes.com/baletky-zhinochi-teddy/11149/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3900,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/50/1500x1500l80mc0/20316634474214.webp"
+      ],
+      "description": "Балетки Teddy — жіночна модель із м’якою фактурою для тих, хто цінує затишні деталі в образі. Вони добре доповнюють повсякденний гардероб і додають йому делікатної виразності.",
       "care": null,
       "collections": []
     },
@@ -1531,28 +1531,6 @@
       "collections": []
     },
     {
-      "id": "artell-cherevyky-zhinochi-cowboy-boots-low",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ЧЕРЕВИКИ ЖІНОЧІ COWBOY BOOTS LOW",
-      "source_url": "https://artellshoes.com/cherevyky-zhinochi-cowboy-boots-low/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Черевики",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 5900,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/42/1800x1800l80mc0/68326030798655.webp"
-      ],
-      "description": "Чоботи з виразним силуетом у стилі сучасної інтерпретації ковбойської класики від Artell Shoes. Модель середньої висоти з комфортною резинкою з боків забезпечує зручну посадку та легкість у носінні. Це стильне взуття підкреслює індивідуальність і гармонійно поєднує традиції з авторським баченням бренду.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-shlopantsi-zhinochi-slides-fringe",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1571,6 +1549,28 @@
         "https://artellshoes.com/content/images/19/1800x1800l80mc0/28589072968524.webp"
       ],
       "description": "Шльопанці Slides Fringe — легка акцентна пара з декоративною бахромою. Вони додають руху й фактури образу та добре пасують до літніх міських і курортних комплектів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-cherevyky-zhinochi-cowboy-boots-low",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ЧЕРЕВИКИ ЖІНОЧІ COWBOY BOOTS LOW",
+      "source_url": "https://artellshoes.com/cherevyky-zhinochi-cowboy-boots-low/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Черевики",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/42/1800x1800l80mc0/68326030798655.webp"
+      ],
+      "description": "Чоботи з виразним силуетом у стилі сучасної інтерпретації ковбойської класики від Artell Shoes. Модель середньої висоти з комфортною резинкою з боків забезпечує зручну посадку та легкість у носінні. Це стильне взуття підкреслює індивідуальність і гармонійно поєднує традиції з авторським баченням бренду.",
       "care": null,
       "collections": []
     },
@@ -1685,28 +1685,6 @@
       "collections": []
     },
     {
-      "id": "artell-shlopantsi-zhinochi-slides-tassels",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ШЛЬОПАНЦІ ЖІНОЧІ SLIDES TASSELS",
-      "source_url": "https://artellshoes.com/shlopantsi-zhinochi-slides-tassels/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Капці",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 2800,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/25/1800x1800l80mc0/29355879348975.webp"
-      ],
-      "description": "Шльопанці Slides Tassels із декоративними китицями створені для невимушених літніх образів. Виразний декор робить модель самостійним акцентом, який легко поєднати з сукнями, шортами або лляними речами.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-10861",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1725,6 +1703,28 @@
         "https://artellshoes.com/content/images/12/1000x1000l80mc0/88894851492501.webp"
       ],
       "description": "Класичні рибацькі сандалі у сучасному стилі — зручне та універсальне взуття на кожен день. Впізнаваний дизайн з переплетенням ремінців забезпечує комфорт і легкість, а лаконічний силует дозволяє легко поєднувати їх як із повсякденними, так і з більш елегантними образами у різні сезони.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-shlopantsi-zhinochi-slides-tassels",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ШЛЬОПАНЦІ ЖІНОЧІ SLIDES TASSELS",
+      "source_url": "https://artellshoes.com/shlopantsi-zhinochi-slides-tassels/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Капці",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/25/1800x1800l80mc0/29355879348975.webp"
+      ],
+      "description": "Шльопанці Slides Tassels із декоративними китицями створені для невимушених літніх образів. Виразний декор робить модель самостійним акцентом, який легко поєднати з сукнями, шортами або лляними речами.",
       "care": null,
       "collections": []
     },
@@ -1751,28 +1751,6 @@
       "collections": []
     },
     {
-      "id": "artell-11551",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "БАЛЕТКИ ЖІНОЧІ З БАНТОМ",
-      "source_url": "https://artellshoes.com/baletky-zhinochi-z-bantom/11551/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Туфлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4600,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/2/1800x1800l80mc0/32060322538675.webp"
-      ],
-      "description": "Балетки з бантом — жіночна модель із делікатним декоративним акцентом. Лаконічний силует легко поєднується з сукнями, спідницями та джинсами, додаючи образу м’якості й витонченості.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-10687",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1795,24 +1773,24 @@
       "collections": []
     },
     {
-      "id": "artell-lofery-zhinochi-z-bakhromoiu",
+      "id": "artell-11551",
       "brand": "Artell",
       "brand_id": "artell",
-      "name": "ЛОФЕРИ ЖІНОЧІ З БАХРОМОЮ",
-      "source_url": "https://artellshoes.com/lofery-zhinochi-z-bakhromoiu/",
+      "name": "БАЛЕТКИ ЖІНОЧІ З БАНТОМ",
+      "source_url": "https://artellshoes.com/baletky-zhinochi-z-bantom/11551/",
       "gender": "female",
       "category": "Взуття",
-      "item_type": "Лофери",
+      "item_type": "Туфлі",
       "slot": "shoes",
       "colors": [],
       "sizes": [],
-      "price_uah": 5900,
+      "price_uah": 4600,
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://artellshoes.com/content/images/26/1800x1800l80mc0/83338267749872.webp"
+        "https://artellshoes.com/content/images/2/1800x1800l80mc0/32060322538675.webp"
       ],
-      "description": "【ЛОФЕРИ ЖІНОЧІ З БАХРОМОЮ】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
+      "description": "Балетки з бантом — жіночна модель із делікатним декоративним акцентом. Лаконічний силует легко поєднується з сукнями, спідницями та джинсами, додаючи образу м’якості й витонченості.",
       "care": null,
       "collections": []
     },
@@ -1835,6 +1813,28 @@
         "https://artellshoes.com/content/images/32/1800x1800l80mc0/79709558092129.webp"
       ],
       "description": "Балетки з бантом — жіночна модель із делікатним декоративним акцентом. Лаконічний силует легко поєднується з сукнями, спідницями та джинсами, додаючи образу м’якості й витонченості.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-lofery-zhinochi-z-bakhromoiu",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ЛОФЕРИ ЖІНОЧІ З БАХРОМОЮ",
+      "source_url": "https://artellshoes.com/lofery-zhinochi-z-bakhromoiu/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Лофери",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5900,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/26/1800x1800l80mc0/83338267749872.webp"
+      ],
+      "description": "【ЛОФЕРИ ЖІНОЧІ З БАХРОМОЮ】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
       "care": null,
       "collections": []
     },
@@ -1883,28 +1883,6 @@
       "collections": []
     },
     {
-      "id": "artell-11854",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "КЕДИ ЖІНОЧІ ROCKY",
-      "source_url": "https://artellshoes.com/vsi-tovary/11854/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Кеди",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 6800,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/5/1800x1800l80mc0/70771353231864.webp"
-      ],
-      "description": "【КЕДИ ЖІНОЧІ ROCKY】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-mokasyny-zhinochi-moccasin",
       "brand": "Artell",
       "brand_id": "artell",
@@ -1923,6 +1901,28 @@
         "https://artellshoes.com/content/images/44/1800x1800l80mc0/61053029575305.webp"
       ],
       "description": "Натуральна замша з текстурною вставкою додає моделі особливого шарму, а шкіряна підкладка забезпечує приємні відчуття протягом дня. Лаконічний силует і зручна посадка роблять мокасини універсальним вибором для прогулянок, подорожей та повсякденних образів. Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-11854",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "КЕДИ ЖІНОЧІ ROCKY",
+      "source_url": "https://artellshoes.com/vsi-tovary/11854/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Кеди",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/5/1800x1800l80mc0/70771353231864.webp"
+      ],
+      "description": "【КЕДИ ЖІНОЧІ ROCKY】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
       "care": null,
       "collections": []
     },
@@ -2037,28 +2037,6 @@
       "collections": []
     },
     {
-      "id": "artell-10855",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "САНДАЛІ ЖІНОЧІ РИБАЦЬКІ",
-      "source_url": "https://artellshoes.com/sandali-zhinochi-rybatski/10855/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Сандалі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4400,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/6/1000x1000l80mc0/70984903170259.webp"
-      ],
-      "description": "Класичні рибацькі сандалі у сучасному стилі — зручне та універсальне взуття на кожен день. Впізнаваний дизайн з переплетенням ремінців забезпечує комфорт і легкість, а лаконічний силует дозволяє легко поєднувати їх як із повсякденними, так і з більш елегантними образами у різні сезони.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-cherevyky-zhinochi-na-blyskavtsi",
       "brand": "Artell",
       "brand_id": "artell",
@@ -2077,6 +2055,28 @@
         "https://artellshoes.com/content/images/2/1800x1800l80mc0/74611445992471.webp"
       ],
       "description": "【ЧЕРЕВИКИ ЖІНОЧІ НА БЛИСКАВЦІ】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-10855",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "САНДАЛІ ЖІНОЧІ РИБАЦЬКІ",
+      "source_url": "https://artellshoes.com/sandali-zhinochi-rybatski/10855/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/6/1000x1000l80mc0/70984903170259.webp"
+      ],
+      "description": "Класичні рибацькі сандалі у сучасному стилі — зручне та універсальне взуття на кожен день. Впізнаваний дизайн з переплетенням ремінців забезпечує комфорт і легкість, а лаконічний силует дозволяє легко поєднувати їх як із повсякденними, так і з більш елегантними образами у різні сезони.",
       "care": null,
       "collections": []
     },
@@ -2147,28 +2147,6 @@
       "collections": []
     },
     {
-      "id": "artell-10867",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "САНДАЛІ ЖІНОЧІ РИБАЦЬКІ",
-      "source_url": "https://artellshoes.com/sandali-zhinochi-rybatski/10867/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Сандалі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4400,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/18/1000x1000l80mc0/97365286871139.webp"
-      ],
-      "description": "Класичні рибацькі сандалі у сучасному стилі — зручне та універсальне взуття на кожен день. Впізнаваний дизайн з переплетенням ремінців забезпечує комфорт і легкість, а лаконічний силует дозволяє легко поєднувати їх як із повсякденними, так і з більш елегантними образами у різні сезони.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-11155",
       "brand": "Artell",
       "brand_id": "artell",
@@ -2187,6 +2165,28 @@
         "https://artellshoes.com/content/images/6/1080x1080l80mc0/baletky-zhinochi-teddy11155-63804525785135.webp"
       ],
       "description": "Балетки Teddy — жіночна модель із м’якою фактурою для тих, хто цінує затишні деталі в образі. Вони добре доповнюють повсякденний гардероб і додають йому делікатної виразності.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-10867",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "САНДАЛІ ЖІНОЧІ РИБАЦЬКІ",
+      "source_url": "https://artellshoes.com/sandali-zhinochi-rybatski/10867/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/18/1000x1000l80mc0/97365286871139.webp"
+      ],
+      "description": "Класичні рибацькі сандалі у сучасному стилі — зручне та універсальне взуття на кожен день. Впізнаваний дизайн з переплетенням ремінців забезпечує комфорт і легкість, а лаконічний силует дозволяє легко поєднувати їх як із повсякденними, так і з більш елегантними образами у різні сезони.",
       "care": null,
       "collections": []
     },
@@ -2367,28 +2367,6 @@
       "collections": []
     },
     {
-      "id": "artell-derbi-zhinochi-z-rafii",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ДЕРБІ ЖІНОЧІ З РАФІЇ",
-      "source_url": "https://artellshoes.com/derbi-zhinochi-z-rafii/",
-      "gender": "female",
-      "category": "Взуття",
-      "item_type": "Туфлі",
-      "slot": "shoes",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4100,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/44/1500x1500l80mc0/76046803356535.webp"
-      ],
-      "description": "Дербі з рафії поєднують класичний силует із легкою природною фактурою. Модель додає образу літнього настрою та стане цікавою альтернативою звичному повсякденному взуттю.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "artell-10535",
       "brand": "Artell",
       "brand_id": "artell",
@@ -2407,6 +2385,28 @@
         "https://artellshoes.com/content/images/36/1800x1800l80mc0/39534746534496.webp"
       ],
       "description": "Балетки Ballet S — витончена модель із лаконічною формою для легких жіночних образів. Акуратний силует зручно поєднується з базовим гардеробом і доречно виглядає як у місті, так і під час подорожей.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-derbi-zhinochi-z-rafii",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ДЕРБІ ЖІНОЧІ З РАФІЇ",
+      "source_url": "https://artellshoes.com/derbi-zhinochi-z-rafii/",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4100,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/44/1500x1500l80mc0/76046803356535.webp"
+      ],
+      "description": "Дербі з рафії поєднують класичний силует із легкою природною фактурою. Модель додає образу літнього настрою та стане цікавою альтернативою звичному повсякденному взуттю.",
       "care": null,
       "collections": []
     },
@@ -2455,6 +2455,28 @@
       "collections": []
     },
     {
+      "id": "artell-10374",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "ХАЙКЕРИ ЖІНОЧІ",
+      "source_url": "https://artellshoes.com/khaikery-zhinochi/10374/",
+      "gender": "female",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/25/581x583l80mc0/30650736206689.webp"
+      ],
+      "description": "Модель із виразним силуетом і характерною багатошаровою підошвою, що додає взуттю впізнаваного стилю. Хайкери поєднують комфорт і сучасний дизайн, залишаючись універсальними для щоденного носіння та активного ритму життя.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "artell-11179",
       "brand": "Artell",
       "brand_id": "artell",
@@ -2477,13 +2499,13 @@
       "collections": []
     },
     {
-      "id": "artell-10374",
+      "id": "artell-10410",
       "brand": "Artell",
       "brand_id": "artell",
       "name": "ХАЙКЕРИ ЖІНОЧІ",
-      "source_url": "https://artellshoes.com/khaikery-zhinochi/10374/",
+      "source_url": "https://artellshoes.com/khaikery-zhinochi/10410/",
       "gender": "female",
-      "category": "ЖІНКАМ",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
       "item_type": null,
       "slot": "other",
       "colors": [],
@@ -2492,7 +2514,7 @@
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://artellshoes.com/content/images/25/581x583l80mc0/30650736206689.webp"
+        "https://artellshoes.com/content/images/11/1500x1500l80mc0/53925074471591.webp"
       ],
       "description": "Модель із виразним силуетом і характерною багатошаровою підошвою, що додає взуттю впізнаваного стилю. Хайкери поєднують комфорт і сучасний дизайн, залишаючись універсальними для щоденного носіння та активного ритму життя.",
       "care": null,
@@ -2517,28 +2539,6 @@
         "https://artellshoes.com/content/images/50/1500x1500l80mc0/29838296795532.webp"
       ],
       "description": "Класичні topsider у сучасному виконанні зберігають свій впізнаваний силует і водночас виглядають актуально у міських образах. Лаконічний дизайн робить цю пару універсальною: вони однаково добре поєднуються з джинсами, спідницями чи легкими сукнями, додаючи стриманого шарму та стилю.",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "artell-10410",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "ХАЙКЕРИ ЖІНОЧІ",
-      "source_url": "https://artellshoes.com/khaikery-zhinochi/10410/",
-      "gender": "female",
-      "category": "ЖІНКАМ",
-      "item_type": null,
-      "slot": "other",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 6400,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/11/1500x1500l80mc0/53925074471591.webp"
-      ],
-      "description": "Модель із виразним силуетом і характерною багатошаровою підошвою, що додає взуттю впізнаваного стилю. Хайкери поєднують комфорт і сучасний дизайн, залишаючись універсальними для щоденного носіння та активного ритму життя.",
       "care": null,
       "collections": []
     },
@@ -2593,7 +2593,7 @@
       "name": "ХАЙКЕРИ ЖІНОЧІ LEO",
       "source_url": "https://artellshoes.com/haikery-zhinochy-bayka-leo/36/",
       "gender": "female",
-      "category": "ЖІНКАМ",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
       "item_type": null,
       "slot": "other",
       "colors": [],
@@ -2769,7 +2769,7 @@
       "name": "ХАЙКЕРИ ЖІНОЧІ",
       "source_url": "https://artellshoes.com/khaikery-zhinochi/10392/",
       "gender": "female",
-      "category": "ЖІНКАМ",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
       "item_type": null,
       "slot": "other",
       "colors": [],
@@ -2813,7 +2813,7 @@
       "name": "СЛІПЕРИ ЖІНОЧІ FUR",
       "source_url": "https://artellshoes.com/slipery-znynochi-fur-gray-36/",
       "gender": "female",
-      "category": "ЖІНКАМ",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
       "item_type": null,
       "slot": "other",
       "colors": [],
@@ -2873,6 +2873,28 @@
       "collections": []
     },
     {
+      "id": "artell-slipery-znynochi-fur-leo-36",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "СЛІПЕРИ ЖІНОЧІ FUR",
+      "source_url": "https://artellshoes.com/slipery-znynochi-fur-leo-36/",
+      "gender": "female",
+      "category": "ОСІНЬ/ЗИМА 2026-2027",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/28/1800x1800l80mc0/slipery-znynochi-fur-leo-36-69605332505937.webp"
+      ],
+      "description": "Сліпери Fur — затишна модель із м’якою фактурою для комфортних повсякденних образів. Вони додають образу тепла й невимушеності та добре поєднуються з трикотажем, денімом і розслабленим casual-стилем. Мають хутряну устілку, а решта підкладу - шкіра. Їх можна носити в суху погоду взимку, якщо не плануєте довго перебувати на вулиці: наприклад, в гості, в кафе, в торгівельному центрі - таке взуття актуально з осені до весни і взимку також. Леопардовий принт стане яскравим акцентом образу.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "artell-11629",
       "brand": "Artell",
       "brand_id": "artell",
@@ -2913,28 +2935,6 @@
         "https://artellshoes.com/content/images/10/1800x1800l80mc0/59760495699729.webp"
       ],
       "description": "【СЛІНГБЕКИ ЖІНОЧІ】 — купити по найкращій ціні в інтернет магазині ARTELL ✈ Доставка ✅ Відгуки ☎ +380 97 591 13 98",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "artell-slipery-znynochi-fur-leo-36",
-      "brand": "Artell",
-      "brand_id": "artell",
-      "name": "СЛІПЕРИ ЖІНОЧІ FUR",
-      "source_url": "https://artellshoes.com/slipery-znynochi-fur-leo-36/",
-      "gender": "female",
-      "category": "ЖІНКАМ",
-      "item_type": null,
-      "slot": "other",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 4800,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://artellshoes.com/content/images/28/1800x1800l80mc0/slipery-znynochi-fur-leo-36-69605332505937.webp"
-      ],
-      "description": "Сліпери Fur — затишна модель із м’якою фактурою для комфортних повсякденних образів. Вони додають образу тепла й невимушеності та добре поєднуються з трикотажем, денімом і розслабленим casual-стилем. Мають хутряну устілку, а решта підкладу - шкіра. Їх можна носити в суху погоду взимку, якщо не плануєте довго перебувати на вулиці: наприклад, в гості, в кафе, в торгівельному центрі - таке взуття актуально з осені до весни і взимку також. Леопардовий принт стане яскравим акцентом образу.",
       "care": null,
       "collections": []
     },
@@ -3001,6 +3001,50 @@
         "https://artellshoes.com/content/images/45/1280x1280l80mc0/31493283401955.webp"
       ],
       "description": "Шкіряні клоги з натуральним хутром поєднують виразний дизайн і затишок для прохолодної погоди. Формат із відкритою п’ятою робить пару зручною для щоденного носіння, а фактурне оздоблення додає образу характеру. Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-10591",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "КЛОГИ ЖІНОЧІ ЗАМШЕВІ З НАТУРАЛЬНИМ ХУТРОМ",
+      "source_url": "https://artellshoes.com/klohy-zhinochi-zamshevi-z-naturalnym-khutrom/10591/",
+      "gender": "female",
+      "category": null,
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/42/1000x1000l80mc0/38020291607570.webp"
+      ],
+      "description": "Затишні клоги, виконані з акцентом на комфорт і тепло. Усередині — натуральне хутро, яке дарує приємне відчуття м’якості та створює особливий затишок. Мінімалістичний силует робить цю модель універсальною: вони однаково добре підходять для дому, міських образів і відпочинку за містом. Будь ласка, зверніть увагу: ця модель взуття маломірить. Просимо скористатися відповідною розмірною сіткою.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "artell-11741",
+      "brand": "Artell",
+      "brand_id": "artell",
+      "name": "Сумка плетена",
+      "source_url": "https://artellshoes.com/sumka-pletena/11741/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://artellshoes.com/content/images/42/1500x1500l80mc0/30625689163067.webp"
+      ],
+      "description": "Плетена сумка — практичний акцент для літніх міських і курортних образів. Фактурне плетіння додає виробу виразності, а універсальний формат дозволяє носити її зі сукнями, денімом та лляним одягом.",
       "care": null,
       "collections": []
     }

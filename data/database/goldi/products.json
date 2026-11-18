@@ -3,12 +3,12 @@
     "brand": "Goldi",
     "brand_id": "goldi",
     "site": "https://goldi.ua",
-    "extracted_at": "2026-11-17",
+    "extracted_at": "2026-11-18",
     "mode": "generic",
-    "count": 275,
-    "found": 276,
-    "candidates": 291,
-    "checked": 291,
+    "count": 276,
+    "found": 277,
+    "candidates": 292,
+    "checked": 292,
     "errors": [
       "Error: 404 https://goldi.ua/collection/go-comfort",
       "Error: 404 https://goldi.ua/product/podovzena-zinoca-futbolka-z-opusenimi-projmami-ta-korotkimi-rukavami",
@@ -17,8 +17,8 @@
       "Error: 404 https://goldi.ua/product/bazovi-zinoci-stani-na-manzeti",
       "Error: 404 https://goldi.ua/product/zinocij-vkorocenij-hudi-z-vsivnimi-kantami-ta-printom-2",
       "Error: 404 https://goldi.ua/product/hudi-vkorocenij-na-zamku",
-      "Error: 404 https://goldi.ua/product/golf-ukorocenij-z-dovgim-rukavom",
       "Error: 404 https://goldi.ua/product/zinoci-stani-pramogo-krou-z-dekorativnim-kantom",
+      "Error: 404 https://goldi.ua/product/golf-ukorocenij-z-dovgim-rukavom",
       "Error: 404 https://goldi.ua/product/hudi-oversajz-2"
     ]
   },
@@ -48,11 +48,11 @@
       ]
     },
     {
-      "id": "goldi-bazovij-kostum-vilnogo-krou-z-hudi-ta-dzogerami-z-visitim-logo-2",
+      "id": "goldi-kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Базовий костюм вільного крою з худі та джогерами з вишитим лого",
-      "source_url": "https://goldi.ua/product/bazovij-kostum-vilnogo-krou-z-hudi-ta-dzogerami-z-visitim-logo-2",
+      "name": "Костюм із худі oversize на блискавці та штанами джогерами з фіксаторами",
+      "source_url": "https://goldi.ua/product/kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami",
       "gender": "female",
       "category": "Комплекти",
       "item_type": "Комплект",
@@ -63,31 +63,7 @@
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/4dd507c6bcf64a888fc4b304268d19aa/2/lnJO6U86QX-hKPO6F4NLFsnquHZAGEts.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Костюми"
-      ]
-    },
-    {
-      "id": "goldi-kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Костюм oversixe із худі на блискавці та штанами джогерами з фіксаторами",
-      "source_url": "https://goldi.ua/product/kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami-2",
-      "gender": "female",
-      "category": "Комплекти",
-      "item_type": "Комплект",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 2599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/85d0c068e61c73fc60f573a426bef571/2/Cf_iBg6TeMC_BxKV7aNqZqKo8WfCtKNo.png"
+        "https://goldi.ua/storage/web/product/d552e9f3508c07c49194b9eb20c9a098/2/XQBwCcUN5WkHJaGyvzi1Dw3bdTO8Ghft.jpeg"
       ],
       "description": null,
       "care": null,
@@ -124,11 +100,37 @@
       ]
     },
     {
-      "id": "goldi-kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami",
+      "id": "goldi-kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami-2",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Костюм oversixe із худі на блискавці та штанами джогерами з фіксаторами",
-      "source_url": "https://goldi.ua/product/kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami",
+      "name": "Костюм із худі oversize на блискавці та штанами джогерами з фіксаторами",
+      "source_url": "https://goldi.ua/product/kostum-oversixe-iz-hudi-na-bliskavci-ta-stanami-dzogerami-z-fiksatorami-2",
+      "gender": "female",
+      "category": "Комплекти",
+      "item_type": "Комплект",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/85d0c068e61c73fc60f573a426bef571/2/Cf_iBg6TeMC_BxKV7aNqZqKo8WfCtKNo.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Костюми",
+        "Жінкам",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "goldi-bazovij-kostum-vilnogo-krou-z-hudi-ta-dzogerami-z-visitim-logo-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Базовий костюм вільного крою з худі та джогерами з вишитим лого",
+      "source_url": "https://goldi.ua/product/bazovij-kostum-vilnogo-krou-z-hudi-ta-dzogerami-z-visitim-logo-2",
       "gender": "female",
       "category": "Комплекти",
       "item_type": "Комплект",
@@ -139,12 +141,36 @@
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/d552e9f3508c07c49194b9eb20c9a098/2/XQBwCcUN5WkHJaGyvzi1Dw3bdTO8Ghft.jpeg"
+        "https://goldi.ua/storage/web/product/4dd507c6bcf64a888fc4b304268d19aa/2/lnJO6U86QX-hKPO6F4NLFsnquHZAGEts.png"
       ],
       "description": null,
       "care": null,
       "collections": [
-        "Костюми",
+        "Костюми"
+      ]
+    },
+    {
+      "id": "goldi-vkorocenij-svitsot-zi-spusenou-linieu-pleca-ta-avtenticnim-printom-kolekcia-gen-",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Вкорочений світшот зі спущеною лінією плеча та автентичним принтом. Колекція Gen. UA",
+      "source_url": "https://goldi.ua/product/vkorocenij-svitsot-zi-spusenou-linieu-pleca-ta-avtenticnim-printom-kolekcia-gen-ua",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/6bea39d51f63178a70d559168fedc69d/2/rb6myp1OrhNS83G0PBSA1dbZG24Ukoh9.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Світшоти | Худі",
         "Жінкам",
         "Новинки"
       ]
@@ -200,32 +226,6 @@
       ]
     },
     {
-      "id": "goldi-vkorocenij-svitsot-zi-spusenou-linieu-pleca-ta-avtenticnim-printom-kolekcia-gen-",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Вкорочений світшот зі спущеною лінією плеча та автентичним принтом. Колекція Gen. UA",
-      "source_url": "https://goldi.ua/product/vkorocenij-svitsot-zi-spusenou-linieu-pleca-ta-avtenticnim-printom-kolekcia-gen-ua",
-      "gender": "female",
-      "category": "Верх",
-      "item_type": "Світшот",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 899,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/6bea39d51f63178a70d559168fedc69d/2/rb6myp1OrhNS83G0PBSA1dbZG24Ukoh9.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Світшоти | Худі",
-        "Жінкам",
-        "Новинки"
-      ]
-    },
-    {
       "id": "goldi-svitsot-oversize-krou-z-obemnimi-rukavami-ta-printom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -254,32 +254,6 @@
       ]
     },
     {
-      "id": "goldi-korotkij-svitsot-iz-komirom-stijkou-na-zastibci",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Світшот прямого крою з коміром-стійкою та принтом",
-      "source_url": "https://goldi.ua/product/korotkij-svitsot-iz-komirom-stijkou-na-zastibci",
-      "gender": "female",
-      "category": "Верх",
-      "item_type": "Світшот",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1499,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/c32ff47163bbc12b72963ed01fc01896/2/VKw-B0MnQ5O0_WxhcnbNDOJ3KYPeNirz.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Світшоти | Худі",
-        "Жінкам",
-        "Новинки"
-      ]
-    },
-    {
       "id": "goldi-hudi-oversajz-z-podovzenimi-snurkami-ta-originalnim-printom-5",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -296,6 +270,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/849ff780fb3dd45bb0c7eb704ec8ea32/2/bJj7uxS0PgZVWfttu8RHf3Q0Btw5cG-Z.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Світшоти | Худі"
+      ]
+    },
+    {
+      "id": "goldi-korotkij-svitsot-iz-komirom-stijkou-na-zastibci",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Світшот прямого крою з коміром-стійкою та принтом",
+      "source_url": "https://goldi.ua/product/korotkij-svitsot-iz-komirom-stijkou-na-zastibci",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/c32ff47163bbc12b72963ed01fc01896/2/VKw-B0MnQ5O0_WxhcnbNDOJ3KYPeNirz.png"
       ],
       "description": null,
       "care": null,
@@ -687,8 +685,8 @@
       "care": null,
       "collections": [
         "Жінкам",
-        "Новинки",
-        "Штани"
+        "Штани",
+        "Новинки"
       ]
     },
     {
@@ -713,8 +711,8 @@
       "care": null,
       "collections": [
         "Жінкам",
-        "Новинки",
-        "Штани"
+        "Штани",
+        "Новинки"
       ]
     },
     {
@@ -739,8 +737,8 @@
       "care": null,
       "collections": [
         "Жінкам",
-        "Новинки",
-        "Штани"
+        "Штани",
+        "Новинки"
       ]
     },
     {
@@ -765,8 +763,8 @@
       "care": null,
       "collections": [
         "Жінкам",
-        "Новинки",
-        "Штани"
+        "Штани",
+        "Новинки"
       ]
     },
     {
@@ -791,8 +789,8 @@
       "care": null,
       "collections": [
         "Жінкам",
-        "Новинки",
-        "Штани"
+        "Штани",
+        "Новинки"
       ]
     },
     {
@@ -816,8 +814,6 @@
       "description": null,
       "care": null,
       "collections": [
-        "Жінкам",
-        "Новинки",
         "Денім"
       ]
     },
@@ -894,30 +890,6 @@
       ]
     },
     {
-      "id": "goldi-zinoci-dzinsi-z-neobroblenim-verhom-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі джинси з необробленим верхом",
-      "source_url": "https://goldi.ua/product/zinoci-dzinsi-z-neobroblenim-verhom-2",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Джинси",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/ebdc95e109a3fb864981a71596c952a8/2/5juaIPfTODGgdU0ZvY8vB4BwWqxn83E0.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Денім"
-      ]
-    },
-    {
       "id": "goldi-zinoci-dzinsi-z-neobroblenim-verhom-3",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -934,6 +906,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/a60e99e0bbe176b6de9c1fd2c9b3315f/2/ws5H9jkwvDgUQHQDX2zlD8kGM28f5Fgl.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Денім"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-dzinsi-z-neobroblenim-verhom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі джинси з необробленим верхом",
+      "source_url": "https://goldi.ua/product/zinoci-dzinsi-z-neobroblenim-verhom-2",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/ebdc95e109a3fb864981a71596c952a8/2/5juaIPfTODGgdU0ZvY8vB4BwWqxn83E0.png"
       ],
       "description": null,
       "care": null,
@@ -1062,6 +1058,30 @@
       ]
     },
     {
+      "id": "goldi-zinoci-dzinsi-baggy-z-visokou-posadkou",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі джинси-BAGGY з високою посадкою",
+      "source_url": "https://goldi.ua/product/zinoci-dzinsi-baggy-z-visokou-posadkou",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/14a4204c5bd4d853318724c511fd6b0b/1/B0MNvUo4qe24-E8swJTXiIpIlE_u6h4M.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Денім"
+      ]
+    },
+    {
       "id": "goldi-zinoci-dzinsi-pramogo-krou-bez-poasadenim",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -1102,30 +1122,6 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/157b23e1129452c060dac0a9163c21fb/1/xhF1lw-107P_T-3nx2XVG5xtvdxgorEv.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Денім"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-dzinsi-baggy-z-visokou-posadkou",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі джинси-BAGGY з високою посадкою",
-      "source_url": "https://goldi.ua/product/zinoci-dzinsi-baggy-z-visokou-posadkou",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Джинси",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/14a4204c5bd4d853318724c511fd6b0b/1/B0MNvUo4qe24-E8swJTXiIpIlE_u6h4M.jpg"
       ],
       "description": null,
       "care": null,
@@ -1206,6 +1202,297 @@
       ]
     },
     {
+      "id": "goldi-siroki-stani-z-visokou-posadkou-z-trikotazu-ta-dekorativnim-remenem",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Широкі штани з високою посадкою з трикотажу та декоративним ременем",
+      "source_url": "https://goldi.ua/product/siroki-stani-z-visokou-posadkou-z-trikotazu-ta-dekorativnim-remenem",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/c49cf3c27b8420bdc39dac6ef4d303db/2/Cm6AUbUtbcq0ZpHjAPww7Mhs5_HkpXHd.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-cportivni-stani-baggy-iz-fiksatorami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Cпортивні штани BAGGY із фіксаторами",
+      "source_url": "https://goldi.ua/product/cportivni-stani-baggy-iz-fiksatorami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/519101d4a45c2cb69da2dcbca83ba5f9/2/ayf4V5V_3sTteRfLF5tvdit0v7VsS64a.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-siroki-bruki-z-fakturnoi-tkanini",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі широкі брюки з фактурної тканини",
+      "source_url": "https://goldi.ua/product/zinoci-siroki-bruki-z-fakturnoi-tkanini",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/a4561440526d978f1cbebd7fc35c3ddb/2/HxYJOfIJpTEnvaNcMCdd_7e2Mwzm-Nvy.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-stani-z-visokou-posadkou-ta-zavuzeni-do-nizu",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі штани з високою посадкою та завужені до низу",
+      "source_url": "https://goldi.ua/product/zinoci-stani-z-visokou-posadkou-ta-zavuzeni-do-nizu",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/5350354956aafad1f79bb89454dfc2b7/2/by-_wGzfrAUTbg-XPd8QBMC2qlRSfDlM.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-dzogeri-vilnogo-siluetu-z-fiksatorami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Джогери вільного силуету з фіксаторами",
+      "source_url": "https://goldi.ua/product/dzogeri-vilnogo-siluetu-z-fiksatorami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/9155b08cf65b8f1568b7ff1f3c5a0c48/2/uyKL_i_S8AqgEKHeQQB6IqurWdx5uD4j.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-sportivni-stani-palacco",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі спортивні штани палаццо",
+      "source_url": "https://goldi.ua/product/zinoci-sportivni-stani-palacco",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спортивні штани",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/5a57b461d21481ee0e41f11c0c29eb53/2/78f3xgOS7OkVKKn4ZX1iLfgeMv8alypl.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани",
+        "Soft Code"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-siroki-trikotazni-stani-oversize-z-visivkou-logo",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі широкі трикотажні штани Oversize з вишивкою лого",
+      "source_url": "https://goldi.ua/product/zinoci-siroki-trikotazni-stani-oversize-z-visivkou-logo",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/285c74c33e4d1d56257e0a25a31f5416/2/feiT69r2_p1Bx242NTazPuRYPWjE1wap.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-ta-konstrastnim-kantom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі штани Barrel Fit з фіксатором та констрастним кантом",
+      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-ta-konstrastnim-kantom",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1099,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/e512bbabda1c6c72f849f7f8cd9eeb54/2/kgwR6FDvG_uIcDIqX0XWEPM_9CpxE9Uw.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-stani-z-ekoskiri-baggy",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі штани з екошкіри Baggy",
+      "source_url": "https://goldi.ua/product/zinoci-stani-z-ekoskiri-baggy",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/8324cd1ea70a23edd399cb1bcb98e53a/2/ZthItsuEfYwYuhGL7EghELWXkMyBLOxD.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани",
+        "FEMME DORÉE"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-leginsi-z-akcentnimi-stripkami-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі легінси з акцентними штрипками",
+      "source_url": "https://goldi.ua/product/zinoci-leginsi-z-akcentnimi-stripkami-2",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Легінси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/0a4cf1fe7724af32d0133c69b7be31b0/2/eCwL5v-OSVE9NIiuYeQvL-Z9DMtggepS.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-ta-efektom-vivarenoi-tkanini",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі штани Barrel Fit з фіксатором та ефектом вивареної тканини",
+      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-ta-efektom-vivarenoi-tkanini",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/82dafe0cd5cfc8d4e4d64af4f3b8a683/2/5dbqBhUbAPuZO-Fop8ti-bmXJKXhTgbS.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-leginsi-z-akcentnimi-stripkami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі легінси з акцентними штрипками",
+      "source_url": "https://goldi.ua/product/zinoci-leginsi-z-akcentnimi-stripkami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Легінси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/d05bab697104b74b66f10cbf95038509/2/hBE3qpS2FKnPbAiU1UwSUR-wNWFYcWl0.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани",
+        "FEMME DORÉE"
+      ]
+    },
+    {
       "id": "goldi-vazanij-kardigan-midi-z-poasom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -1222,6 +1509,102 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/7f43c08219dec7be5f2c97a312fd5a52/2/PJ1adzcl5ZCKhZd6ZWmXBsEKlik9kYv-.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Піджаки"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі штани Barrel Fit з фіксатором",
+      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-2",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/c32b905ac006bfa104faab21548b3c41/2/u3npASgxig3MYvd4a0XVy8UlFhOitLvV.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-stani-palacco-z-poasom-na-zavazci",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Штани-палаццо з поясом на зав'язці",
+      "source_url": "https://goldi.ua/product/stani-palacco-z-poasom-na-zavazci",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/ab2a8298769937ce11cb082f1d024988/2/bbAhW5at93-AZdLs5K7R93Fx4ezOKRd2.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-klasicni-siroki-bruki-z-akcentnim-poasom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночі класичні широкі брюки з акцентним поясом",
+      "source_url": "https://goldi.ua/product/zinoci-klasicni-siroki-bruki-z-akcentnim-poasom",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/de9253cf6286d2a1d47347c6ab327a0f/2/9CUPpX9d63sCXHr_T0ztZAMDLSVHfZnX.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Штани"
+      ]
+    },
+    {
+      "id": "goldi-ukorocenij-zaket-iz-akcentnim-siluetom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Укорочений жакет із акцентним силуетом",
+      "source_url": "https://goldi.ua/product/ukorocenij-zaket-iz-akcentnim-siluetom",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/b01d6d874582de55d7b48dcf9495408e/2/P54zuvrvhWB5x7qg-jkb5RxnEagnjRB4.jpeg"
       ],
       "description": null,
       "care": null,
@@ -1280,30 +1663,6 @@
       ]
     },
     {
-      "id": "goldi-ukorocenij-zaket-iz-akcentnim-siluetom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Укорочений жакет із акцентним силуетом",
-      "source_url": "https://goldi.ua/product/ukorocenij-zaket-iz-akcentnim-siluetom",
-      "gender": "female",
-      "category": "Верх",
-      "item_type": "Піджак",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 2799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/b01d6d874582de55d7b48dcf9495408e/2/P54zuvrvhWB5x7qg-jkb5RxnEagnjRB4.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Піджаки"
-      ]
-    },
-    {
       "id": "goldi-ukorocenij-zaket-z-figurnou-talieu",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -1326,30 +1685,6 @@
       "collections": [
         "Піджаки",
         "FEMME DORÉE"
-      ]
-    },
-    {
-      "id": "goldi-klasicnij-ukorocenij-zaket",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Класичний укорочений жакет",
-      "source_url": "https://goldi.ua/product/klasicnij-ukorocenij-zaket",
-      "gender": "female",
-      "category": "Верх",
-      "item_type": "Піджак",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/e9dc2c9d077aac44049468b1e418e1c7/1/K0ENyc9_PJ-jALUKxp2diGuz44pCojnA.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Піджаки"
       ]
     },
     {
@@ -1377,366 +1712,27 @@
       ]
     },
     {
-      "id": "goldi-zinoci-siroki-bruki-z-fakturnoi-tkanini",
+      "id": "goldi-klasicnij-ukorocenij-zaket",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Жіночі широкі брюки з фактурної тканини",
-      "source_url": "https://goldi.ua/product/zinoci-siroki-bruki-z-fakturnoi-tkanini",
+      "name": "Класичний укорочений жакет",
+      "source_url": "https://goldi.ua/product/klasicnij-ukorocenij-zaket",
       "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/a4561440526d978f1cbebd7fc35c3ddb/2/HxYJOfIJpTEnvaNcMCdd_7e2Mwzm-Nvy.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-cportivni-stani-baggy-iz-fiksatorami",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Cпортивні штани BAGGY із фіксаторами",
-      "source_url": "https://goldi.ua/product/cportivni-stani-baggy-iz-fiksatorami",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/519101d4a45c2cb69da2dcbca83ba5f9/2/ayf4V5V_3sTteRfLF5tvdit0v7VsS64a.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-siroki-stani-z-visokou-posadkou-z-trikotazu-ta-dekorativnim-remenem",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Широкі штани з високою посадкою з трикотажу та декоративним ременем",
-      "source_url": "https://goldi.ua/product/siroki-stani-z-visokou-posadkou-z-trikotazu-ta-dekorativnim-remenem",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/c49cf3c27b8420bdc39dac6ef4d303db/2/Cm6AUbUtbcq0ZpHjAPww7Mhs5_HkpXHd.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-stani-z-visokou-posadkou-ta-zavuzeni-do-nizu",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі штани з високою посадкою та завужені до низу",
-      "source_url": "https://goldi.ua/product/zinoci-stani-z-visokou-posadkou-ta-zavuzeni-do-nizu",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
+      "category": "Верх",
+      "item_type": "Піджак",
+      "slot": "top",
       "colors": [],
       "sizes": [],
       "price_uah": 1599,
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/5350354956aafad1f79bb89454dfc2b7/2/by-_wGzfrAUTbg-XPd8QBMC2qlRSfDlM.png"
+        "https://goldi.ua/storage/web/product/e9dc2c9d077aac44049468b1e418e1c7/1/K0ENyc9_PJ-jALUKxp2diGuz44pCojnA.jpg"
       ],
       "description": null,
       "care": null,
       "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-dzogeri-vilnogo-siluetu-z-fiksatorami",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Джогери вільного силуету з фіксаторами",
-      "source_url": "https://goldi.ua/product/dzogeri-vilnogo-siluetu-z-fiksatorami",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спортивні штани",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/9155b08cf65b8f1568b7ff1f3c5a0c48/2/uyKL_i_S8AqgEKHeQQB6IqurWdx5uD4j.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-siroki-trikotazni-stani-oversize-z-visivkou-logo",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі широкі трикотажні штани Oversize з вишивкою лого",
-      "source_url": "https://goldi.ua/product/zinoci-siroki-trikotazni-stani-oversize-z-visivkou-logo",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1299,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/285c74c33e4d1d56257e0a25a31f5416/2/feiT69r2_p1Bx242NTazPuRYPWjE1wap.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-sportivni-stani-palacco",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі спортивні штани палаццо",
-      "source_url": "https://goldi.ua/product/zinoci-sportivni-stani-palacco",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спортивні штани",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1299,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/5a57b461d21481ee0e41f11c0c29eb53/2/78f3xgOS7OkVKKn4ZX1iLfgeMv8alypl.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани",
-        "Soft Code"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-ta-konstrastnim-kantom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі штани Barrel Fit з фіксатором та констрастним кантом",
-      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-ta-konstrastnim-kantom",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1099,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/e512bbabda1c6c72f849f7f8cd9eeb54/2/kgwR6FDvG_uIcDIqX0XWEPM_9CpxE9Uw.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-leginsi-z-akcentnimi-stripkami-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі легінси з акцентними штрипками",
-      "source_url": "https://goldi.ua/product/zinoci-leginsi-z-akcentnimi-stripkami-2",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Легінси",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/0a4cf1fe7724af32d0133c69b7be31b0/2/eCwL5v-OSVE9NIiuYeQvL-Z9DMtggepS.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-stani-z-ekoskiri-baggy",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі штани з екошкіри Baggy",
-      "source_url": "https://goldi.ua/product/zinoci-stani-z-ekoskiri-baggy",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 2499,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/8324cd1ea70a23edd399cb1bcb98e53a/2/ZthItsuEfYwYuhGL7EghELWXkMyBLOxD.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани",
-        "FEMME DORÉE"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-ta-efektom-vivarenoi-tkanini",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі штани Barrel Fit з фіксатором та ефектом вивареної тканини",
-      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-ta-efektom-vivarenoi-tkanini",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1299,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/82dafe0cd5cfc8d4e4d64af4f3b8a683/2/5dbqBhUbAPuZO-Fop8ti-bmXJKXhTgbS.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-stani-palacco-z-poasom-na-zavazci",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Штани-палаццо з поясом на зав'язці",
-      "source_url": "https://goldi.ua/product/stani-palacco-z-poasom-na-zavazci",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/ab2a8298769937ce11cb082f1d024988/2/bbAhW5at93-AZdLs5K7R93Fx4ezOKRd2.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-leginsi-z-akcentnimi-stripkami",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі легінси з акцентними штрипками",
-      "source_url": "https://goldi.ua/product/zinoci-leginsi-z-akcentnimi-stripkami",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Легінси",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/d05bab697104b74b66f10cbf95038509/2/hBE3qpS2FKnPbAiU1UwSUR-wNWFYcWl0.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани",
-        "FEMME DORÉE"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-stani-barrel-fit-z-fiksatorom-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі штани Barrel Fit з фіксатором",
-      "source_url": "https://goldi.ua/product/zinoci-stani-barrel-fit-z-fiksatorom-2",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/c32b905ac006bfa104faab21548b3c41/2/u3npASgxig3MYvd4a0XVy8UlFhOitLvV.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
-      ]
-    },
-    {
-      "id": "goldi-zinoci-klasicni-siroki-bruki-z-akcentnim-poasom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночі класичні широкі брюки з акцентним поясом",
-      "source_url": "https://goldi.ua/product/zinoci-klasicni-siroki-bruki-z-akcentnim-poasom",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/de9253cf6286d2a1d47347c6ab327a0f/2/9CUPpX9d63sCXHr_T0ztZAMDLSVHfZnX.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Штани"
+        "Піджаки"
       ]
     },
     {
@@ -1788,6 +1784,31 @@
       ]
     },
     {
+      "id": "goldi-golf-z-figurnim-nizom-ta-z-akcentnimi-plecima",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Гольф з фігурним низом та з акцентними плечима",
+      "source_url": "https://goldi.ua/product/golf-z-figurnim-nizom-ta-z-akcentnimi-plecima",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 299,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/fc51cb25d60d905ed845cdbfcd9bfba1/2/HjKSn6FLihBOa_12bXgF5r9_8uyx5sIO.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Трикотаж",
+        "Sale"
+      ]
+    },
+    {
       "id": "goldi-golf-iz-vicokim-komiromstijkou-ta-akcentnimi-plecima",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -1804,6 +1825,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/abf2aa76da47f6bf523665babee1379e/2/81URlarYDcABrfhmCu51oHBGX4Z-AJmD.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Трикотаж"
+      ]
+    },
+    {
+      "id": "goldi-zinocij-golf-iz-komirom-stijkou-ta-trendovim-virizom-dla-palca",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночий гольф із коміром стійкою та трендовим вирізом для пальця",
+      "source_url": "https://goldi.ua/product/zinocij-golf-iz-komirom-stijkou-ta-trendovim-virizom-dla-palca",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/71491f787a3f7899f4c540cc2cee2a5a/2/bHfmMFCCZnvj98Ewg3H47jt6F9v4yaCE.png"
       ],
       "description": null,
       "care": null,
@@ -1836,55 +1881,6 @@
       ]
     },
     {
-      "id": "goldi-golf-z-figurnim-nizom-ta-z-akcentnimi-plecima",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Гольф з фігурним низом та з акцентними плечима",
-      "source_url": "https://goldi.ua/product/golf-z-figurnim-nizom-ta-z-akcentnimi-plecima",
-      "gender": "female",
-      "category": "Светри",
-      "item_type": "Гольф",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 299,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/fc51cb25d60d905ed845cdbfcd9bfba1/2/HjKSn6FLihBOa_12bXgF5r9_8uyx5sIO.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Трикотаж",
-        "Sale"
-      ]
-    },
-    {
-      "id": "goldi-zinocij-golf-iz-komirom-stijkou-ta-trendovim-virizom-dla-palca",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий гольф із коміром стійкою та трендовим вирізом для пальця",
-      "source_url": "https://goldi.ua/product/zinocij-golf-iz-komirom-stijkou-ta-trendovim-virizom-dla-palca",
-      "gender": "female",
-      "category": "Светри",
-      "item_type": "Гольф",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/71491f787a3f7899f4c540cc2cee2a5a/2/bHfmMFCCZnvj98Ewg3H47jt6F9v4yaCE.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Трикотаж"
-      ]
-    },
-    {
       "id": "goldi-golf-iz-visokim-komirom-stijkou-ta-akcentnimi-plecima",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -1906,6 +1902,31 @@
       "care": null,
       "collections": [
         "Трикотаж"
+      ]
+    },
+    {
+      "id": "goldi-bazovij-vazanij-svetr-golf-vilnogo-krou",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Базовий в'язаний светр-гольф вільного крою",
+      "source_url": "https://goldi.ua/product/bazovij-vazanij-svetr-golf-vilnogo-krou",
+      "gender": "female",
+      "category": "Светри",
+      "item_type": "Гольф",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/954c54d63b1e8ed9ec3b18909191df99/1/nfX26hjKb-971JRP65SmFpMH5fH5siSB.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Трикотаж",
+        "Светри"
       ]
     },
     {
@@ -1954,31 +1975,6 @@
       "care": null,
       "collections": [
         "Трикотаж"
-      ]
-    },
-    {
-      "id": "goldi-bazovij-vazanij-svetr-golf-vilnogo-krou",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Базовий в'язаний светр-гольф вільного крою",
-      "source_url": "https://goldi.ua/product/bazovij-vazanij-svetr-golf-vilnogo-krou",
-      "gender": "female",
-      "category": "Светри",
-      "item_type": "Гольф",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 999,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/954c54d63b1e8ed9ec3b18909191df99/1/nfX26hjKb-971JRP65SmFpMH5fH5siSB.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Трикотаж",
-        "Светри"
       ]
     },
     {
@@ -2204,30 +2200,6 @@
       ]
     },
     {
-      "id": "goldi-dovga-sukna-z-vidkritou-spinkou-na-zavazkah-3",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Довга сукня з відкритою спинкою на зав'язках",
-      "source_url": "https://goldi.ua/product/dovga-sukna-z-vidkritou-spinkou-na-zavazkah-3",
-      "gender": "female",
-      "category": "Сукні",
-      "item_type": "Сукня",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/2a25a03c5e7739a8281f3f7fcf449c28/1/887-YG5xSeS7vBH74_MTUR2lQrsPlUKe.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Сукні | Комбінезони"
-      ]
-    },
-    {
       "id": "goldi-zinoca-midi-sukna-z-vidkritimi-plecima-ta-rusami",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2246,6 +2218,30 @@
         "https://goldi.ua/storage/web/product/d19dbbe57fe1839d6128162873e3203d/1/D8vb2XoYfYSc3XIIMnVcuGicFJRJMdSQ.jpg"
       ],
       "description": "1,3 рожеві квіти на молочному фоні",
+      "care": null,
+      "collections": [
+        "Сукні | Комбінезони"
+      ]
+    },
+    {
+      "id": "goldi-dovga-sukna-z-vidkritou-spinkou-na-zavazkah-3",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Довга сукня з відкритою спинкою на зав'язках",
+      "source_url": "https://goldi.ua/product/dovga-sukna-z-vidkritou-spinkou-na-zavazkah-3",
+      "gender": "female",
+      "category": "Сукні",
+      "item_type": "Сукня",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/2a25a03c5e7739a8281f3f7fcf449c28/1/887-YG5xSeS7vBH74_MTUR2lQrsPlUKe.jpg"
+      ],
+      "description": null,
       "care": null,
       "collections": [
         "Сукні | Комбінезони"
@@ -2300,30 +2296,6 @@
       ]
     },
     {
-      "id": "goldi-mini-spidnica-z-vnutrisnimi-sortami",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Міні спідниця з внутрішніми шортами",
-      "source_url": "https://goldi.ua/product/mini-spidnica-z-vnutrisnimi-sortami",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спідниця",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/c20cce1f2f46bca0873f86f69629f833/2/Jr5m371m6H5mCmXvVCTlBUi1pXADGhhH.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Спідниці"
-      ]
-    },
-    {
       "id": "goldi-mini-spidnica-sorti-z-ekoskiri",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2349,6 +2321,30 @@
       ]
     },
     {
+      "id": "goldi-mini-spidnica-z-vnutrisnimi-sortami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Міні спідниця з внутрішніми шортами",
+      "source_url": "https://goldi.ua/product/mini-spidnica-z-vnutrisnimi-sortami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/c20cce1f2f46bca0873f86f69629f833/2/Jr5m371m6H5mCmXvVCTlBUi1pXADGhhH.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Спідниці"
+      ]
+    },
+    {
       "id": "goldi-spidnica-midi-z-ekoskiri",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2365,30 +2361,6 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/e0cc0afd9db8535f682727d3b2e21adb/2/zknSA9qoBRRdpKrrNV76wTdkJZBzy3CQ.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Спідниці"
-      ]
-    },
-    {
-      "id": "goldi-mini-spidnica-zi-skladkami-ta-dekorativnim-poaskom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Спідниця-шорти зі складками та декоративним пояском",
-      "source_url": "https://goldi.ua/product/mini-spidnica-zi-skladkami-ta-dekorativnim-poaskom",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спідниця",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/910307838a948bb1ecee3fabb643f2c4/2/If_uxb1uf0RW39mxOoosOa36SPLzEi6g.jpeg"
       ],
       "description": null,
       "care": null,
@@ -2419,6 +2391,30 @@
       "collections": [
         "Спідниці",
         "FEMME DORÉE"
+      ]
+    },
+    {
+      "id": "goldi-mini-spidnica-zi-skladkami-ta-dekorativnim-poaskom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Спідниця-шорти зі складками та декоративним пояском",
+      "source_url": "https://goldi.ua/product/mini-spidnica-zi-skladkami-ta-dekorativnim-poaskom",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/910307838a948bb1ecee3fabb643f2c4/2/If_uxb1uf0RW39mxOoosOa36SPLzEi6g.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Спідниці"
       ]
     },
     {
@@ -2472,31 +2468,6 @@
       ]
     },
     {
-      "id": "goldi-zinoca-spidnica-maksi-z-ackentnimi-kisenami",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіноча спідниця максі з ацкентними кишенями",
-      "source_url": "https://goldi.ua/product/zinoca-spidnica-maksi-z-ackentnimi-kisenami",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спідниця",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/58922b07fd16e8cc37a2cd16a71a7e6e/2/aWLVkNw3odHDJf_nHDOCKd6Qhkd7t58l.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Спідниці",
-        "FEMME DORÉE"
-      ]
-    },
-    {
       "id": "goldi-mini-spidnica-sorti-z-dekorativnimi-bantikami",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2519,6 +2490,31 @@
       "collections": [
         "Спідниці",
         "Sale"
+      ]
+    },
+    {
+      "id": "goldi-zinoca-spidnica-maksi-z-ackentnimi-kisenami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіноча спідниця максі з ацкентними кишенями",
+      "source_url": "https://goldi.ua/product/zinoca-spidnica-maksi-z-ackentnimi-kisenami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/58922b07fd16e8cc37a2cd16a71a7e6e/2/aWLVkNw3odHDJf_nHDOCKd6Qhkd7t58l.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Спідниці",
+        "FEMME DORÉE"
       ]
     },
     {
@@ -2597,30 +2593,6 @@
       ]
     },
     {
-      "id": "goldi-spidnica-sorti-z-merezivnim-nizom-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Спідниця-шорти з мереживним низом",
-      "source_url": "https://goldi.ua/product/spidnica-sorti-z-merezivnim-nizom-2",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Спідниця",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 199,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/a3f2629684d2dda4112755a6cc8d93ec/2/WGABhOyJG3JkDInxl9b8xXsgMlIpuL4_.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Спідниці"
-      ]
-    },
-    {
       "id": "goldi-spidnica-sorti-mini-z-asimetricnou-drapirovkou",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2637,6 +2609,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/af849a631d904110d002da1426746eec/2/LjTyuuqKBdQTqI3RJ7nrCVH3BYxsdEOc.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Спідниці"
+      ]
+    },
+    {
+      "id": "goldi-spidnica-sorti-z-merezivnim-nizom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Спідниця-шорти з мереживним низом",
+      "source_url": "https://goldi.ua/product/spidnica-sorti-z-merezivnim-nizom-2",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 199,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/a3f2629684d2dda4112755a6cc8d93ec/2/WGABhOyJG3JkDInxl9b8xXsgMlIpuL4_.jpeg"
       ],
       "description": null,
       "care": null,
@@ -2789,32 +2785,6 @@
       ]
     },
     {
-      "id": "goldi-kartata-sorocka-vilnogo-krou-z-obemnimi-rukavimi",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Картата сорочка вільного крою з об'ємними рукавами",
-      "source_url": "https://goldi.ua/product/kartata-sorocka-vilnogo-krou-z-obemnimi-rukavimi",
-      "gender": "female",
-      "category": "Верх",
-      "item_type": "Сорочка",
-      "slot": "top",
-      "colors": [
-        "коричневий"
-      ],
-      "sizes": [],
-      "price_uah": 1499,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/9947e502a207227f56ce41ac554ef872/2/hFUk7_h95tirRSKDPu9otLovODo1ey8T.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Сорочки"
-      ]
-    },
-    {
       "id": "goldi-kartata-sorocka-vilnogo-krou-z-obemnimi-rukavami-ta-merezivom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -2833,6 +2803,32 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/fd9f69c531af6e4c967cd691cbde30d2/2/31nDuocfMRSiVnPfCFVhMGBOAP9hHadb.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Сорочки"
+      ]
+    },
+    {
+      "id": "goldi-kartata-sorocka-vilnogo-krou-z-obemnimi-rukavimi",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Картата сорочка вільного крою з об'ємними рукавами",
+      "source_url": "https://goldi.ua/product/kartata-sorocka-vilnogo-krou-z-obemnimi-rukavimi",
+      "gender": "female",
+      "category": "Верх",
+      "item_type": "Сорочка",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/9947e502a207227f56ce41ac554ef872/2/hFUk7_h95tirRSKDPu9otLovODo1ey8T.png"
       ],
       "description": null,
       "care": null,
@@ -3524,31 +3520,6 @@
       ]
     },
     {
-      "id": "goldi-colovice-hudi-z-kapusonom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Чоловіче худі з капюшоном",
-      "source_url": "https://goldi.ua/product/colovice-hudi-z-kapusonom",
-      "gender": "male",
-      "category": "Верх",
-      "item_type": "Худі",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 1299,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/dacad1c5b93bace889fcd5e641d5729c/2/qBh5ninW2Ib7EUqn3TQ9qNdqqFslGVM0.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Чоловікам",
-        "Світшоти | Худі"
-      ]
-    },
-    {
       "id": "goldi-colovice-hudi-z-gorlovinou-stijka-na-bliskavci-z-kapusonom-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -3574,22 +3545,22 @@
       ]
     },
     {
-      "id": "goldi-colovicij-svitsot-z-kruglou-gorlovinou",
+      "id": "goldi-colovice-hudi-z-kapusonom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Чоловічий світшот з круглою горловиною",
-      "source_url": "https://goldi.ua/product/colovicij-svitsot-z-kruglou-gorlovinou",
+      "name": "Чоловіче худі з капюшоном",
+      "source_url": "https://goldi.ua/product/colovice-hudi-z-kapusonom",
       "gender": "male",
       "category": "Верх",
-      "item_type": "Світшот",
+      "item_type": "Худі",
       "slot": "top",
       "colors": [],
       "sizes": [],
-      "price_uah": 899,
+      "price_uah": 1299,
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/e30f25e775e7bb2d13db7c9eabfcc817/2/ZwUoq7AJzPPwt2oll3MBEXw_J9hAWVw9.png"
+        "https://goldi.ua/storage/web/product/dacad1c5b93bace889fcd5e641d5729c/2/qBh5ninW2Ib7EUqn3TQ9qNdqqFslGVM0.png"
       ],
       "description": null,
       "care": null,
@@ -3624,6 +3595,31 @@
       ]
     },
     {
+      "id": "goldi-colovicij-svitsot-z-kruglou-gorlovinou",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Чоловічий світшот з круглою горловиною",
+      "source_url": "https://goldi.ua/product/colovicij-svitsot-z-kruglou-gorlovinou",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Світшот",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/e30f25e775e7bb2d13db7c9eabfcc817/2/ZwUoq7AJzPPwt2oll3MBEXw_J9hAWVw9.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Чоловікам",
+        "Світшоти | Худі"
+      ]
+    },
+    {
       "id": "goldi-svitsot-vilnogo-krou-z-avtenticnim-printom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -3649,32 +3645,6 @@
       ]
     },
     {
-      "id": "goldi-hudi-z-kiseneu-kenguru-ta-avtenticnim-printom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Худі з кишенею-кенгуру та автентичним принтом",
-      "source_url": "https://goldi.ua/product/hudi-z-kiseneu-kenguru-ta-avtenticnim-printom",
-      "gender": "male",
-      "category": "Верх",
-      "item_type": "Худі",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/a8121bd310c3ab55ab4dd5399084f89d/2/FFE2ZS9xnXmpEQLj1KekE7YOy3pAKC5x.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Чоловікам",
-        "Світшоти | Худі",
-        "GEN.UA"
-      ]
-    },
-    {
       "id": "goldi-colovice-hudi-na-zastibci-ta-kapusonom-z-avtenticnim-printom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -3691,6 +3661,32 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/451c7968f3b4d99dd824a3e3ce923206/2/aJylz3wP94BKCo0UvcfmyYcRo4Sc9wk7.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Чоловікам",
+        "Світшоти | Худі",
+        "GEN.UA"
+      ]
+    },
+    {
+      "id": "goldi-hudi-z-kiseneu-kenguru-ta-avtenticnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Худі з кишенею-кенгуру та автентичним принтом",
+      "source_url": "https://goldi.ua/product/hudi-z-kiseneu-kenguru-ta-avtenticnim-printom",
+      "gender": "male",
+      "category": "Верх",
+      "item_type": "Худі",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/a8121bd310c3ab55ab4dd5399084f89d/2/FFE2ZS9xnXmpEQLj1KekE7YOy3pAKC5x.png"
       ],
       "description": null,
       "care": null,
@@ -3727,102 +3723,6 @@
       ]
     },
     {
-      "id": "goldi-sportivni-colovici-sorti-baggy-z-elasticnim-poasom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Спортивні чоловічі шорти baggy з еластичним поясом",
-      "source_url": "https://goldi.ua/product/sportivni-colovici-sorti-baggy-z-elasticnim-poasom",
-      "gender": "male",
-      "category": "Низ",
-      "item_type": "Шорти",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 399,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/1a659bfe595b8962e27e14b77bd46539/1/mGYD_p1OBaMutGCmFUfvCdtaNoUKakJV.png"
-      ],
-      "description": null,
-      "care": "Рекомендовано ручне прання;Надзвичайно ніжне прасування при температурі максимум 110°С;Не можна використовувати відбілювач;Одяг непридатний для сушіння в сушильній машині. Параметри моделі ДмитроОбхват грудей - 99 см;Обхват талії - 87 см;Обхват стегон- 100 см;Зріст - 180 см.На моделі розмір М. Подібні продукти Чоловічі базові шорти 799 ₴ 199 ₴ Базові чоловічі шорти 799 ₴ 399 ₴ Базові чоловічі шорти 799 ₴ 199 ₴",
-      "collections": [
-        "Шорти | Бермуди"
-      ]
-    },
-    {
-      "id": "goldi-bazovi-colovici-sorti",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Базові чоловічі шорти",
-      "source_url": "https://goldi.ua/product/bazovi-colovici-sorti",
-      "gender": "male",
-      "category": "Низ",
-      "item_type": "Шорти",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 399,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/509a777d8ec82e04c4cac1d53e6c08ca/1/8swMaQdP8rqXsS1i0Yb50x2NQONDwP5A.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Шорти | Бермуди"
-      ]
-    },
-    {
-      "id": "goldi-colovici-sorti-z-avtenticnim-printom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Базові чоловічі шорти",
-      "source_url": "https://goldi.ua/product/colovici-sorti-z-avtenticnim-printom",
-      "gender": "male",
-      "category": "Низ",
-      "item_type": "Шорти",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 199,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/58bfc6f6a9e239fe76ee21db6feae70e/1/P4JTH_7YSSZUcfVl84MgpLgU7Uf3hlEN.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Шорти | Бермуди"
-      ]
-    },
-    {
-      "id": "goldi-colovici-bazovi-sorti",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Чоловічі базові шорти",
-      "source_url": "https://goldi.ua/product/colovici-bazovi-sorti",
-      "gender": "male",
-      "category": "Низ",
-      "item_type": "Шорти",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 199,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/8126e9604dfb701151935ad1abd22955/1/OvzH61onI9noidfQAs1ck6ZmkEYsKHEt.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Шорти | Бермуди"
-      ]
-    },
-    {
       "id": "goldi-bazovij-colovicij-hudi-na-zamku-3",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -3844,6 +3744,30 @@
       "care": null,
       "collections": [
         "Світшоти | Худі"
+      ]
+    },
+    {
+      "id": "goldi-sportivni-colovici-sorti-baggy-z-elasticnim-poasom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Спортивні чоловічі шорти baggy з еластичним поясом",
+      "source_url": "https://goldi.ua/product/sportivni-colovici-sorti-baggy-z-elasticnim-poasom",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 399,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/1a659bfe595b8962e27e14b77bd46539/1/mGYD_p1OBaMutGCmFUfvCdtaNoUKakJV.png"
+      ],
+      "description": null,
+      "care": "Рекомендовано ручне прання;Надзвичайно ніжне прасування при температурі максимум 110°С;Не можна використовувати відбілювач;Одяг непридатний для сушіння в сушильній машині. Параметри моделі ДмитроОбхват грудей - 99 см;Обхват талії - 87 см;Обхват стегон- 100 см;Зріст - 180 см.На моделі розмір М. Подібні продукти Чоловічі базові шорти 799 ₴ 199 ₴ Базові чоловічі шорти 799 ₴ 199 ₴ Базові чоловічі шорти 799 ₴ 399 ₴",
+      "collections": [
+        "Шорти | Бермуди"
       ]
     },
     {
@@ -3892,6 +3816,78 @@
       "care": null,
       "collections": [
         "Світшоти | Худі"
+      ]
+    },
+    {
+      "id": "goldi-bazovi-colovici-sorti",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Базові чоловічі шорти",
+      "source_url": "https://goldi.ua/product/bazovi-colovici-sorti",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 399,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/509a777d8ec82e04c4cac1d53e6c08ca/1/8swMaQdP8rqXsS1i0Yb50x2NQONDwP5A.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Шорти | Бермуди"
+      ]
+    },
+    {
+      "id": "goldi-colovici-bazovi-sorti",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Чоловічі базові шорти",
+      "source_url": "https://goldi.ua/product/colovici-bazovi-sorti",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 199,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/8126e9604dfb701151935ad1abd22955/1/OvzH61onI9noidfQAs1ck6ZmkEYsKHEt.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Шорти | Бермуди"
+      ]
+    },
+    {
+      "id": "goldi-colovici-sorti-z-avtenticnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Базові чоловічі шорти",
+      "source_url": "https://goldi.ua/product/colovici-sorti-z-avtenticnim-printom",
+      "gender": "male",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 199,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/58bfc6f6a9e239fe76ee21db6feae70e/1/P4JTH_7YSSZUcfVl84MgpLgU7Uf3hlEN.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Шорти | Бермуди"
       ]
     },
     {
@@ -4016,6 +4012,31 @@
       ]
     },
     {
+      "id": "goldi-stani-palacco-iz-zasipami",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Штани палаццо із защіпами",
+      "source_url": "https://goldi.ua/product/stani-palacco-iz-zasipami",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Брюки",
+      "slot": "bottom",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 999,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/data/logo/logo2.svg",
+        "https://goldi.ua/storage/web/product/0f7e155c86fbbf2b50122dd74ccbd595/1/9sGsoRy7rMcKGI7MOM4ZQ7drhv0-X4m6.jpg"
+      ],
+      "description": "Goldi - мультикультурне об'єднання молодих людей, які змінюють світ кожного дня. Ми вивчаємо модні тенденції та аналізуємо маркет для того, щоб популяризувати культуру різних напрямів та стилів серед звичайних людей. Адже, мода не тільки на дахах дорогих ресторанів мегаполісів, але й в кожному передмісті.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "goldi-bruki-pramogo-sirokogo-krou-z-poasom-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4082,29 +4103,28 @@
       "collections": []
     },
     {
-      "id": "goldi-stani-palacco-iz-zasipami",
+      "id": "goldi-stani-zinoci-z-elasticnim-poasom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
-      "source_url": "https://goldi.ua/product/stani-palacco-iz-zasipami",
+      "name": "Штани жіночі з еластичним поясом",
+      "source_url": "https://goldi.ua/product/stani-zinoci-z-elasticnim-poasom",
       "gender": "female",
       "category": "Низ",
       "item_type": "Брюки",
       "slot": "bottom",
-      "colors": [
-        "золотий"
-      ],
+      "colors": [],
       "sizes": [],
-      "price_uah": 999,
+      "price_uah": 599,
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/data/logo/logo2.svg",
-        "https://goldi.ua/storage/web/product/0f7e155c86fbbf2b50122dd74ccbd595/1/9sGsoRy7rMcKGI7MOM4ZQ7drhv0-X4m6.jpg"
+        "https://goldi.ua/storage/web/product/b02a78a13c2d8a6cde4c1ca57d616c6c/1/3Mm5Kt8UScIf3fpfn9LzyQvvugO-vXL8.jpg"
       ],
-      "description": "Goldi - мультикультурне об'єднання молодих людей, які змінюють світ кожного дня. Ми вивчаємо модні тенденції та аналізуємо маркет для того, щоб популяризувати культуру різних напрямів та стилів серед звичайних людей. Адже, мода не тільки на дахах дорогих ресторанів мегаполісів, але й в кожному передмісті.",
+      "description": null,
       "care": null,
-      "collections": []
+      "collections": [
+        "FEMME DORÉE"
+      ]
     },
     {
       "id": "goldi-mini-spidnica-sorti-zi-skladkami",
@@ -4153,30 +4173,6 @@
       ]
     },
     {
-      "id": "goldi-stani-zinoci-z-elasticnim-poasom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Штани жіночі з еластичним поясом",
-      "source_url": "https://goldi.ua/product/stani-zinoci-z-elasticnim-poasom",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Брюки",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/b02a78a13c2d8a6cde4c1ca57d616c6c/1/3Mm5Kt8UScIf3fpfn9LzyQvvugO-vXL8.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "FEMME DORÉE"
-      ]
-    },
-    {
       "id": "goldi-zinoci-siroki-stani-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4201,30 +4197,6 @@
       ]
     },
     {
-      "id": "goldi-zinoci-bruki-pramogo-krou-z-visokou-posadkou-ta-rozrizami-po-nizu",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Брюки-легінси з високою посадкою та розрізом",
-      "source_url": "https://goldi.ua/product/zinoci-bruki-pramogo-krou-z-visokou-posadkou-ta-rozrizami-po-nizu",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Легінси",
-      "slot": "bottom",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 399,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/8e5d057165bac8824756a7552f127578/1/cqDrZwCBe3HQ8tAgp8ZF803ZfMFcg1E-.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Soft Code"
-      ]
-    },
-    {
       "id": "goldi-zinoce-ukorocene-hudi-na-zastibci",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4241,6 +4213,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/697f0226b647359618319ee1e3e3b7cc/1/hd46htLzq5viJcF_1Q0VfuNzU1XdUalZ.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Soft Code"
+      ]
+    },
+    {
+      "id": "goldi-zinoci-bruki-pramogo-krou-z-visokou-posadkou-ta-rozrizami-po-nizu",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Брюки-легінси з високою посадкою та розрізом",
+      "source_url": "https://goldi.ua/product/zinoci-bruki-pramogo-krou-z-visokou-posadkou-ta-rozrizami-po-nizu",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Легінси",
+      "slot": "bottom",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 399,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/8e5d057165bac8824756a7552f127578/1/cqDrZwCBe3HQ8tAgp8ZF803ZfMFcg1E-.jpg"
       ],
       "description": null,
       "care": null,
@@ -4349,7 +4345,7 @@
       "id": "goldi-zinoca-sukna-v-rubcik-midi-dovzini-z-rospirkou-zzda",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноча сукня в рубчик міді довжини з роспіркою ззаду",
       "source_url": "https://goldi.ua/product/zinoca-sukna-v-rubcik-midi-dovzini-z-rospirkou-zzda",
       "gender": "female",
       "category": "Комплекти",
@@ -4374,7 +4370,7 @@
       "id": "goldi-corna-sukna-z-kontrastnou-obrobkou-po-virizu-ta-nizu-sukni",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Сукня з контрастною обробкою по вирізу та низу сукні",
       "source_url": "https://goldi.ua/product/corna-sukna-z-kontrastnou-obrobkou-po-virizu-ta-nizu-sukni",
       "gender": "female",
       "category": "Комплекти",
@@ -4413,7 +4409,57 @@
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/89771173efa96d5891fdd74f6128aec7/2/uO9h-mS9oSiUTTDBNfCzrblIsktk3jC4.png"
+        "https://goldi.ua/storage/web/product/64207173087144dac8eb11b1999c1966/2/EtZFloyureizdJS4ts9gErBTVdEZtH9_.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Жінкам",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "goldi-podovzenij-longsliv-iz-originalnim-printom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Подовжений лонгслів із оригінальним принтом",
+      "source_url": "https://goldi.ua/product/podovzenij-longsliv-iz-originalnim-printom-2",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/a6e2f6fcafeb9375d3a2cf5a8b8eb941/2/W9XOpkiAHrjyFlQYddWbSiZtvxZSqyZo.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Жінкам",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "goldi-bodiz-trendovim-virizom-dla-palca-ta-avtenticnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Бодіз трендовим вирізом для пальця та автентичним принтом",
+      "source_url": "https://goldi.ua/product/bodiz-trendovim-virizom-dla-palca-ta-avtenticnim-printom",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/5eaaeb3ec1fcd74b7f2710d9de7e7718/2/S2ZNbj8GkNqFROwj6iGlqO8OULRLj9Si.png"
       ],
       "description": null,
       "care": null,
@@ -4465,6 +4511,31 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/39ea6ec83246295fc8cf93978aa04ce4/2/8YX9diHYQKbk-IgqNZlDAYjQ-vHPj9NR.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Жінкам",
+        "Новинки"
+      ]
+    },
+    {
+      "id": "goldi-podovzenij-longsliv-iz-originalnim-printomkulirka-zinocij",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Подовжений лонгслів із оригінальним принтом/кулірка /жіночий",
+      "source_url": "https://goldi.ua/product/podovzenij-longsliv-iz-originalnim-printomkulirka-zinocij",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 899,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/e4d3e301f8e1feeda1feab1f16a1538a/2/quok3R2Ij5awhL8CN8ynNIndLRRtF_7c.jpeg"
       ],
       "description": null,
       "care": null,
@@ -4568,10 +4639,7 @@
       ],
       "description": null,
       "care": null,
-      "collections": [
-        "Жінкам",
-        "Новинки"
-      ]
+      "collections": []
     },
     {
       "id": "goldi-zinocij-longsliv-z-efektom-vivarenoi-tkanini-ta-originalnim-printom-2",
@@ -4596,28 +4664,6 @@
       "collections": []
     },
     {
-      "id": "goldi-podovzenij-longsliv-iz-dekorativnim-printom-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Подовжений лонгслів із декоративним принтом",
-      "source_url": "https://goldi.ua/product/podovzenij-longsliv-iz-dekorativnim-printom-2",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/89466cb08b508837ed9efd437d5d0218/2/uPwlDnNvW6_Ntcf7pki8jy3VJ0yro1ie.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "goldi-podovzenij-longsliv-z-visivkou-logo",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4634,6 +4680,28 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/a0cd0aa4628b02b97eadcde58c26b4f0/2/GBx_3tTtN2PoWu7xAVnr7qBC4lI5MDYp.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "goldi-podovzenij-longsliv-iz-dekorativnim-printom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Подовжений лонгслів із декоративним принтом",
+      "source_url": "https://goldi.ua/product/podovzenij-longsliv-iz-dekorativnim-printom-2",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/89466cb08b508837ed9efd437d5d0218/2/uPwlDnNvW6_Ntcf7pki8jy3VJ0yro1ie.png"
       ],
       "description": null,
       "care": null,
@@ -4710,28 +4778,6 @@
       ]
     },
     {
-      "id": "goldi-zinocij-longsliv-z-avtenticnim-printom-5",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий лонгслів з автентичним принтом",
-      "source_url": "https://goldi.ua/product/zinocij-longsliv-z-avtenticnim-printom-5",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/d2e4a2f71280bce7b78821fd58992f9f/2/0tUChNMURCCLBaCKa8dpBP9T9GEhO4RO.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "goldi-zinocij-longsliv-pramogo-krou-z-originalnim-printom-3",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4754,6 +4800,28 @@
       "collections": [
         "GODDESS"
       ]
+    },
+    {
+      "id": "goldi-zinocij-longsliv-z-avtenticnim-printom-5",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночий лонгслів з автентичним принтом",
+      "source_url": "https://goldi.ua/product/zinocij-longsliv-z-avtenticnim-printom-5",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/d2e4a2f71280bce7b78821fd58992f9f/2/0tUChNMURCCLBaCKa8dpBP9T9GEhO4RO.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": []
     },
     {
       "id": "goldi-zinocij-longsliv-pramogo-krou-z-originalnim-printom-2",
@@ -4828,76 +4896,6 @@
       ]
     },
     {
-      "id": "goldi-zinoce-bodi-z-visokou-gorlovinou-stijka-ta-akcentnimi-plecima",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіноче боді з високою горловиною стійка та акцентними плечима",
-      "source_url": "https://goldi.ua/product/zinoce-bodi-z-visokou-gorlovinou-stijka-ta-akcentnimi-plecima",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Боді",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/d743df26493694ce9c6dd6e1045739ed/2/jI0UNnWKwXeOwdm0MZRKreVagFbJjGMq.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "goldi-zinocij-longsliv-vilnogo-krou-z-individualnim-printom-4",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий лонгслів вільного крою з індивідуальним принтом",
-      "source_url": "https://goldi.ua/product/zinocij-longsliv-vilnogo-krou-z-individualnim-printom-4",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/7b4027dba84d54623eeeb422596d4a4e/2/xRfV8dwAFilr9ASPyPGBEIU9tVDuM_n8.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "goldi-ukorocenij-longsliv-z-podovzenimi-rukavami-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Укорочений лонгслів з подовженими рукавами",
-      "source_url": "https://goldi.ua/product/ukorocenij-longsliv-z-podovzenimi-rukavami-2",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [
-        "коричневий"
-      ],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/9b65ac3a422f77af07afc0838e3cb6f4/2/C6vUqR9g267goq-unvj-Co9dHs5sSjv2.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "GODDESS"
-      ]
-    },
-    {
       "id": "goldi-zinocij-top-zi-stijkou-ta-avtenticnim-printom-kolekcia-genua-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4946,6 +4944,30 @@
       ]
     },
     {
+      "id": "goldi-top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-4",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Топ з автентичним принтом та вирізом на палець. Колеція GEN.UA",
+      "source_url": "https://goldi.ua/product/top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-4",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/d3045094e4f9ee8a00ce98c4b47e4623/2/Ll5LTuRYvkGHYLvJbX4tELx6yW1u48BD.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Топи"
+      ]
+    },
+    {
       "id": "goldi-top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-3",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -4970,22 +4992,22 @@
       ]
     },
     {
-      "id": "goldi-top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-4",
+      "id": "goldi-top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-2",
       "brand": "Goldi",
       "brand_id": "goldi",
       "name": "Топ з автентичним принтом та вирізом на палець. Колеція GEN.UA",
-      "source_url": "https://goldi.ua/product/top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-4",
+      "source_url": "https://goldi.ua/product/top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-2",
       "gender": "female",
       "category": "Футболки",
       "item_type": "Топ",
       "slot": "top",
       "colors": [],
       "sizes": [],
-      "price_uah": 499,
+      "price_uah": 599,
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/d3045094e4f9ee8a00ce98c4b47e4623/2/Ll5LTuRYvkGHYLvJbX4tELx6yW1u48BD.png"
+        "https://goldi.ua/storage/web/product/17f8c5cc00d4635172650c297d8a02c3/2/ESC6e50YXJer-pSXmqfGJKC-HyWHXCpu.png"
       ],
       "description": null,
       "care": null,
@@ -5067,30 +5089,6 @@
       ]
     },
     {
-      "id": "goldi-top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Топ з автентичним принтом та вирізом на палець. Колеція GEN.UA",
-      "source_url": "https://goldi.ua/product/top-z-avtenticnim-printom-ta-virizom-na-palec-kolecia-genua-2",
-      "gender": "female",
-      "category": "Футболки",
-      "item_type": "Топ",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/17f8c5cc00d4635172650c297d8a02c3/2/ESC6e50YXJer-pSXmqfGJKC-HyWHXCpu.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Топи"
-      ]
-    },
-    {
       "id": "goldi-zinocij-krop-top-z-dovgim-rukavom-ta-glibokim-virizom-na-spini",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5114,6 +5112,30 @@
         "Топи",
         "GEN.UA",
         "Sale"
+      ]
+    },
+    {
+      "id": "goldi-futbolka-v-rubcik-pritalenogo-krou-z-brend-elementom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Футболка в рубчик приталеного крою з бренд-елементом",
+      "source_url": "https://goldi.ua/product/futbolka-v-rubcik-pritalenogo-krou-z-brend-elementom",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 499,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/4b00f0c18d22e3e701d982473d0caba9/1/wIYZxKwjxI80TP7T6l4OlEI2089mHfiz.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Топи"
       ]
     },
     {
@@ -5157,30 +5179,6 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/95c959e01faf487fdfebe42ed6051d00/1/MTB_dMTfhN8d-a9hjbblbn7GqSSHU8TJ.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Топи"
-      ]
-    },
-    {
-      "id": "goldi-futbolka-v-rubcik-pritalenogo-krou-z-brend-elementom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Футболка в рубчик приталеного крою з бренд-елементом",
-      "source_url": "https://goldi.ua/product/futbolka-v-rubcik-pritalenogo-krou-z-brend-elementom",
-      "gender": "female",
-      "category": "Футболки",
-      "item_type": "Футболка",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 499,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/4b00f0c18d22e3e701d982473d0caba9/1/wIYZxKwjxI80TP7T6l4OlEI2089mHfiz.png"
       ],
       "description": null,
       "care": null,
@@ -5261,30 +5259,6 @@
       ]
     },
     {
-      "id": "goldi-zinocij-top-z-avtenticnim-printom-ta-trendovim-virizom-dla-palca-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий топ з автентичним принтом та трендовим вирізом для пальця",
-      "source_url": "https://goldi.ua/product/zinocij-top-z-avtenticnim-printom-ta-trendovim-virizom-dla-palca-2",
-      "gender": "female",
-      "category": "Футболки",
-      "item_type": "Топ",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/4f88212de64e2e0f26fc73c60059f5b1/1/TNo1u5JuZSNKvmpByb6_zlRdaqR_VA_D.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Топи"
-      ]
-    },
-    {
       "id": "goldi-zinocij-top-stijka-z-korotkim-rukavom-ta-avtenticnim-printom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5309,22 +5283,22 @@
       ]
     },
     {
-      "id": "goldi-zinocij-top-zi-stijkou-ta-avtenticnim-printom",
+      "id": "goldi-zinocij-top-z-avtenticnim-printom-ta-trendovim-virizom-dla-palca-2",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Жіночий базовий топ зі стійкою",
-      "source_url": "https://goldi.ua/product/zinocij-top-zi-stijkou-ta-avtenticnim-printom",
+      "name": "Жіночий топ з автентичним принтом та трендовим вирізом для пальця",
+      "source_url": "https://goldi.ua/product/zinocij-top-z-avtenticnim-printom-ta-trendovim-virizom-dla-palca-2",
       "gender": "female",
       "category": "Футболки",
       "item_type": "Топ",
       "slot": "top",
       "colors": [],
       "sizes": [],
-      "price_uah": 749,
+      "price_uah": 599,
       "sale_price_uah": null,
       "in_stock": true,
       "photos": [
-        "https://goldi.ua/storage/web/product/f73a1d7c2af1b8c3477b758e52cdfae1/2/hAWj_9hp_9nd3TxzM6PdUUMgtq5pyK97.png"
+        "https://goldi.ua/storage/web/product/4f88212de64e2e0f26fc73c60059f5b1/1/TNo1u5JuZSNKvmpByb6_zlRdaqR_VA_D.jpg"
       ],
       "description": null,
       "care": null,
@@ -5349,6 +5323,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/f82bcf8a2f7a59b196a770b868fb8bdf/1/Hgu8UiGkwalzXVsUhFhz7Q0r9QmzwIQU.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Топи"
+      ]
+    },
+    {
+      "id": "goldi-zinocij-top-zi-stijkou-ta-avtenticnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночий базовий топ зі стійкою",
+      "source_url": "https://goldi.ua/product/zinocij-top-zi-stijkou-ta-avtenticnim-printom",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 749,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/f73a1d7c2af1b8c3477b758e52cdfae1/2/hAWj_9hp_9nd3TxzM6PdUUMgtq5pyK97.png"
       ],
       "description": null,
       "care": null,
@@ -5460,30 +5458,6 @@
       ]
     },
     {
-      "id": "goldi-bazova-oversajz-colovica-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Базова оверсайз чоловіча",
-      "source_url": "https://goldi.ua/product/bazova-oversajz-colovica-2",
-      "gender": "male",
-      "category": "Футболки",
-      "item_type": "Футболка",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/da80aed8d500b7d25b73069ddfcc2f07/1/orWXG1Y9-y8AMkbBBAQaEf9vCd6JXCbR.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "Футболки | Поло"
-      ]
-    },
-    {
       "id": "goldi-bazova-colovica-futbolka-pramogo-siluetu-z-avtenticnim-printom-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5500,6 +5474,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/0793a66988f5b580efe52e5e41fe9045/1/KyFQxbywj629emIaLqvNzuWeHbfn9zq9.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Футболки | Поло"
+      ]
+    },
+    {
+      "id": "goldi-bazova-oversajz-colovica-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Базова оверсайз чоловіча",
+      "source_url": "https://goldi.ua/product/bazova-oversajz-colovica-2",
+      "gender": "male",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/da80aed8d500b7d25b73069ddfcc2f07/1/orWXG1Y9-y8AMkbBBAQaEf9vCd6JXCbR.jpg"
       ],
       "description": null,
       "care": null,
@@ -5702,6 +5700,32 @@
       ]
     },
     {
+      "id": "goldi-ukorocenij-longsliv-z-podovzenimi-rukavami-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Укорочений лонгслів з подовженими рукавами",
+      "source_url": "https://goldi.ua/product/ukorocenij-longsliv-z-podovzenimi-rukavami-2",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/9b65ac3a422f77af07afc0838e3cb6f4/2/C6vUqR9g267goq-unvj-Co9dHs5sSjv2.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "GODDESS"
+      ]
+    },
+    {
       "id": "goldi-zinocij-longsliv-pramogo-krou-z-originalnim-printom",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5718,30 +5742,6 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/0ffaf5f3e57d56b6a9c36979d7487feb/2/bPgsaxToVh6qveZMtW-61ddcZKF3ELc5.png"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "GODDESS"
-      ]
-    },
-    {
-      "id": "goldi-podovzena-zinoca-futbolka-z-opusenimi-plecima-ta-originalnim-printom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Подовжена жіноча футболка з опущеними плечима та оригінальним принтом",
-      "source_url": "https://goldi.ua/product/podovzena-zinoca-futbolka-z-opusenimi-plecima-ta-originalnim-printom",
-      "gender": "female",
-      "category": "Футболки",
-      "item_type": "Футболка",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/f9620a1ab24fe5413d4b17b87cb12a81/2/VuzmIj5U4SSp52k_oYZvWuUiz4i4Kmj1.jpeg"
       ],
       "description": null,
       "care": null,
@@ -5772,6 +5772,30 @@
       "collections": []
     },
     {
+      "id": "goldi-podovzena-zinoca-futbolka-z-opusenimi-plecima-ta-originalnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Подовжена жіноча футболка з опущеними плечима та оригінальним принтом",
+      "source_url": "https://goldi.ua/product/podovzena-zinoca-futbolka-z-opusenimi-plecima-ta-originalnim-printom",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Футболка",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/f9620a1ab24fe5413d4b17b87cb12a81/2/VuzmIj5U4SSp52k_oYZvWuUiz4i4Kmj1.jpeg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "GODDESS"
+      ]
+    },
+    {
       "id": "goldi-zinocij-longsliv-vilnogo-krou-z-individualnim-printom-2",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5788,6 +5812,30 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/598f75c2d9bb518065a021e223fe9e2a/2/UC7j1ggyUp6xC-uASBq6OPxDUV8LgsG8.png"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "GEN.UA"
+      ]
+    },
+    {
+      "id": "goldi-zinocij-longsliv-vilnogo-krou-z-individualnim-printom",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночий лонгслів вільного крою з індивідуальним принтом",
+      "source_url": "https://goldi.ua/product/zinocij-longsliv-vilnogo-krou-z-individualnim-printom",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 799,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/de6a8fdc93b06b574c65f21db38f2619/2/OUt5BNtb5pb6UQh7opMiS7BdVxl39sDE.jpg"
       ],
       "description": null,
       "care": null,
@@ -5836,30 +5884,6 @@
       "in_stock": true,
       "photos": [
         "https://goldi.ua/storage/web/product/104328c48c24980b42f0b2808c814618/2/LIPFdCuzFtCsINXHzRR4IKmCUNf4CGYK.jpeg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "GEN.UA"
-      ]
-    },
-    {
-      "id": "goldi-zinocij-longsliv-vilnogo-krou-z-individualnim-printom",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий лонгслів вільного крою з індивідуальним принтом",
-      "source_url": "https://goldi.ua/product/zinocij-longsliv-vilnogo-krou-z-individualnim-printom",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 799,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/de6a8fdc93b06b574c65f21db38f2619/2/OUt5BNtb5pb6UQh7opMiS7BdVxl39sDE.jpg"
       ],
       "description": null,
       "care": null,
@@ -5940,30 +5964,6 @@
       ]
     },
     {
-      "id": "goldi-zinocij-longsliv-z-dekorativnimi-neobroblenimi-zrizami-ta-avtenticnim-printom-2",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Жіночий лонгслів з декоративними необробленими зрізами та автентичним принтом",
-      "source_url": "https://goldi.ua/product/zinocij-longsliv-z-dekorativnimi-neobroblenimi-zrizami-ta-avtenticnim-printom-2",
-      "gender": "female",
-      "category": "Боді",
-      "item_type": "Лонгслів",
-      "slot": "top",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 599,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://goldi.ua/storage/web/product/ba66e304a940b1adb4497fa54d0a0113/1/48Vk8bYkkydICnApDuQDsRMKwcph32bv.jpg"
-      ],
-      "description": null,
-      "care": null,
-      "collections": [
-        "GEN.UA"
-      ]
-    },
-    {
       "id": "goldi-bodi-z-dovgim-rukavom-ta-efektnim-virizom-speredu-ta-printom-z-kolekcii-genua",
       "brand": "Goldi",
       "brand_id": "goldi",
@@ -5988,10 +5988,34 @@
       ]
     },
     {
+      "id": "goldi-zinocij-longsliv-z-dekorativnimi-neobroblenimi-zrizami-ta-avtenticnim-printom-2",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Жіночий лонгслів з декоративними необробленими зрізами та автентичним принтом",
+      "source_url": "https://goldi.ua/product/zinocij-longsliv-z-dekorativnimi-neobroblenimi-zrizami-ta-avtenticnim-printom-2",
+      "gender": "female",
+      "category": "Боді",
+      "item_type": "Лонгслів",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 599,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://goldi.ua/storage/web/product/ba66e304a940b1adb4497fa54d0a0113/1/48Vk8bYkkydICnApDuQDsRMKwcph32bv.jpg"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "GEN.UA"
+      ]
+    },
+    {
       "id": "goldi-zinoci-dzinsi-z-visokou-posadkou-ta-dekorativnim-poasom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіночі джинси з високою посадкою та декоративним поясом",
       "source_url": "https://goldi.ua/product/zinoci-dzinsi-z-visokou-posadkou-ta-dekorativnim-poasom",
       "gender": "female",
       "category": "Жінкам",
@@ -6018,7 +6042,7 @@
       "id": "goldi-komplekt-dla-snu-z-topom-na-korotkij-rukav-ta-sortami-z-sirokou-rezinkou",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Комплект для сну, з топом на короткий рукав та шортами з широкою резинкою",
       "source_url": "https://goldi.ua/product/komplekt-dla-snu-z-topom-na-korotkij-rukav-ta-sortami-z-sirokou-rezinkou",
       "gender": "female",
       "category": "Жінкам",
@@ -6135,7 +6159,7 @@
       "id": "goldi-zinoca-midi-sukna-z-vidkritimi-plecima-ta-rusami-3",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноча міді сукня з відкритими плечима та рюшами",
       "source_url": "https://goldi.ua/product/zinoca-midi-sukna-z-vidkritimi-plecima-ta-rusami-3",
       "gender": "female",
       "category": "Комплекти",
@@ -6184,7 +6208,7 @@
       "id": "goldi-colovicij-komplekt-iz-pramih-sortiv-ta-overzajz-futbolki-z-kolekcii-genua",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Чоловічий комплект із прямих шортів та оверзайз футболки з колекції GEN.UA",
       "source_url": "https://goldi.ua/product/colovicij-komplekt-iz-pramih-sortiv-ta-overzajz-futbolki-z-kolekcii-genua",
       "gender": "male",
       "category": "Комплекти",
@@ -6209,7 +6233,7 @@
       "id": "goldi-zinoca-mini-sukna-z-vidkritimi-plecima-ta-rusami-3",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноча міні сукня з відкритими плечима та рюшами",
       "source_url": "https://goldi.ua/product/zinoca-mini-sukna-z-vidkritimi-plecima-ta-rusami-3",
       "gender": "female",
       "category": "Комплекти",
@@ -6234,7 +6258,7 @@
       "id": "goldi-zinoce-hudi-z-kontrasnou-okantovkou-na-zastibci",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноче худі з контрасною окантовкою на застібці",
       "source_url": "https://goldi.ua/product/zinoce-hudi-z-kontrasnou-okantovkou-na-zastibci",
       "gender": "female",
       "category": "Верх",
@@ -6259,7 +6283,7 @@
       "id": "goldi-vkorocenij-hudi-na-zamku-z-printom-ta-visivkou-riskrise",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Вкорочений худі на замку з принтом та вишивкою \"RISK&RISE",
       "source_url": "https://goldi.ua/product/vkorocenij-hudi-na-zamku-z-printom-ta-visivkou-riskrise",
       "gender": "female",
       "category": "Верх",
@@ -6284,7 +6308,7 @@
       "id": "goldi-spidnicka-sonce-klos-z-zastibkou",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Спідничка сонце кльош з застібкою",
       "source_url": "https://goldi.ua/product/spidnicka-sonce-klos-z-zastibkou",
       "gender": "female",
       "category": "Низ",
@@ -6309,7 +6333,7 @@
       "id": "goldi-vkorocena-sukna-z-kvadratnim-virizom-ta-klincami",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Вкорочена сукня з квадратним вирізом та клинцями",
       "source_url": "https://goldi.ua/product/vkorocena-sukna-z-kvadratnim-virizom-ta-klincami",
       "gender": "female",
       "category": "Комплекти",
@@ -6334,7 +6358,7 @@
       "id": "goldi-sukna-na-dovgij-rukav-z-dekorativnim-komirom-ta-gudzikami",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Сукня на довгий рукав з декоративним коміром та гудзиками",
       "source_url": "https://goldi.ua/product/sukna-na-dovgij-rukav-z-dekorativnim-komirom-ta-gudzikami",
       "gender": "female",
       "category": "Комплекти",
@@ -6359,7 +6383,7 @@
       "id": "goldi-sukna-dovzini-midi-z-vazanogo-trikotazu-z-dovgim-rukavom-klos-ta-vidkritou-spink",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Сукня довжини міді з в'язаного трикотажу",
       "source_url": "https://goldi.ua/product/sukna-dovzini-midi-z-vazanogo-trikotazu-z-dovgim-rukavom-klos-ta-vidkritou-spinkouviskozaz",
       "gender": "female",
       "category": "Комплекти",
@@ -6384,7 +6408,7 @@
       "id": "goldi-svetr-z-komirom-stijkou-6",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Светр з коміром стійкою",
       "source_url": "https://goldi.ua/product/svetr-z-komirom-stijkou-6",
       "gender": "female",
       "category": "Светри",
@@ -6409,7 +6433,7 @@
       "id": "goldi-sukna-zi-stijkou-ta-dekorativnimi-vistrockami",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Сукня зі стійкою та декоративними вистрочками",
       "source_url": "https://goldi.ua/product/sukna-zi-stijkou-ta-dekorativnimi-vistrockami",
       "gender": "female",
       "category": "Комплекти",
@@ -6434,7 +6458,7 @@
       "id": "goldi-zinoci-sorti-z-sirokim-poasom-ta-zastibkou",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіночі шорти з широким поясом та застібкою",
       "source_url": "https://goldi.ua/product/zinoci-sorti-z-sirokim-poasom-ta-zastibkou",
       "gender": "female",
       "category": "Низ",
@@ -6459,7 +6483,7 @@
       "id": "goldi-spidnicka-sorti-z-klincami-ta-zamkom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Спідничка-шорти з клинцями та замком",
       "source_url": "https://goldi.ua/product/spidnicka-sorti-z-klincami-ta-zamkom",
       "gender": "female",
       "category": "Низ",
@@ -6484,7 +6508,7 @@
       "id": "goldi-zinocij-oversajz-svetr-pramogo-krou-z-nadpisrm-live",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіночий оверсайз светр прямого крою з надписом \"Live\"",
       "source_url": "https://goldi.ua/product/zinocij-oversajz-svetr-pramogo-krou-z-nadpisrm-live",
       "gender": "female",
       "category": "Светри",
@@ -6509,7 +6533,7 @@
       "id": "goldi-zinoca-mini-sukna-ozdoblena-zavazkami-aki-formuutsa-u-dekorativnij-bant-na-spinc",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноча міні сукня оздоблена зав'язками",
       "source_url": "https://goldi.ua/product/zinoca-mini-sukna-ozdoblena-zavazkami-aki-formuutsa-u-dekorativnij-bant-na-spinci-2",
       "gender": "female",
       "category": "Комплекти",
@@ -6534,7 +6558,7 @@
       "id": "goldi-zinocij-komplekt-z-pramimi-stanami-ta-svetrom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіночий комплект з прямими штанами та светром",
       "source_url": "https://goldi.ua/product/zinocij-komplekt-z-pramimi-stanami-ta-svetrom",
       "gender": "female",
       "category": "Комплекти",
@@ -6556,35 +6580,10 @@
       "collections": []
     },
     {
-      "id": "goldi-sorti-vkoroceni-zinoci-ozdobleni-visivkou",
-      "brand": "Goldi",
-      "brand_id": "goldi",
-      "name": "Goldi",
-      "source_url": "https://goldi.ua/product/sorti-vkoroceni-zinoci-ozdobleni-visivkou",
-      "gender": "female",
-      "category": "Низ",
-      "item_type": "Шорти",
-      "slot": "bottom",
-      "colors": [
-        "золотий"
-      ],
-      "sizes": [],
-      "price_uah": 199,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://goldi.ua/data/logo/logo2.svg",
-        "https://goldi.ua/storage/web/product/532ef9bf8d02ee55d8b3f9e3a3d8d282/1/yaeo_rA6_MWbvpEeT156amPFwltzPOCP.jpg"
-      ],
-      "description": "Goldi - мультикультурне об'єднання молодих людей, які змінюють світ кожного дня. Ми вивчаємо модні тенденції та аналізуємо маркет для того, щоб популяризувати культуру різних напрямів та стилів серед звичайних людей. Адже, мода не тільки на дахах дорогих ресторанів мегаполісів, але й в кожному передмісті.",
-      "care": "Склад:85% бавовна;15% поліефір.Догляд:Рекомендавано ручне прання;Надзвичайно ніжне прасування при температурі максимум 110°С;Не можна використовувати відбілювач;Одяг непридатний для сушіння в сушильній машині. Параметри моделі Вікторія (шампань 1-23, білий, чорний 33)Зріст - 176 смОбʼєм грудей - 85 смОбʼєм талії - 65 смОбʼєм бедер - 98 смВікторія (світло-сірий ВК-03)Зріст - 174 смОбʼєм грудей - 84 смОбʼєм талії - 63 смОбʼєм бедер - 89 см",
-      "collections": []
-    },
-    {
       "id": "goldi-zinoca-mini-sukna-z-vidkritimi-plecima",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Міні сукня з відкритими плечима",
       "source_url": "https://goldi.ua/product/zinoca-mini-sukna-z-vidkritimi-plecima",
       "gender": "female",
       "category": "Комплекти",
@@ -6606,10 +6605,35 @@
       "collections": []
     },
     {
+      "id": "goldi-sorti-vkoroceni-zinoci-ozdobleni-visivkou",
+      "brand": "Goldi",
+      "brand_id": "goldi",
+      "name": "Шорти вкорочені жіночі, оздоблені вишивкою",
+      "source_url": "https://goldi.ua/product/sorti-vkoroceni-zinoci-ozdobleni-visivkou",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Шорти",
+      "slot": "bottom",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 199,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://goldi.ua/data/logo/logo2.svg",
+        "https://goldi.ua/storage/web/product/532ef9bf8d02ee55d8b3f9e3a3d8d282/1/yaeo_rA6_MWbvpEeT156amPFwltzPOCP.jpg"
+      ],
+      "description": "Goldi - мультикультурне об'єднання молодих людей, які змінюють світ кожного дня. Ми вивчаємо модні тенденції та аналізуємо маркет для того, щоб популяризувати культуру різних напрямів та стилів серед звичайних людей. Адже, мода не тільки на дахах дорогих ресторанів мегаполісів, але й в кожному передмісті.",
+      "care": "Склад:85% бавовна;15% поліефір.Догляд:Рекомендавано ручне прання;Надзвичайно ніжне прасування при температурі максимум 110°С;Не можна використовувати відбілювач;Одяг непридатний для сушіння в сушильній машині. Параметри моделі Вікторія (шампань 1-23, білий, чорний 33)Зріст - 176 смОбʼєм грудей - 85 смОбʼєм талії - 65 смОбʼєм бедер - 98 смВікторія (світло-сірий ВК-03)Зріст - 174 смОбʼєм грудей - 84 смОбʼєм талії - 63 смОбʼєм бедер - 89 см",
+      "collections": []
+    },
+    {
       "id": "goldi-bazove-zinoce-bodi-z-z-kruglim-komirom",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Базове жіноче боді з з круглим коміром",
       "source_url": "https://goldi.ua/product/bazove-zinoce-bodi-z-z-kruglim-komirom",
       "gender": "female",
       "category": "Боді",
@@ -6634,7 +6658,7 @@
       "id": "goldi-zinoca-oversajz-futbolka-z-printom-7",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіноча оверсайз футболка з принтом",
       "source_url": "https://goldi.ua/product/zinoca-oversajz-futbolka-z-printom-7",
       "gender": "female",
       "category": "Боді",
@@ -6659,7 +6683,7 @@
       "id": "goldi-zinocij-top-zi-stijkou-ta-dekorativnimi-vistrockami",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Жіночий топ зі стійкою та декоративними вистрочками",
       "source_url": "https://goldi.ua/product/zinocij-top-zi-stijkou-ta-dekorativnimi-vistrockami",
       "gender": "female",
       "category": "Жінкам",
@@ -6684,7 +6708,7 @@
       "id": "goldi-kurtka-zi-stijkou-na-knopkah-ta-poasom-2",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Куртка зі стійкою на кнопках та поясом",
       "source_url": "https://goldi.ua/product/kurtka-zi-stijkou-na-knopkah-ta-poasom-2",
       "gender": "female",
       "category": "Жінкам",
@@ -6709,7 +6733,7 @@
       "id": "goldi-trikotaznij-bazovij-golf",
       "brand": "Goldi",
       "brand_id": "goldi",
-      "name": "Goldi",
+      "name": "Трикотажний базовий гольф",
       "source_url": "https://goldi.ua/product/trikotaznij-bazovij-golf",
       "gender": "female",
       "category": "Жінкам",

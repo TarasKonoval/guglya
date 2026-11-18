@@ -40,14 +40,14 @@
       "Кепка",
       "Прикраси",
       "Шкарпетки",
-      "Капелюх",
       "Окуляри",
+      "Капелюх",
       "Хустка",
       "Рукавички",
       "Панама",
-      "Чохол",
       "Балаклава",
       "Берет",
+      "Чохол",
       "Кардхолдер",
       "Косметичка"
     ]
@@ -149,6 +149,14 @@
     "item_types": []
   },
   {
+    "category": "Нижня білизна",
+    "slot": "other",
+    "item_types": [
+      "Білизна",
+      "Піжама / Халат"
+    ]
+  },
+  {
     "category": "Сумки",
     "slot": "bag",
     "item_types": [
@@ -157,14 +165,6 @@
       "Шопер",
       "Клатч",
       "Кросбоді"
-    ]
-  },
-  {
-    "category": "Нижня білизна",
-    "slot": "other",
-    "item_types": [
-      "Білизна",
-      "Піжама / Халат"
     ]
   },
   {
@@ -332,12 +332,12 @@
     "item_types": []
   },
   {
-    "category": "ЧОЛОВІКАМ",
+    "category": "ОСІНЬ/ЗИМА 2026-2027",
     "slot": "other",
     "item_types": []
   },
   {
-    "category": "ЖІНКАМ",
+    "category": "ЧОЛОВІКАМ",
     "slot": "other",
     "item_types": []
   },
@@ -372,17 +372,17 @@
     "item_types": []
   },
   {
+    "category": "Жінкам",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Best",
     "slot": "other",
     "item_types": []
   },
   {
     "category": "WOAW",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "Жінкам",
     "slot": "other",
     "item_types": []
   },
@@ -453,6 +453,16 @@
   },
   {
     "category": "Last pieces до -50%",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Чохли для ноутбука",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Брелоки",
     "slot": "other",
     "item_types": []
   },
@@ -557,6 +567,21 @@
     "item_types": []
   },
   {
+    "category": "КЛОГИ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Косметички",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Блокноти",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Месенджер",
     "slot": "other",
     "item_types": []
@@ -593,11 +618,6 @@
   },
   {
     "category": "ПОДАРУНКОВІ СЕРТИФІКАТИ",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "КЛОГИ",
     "slot": "other",
     "item_types": []
   },
@@ -823,6 +843,11 @@
   },
   {
     "category": "Подарунки",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "ЖІНКАМ",
     "slot": "other",
     "item_types": []
   }

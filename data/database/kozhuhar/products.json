@@ -75,7 +75,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "золотий",
         "срібний"
@@ -102,7 +102,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "бордовий"
       ],
@@ -128,7 +128,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "золотий",
         "срібний"
@@ -155,7 +155,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "червоний"
       ],
@@ -181,7 +181,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "жовтий"
       ],
@@ -207,7 +207,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -226,33 +226,6 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-black-note-bag",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "BLACK NOTE BAG",
-      "source_url": "https://www.kozhuhar.com/product-page/black-note-bag",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "золотий",
-        "срібний"
-      ],
-      "sizes": [],
-      "price_uah": 8800,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_604a6f455c064f11b573177ecd64143d~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_aff5e73ef21c497980daf4a8c781164b~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_a4951eb30cc44920a23825434fa36ac0~mv2.jpg"
-      ],
-      "description": "NO(https://www.kozhuhar.com/sum-bag-kit)TE BAG - нова вмістка сумка з всесвіту SUM BAG, мінімалістична та функціональна. В комплекті 2 ремені: широкий (для розподілення ваги на плечі) та довгий (щоб носити сумку через плече). Сумка має шкіряний підклад та накладну кишеню всередині. Так як сумка належить до всесвіту SUM BAG, ви можете використовувати вже наявні ремені із вашої SUM BAG S/M або придбати додаткові із колекції SUM BAG KIT.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "kozhuhar-brown-note-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -261,7 +234,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "золотий",
         "срібний"
@@ -280,6 +253,33 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-black-note-bag",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "BLACK NOTE BAG",
+      "source_url": "https://www.kozhuhar.com/product-page/black-note-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "золотий",
+        "срібний"
+      ],
+      "sizes": [],
+      "price_uah": 8800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_604a6f455c064f11b573177ecd64143d~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_aff5e73ef21c497980daf4a8c781164b~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_a4951eb30cc44920a23825434fa36ac0~mv2.jpg"
+      ],
+      "description": "NO(https://www.kozhuhar.com/sum-bag-kit)TE BAG - нова вмістка сумка з всесвіту SUM BAG, мінімалістична та функціональна. В комплекті 2 ремені: широкий (для розподілення ваги на плечі) та довгий (щоб носити сумку через плече). Сумка має шкіряний підклад та накладну кишеню всередині. Так як сумка належить до всесвіту SUM BAG, ви можете використовувати вже наявні ремені із вашої SUM BAG S/M або придбати додаткові із колекції SUM BAG KIT.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-brown-heart-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -288,7 +288,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "коричневий"
       ],
@@ -314,7 +314,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "чорний"
       ],
@@ -340,7 +340,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний"
       ],
@@ -365,7 +365,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "чорний"
       ],
@@ -382,6 +382,32 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-sand-wave-bag",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "SAND WAVE BAG",
+      "source_url": "https://www.kozhuhar.com/product-page/sand-wave-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 5850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_5d68930baded484da3a6316b59d6c72e~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_9ca5d6ab81b34536b781245750e8c2a4~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_ec3122c591de443a967067eedd4c7221~mv2.jpg"
+      ],
+      "description": "Представляємо сумку Wave Bag з унікальною вигнутою формою, виготовлену з гладкої телячої шкіри. Сумка має хвилясту форму, яка повторює вигини тіла, тому її зручно тримати в руках чи носити на плечі, притискаючи до тіла. Застібка-блискавка теж має характерний вигин, що додає ще більше унікальності дизайну. Ще одна характерна деталь — цільний з основою ремінь, який кріпиться з одного боку сумки пряжкою: він зручно лежить на плечі, не зісковзуючи. Довжина ременю регулюється. Також ви можете носити ремінь через плече.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-red-heart-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -390,7 +416,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "червоний"
       ],
@@ -494,7 +520,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "пісочний",
         "блакитний",
@@ -520,32 +546,6 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-sand-wave-bag",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "SAND WAVE BAG",
-      "source_url": "https://www.kozhuhar.com/product-page/sand-wave-bag",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "пісочний"
-      ],
-      "sizes": [],
-      "price_uah": 5850,
-      "sale_price_uah": null,
-      "in_stock": true,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_5d68930baded484da3a6316b59d6c72e~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_9ca5d6ab81b34536b781245750e8c2a4~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_ec3122c591de443a967067eedd4c7221~mv2.jpg"
-      ],
-      "description": "Представляємо сумку Wave Bag з унікальною вигнутою формою, виготовлену з гладкої телячої шкіри. Сумка має хвилясту форму, яка повторює вигини тіла, тому її зручно тримати в руках чи носити на плечі, притискаючи до тіла. Застібка-блискавка теж має характерний вигин, що додає ще більше унікальності дизайну. Ще одна характерна деталь — цільний з основою ремінь, який кріпиться з одного боку сумки пряжкою: він зручно лежить на плечі, не зісковзуючи. Довжина ременю регулюється. Також ви можете носити ремінь через плече.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "kozhuhar-golden-chain",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -554,7 +554,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "пісочний",
         "блакитний",
@@ -588,7 +588,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "пісочний",
         "блакитний",
@@ -617,7 +617,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "блакитний",
         "синій",
@@ -645,7 +645,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "пісочний",
         "блакитний",
@@ -707,7 +707,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -734,7 +734,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "коричневий"
       ],
@@ -760,7 +760,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -787,7 +787,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -800,6 +800,33 @@
         "https://static.wixstatic.com/media/970e9c_65efb2fce087441ca38a8b889e23443e~mv2.jpg",
         "https://static.wixstatic.com/media/970e9c_544a705ec6bb4245aed284e14286ff33~mv2.jpg",
         "https://static.wixstatic.com/media/970e9c_a0be8958d97d46f5bb2cd52621b2c6aa~mv2.jpg"
+      ],
+      "description": "SUM BAG - cумка-трансформер зі змінними ременями. В комплекті: 3 кільця-карабіни та 2 шкіряні ремені (короткий 40 см і середній 70 см). Ці ремені можна використовувати окремо. Якщо з'єднати 2 ремені за допомогою третього кільця-карабіна, то сумку можна носити через плече. Oбирай свій варіант як носити: SUM BAG з коротким, середнім або з довгим ременем. А ще можна носити як клатч. Усередині є кишеня для карток. Додатково можна придбати до свого SUM BAG KIT ланцюжок або додаткові ремені.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "kozhuhar-lime-sum-bag-s",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "LIME SUM BAG S",
+      "source_url": "https://www.kozhuhar.com/product-page/lime-sum-bag-s",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "срібний",
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 5390,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_d1ee25e9dfd84d0c96cfdc01d41d5641~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_e1b202f8103f4501aff027dc9cfc5e0f~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_326d838657294123b5fa851d8a40c188~mv2.jpg"
       ],
       "description": "SUM BAG - cумка-трансформер зі змінними ременями. В комплекті: 3 кільця-карабіни та 2 шкіряні ремені (короткий 40 см і середній 70 см). Ці ремені можна використовувати окремо. Якщо з'єднати 2 ремені за допомогою третього кільця-карабіна, то сумку можна носити через плече. Oбирай свій варіант як носити: SUM BAG з коротким, середнім або з довгим ременем. А ще можна носити як клатч. Усередині є кишеня для карток. Додатково можна придбати до свого SUM BAG KIT ланцюжок або додаткові ремені.",
       "care": null,
@@ -832,33 +859,6 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-lime-sum-bag-s",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "LIME SUM BAG S",
-      "source_url": "https://www.kozhuhar.com/product-page/lime-sum-bag-s",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "срібний",
-        "золотий"
-      ],
-      "sizes": [],
-      "price_uah": 5390,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_d1ee25e9dfd84d0c96cfdc01d41d5641~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_e1b202f8103f4501aff027dc9cfc5e0f~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_326d838657294123b5fa851d8a40c188~mv2.jpg"
-      ],
-      "description": "SUM BAG - cумка-трансформер зі змінними ременями. В комплекті: 3 кільця-карабіни та 2 шкіряні ремені (короткий 40 см і середній 70 см). Ці ремені можна використовувати окремо. Якщо з'єднати 2 ремені за допомогою третього кільця-карабіна, то сумку можна носити через плече. Oбирай свій варіант як носити: SUM BAG з коротким, середнім або з довгим ременем. А ще можна носити як клатч. Усередині є кишеня для карток. Додатково можна придбати до свого SUM BAG KIT ланцюжок або додаткові ремені.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "kozhuhar-brown-trape-shopper-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -867,7 +867,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "коричневий"
       ],
@@ -884,32 +884,6 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-burgundy-wave-bag",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "BURGUNDY WAVE BAG",
-      "source_url": "https://www.kozhuhar.com/product-page/burgundy-wave-bag",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "бордовий"
-      ],
-      "sizes": [],
-      "price_uah": 7800,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_0d4febe4d9cb4c9495bf1135074f4069~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_23337dbcfe454c98bc3aefd4cf66dcbc~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_3f76695045f94f36bc8e57a28110c625~mv2.jpg"
-      ],
-      "description": "Представляємо сумку Wave Bag з унікальною вигнутою формою, виготовлену з гладкої телячої шкіри. Сумка має хвилясту форму, яка повторює вигини тіла, тому її зручно тримати в руках чи носити на плечі, притискаючи до тіла. Застібка-блискавка теж має характерний вигин, що додає ще більше унікальності дизайну. Ще одна характерна деталь — цільний з основою ремінь, який кріпиться з одного боку сумки пряжкою: він зручно лежить на плечі, не зісковзуючи. Довжина ременю регулюється. Також ви можете носити ремінь через плече.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "kozhuhar-black-sum-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -918,7 +892,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -937,6 +911,32 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-burgundy-wave-bag",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "BURGUNDY WAVE BAG",
+      "source_url": "https://www.kozhuhar.com/product-page/burgundy-wave-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 7800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_0d4febe4d9cb4c9495bf1135074f4069~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_23337dbcfe454c98bc3aefd4cf66dcbc~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_3f76695045f94f36bc8e57a28110c625~mv2.jpg"
+      ],
+      "description": "Представляємо сумку Wave Bag з унікальною вигнутою формою, виготовлену з гладкої телячої шкіри. Сумка має хвилясту форму, яка повторює вигини тіла, тому її зручно тримати в руках чи носити на плечі, притискаючи до тіла. Застібка-блискавка теж має характерний вигин, що додає ще більше унікальності дизайну. Ще одна характерна деталь — цільний з основою ремінь, який кріпиться з одного боку сумки пряжкою: він зручно лежить на плечі, не зісковзуючи. Довжина ременю регулюється. Також ви можете носити ремінь через плече.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-silver-wave-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -945,7 +945,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний"
       ],
@@ -971,7 +971,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "синій",
         "чорний",
@@ -1000,7 +1000,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "жовтий"
       ],
@@ -1026,7 +1026,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1053,7 +1053,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "бордовий"
       ],
@@ -1079,7 +1079,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1106,7 +1106,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "червоний"
       ],
@@ -1132,7 +1132,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "чорний"
       ],
@@ -1158,7 +1158,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "бордовий"
       ],
@@ -1175,6 +1175,31 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-red-heart-key-keeper-necklace",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "RED HEART KEY-KEEPER NECKLACE",
+      "source_url": "https://www.kozhuhar.com/product-page/red-heart-key-keeper-necklace",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_b0b4770f89214b46b4ae1cfa33930952~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_ae15e0cfbfbd4d1ca6224f85c9f5ce93~mv2.jpg"
+      ],
+      "description": "Ключниця-підвіска в формі серця. Виготовлена із гладкої шкіри, має шкіряний шнурок та карабін для ключів.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-white-sum-bag-s",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -1183,7 +1208,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1202,31 +1227,6 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-red-heart-key-keeper-necklace",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "RED HEART KEY-KEEPER NECKLACE",
-      "source_url": "https://www.kozhuhar.com/product-page/red-heart-key-keeper-necklace",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "червоний"
-      ],
-      "sizes": [],
-      "price_uah": 1400,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_b0b4770f89214b46b4ae1cfa33930952~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_ae15e0cfbfbd4d1ca6224f85c9f5ce93~mv2.jpg"
-      ],
-      "description": "Ключниця-підвіска в формі серця. Виготовлена із гладкої шкіри, має шкіряний шнурок та карабін для ключів.",
-      "care": null,
-      "collections": []
-    },
-    {
       "id": "kozhuhar-silver-sum-bag-s",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -1235,7 +1235,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1262,7 +1262,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1289,7 +1289,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1316,7 +1316,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1335,6 +1335,33 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-sand-sum-bag-m",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "SAND SUM BAG M",
+      "source_url": "https://www.kozhuhar.com/product-page/sand-sum-bag-m",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "срібний",
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 6930,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_1300215e544a45cc9c3cf49f719182f2~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_05c7bf7abddd4fa18ede5230316ceeeb~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_3f612163339845f5b8cebd1bec45845a~mv2.jpg"
+      ],
+      "description": "SUM BAG - сумка-трансформер В комплекті: 3 кільця-карабіни та 2 шкіряні ремені (короткий 40 см і середній 70 см). Ці ремені можна використовувати окремо. Якщо з'єднати 2 ремені за допомогою третього кільця-карабіна, то сумку можна носити через плече. Oбирай свій варіант як носити: SUM BAG з коротким, середнім або з довгим ременем. А ще можна носити як клатч. Додатково можна придбати до свого SUM BAG KIT ланцюжок. Усередині є 2 кишені для карток та документів.",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-red-sum-bag-m",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -1343,7 +1370,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1370,7 +1397,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "срібний",
         "золотий"
@@ -1397,7 +1424,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "чорний"
       ],
@@ -1422,7 +1449,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "блакитний",
         "синій"
@@ -1449,7 +1476,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "блакитний",
         "синій"
@@ -1468,29 +1495,28 @@
       "collections": []
     },
     {
-      "id": "kozhuhar-sand-sum-bag-m",
+      "id": "kozhuhar-burgundy-heart-bag",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
-      "name": "SAND SUM BAG M",
-      "source_url": "https://www.kozhuhar.com/product-page/sand-sum-bag-m",
+      "name": "BURGUNDY HEART BAG",
+      "source_url": "https://www.kozhuhar.com/product-page/burgundy-heart-bag",
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
-        "срібний",
-        "золотий"
+        "бордовий"
       ],
       "sizes": [],
-      "price_uah": 6930,
+      "price_uah": 8300,
       "sale_price_uah": null,
       "in_stock": false,
       "photos": [
-        "https://static.wixstatic.com/media/970e9c_1300215e544a45cc9c3cf49f719182f2~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_05c7bf7abddd4fa18ede5230316ceeeb~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_3f612163339845f5b8cebd1bec45845a~mv2.jpg"
+        "https://static.wixstatic.com/media/970e9c_9824d08df2da4520bc930cb1379e4caf~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_cff5d8d5fd4f40a0baaeff6ddf3c5e07~mv2.jpg",
+        "https://static.wixstatic.com/media/970e9c_f272de98f9b943668e2fb272b30cf4f5~mv2.jpg"
       ],
-      "description": "SUM BAG - сумка-трансформер В комплекті: 3 кільця-карабіни та 2 шкіряні ремені (короткий 40 см і середній 70 см). Ці ремені можна використовувати окремо. Якщо з'єднати 2 ремені за допомогою третього кільця-карабіна, то сумку можна носити через плече. Oбирай свій варіант як носити: SUM BAG з коротким, середнім або з довгим ременем. А ще можна носити як клатч. Додатково можна придбати до свого SUM BAG KIT ланцюжок. Усередині є 2 кишені для карток та документів.",
+      "description": "Нова грайливо-мінімалістична сумка в колекції KOZHUHAR - сумка \"Серце\" Має подовжену форму. Бока сумки з двох сторін прикрашені особливим елементом у вигляді серця. Сумка закривається на блискавку, всередині має одне відділення та кишеню на блискавці. Широкий регульований ремінь - деталь, на яку теж треба звернути увагу: сумку можна носити із коротким варіантом ременю, або носити через плече.",
       "care": null,
       "collections": []
     },
@@ -1513,54 +1539,6 @@
       "in_stock": false,
       "photos": [
         "https://static.wixstatic.com/media/970e9c_37a7d9a94b194bebab0a6fbc175ec3b9~mv2.png"
-      ],
-      "description": "Функціональний м’який гаманець на блискавці. - 2 відділення для купюр - зона для зберігання карток - кишеня на застібці для монет - додаткові відділення для документів - напівкільце, щоб гаманець можна було прикріпити до сумки / носити як аксесуар на шнурку Розміри: Довжина 12 см / Ширира 10 см / Глибина 2 см Склад: Натуральна італійська шкіра",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "kozhuhar-burgundy-heart-bag",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "BURGUNDY HEART BAG",
-      "source_url": "https://www.kozhuhar.com/product-page/burgundy-heart-bag",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Сумка",
-      "slot": "other",
-      "colors": [
-        "бордовий"
-      ],
-      "sizes": [],
-      "price_uah": 8300,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_9824d08df2da4520bc930cb1379e4caf~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_cff5d8d5fd4f40a0baaeff6ddf3c5e07~mv2.jpg",
-        "https://static.wixstatic.com/media/970e9c_f272de98f9b943668e2fb272b30cf4f5~mv2.jpg"
-      ],
-      "description": "Нова грайливо-мінімалістична сумка в колекції KOZHUHAR - сумка \"Серце\" Має подовжену форму. Бока сумки з двох сторін прикрашені особливим елементом у вигляді серця. Сумка закривається на блискавку, всередині має одне відділення та кишеню на блискавці. Широкий регульований ремінь - деталь, на яку теж треба звернути увагу: сумку можна носити із коротким варіантом ременю, або носити через плече.",
-      "care": null,
-      "collections": []
-    },
-    {
-      "id": "kozhuhar-salted-caramel-soft-touch-wallet",
-      "brand": "Kozhuhar",
-      "brand_id": "kozhuhar",
-      "name": "SALTED CARAMEL SOFT TOUCH WALLET",
-      "source_url": "https://www.kozhuhar.com/product-page/salted-caramel-soft-touch-wallet",
-      "gender": "female",
-      "category": "Аксесуари",
-      "item_type": "Гаманець",
-      "slot": "other",
-      "colors": [],
-      "sizes": [],
-      "price_uah": 3800,
-      "sale_price_uah": null,
-      "in_stock": false,
-      "photos": [
-        "https://static.wixstatic.com/media/970e9c_edf99a9e432e482084eb78a890da5f6c~mv2.jpg"
       ],
       "description": "Функціональний м’який гаманець на блискавці. - 2 відділення для купюр - зона для зберігання карток - кишеня на застібці для монет - додаткові відділення для документів - напівкільце, щоб гаманець можна було прикріпити до сумки / носити як аксесуар на шнурку Розміри: Довжина 12 см / Ширира 10 см / Глибина 2 см Склад: Натуральна італійська шкіра",
       "care": null,
@@ -1591,6 +1569,28 @@
       "collections": []
     },
     {
+      "id": "kozhuhar-salted-caramel-soft-touch-wallet",
+      "brand": "Kozhuhar",
+      "brand_id": "kozhuhar",
+      "name": "SALTED CARAMEL SOFT TOUCH WALLET",
+      "source_url": "https://www.kozhuhar.com/product-page/salted-caramel-soft-touch-wallet",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3800,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://static.wixstatic.com/media/970e9c_edf99a9e432e482084eb78a890da5f6c~mv2.jpg"
+      ],
+      "description": "Функціональний м’який гаманець на блискавці. - 2 відділення для купюр - зона для зберігання карток - кишеня на застібці для монет - додаткові відділення для документів - напівкільце, щоб гаманець можна було прикріпити до сумки / носити як аксесуар на шнурку Розміри: Довжина 12 см / Ширира 10 см / Глибина 2 см Склад: Натуральна італійська шкіра",
+      "care": null,
+      "collections": []
+    },
+    {
       "id": "kozhuhar-classy-strap",
       "brand": "Kozhuhar",
       "brand_id": "kozhuhar",
@@ -1599,7 +1599,7 @@
       "gender": "female",
       "category": "Аксесуари",
       "item_type": "Сумка",
-      "slot": "other",
+      "slot": "bag",
       "colors": [
         "чорний"
       ],
