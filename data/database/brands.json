@@ -1233,5 +1233,71 @@
     "segment": null,
     "default_gender": null,
     "kind": "bags"
+  },
+  {
+    "id": "poelle",
+    "name": "Poelle",
+    "site": "https://poelle.ua",
+    "instagram": "https://instagram.com/poelle_atelier",
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "nukot",
+    "name": "NÚKOT",
+    "site": "https://nukot.com.ua",
+    "instagram": "https://instagram.com/nukot_handbags",
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "vikele",
+    "name": "Vikele",
+    "site": "https://ua.vikele.com",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "huru",
+    "name": "Huru",
+    "site": "https://huru.rocks/uk-ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "okryk",
+    "name": "Okryk",
+    "site": "https://okrykbrand.com/uk",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "niksense",
+    "name": "Niksense",
+    "site": "https://niksense.store",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": null,
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
   }
 ]

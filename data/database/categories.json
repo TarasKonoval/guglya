@@ -29,18 +29,6 @@
     ]
   },
   {
-    "category": "Верх",
-    "slot": "top",
-    "item_types": [
-      "Сорочка",
-      "Піджак",
-      "Худі",
-      "Світшот",
-      "Жилет",
-      "Блуза"
-    ]
-  },
-  {
     "category": "Аксесуари",
     "slot": "other",
     "item_types": [
@@ -50,8 +38,8 @@
       "Ремінь",
       "Гаманець",
       "Кепка",
-      "Шкарпетки",
       "Прикраси",
+      "Шкарпетки",
       "Капелюх",
       "Окуляри",
       "Хустка",
@@ -59,8 +47,21 @@
       "Панама",
       "Чохол",
       "Балаклава",
+      "Берет",
       "Кардхолдер",
       "Косметичка"
+    ]
+  },
+  {
+    "category": "Верх",
+    "slot": "top",
+    "item_types": [
+      "Сорочка",
+      "Піджак",
+      "Худі",
+      "Світшот",
+      "Жилет",
+      "Блуза"
     ]
   },
   {
@@ -133,6 +134,21 @@
     ]
   },
   {
+    "category": "CROSSBODY",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "BIG",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "MEDIUM",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Сумки",
     "slot": "bag",
     "item_types": [
@@ -159,6 +175,11 @@
     ]
   },
   {
+    "category": "АКСЕСУАРИ",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Одяг",
     "slot": "other",
     "item_types": []
@@ -169,7 +190,17 @@
     "item_types": []
   },
   {
+    "category": "MINI",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "Човники",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Accessories",
     "slot": "other",
     "item_types": []
   },
@@ -220,11 +251,6 @@
   },
   {
     "category": "Headband",
-    "slot": "other",
-    "item_types": []
-  },
-  {
-    "category": "Accessories",
     "slot": "other",
     "item_types": []
   },
@@ -346,6 +372,11 @@
     "item_types": []
   },
   {
+    "category": "Best",
+    "slot": "other",
+    "item_types": []
+  },
+  {
     "category": "WOAW",
     "slot": "other",
     "item_types": []
@@ -422,6 +453,11 @@
   },
   {
     "category": "Last pieces до -50%",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "НА ПЛЕЧЕ",
     "slot": "other",
     "item_types": []
   },
@@ -517,6 +553,21 @@
   },
   {
     "category": "Summer mood",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Месенджер",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Органайзери",
+    "slot": "other",
+    "item_types": []
+  },
+  {
+    "category": "Clothes",
     "slot": "other",
     "item_types": []
   },

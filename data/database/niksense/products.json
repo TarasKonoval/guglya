@@ -1,0 +1,1964 @@
+{
+  "_meta": {
+    "brand": "Niksense",
+    "brand_id": "niksense",
+    "site": "https://niksense.store",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 74,
+    "found": 74,
+    "candidates": 76,
+    "checked": 76,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "niksense-senoir-mini-2-0",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер із вивареної джинси Senior Mini 2.0",
+      "source_url": "https://niksense.store/products/senoir-mini-2-0",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12746.jpg?v=1746132100",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12722.jpg?v=1746132100",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12727.jpg?v=1746132100"
+      ],
+      "description": "Шопер виготовлений із вивареного деніму. Має одне містке основне відділення, зовнішню кишеню на блискавці для дрібниць та додаткову кишеньку на карабіні з магнітною застібкою — ідеально для навушників, ключів чи карток. • Склад: 100% бавовна • Розміри: 24×17×10 см • Регульована ручка • Металевий карабін для додаткових аксесуарів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-vintage-bag-copy-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер із вивареної джинси Vintage bag синій",
+      "source_url": "https://niksense.store/products/vintage-bag-copy-2",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9809.jpg?v=1790851611",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9812.jpg?v=1790851628",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9810.jpg?v=1790851646"
+      ],
+      "description": "Шопер із вивареного деніму — простий, місткий і зручний для щоденного використання. Має одне велике основне відділення, внутрішню кишеню для дрібниць та карабін, закривається на блискавку. • Склад: 100% бавовна • Розміри: 29×41 см • Регульована ручка з перетяжкою • Ідеально підходить для ноутбуків до 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-vintage-bag-copy-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер із вивареної джинси Vintage bag",
+      "source_url": "https://niksense.store/products/vintage-bag-copy-1",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03770.jpg?v=1741548139",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03777.jpg?v=1741548139",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03782.jpg?v=1741548140"
+      ],
+      "description": "Шопер виготовлений із вивареного деніму має одне велике відділення, внутрішню кишеню для дрібниць та карабін застібається на блискавку. Склад: 100% бавовна. Розмір: 29*41, довжина ручки регулюється за допомогою перетяжки. Підійде для ноутбуків 16 дюймів. Зріст Ніка 175 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-vintage-bag-copy",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер iз вивареної джинси Vintage bag",
+      "source_url": "https://niksense.store/products/vintage-bag-copy",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03810.jpg?v=1741548402",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03791.jpg?v=1741548402",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03802.jpg?v=1741548402"
+      ],
+      "description": "Шопер з вивареної джинси з карабіном для ключів та інших дрібничок. По класиці шопер має застібку, одне велике відділення та внутрішню кишеньку. Склад: 100% бавовна Розмір: 29*41, довжина ручки регулюється за допомогою перетяжки. Підійде для ноутбуків 16 дюймів.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-slice-bag-4",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка крос-боді Slice bag",
+      "source_url": "https://niksense.store/products/slice-bag-4",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0721.jpg?v=1777367688",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0709.jpg?v=1777367687",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2026-04-28_12.15.16.png?v=1777367752"
+      ],
+      "description": "Мінішопер має одне відділення та внутрішню кишеню з таємним посланням, верхній клапан фіксується магнітом. • Тканина: джинс (100% бавовна) • Розмір: 19×13×3.5 см • Внутрішня кишеня з таємним написом • Регульована ручка на вузлику Ідеальний формат для найнеобхіднішого — і трохи більше.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-slice-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка крос-боді Slice bag",
+      "source_url": "https://niksense.store/products/slice-bag",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12491.jpg?v=1746131959",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12482.jpg?v=1746131959",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12484.jpg?v=1746131959"
+      ],
+      "description": "Мінішопер має одне відділення та внутрішню кишеню з таємним посланням, верхній клапан фіксується магнітом. • Тканина: джинс (100% бавовна) • Розмір: 19×13×3.5 см • Внутрішня кишеня з таємним написом • Регульована ручка на вузлику Ідеальний формат для найнеобхіднішого — і трохи більше.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-slice-bag-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка крос-боді Slice bag",
+      "source_url": "https://niksense.store/products/slice-bag-2",
+      "gender": null,
+      "category": "Боді",
+      "item_type": "Боді",
+      "slot": "top",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1382.jpg?v=1759919748",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1385.jpg?v=1759919749",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1388.jpg?v=1759919748"
+      ],
+      "description": "Мінішопер має одне відділення та внутрішню кишеню з таємним посланням, верхній клапан фіксується магнітом. • Тканина: джинс (100% бавовна) • Розмір: 19×13×3.5 см • Внутрішня кишеня з таємним написом • Регульована ручка на вузлику Ідеальний формат для найнеобхіднішого — і трохи більше.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-keychain-sensic",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Брелок Сенсік",
+      "source_url": "https://niksense.store/products/keychain-sensic",
+      "gender": null,
+      "category": "Clothes",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 750,
+      "sale_price_uah": 675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04176.jpg?v=1741546426",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04179.jpg?v=1741546428"
+      ],
+      "description": "Брелок ручної роботи для шукачів сенсу",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-velvet-mars-bag-коричневий-nik-sense-copy",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Velvet Mars Bag чорний nik sense",
+      "source_url": "https://niksense.store/products/velvet-mars-bag-коричневий-nik-sense-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4270.heic?v=1794654968",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4308.heic?v=1794654968",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4267.heic?v=1794654968"
+      ],
+      "description": "Місткий, міцний і зручний — ідеальний варіант для навчання, роботи або просто насиченого дня. Має одне велике відділення та внутрішню кишеню для дрібниць. Зручна довга ручка з функцією перетяжки — для ідеальної посадки на плечі чи через плече. • Матеріал: бавовна • Розмір: 29×41 см • Довжина ручки: 100 см, тип — перетяжка • Вміщує ноутбук до 16 дюймів • Внутрішня кишеня для дрібниць",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-y2k-bag-коричневий",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Y2K Bag коричневий",
+      "source_url": "https://niksense.store/products/y2k-bag-коричневий",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2554.png?v=1793020177",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0110.jpg?v=1793020174",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0127.jpg?v=1793020173"
+      ],
+      "description": "Місткий месенджер зі щільного вельвету. Сумка про перерви в шкільному коридорі, запах столових булочок і недоїдені сухарики на дні рюкзака. Просякнута духом свободи, дитинства і теплих спогадів. Дві ручки, які регулюються за допомогою перетяжки. • Матеріал: щільний бавовняний вельвет • Розмір: 37×30×13 см • Ручки: дві, регулюються перетяжкою • Вміщує ноутбук до 16 дюймів • Три зовнішні кишені",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-monday-bag-синій",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Monday bag синій",
+      "source_url": "https://niksense.store/products/monday-bag-синій",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2650,
+      "sale_price_uah": 2250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9812_a1e6bbc8-dec0-45d1-beed-2aa8a14faad1.jpg?v=1791545362",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9668.jpg?v=1791545449",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9770.jpg?v=1791545423"
+      ],
+      "description": "Monday Bag — це про той особливий понеділковий настрій, коли береш із собою все найважливіше і йдеш назустріч новому тижню з повними руками і легким серцем. Натхненна шкільним вайбом у найкращому його сенсі: коли в одній сумці й речі на фізру, і зошити, і щось для душі. Створена з щільного денімy та вельвету. Monday bag для амбіцій, планів і всього, що ти вирішив почати з цього понеділка. • Матеріал: міцний вельвет + щільний денім • Розмір: 48×37 см (дно — 14 см) • Внутрішня кишеня для дрібниць • Відділ для ноутбука до 18” • Довжина стропи регулюється",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-monday-bag-коричневий",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Monday bag коричневий",
+      "source_url": "https://niksense.store/products/monday-bag-коричневий",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2650,
+      "sale_price_uah": 2250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2580.jpg?v=1791544995",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2603.jpg?v=1791545241",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2549.jpg?v=1791545141"
+      ],
+      "description": "Monday Bag — це про той особливий понеділковий настрій, коли береш із собою все найважливіше і йдеш назустріч новому тижню з повними руками і легким серцем. Натхненна шкільним вайбом у найкращому його сенсі: коли в одній сумці й речі на фізру, і зошити, і щось для душі. Створена з щільного денімy та вельвету. Monday bag для амбіцій, планів і всього, що ти вирішив почати з цього понеділка. • Матеріал: міцний вельвет + щільний денім • Розмір: 48×37 см (дно — 14 см) • Внутрішня кишеня для дрібниць • Відділ для ноутбука до 18” • Довжина стропи регулюється",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-double-bag-сірий",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер з плащівки Double bag сірий",
+      "source_url": "https://niksense.store/products/double-bag-сірий",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2553.png?v=1793027324",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6186.heic?v=1790077342",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6189.heic?v=1790077342"
+      ],
+      "description": "Широкий, великий, легкий і при функціональний шопер. З тих моделей, куди влізе все, що треба на цілий день в місті або за його межами. Має велике основне відділення, внутрішню кишеню на липучці для ноутбука та маленьку кишеню для дрібниць. Матеріал: плащівка (100% поліестер) Розмір: 41×29×13 см Максимальна довжина ручки: 115 см Кишеня для ноутбука на липучці + кишеня для дрібниць Вміщує ноутбук до 16\"",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-tvelve-bag-бордовий",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер з плащівки Twelve bag бордовий",
+      "source_url": "https://niksense.store/products/tvelve-bag-бордовий",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 2300,
+      "sale_price_uah": 2050,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6281.jpg?v=1790076300",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6294.jpg?v=1790076300",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6297.jpg?v=1790076300"
+      ],
+      "description": "Цей шопер з'явився через ідею, яка сиділа в голові роками — хочемо ДУЖЕ ШИРОКУ ручку, яка не буде врізатися в плече. Спеціально для цієї моделі замовили окрему перетяжку з переробленого пластику, аж 12 см завширшки. Склад: плащівка (100% поліестер) Розмір: 36×27×13 см Ширина ручки: 12 см, регулюється перетяжкою + хлястик 15 см Кишеня для ноутбука на липучці Вміщує ноутбук до 16\"",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-velvet-mars-bag-синій-copy",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Velvet Mars Bag коричневий nik sense",
+      "source_url": "https://niksense.store/products/velvet-mars-bag-синій-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6348.jpg?v=1789748191",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6215.heic?v=1789748190",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6385.jpg?v=1789748191"
+      ],
+      "description": "Місткий, міцний і зручний — ідеальний варіант для навчання, роботи або просто насиченого дня. Має одне велике відділення та внутрішню кишеню для дрібниць. Зручна довга ручка з функцією перетяжки — для ідеальної посадки на плечі чи через плече. • Матеріал: бавовна • Розмір: 29×41 см • Довжина ручки: 100 см, тип — перетяжка • Вміщує ноутбук до 16 дюймів • Внутрішня кишеня для дрібниць",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-daisy-bag-чорна",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Daisy Bag чорна",
+      "source_url": "https://niksense.store/products/daisy-bag-чорна",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1566.heic?v=1789597860",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1570.heic?v=1789597730",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1572.heic?v=1789597860"
+      ],
+      "description": "Майже невагома сумка, створена для легких образів. Створена для найнеобхіднішого. Daisy Bag любить легкість - тому не призначена для важких речей чи великих покупок. Зручно складається в невеличку кишеньку. • Магнітна застібка. • Внутрішня кишеня для дрібниць. • Ручки можна зав’язати, щоб носити сумку на плечі або через плече. • Довжина ручки регулюється завʼязкою •Матеріал: мереживо •Розмір: 41х29",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-eko-leather-bags-5",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкiряний шопер бордовий",
+      "source_url": "https://niksense.store/products/eko-leather-bags-5",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": 3100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/6_cac4121c-e475-4d1f-89dd-fe927f594b86.jpg?v=1734797330",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/5_6ac2f067-03be-4c96-85ba-c06a21786ae9.jpg?v=1734797330",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/4_5923c1b4-5a36-4822-ba6c-698318aa368f.jpg?v=1734797330"
+      ],
+      "description": "Шопер виготовлений з високоякісної екошкіри. Має одне велике відділення та внутрішню бокову кишеню для важливих дрібниць. Склад: 100% екошкіра Розмір 35*35 (дно 11 см), довжина ручки 70 см. Підійде для ноутбуків 13 дюймів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-retro-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Retro bag",
+      "source_url": "https://niksense.store/products/retro-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8448.jpg?v=1787139674",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8387_1.heic?v=1787139674",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8436_1.jpg?v=1787139674"
+      ],
+      "description": "Ми давно думаємо про те, як багато в нашому сьогоднішньому житті тримається на спогадах, особливо тих, що повертають відчуття тепла й безпеки. Ця сумка для нас — буквально візуальний спогад із дитинства, який ми вирішили помістити у форму сьогодення. Щось знайоме, трохи бабусине, трохи наївне, що нагадує про дім і час, коли все було простіше. Хотілося зробити такий собі підручний спогад: річ, яку можна взяти із собою і мати поруч те, що тебе гріє. Матеріал: гобелен Зовнішня застібка на магніті Розміри: 35×28 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-daisy-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Daisy Bag біла",
+      "source_url": "https://niksense.store/products/daisy-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8630.heic?v=1786015130",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8705.heic?v=1786015132",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8671.heic?v=1786015130"
+      ],
+      "description": "Майже невагома сумка, створена для легких образів. Створена для найнеобхіднішого. Daisy Bag любить легкість - тому не призначена для важких речей чи великих покупок. Зручно складається в невеличку кишеньку. • Магнітна застібка. • Внутрішня кишеня для дрібниць. • Ручки можна зав’язати, щоб носити сумку на плечі або через плече. • Довжина ручки регулюється завʼязкою •Матеріал: мереживо •Розмір: 41х29",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-вельветова-сумка-velvet-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка молочна Velvet bag",
+      "source_url": "https://niksense.store/products/вельветова-сумка-velvet-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_7212.jpg?v=1785164688",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_7194.jpg?v=1785164688",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_7146.jpg?v=1785164687"
+      ],
+      "description": "Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-піала-сенсік",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Піала \"Сенсік\"",
+      "source_url": "https://niksense.store/products/піала-сенсік",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1000,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5836.heic?v=1784637387",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5843.heic?v=1784637387",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5833_6fad0489-8bca-4ea4-878d-0294d05a4ffe.heic?v=1784637386"
+      ],
+      "description": "Якось ми сиділи на Пейзажці, пили улюблений китайський чай проливами і вирішили поселити на піалі Сенсіка, нашого маленького чоловічка. Кожну піалу виготовили, розмалювали і покрили лаком вручну. Тому двох однакових не буває. У кожної свій характер і свій унікальний чайний стан:) Напівпорцеляна Прозора харчова глазур Підходить для миття в посудомийній машині",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-піала-чайний-стан",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Піала \"чайний стан\"",
+      "source_url": "https://niksense.store/products/піала-чайний-стан",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1000,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5821.heic?v=1784637129",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5846.heic?v=1784637128",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5833.heic?v=1784637129"
+      ],
+      "description": "Якось ми сиділи на Пейзажці, пили улюблений китайський чай проливами й знову жартували про чайний стан. Цей жарт давно живе в наших відео, тож ми вирішили дати йому власну піалу. Кожну піалу виготовили, розмалювали і покрили лаком вручну. Тому двох однакових не буває. У кожної свій характер і свій унікальний чайний стан:) Напівпорцеляна Прозора харчова глазур Підходить для миття в посудомийній машині",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-чорний-кашкет",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Чорний кашкет",
+      "source_url": "https://niksense.store/products/чорний-кашкет",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8072.jpg?v=1784894633",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8069_1.jpg?v=1784894625",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8046.jpg?v=1784894669"
+      ],
+      "description": "Кашкет із щільного вельвету, що добре тримає форму. Лаконічний аксесуар, який легко поєднується з повсякденними та класичними образами, додаючи їм виразності. Доступний в двох розмірах.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-copy-of-bags-of-the-3rd-wave",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі смарагдовий",
+      "source_url": "https://niksense.store/products/copy-of-bags-of-the-3rd-wave",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03665.jpg?v=1741719783",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03649.jpg?v=1741719795",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03667.jpg?v=1741719807"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: саржа • Розмір: 24×25×13 см • Довжина ручки регулюється перетяжкою • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-monday-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Monday bag чорний",
+      "source_url": "https://niksense.store/products/monday-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2650,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4930.jpg?v=1781193433",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4830.png?v=1781193473",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4828.png?v=1781193487"
+      ],
+      "description": "Monday Bag — це про той особливий понеділковий настрій, коли береш із собою все найважливіше і йдеш назустріч новому тижню з повними руками і легким серцем. Натхненна шкільним вайбом у найкращому його сенсі: коли в одній сумці й речі на фізру, і зошити, і щось для душі. Створена з щільного денімy та вельвету. Monday bag для амбіцій, планів і всього, що ти вирішив почати з цього понеділка. • Матеріал: міцний вельвет + щільний денім • Розмір: 48×37 см (дно — 14 см) • Внутрішня кишеня для дрібниць • Відділ для ноутбука до 18” • Довжина стропи регулюється",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-studio-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Studio bag",
+      "source_url": "https://niksense.store/products/studio-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": 2950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4854.heic?v=1790853699",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4841.heic?v=1790853724",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4867.heic?v=1790853757"
+      ],
+      "description": "Лакова еко-шкіра, декоративний ремінець, багато місця всередині. Нічого зайвого, і саме в цьому вся ідея. Studio Bag однаково добре метчиться і з джинсами у будні, і з чимось екстра на вихідні. • Матеріал: лакова екошкіра • Розмір: 45×37 см • Відділ для ноутбука: до 16” • Довжина ручки: 59 см",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-worker-s-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер Worker`s bag чорний",
+      "source_url": "https://niksense.store/products/worker-s-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0889.jpg?v=1776956159",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0878.jpg?v=1776956089",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2026-04-28_12.50.36.png?v=1777369864"
+      ],
+      "description": "Сумка робочого, виконана з міцного вельвету та щільного деніму. Тримає форму та розрахована на щоденне використання. Всередині — окремий відділ для ноутбука та кишеня для дрібниць. Має дві функціональні зовнішні кишені: одна на магніті, інша — на застібці. Довжина ручки регулюється перетяжкою. • Матеріал: міцний вельвет + щільний денім • Розмір: 40×32 см • Зовнішні кишені: одна на магніті, одна на застібці • Внутрішня кишеня для дрібниць • Відділ для ноутбука до 18” • Довжина ручки регулюється перетяжкою",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-worker-s-bag-copy",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер Worker`s bag синій nik sense",
+      "source_url": "https://niksense.store/products/worker-s-bag-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0636.jpg?v=1777030221",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0634.jpg?v=1777030214",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2026-04-28_12.49.17.png?v=1777369776"
+      ],
+      "description": "Сумка робочого, виконана з міцного вельвету та щільного деніму. Тримає форму та розрахована на щоденне використання. Всередині — окремий відділ для ноутбука та кишеня для дрібниць. Має дві функціональні зовнішні кишені: одна на магніті, інша — на застібці. Довжина ручки регулюється перетяжкою. • Матеріал: міцний вельвет + щільний денім • Розмір: 40×32 см • Зовнішні кишені: одна на магніті, одна на застібці • Внутрішня кишеня для дрібниць • Відділ для ноутбука до 18” • Довжина ручки регулюється перетяжкою",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-екошкіряний-шопер-stone-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкіряний шопер Stone bag",
+      "source_url": "https://niksense.store/products/екошкіряний-шопер-stone-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0928.jpg?v=1777364378",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0933.jpg?v=1777364377",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0924.jpg?v=1777364372"
+      ],
+      "description": "Шопер із високоякісної екошкіри має одне велике основне відділення та внутрішню кишеню для важливих дрібниць. • Матеріал: 100% екошкіра • Розміри: 36×27 см • Довжина ручки — 110 см (регулюється) • Підійде для ноутбуків до 13 дюймів nik sense",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-екошкіряний-шопер-messy-bag-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкіряний шопер Stone bag",
+      "source_url": "https://niksense.store/products/екошкіряний-шопер-messy-bag-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0831.jpg?v=1777363502",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0818.jpg?v=1777363498",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0828.jpg?v=1777363495"
+      ],
+      "description": "Шопер із високоякісної екошкіри має одне велике основне відділення та внутрішню кишеню для важливих дрібниць. • Матеріал: 100% екошкіра • Розміри: 36×27 см • Довжина ручки — 110 см (регулюється) • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-velvet-bag-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка Velvet bag",
+      "source_url": "https://niksense.store/products/velvet-bag-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": 2000,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4555.png?v=1777369528",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0864.jpg?v=1750847312",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0814.jpg?v=1750847296"
+      ],
+      "description": "Velvet bag Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-шопер-з-плащівки-daily-bag-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер з плащівки Daily bag nik sense",
+      "source_url": "https://niksense.store/products/шопер-з-плащівки-daily-bag-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2450,
+      "sale_price_uah": 1350,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3781.jpg?v=1773847467",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3770.jpg?v=1773847467",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3811.heic?v=1773847466"
+      ],
+      "description": "Шопер має велике основне відділення, внутрішню кишеню для дрібниць, дві зручні зовнішні кишені на магнітах та одну на застібці. Компактний і водночас місткий - ідеально підходить для ноутбука до 13 дюймів. Ручка зі стропи регулюється по довжині, тож носити його зручно і на плечі, і кросбоді. • Склад: плащівка (100% поліестер) • Розмір: 31×34 см • Дві зовнішні кишені на магнітах + одна на застібці • Внутрішня кишеня для дрібниць • Ручка зі стропи з регулюванням довжини • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-vintage-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вінтажний шопер з вивареного деніму Vintage bag",
+      "source_url": "https://niksense.store/products/vintage-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04109_3af464cc-b0bb-4f7e-a188-f85b05b761cc.jpg?v=1741548556",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04114.jpg?v=1741548556",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04121.jpg?v=1741548556"
+      ],
+      "description": "Шопер виготовлений із вивареного деніму має одне велике відділення, внутрішню кишеню для дрібниць та карабін застібається на блискавку. Склад: 100% бавовна. Розмір: 29*41, довжина ручки регулюється за допомогою перетяжки. Підійде для ноутбуків 16 дюймів. Зріст Лади 180 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-великий-шопер-big-boy",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Великий шопер Big boy",
+      "source_url": "https://niksense.store/products/великий-шопер-big-boy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0833.jpg?v=1777363691",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0848.jpg?v=1777363693",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0853.jpg?v=1777363694"
+      ],
+      "description": "Шопер має одне велике основне відділення, кишеню для ноутбука та надійні застібки на магнітах. • Матеріал: 100% бавовна • Розміри: 35×45 см • Регульована ручка з перетяжкою • Підійде для ноутбуків до 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-сумка-шопер-mars-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка-шопер Mars Bag nik sense",
+      "source_url": "https://niksense.store/products/сумка-шопер-mars-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2026-04-28_11.30.28.png?v=1777365045",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0980.jpg?v=1777365006",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0971.jpg?v=1777365003"
+      ],
+      "description": "Місткий, міцний і зручний — ідеальний варіант для навчання, роботи або просто насиченого дня. Має одне велике відділення та внутрішню кишеню для дрібниць. Зручна довга ручка з функцією перетяжки — для ідеальної посадки на плечі чи через плече. • Матеріал: саржа (65% бавовна, 35% поліестер) • Розмір: 29×41 см • Довжина ручки: 100 см, тип — перетяжка • Вміщує ноутбук до 16 дюймів • Внутрішня кишеня для дрібниць",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-alpaca-chic-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Alpaca chic bag",
+      "source_url": "https://niksense.store/products/alpaca-chic-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3359.jpg?v=1762859533",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/0_832f054a-0401-40c9-9bd8-d75cf41ed4ca.jpg?v=1762859533",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/1_1e0d6b5c-5fe6-414d-8fb4-9445de4ea11e.jpg?v=1762859533"
+      ],
+      "description": "Стильний шопер із м’якого штучного хутра — ідеальний для повсякденного використання. Має одне містке основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 22×35×13 см • Довжина ручки — 32 см • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-брелок-серце",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Брелок Серденько",
+      "source_url": "https://niksense.store/products/брелок-серце",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 750,
+      "sale_price_uah": 675,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0594.heic?v=1767885041"
+      ],
+      "description": "Брелок ручної роботи.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-alpaca-chic-bag-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Alpaca chic bag",
+      "source_url": "https://niksense.store/products/alpaca-chic-bag-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3873.png?v=1771403175",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3875.png?v=1771403175",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9970.jpg?v=1771403175"
+      ],
+      "description": "Стильний шопер із м’якого штучного хутра — ідеальний для повсякденного використання. Має одне містке основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 22×35×13 см • Довжина ручки — 32 см • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-шопер-file-bag-пісочний",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер File bag пісочний",
+      "source_url": "https://niksense.store/products/шопер-file-bag-пісочний",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 2850,
+      "sale_price_uah": 1550,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns1152.jpg?v=1777366182",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns1134.jpg?v=1777366178",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2026-04-28_11.42.25.png?v=1777366177"
+      ],
+      "description": "Шопер має містке основне відділення та маленьку внутрішню кишеньку для дрібниць, застібається на блискавку. Спереду - зручна накладна кишеня з клапаном. Довга ручка з перетяжкою дозволяє комфортно носити сумку як на плечі, так і через плече. • Матеріал: 100% бавовна • Розмір: 36×27×22 см • Довжина ручки регулюється перетяжкою • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-шопер-file-bag-чорний",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер File bag чорний",
+      "source_url": "https://niksense.store/products/шопер-file-bag-чорний",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2850,
+      "sale_price_uah": 1550,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns1227.jpg?v=1777366473",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns1217.jpg?v=1777366473",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns1242.jpg?v=1777366473"
+      ],
+      "description": "Шопер має містке основне відділення та маленьку внутрішню кишеньку для дрібниць, застібається на блискавку. Спереду - зручна накладна кишеня з клапаном. Довга ручка з перетяжкою дозволяє комфортно носити сумку як на плечі, так і через плече. • Матеріал: 100% бавовна • Розмір: 36×27×22 см • Довжина ручки регулюється перетяжкою • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-шапка-alpaca",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шапка Alpaca",
+      "source_url": "https://niksense.store/products/шапка-alpaca",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1300,
+      "sale_price_uah": 1150,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0885_edited.png?v=1741867088",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0857.heic?v=1741867088",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0873.heic?v=1741867088"
+      ],
+      "description": "Модний мікс гуцульської традиції та київського андеграунду. Незамінна для зимових променадів біля 'Куренівки' та фото на фоні яскравих графітів. Розмір : One size Матеріал : Еко хутро",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-alpaca-chic-bag-3",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Alpaca chic bag",
+      "source_url": "https://niksense.store/products/alpaca-chic-bag-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1881.jpg?v=1741867224",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1876.jpg?v=1741867224",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_1889.jpg?v=1741867221"
+      ],
+      "description": "Стильний шопер із м’якого штучного хутра — ідеальний для повсякденного використання. Має одне містке основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 22×35×13 см • Довжина ручки — 32 см • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-messy-bag-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкіряний шопер Messy bag чорний",
+      "source_url": "https://niksense.store/products/messy-bag-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1094.jpg?v=1790853303",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1081.jpg?v=1790853321",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1087.jpg?v=1790853343"
+      ],
+      "description": "Шопер із високоякісної екошкіри має одне велике основне відділення та внутрішню кишеню для важливих дрібниць. • Матеріал: 100% екошкіра • Розміри: 36×45 см • Довжина ручки — 110 см (регулюється) • Підійде для ноутбуків до 15 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-messy-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкіряний шопер Messy bag бордовий",
+      "source_url": "https://niksense.store/products/messy-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1220.jpg?v=1759917842",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1217.jpg?v=1759917857",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1234.jpg?v=1759917857"
+      ],
+      "description": "Шопер із високоякісної екошкіри має одне велике основне відділення та внутрішню кишеню для важливих дрібниць. • Матеріал: 100% екошкіра • Розміри: 36×45 см • Довжина ручки — 110 см (регулюється) • Підійде для ноутбуків до 15 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-velvet-bag-4",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка Velvet bag бордова",
+      "source_url": "https://niksense.store/products/velvet-bag-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1367.jpg?v=1790853490",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1371.jpg?v=1790853559",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1374.jpg?v=1790853592"
+      ],
+      "description": "Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня nik sense",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-velvet-bag-3",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка Velvet bag",
+      "source_url": "https://niksense.store/products/velvet-bag-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1168.jpg?v=1759917239",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1156.jpg?v=1759917239",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1165.jpg?v=1759917239"
+      ],
+      "description": "Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-mars-bag-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка-шопер Mars Bag",
+      "source_url": "https://niksense.store/products/mars-bag-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": 1650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5907.png?v=1789401456",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5393.png?v=1789401456",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_5906.png?v=1789401456"
+      ],
+      "description": "Місткий, міцний і зручний — ідеальний варіант для навчання, роботи або просто насиченого дня. Має одне велике відділення та внутрішню кишеню для дрібниць. Зручна довга ручка з функцією перетяжки — для ідеальної посадки на плечі чи через плече. • Матеріал: саржа (65% бавовна, 35% поліестер) • Розмір: 29×41 см • Довжина ручки: 100 см, тип — перетяжка • Вміщує ноутбук до 16 дюймів • Внутрішня кишеня для дрібниць",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-кепка-zoloti-vorota-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Кепка Zoloti Vorota",
+      "source_url": "https://niksense.store/products/кепка-zoloti-vorota-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": 1600,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/BA071DD0-4EE6-46EA-A5E7-FAEC57B9030B.jpg?v=1749636772",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/45B8362D-7D46-4C98-8F0A-576C0F4B93F8.jpg?v=1749636772",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/B51DAB63-5F6A-4A08-9C5B-DCE494A60769.jpg?v=1749636772"
+      ],
+      "description": "Кепка Zoloti Vorota - стильний акцент з характером великого міста. Виготовлена з вивареного деніму з вишивкою Zoloti Vorota KYIV . Має регульовану застібку ззаду. Унісекс. Склад: 100% бавовна",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-кепка-zoloti-vorota",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Кепка Zoloti Vorota",
+      "source_url": "https://niksense.store/products/кепка-zoloti-vorota",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": 1600,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2AD1FE6A-C1D6-477F-99F1-6AC7537C0AD3.jpg?v=1749636772",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/526E4167-CC6F-472D-9493-88C9C5B9C25E.jpg?v=1749636772",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/23D2CC85-DF25-423A-9253-53F28B04779E.jpg?v=1749636772"
+      ],
+      "description": "Кепка Zoloti Vorota - стильний акцент з характером великого міста. Виготовлена з вивареного деніму з вишивкою Zoloti Vorota KYIV . Має регульовану застібку ззаду. Унісекс. Склад: 100% бавовна",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-velvet-bag-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка Velvet bag коричнева",
+      "source_url": "https://niksense.store/products/velvet-bag-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0637.jpg?v=1790853045",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0630.jpg?v=1790853093",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0633.jpg?v=1790852993"
+      ],
+      "description": "Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-pocket-boy-shoper",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер з плащiвки Pocket Boy",
+      "source_url": "https://niksense.store/products/pocket-boy-shoper",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2150,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03742.jpg?v=1790851900",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03731.jpg?v=1790851921",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03737.jpg?v=1790851939"
+      ],
+      "description": "Шопер має одне велике відділення, внутрішню кишеню для дрібниць та дві бічні на магнітах, застібається на блискавку. Склад: 100% поліестер. Шопер є водонепроникним. Розмір: 24*40*12, довжина ручки регулюється за допомогою перетяжки. Підійде для ноутбуків 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-шопер-3-ї-хвилі",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі сірий",
+      "source_url": "https://niksense.store/products/шопер-3-ї-хвилі",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": 1400,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8368.png?v=1781169208",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8365.png?v=1781169208",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_8366.png?v=1781169208"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: бавовна • Розмір: 24×25×13 см • Довжина ручки: 100 см • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-big-boy-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Великий шопер Big boy",
+      "source_url": "https://niksense.store/products/big-boy-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0949.jpg?v=1777364561",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0952.jpg?v=1777364563",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0959.jpg?v=1777364561"
+      ],
+      "description": "Шопер має одне велике основне відділення, кишеню для ноутбука та надійні застібки на магнітах. • Матеріал: 100% бавовна • Розміри: 35×45 см • Регульована ручка з перетяжкою • Підійде для ноутбуків до 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-alpaca-chic-bag-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Alpaca chic bag",
+      "source_url": "https://niksense.store/products/alpaca-chic-bag-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1347.jpg?v=1759919518",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1328.jpg?v=1759919518",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1341.jpg?v=1759919518"
+      ],
+      "description": "Стильний шопер із м’якого штучного хутра — ідеальний для повсякденного використання. Має одне містке основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 22×35×13 см • Довжина ручки — 32 см • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-шопер-sense-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер Київ Sense Bag",
+      "source_url": "https://niksense.store/products/шопер-sense-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03842.jpg?v=1741547921",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03828.jpg?v=1741547921",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03835.jpg?v=1741547921"
+      ],
+      "description": "Ми об’єдналися з Київ Цифровий, щоб створити той самий шопер, який нагадує про Київ. Має одне велике основне відділення, внутрішню кишеню та дві бічні кишеньки для дрібниць, застібається на блискавку. • Матеріал: 100% бавовна • Розміри: 25×37×13 см • Регульована ручка для зручного носіння • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-big-alpaca-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Mars Alpaca bag",
+      "source_url": "https://niksense.store/products/big-alpaca-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04079.jpg?v=1741548018",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04092.jpg?v=1741548037",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04090.jpg?v=1741548037"
+      ],
+      "description": "Об’ємний шопер із м’якого штучного хутра має одне велике основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 29×41 см • Довжина ручки — 110 см • Підійде для ноутбуків до 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-mars-bag-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка шопер Mars Bags",
+      "source_url": "https://niksense.store/products/mars-bag-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": 1650,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense722.jpg?v=1790851741",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense728.jpg?v=1790851766",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense724.jpg?v=1713111047"
+      ],
+      "description": "Шопер має одне велике відділення та внутрішню кишеню для дрібниць, застібається на блискавку. Матеріал: саржа (65% бавовна, 35% поліестер) Розмір: 29*41, довжина ручки - 100 см Ручка регулюється перетяжкою Підійде для ноутбуків 16 дюймів.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-mars-bag-4",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка шопер Mars Bags",
+      "source_url": "https://niksense.store/products/mars-bag-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense105.jpg?v=1790853218",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense107.jpg?v=1790853233",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense106.jpg?v=1790853253"
+      ],
+      "description": "Велика сумка з застібкою та кишенькою з секретним посланням. Тканина: саржа, бавовна та поліестер Розмір: 29*41, ручка на шнурку",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-eko-leather-bags",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Екошкіряний шопер чорний",
+      "source_url": "https://niksense.store/products/eko-leather-bags",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense630.jpg?v=1714406606",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense654.jpg?v=1714406606",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense612.jpg?v=1714406606"
+      ],
+      "description": "Шопер із високоякісної екошкіри має одне велике основне відділення та внутрішню бокову кишеню для важливих дрібниць. • Матеріал: 100% екошкіра • Розміри: 35×35 см • Довжина ручки — 70 см • Підійде для ноутбуків до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-bags-of-the-3rd-wave-3",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі синій",
+      "source_url": "https://niksense.store/products/bags-of-the-3rd-wave-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense480.jpg?v=1714406589",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense497.jpg?v=1713094139",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense477.jpg?v=1714406589"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: 100% бавовна • Розмір: 24×25×13 см • Довжина ручки: 100 см • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-bags-of-the-3rd-wave-2",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі молочний",
+      "source_url": "https://niksense.store/products/bags-of-the-3rd-wave-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03556_915ba402-1566-4f86-b388-8a8c00a33ece.jpg?v=1741722179",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03561_5e8c0b27-f167-49d0-8963-32e93f59bc3c.jpg?v=1741722193",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03557_135df194-1dc6-42b0-af19-81f979161f3a.jpg?v=1741722194"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: 100% бавовна • Розмір: 24×25×13 см • Довжина ручки: 100 см • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-bags-of-the-3rd-wave-1",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі чорний",
+      "source_url": "https://niksense.store/products/bags-of-the-3rd-wave-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03865.jpg?v=1741722683",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03880.jpg?v=1741722683",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns03876.jpg?v=1741722683"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: 100% бавовна • Розмір: 24×25×13 см • Довжина ручки регулюється • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-bags-of-the-3rd-wave",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі коричневий",
+      "source_url": "https://niksense.store/products/bags-of-the-3rd-wave",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense425.jpg?v=1790852111",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense436.jpg?v=1790852129",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/NikSense403.jpg?v=1790852149"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: 100% бавовна • Розмір: 24×25×13 см • Довжина ручки регулюється перетяжкою • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-шопер-mini-pig",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Чорний шопер Mini pig",
+      "source_url": "https://niksense.store/products/шопер-mini-pig",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1100,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/d0d7e7_948e5d22f1794321800ccabc3d4f8337_mv2.jpg?v=1714406643",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/d0d7e7_1786a29c1e5941549c58e2172f076450_mv2.jpg?v=1741548975",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/d0d7e7_f008e6d6cd1449b9bdba3b2bd8687315_mv2.jpg?v=1712573124"
+      ],
+      "description": "Міні-шопер з застібкою та кишенькою з секретним повідомленням. Тканина: саржа, бавовна та поліестер Розмір: 20*15, ручка 100 см",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-senior-mini-2-0",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер із вивареної джинси Senior Mini 2.0",
+      "source_url": "https://niksense.store/products/senior-mini-2-0",
+      "gender": null,
+      "category": "Низ",
+      "item_type": "Джинси",
+      "slot": "bottom",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2500,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0622.jpg?v=1777621848",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0585.jpg?v=1777366997",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns0570.jpg?v=1777366996"
+      ],
+      "description": "Шопер виготовлений із вивареного деніму. Має одне містке основне відділення, зовнішню кишеню на блискавці для дрібниць та додаткову кишеньку на карабіні з магнітною застібкою — ідеально для навушників, ключів чи карток. • Склад: 100% бавовна • Розміри: 24×17×10 см • Регульована ручка • Металевий карабін для додаткових аксесуарів",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-y2k-bag-чорний",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Y2K Bag чорний",
+      "source_url": "https://niksense.store/products/y2k-bag-чорний",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_2544.png?v=1793027274",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9497.jpg?v=1791545911",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_9564.jpg?v=1791545748"
+      ],
+      "description": "Місткий месенджер зі щільного вельвету. Сумка про перерви в шкільному коридорі, запах столових булочок і недоїдені сухарики на дні рюкзака. Просякнута духом свободи, дитинства і теплих спогадів. Дві ручки, які регулюються за допомогою перетяжки. • Матеріал: щільний бавовняний вельвет • Розмір: 37×30×13 см • Ручки: дві, регулюються перетяжкою • Вміщує ноутбук до 16 дюймів • Три зовнішні кишені",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-velvet-mars-bag-синій",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Velvet Mars Bag синій nik sense",
+      "source_url": "https://niksense.store/products/velvet-mars-bag-синій",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6570.jpg?v=1789747935",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6256.heic?v=1789747934",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_6308.jpg?v=1789747935"
+      ],
+      "description": "Місткий, міцний і зручний — ідеальний варіант для навчання, роботи або просто насиченого дня. Має одне велике відділення та внутрішню кишеню для дрібниць. Зручна довга ручка з функцією перетяжки — для ідеальної посадки на плечі чи через плече. • Матеріал: бавовна • Розмір: 29×41 см • Довжина ручки: 100 см, тип — перетяжка • Вміщує ноутбук до 16 дюймів • Внутрішня кишеня для дрібниць",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-коричневий-кашкет",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Коричневий кашкет",
+      "source_url": "https://niksense.store/products/коричневий-кашкет",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1950,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/6A53897F-EFCF-40F1-BBFA-6287C360C63D.heic?v=1783174831",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/2DFE04D0-7D31-467F-A30F-430D5E6B00A3.heic?v=1783174831",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/8C0F0A1E-F1BF-42D1-B086-8242649A6F9A.jpg?v=1783174830"
+      ],
+      "description": "Кашкет із щільного вельвету, що добре тримає форму. Лаконічний аксесуар, який легко поєднується з повсякденними та класичними образами, додаючи їм виразності. Доступний в двох розмірах.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-шопер-mars-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка шопер Mars Bags",
+      "source_url": "https://niksense.store/products/шопер-mars-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1850,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1039.jpg?v=1759915567",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1050.jpg?v=1759915567",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/N1031.jpg?v=1759915567"
+      ],
+      "description": "Велика сумка з застібкою та кишенькою з секретним посланням. Тканина: саржа, бавовна та поліестер Розмір: 29*41, ручка на шнурку",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-сумка-зі-штучного-хутра-mars-alpaca-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Сумка зі штучного хутра Mars Alpaca bag",
+      "source_url": "https://niksense.store/products/сумка-зі-штучного-хутра-mars-alpaca-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3300,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4147.png?v=1763375856",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_4148.png?v=1763375856"
+      ],
+      "description": "Об’ємний шопер із м’якого штучного хутра має одне велике основне відділення та внутрішню кишеню для дрібниць. • Матеріал: штучне хутро • Розміри: 29×41 см • Довжина ручки — 110 см • Підійде для ноутбуків до 16 дюймів",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-берет",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Берет",
+      "source_url": "https://niksense.store/products/берет",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Берет",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1300,
+      "sale_price_uah": 1150,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0975.heic?v=1741867030",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0976.heic?v=1741867030",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_0986.heic?v=1741867030"
+      ],
+      "description": "Ідеальний для прогулянок уздовж Воздвиженки, барів на Подолі чи вечірніх тусовок на Рейтарській. Це не просто аксесуар — це код київського хіпстера, який знає, де найкраща кава і як виглядає справжній захід сонця з даху в центрі.",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-шапка",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шапка",
+      "source_url": "https://niksense.store/products/шапка",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Шапка",
+      "slot": "hat",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1300,
+      "sale_price_uah": 1150,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3189.heic?v=1737801275",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3186.heic?v=1737801275",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/IMG_3188_1.heic?v=1737801218"
+      ],
+      "description": "Розмір : One size Матеріал : Еко хутро 🦙",
+      "care": null,
+      "collections": [
+        "SALE"
+      ]
+    },
+    {
+      "id": "niksense-velvet-bag",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Вельветова сумка Velvet bag",
+      "source_url": "https://niksense.store/products/velvet-bag",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 2250,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12393.jpg?v=1746181926",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12397.jpg?v=1746181926",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns12382.jpg?v=1746181926"
+      ],
+      "description": "Має дві зручні зовнішні кишені, підкладку та маленьку внутрішню кишеньку для дрібниць, основне відділення на блискавці. • Розмір: 30×18×8 см • Довжина ручки: 70 см, регулюється вузликом • Застібка-блискавка • Внутрішня підкладка та мінікишеня",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "niksense-шопери-3-ї-хвилі",
+      "brand": "Niksense",
+      "brand_id": "niksense",
+      "name": "Шопер 3-ї хвилі бордовий",
+      "source_url": "https://niksense.store/products/шопери-3-ї-хвилі",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 1550,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04039.jpg?v=1790852615",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04058.jpg?v=1790852574",
+        "https://cdn.shopify.com/s/files/1/0695/9431/7051/files/ns04053.jpg?v=1790852674"
+      ],
+      "description": "Шопер третьої хвилі, наш перший бестселер, з якого почалась історія бренду. Одне основне відділення та внутрішня кишеня для дрібниць. Закривається на блискавку. Довга, широка ручка, зручно носити на плечі або через плече. • Матеріал: 100% бавовна • Розмір: 24×25×13 см • Довжина ручки: 100 см • Внутрішня кишеня для дрібниць • Вміщує ноутбук до 13 дюймів",
+      "care": null,
+      "collections": []
+    }
+  ]
+}

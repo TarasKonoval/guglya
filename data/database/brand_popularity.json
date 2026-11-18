@@ -670,5 +670,41 @@
     "instagram": null,
     "instagram_followers": null,
     "checked_on": null
+  },
+  "poelle": {
+    "name": "Poelle",
+    "instagram": "https://instagram.com/poelle_atelier",
+    "instagram_followers": 97000,
+    "checked_on": "2026-11-18"
+  },
+  "nukot": {
+    "name": "NÚKOT",
+    "instagram": "https://instagram.com/nukot_handbags",
+    "instagram_followers": 78000,
+    "checked_on": "2026-11-18"
+  },
+  "vikele": {
+    "name": "Vikele",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": null
+  },
+  "huru": {
+    "name": "Huru",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": null
+  },
+  "okryk": {
+    "name": "Okryk",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": null
+  },
+  "niksense": {
+    "name": "Niksense",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": null
   }
 }

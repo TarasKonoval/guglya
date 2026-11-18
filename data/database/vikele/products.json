@@ -1,0 +1,2689 @@
+{
+  "_meta": {
+    "brand": "Vikele",
+    "brand_id": "vikele",
+    "site": "https://ua.vikele.com",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 103,
+    "found": 103,
+    "candidates": 103,
+    "checked": 103,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "vikele-flats-ballet-shoes-chocolate-natural-fur-vikele-10504",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/flats-ballet-shoes-chocolate-natural-fur-vikele-10504",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BE8A3DA4-F209-4686-85A0-A3B5A8AA4CD1.png?v=1791272594",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_7bc95fd6-420b-487e-a50a-5656fa74e41f.jpg?v=1777389039",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_cdbc41f2-a6c6-40ad-a1a6-e00008d0fed5.jpg?v=1777389039"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. - Верх: натуральне хутро - Підкладка: натуральна італійська шкіра преміальної м’якості - Підошва: шкіряна устілка, шкіряно-гумова підошва - Носок: квадратної форми - Виробництво: Італія - Колір: шоколадний - У комплекті: фірмова коробка та мішок для зберігання - Артикул: Vikele-10504 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-flats-ballet-shoes-olive-natural-fur-vikele-10503",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/flats-ballet-shoes-olive-natural-fur-vikele-10503",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_c94e2557-57f9-4b1a-80e5-68e79f6d7545.jpg?v=1777388854",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_74985516-66c7-479e-9fd3-d6f037be9125.jpg?v=1777388854",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_a143440a-dcdc-4159-b654-402daa0c43c9.jpg?v=1777388854"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. - Верх: натуральне хутро - Підкладка: натуральна італійська шкіра преміальної м’якості - Підошва: шкіряна устілка, шкіряно-гумова підошва - Носок: квадратної форми - Виробництво: Італія - Колір: оливковий - У комплекті: фірмова коробка та мішок для зберігання - Артикул: Vikele-10503 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-flats-ballet-shoes-black-natural-fur-vikele-10502",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/flats-ballet-shoes-black-natural-fur-vikele-10502",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_3987ea65-ced9-4ba1-a4ea-e90bb3066d65.jpg?v=1777388193",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_6bf1d4d5-608d-4e2d-9532-0868943b946b.jpg?v=1777388193",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_c1c936e5-8952-4c5a-a491-01002e9ffe6d.jpg?v=1777388193"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. - Верх: натуральне хутро - Підкладка: натуральна італійська шкіра преміальної м’якості - Підошва: шкіряна устілка, шкіряно-гумова підошва - Носок: квадратної форми - Виробництво: Італія - Колір: чорний - У комплекті: фірмова коробка та мішок для зберігання - Артикул: Vikele-10502 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-flats-ballet-shoes-red-natural-fur-vikele-10501",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/flats-ballet-shoes-red-natural-fur-vikele-10501",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_36bfec6a-284b-4c9c-9aa4-6dd762ac481d.jpg?v=1777387235",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_fe2f99b8-5b1f-4aa5-8733-5b8b3571af59.jpg?v=1777387235",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_ce36bf3b-b67b-4ef5-b59a-266b0352dfd5.jpg?v=1777387235"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. - Верх: натуральне хутро - Підкладка: натуральна італійська шкіра преміальної м’якості - Підошва: шкіряна устілка, шкіряно-гумова підошва - Носок: квадратної форми - Виробництво: Італія - Колір: червоний - У комплекті: фірмова коробка та мішок для зберігання - Артикул: Vikele-10501 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-босоніжки-slingback",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Босоніжки SLINGBACK",
+      "source_url": "https://ua.vikele.com/products/босоніжки-slingback",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 11250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_4b352f0e-885e-446f-9f1f-6c878faa2057.jpg?v=1774430894",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/55_2_400784dc-5424-4235-99cf-6f27510066e9.jpg?v=1774430894",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_10_adc23693-2466-4795-885e-c22ad418aa2c.jpg?v=1774430894"
+      ],
+      "description": "Втілення витонченого мінімалізму — балетки VIKELE STUDIO з відкритою п’ятою у ніжному відтінку Blush Nude. Виготовлені в Італії з м’якої, наче шовк, натуральної шкіри, вони огортають ногу комфортом та елегантністю. Акуратний квадратний носок і делікатний ремінець створюють легкий, жіночний образ, що гармонійно поєднує функціональність і стиль. Ідеальний вибір для сонячних прогулянок чи стриманих вечірніх виходів. • Верх: преміальна шкіра • Підкладка: натуральна шкіра • Підошва: шкіряна устілка, шкіряно-гумова підошва • Вироблено в Італії • Колір: Blush Nude • У комплекті: фірмова коробка та мішок для зберігання • Артикул: s0101-01012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-босоніжки-slingback-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Босоніжки SLINGBACK",
+      "source_url": "https://ua.vikele.com/products/босоніжки-slingback-1",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Сандалі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 11250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_d6487424-5b95-4fa1-8690-da5dddc0d37e.jpg?v=1774430922",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/847B8B79-D726-427E-B9FA-35F9DFF417C7.jpg?v=1774430922",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_11_6e945ac5-8eec-4cd0-8aef-bcc097d6a447.jpg?v=1774430922"
+      ],
+      "description": "Втілення витонченого мінімалізму — балетки VIKELE STUDIO з відкритою п’ятою у ніжному відтінку Classic Black. Виготовлені в Італії з м’якої, наче шовк, натуральної шкіри, вони огортають ногу комфортом та елегантністю. Акуратний квадратний носок і делікатний ремінець створюють легкий, жіночний образ, що гармонійно поєднує функціональність і стиль. Ідеальний вибір для сонячних прогулянок чи стриманих вечірніх виходів. • Верх: преміальна шкіра • Підкладка: натуральна шкіра • Підошва: шкіряна устілка, шкіряно-гумова підошва • Вироблено в Італії • Колір: Classic Black • У комплекті: фірмова коробка та мішок для зберігання • Артикул: s0101-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-балетки-flats",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/балетки-flats",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 11250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_41aa21ed-1b25-402d-8da1-6394169c2804.jpg?v=1771854212",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3ECC886F-4895-4681-8646-91F7E4E78A1A.jpg?v=1753624932",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_12_8f8af43b-1097-4fa2-baa4-ddf24cf68804.jpg?v=1751921350"
+      ],
+      "description": "Впевненість у кожному кроці — у скульптурних балетках VIKELE STUDIO з чорної шкіри. Створені в Італії, ці туфлі переосмислюють щоденну елегантність крізь призму мінімізму, досконалого крою та неймовірної м’якості. Виготовлені з надзвичайно ніжної шкіри, вони делікатно облягають ногу, забезпечуючи неперевершений комфорт від ранку до вечора. Архітектурний квадратний носок і цілісний силует надають образу сучасного звучання, а м’яка устілка дарує відчуття справжньої розкоші при ходьбі. Стримані, але впевнені — це пара, яка стане вічною класикою у вашому гардеробі. • Верх: надм’яка італійська шкіра • Підкладка: шкіра • Підошва: шкіряна устілка, шкіряно-гумова підошва • Вироблено в Італії • Колір: Classic Black • У комплекті: фірмова коробка та мішечки для зберігання • Артикул: s0201-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-flats-leather-bordo-vikele-10101",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS, burgundy",
+      "source_url": "https://ua.vikele.com/products/flats-leather-bordo-vikele-10101",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 15500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/5_3_65396d5b-0042-4d78-b887-7457d8076817.jpg?v=1774432570",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/4D3B7573-1069-418D-B3F3-E35C8D68976D.jpg?v=1774432570",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_8_6497da4f-612f-4035-a236-9b4b81cbdb17.jpg?v=1774432570"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. Верх: хутро поні Підкладка: натуральна італійська шкіра преміальної м’якості Підошва: шкіряна устілка, шкіряно-гумова підошва Носок: квадратної форми Виробництво: Італія Колір: бордо У комплекті: фірмова коробка та мішок для зберігання Артикул: Vikele-10101 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-flats-suede-caramel-vikele-10202",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/flats-suede-caramel-vikele-10202",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 11250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/5_2.jpg?v=1774432578",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_7.jpg?v=1774432578",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_7.jpg?v=1774432578"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. - Верх: замша - Підкладка: натуральна італійська шкіра преміальної м’якості - Підошва: шкіряна устілка, шкіряно-гумова підошва - Носок: квадратної форми - Виробництво: Італія - Колір: карамель - У комплекті: фірмова коробка та мішок для зберігання - Артикул: Vikele-10202 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-балетки-flats-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Балетки FLATS",
+      "source_url": "https://ua.vikele.com/products/балетки-flats-1",
+      "gender": null,
+      "category": "Взуття",
+      "item_type": "Туфлі",
+      "slot": "shoes",
+      "colors": [],
+      "sizes": [
+        "37",
+        "38",
+        "39",
+        "40",
+        "41"
+      ],
+      "price_uah": 11250,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_8e654084-1a67-45f7-a936-81e859ce6b42.jpg?v=1774430906",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/55_5.jpg?v=1774430906",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_13_2b0e9a8d-c65f-42fa-a212-19dbc17002be.jpg?v=1774430906"
+      ],
+      "description": "Натхненні природною гармонією — балетки VIKELE STUDIO у кольорі теплої карамелі. Їхня архітектурна форма поєднується з надзвичайно м’якою італійською шкірою, яка дарує неймовірний комфорт протягом усього дня. Мінімалістичний силует, квадратний носок і бездоганне виконання роблять цю пару ідеальною базою для гардероба сучасної жінки. Лаконічні, стильні, і водночас напрочуд ніжні — взуття, в якому хочеться жити. • Верх: натуральна італійська шкіра преміальної м’якості • Підкладка: шкіра • Підошва: шкіряна устілка, шкіряно-гумова підошва • Носок: квадратної форми • Вироблено в Італії • Колір: Caramel • У комплекті: фірмова коробка та мішок для зберігання • Артикул: s0201-08012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-affair-burgundy-копія",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, size M, burgundy",
+      "source_url": "https://ua.vikele.com/products/сумка-affair-burgundy-копія",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 26500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-4F536113-992B-4ECD-A9D7-4286B2487AD9-L0-001.png?v=1793900891",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-907801CA-26D3-4086-B39B-D9A538829724-L0-001.png?v=1793900891",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-54A7661C-5AB8-4158-9281-E02675A3D17C-L0-001.png?v=1793900892"
+      ],
+      "description": "Сумка AFFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 40 см, глибина 12 см Матеріал: шкіра з ефектом кроко Підклад: бавовна Застібка: блискавка Колір: чорний Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 038001-0330 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, red",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_2_ca80c114-6598-4626-9318-ef7e9f3111c0.jpg?v=1764834318",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_2_b40f227c-ce24-46d9-8e2d-721c0c62fcac.jpg?v=1764834318",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_1_83914e31-eab7-4ac8-a211-586a2a5a7c6f.jpg?v=1745521004"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. - Розміри: висота 12 см, ширина 28 см, глибина 5 см - Матеріал: шкіра - Підкладка: котон - Застібка: блискавка - Колір: червоний - Колір фурнітури: срібло - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3801-16011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-affair-chocolate",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, chocolate",
+      "source_url": "https://ua.vikele.com/products/сумка-affair-chocolate",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": 31800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-22932B65-A424-46E8-AFEB-55D50DE7CCCF-L0-001.png?v=1793480773",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-33FC2F5D-9124-4565-8FE9-8DC711E1C462-L0-001.png?v=1793480773",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-5690DE77-C073-45ED-A052-EA634C983A55-L0-001.png?v=1793480773"
+      ],
+      "description": "Сумка AFFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 40 см, глибина 12 см Матеріал: шкіра з ефектом кроко Підклад: бавовна Застібка: блискавка Колір: шоколад Колір фурнітури: срібна Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 048001 -0312 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-denise-mini-boho-gray",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI boho, gray",
+      "source_url": "https://ua.vikele.com/products/сумка-denise-mini-boho-gray",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 25200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-4F8F5BAD-72F1-4219-BC43-EB32E5040FEA-L0-001.png?v=1793466465",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-E4C4A9A6-CB4A-4EA0-BDB0-DD61202F79F0-L0-001.png?v=1793466465",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-96D6F929-F771-4C56-97EC-FA03790992FA-L0-001.png?v=1793466465"
+      ],
+      "description": "Сумка Denise boho MINI - про розслаблену і розкішну зручність. Всередині сумки - одне відділення і карман на блискавці. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: замша Підкладка: котон Застібка: блискавка Колір: сірий Колір фурнітури: срібло У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4904-08015 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-stephanie-dark-emerald",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, dark emerald",
+      "source_url": "https://ua.vikele.com/products/сумка-stephanie-dark-emerald",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-32753AD2-F350-46E0-AE43-7A7C2DCED451-L0-001.png?v=1793447794",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-9F06CC83-800B-4C56-8C74-5699EDB876BB-L0-001.png?v=1793447793",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-2F820B18-EE7B-4ED8-9F8C-CD307F4F83BC-L0-001.png?v=1793447830"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см, максимальна довжина ременя 110 см Матеріал: шкіра ефектом кроко Підкладка: алькантара Застібка: замок Колір: темно-смарагдовий Колір фурнітури: золото У комплекті: текстильний чохол для зберіганн Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele 2801-06 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-affair-black",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, black",
+      "source_url": "https://ua.vikele.com/products/сумка-affair-black",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 31800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-937A25E2-7FBD-4528-8EA5-15D79F255F14-L0-001.png?v=1793888112",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-0F221BBA-FDDF-437D-B14D-84FD2F6C205F-L0-001.png?v=1793888112",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-1169B0AF-3E10-4E37-8232-660326250D66-L0-001.png?v=1793141128"
+      ],
+      "description": "Сумка AFFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 40 см, глибина 12 см Матеріал: шкіра з ефектом кроко Підклад: бавовна Застібка: блискавка Колір: бордо Колір фурнітури: срібна Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 048001 -0330 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-maria-mini-leather-bag-silver-v2102-14011",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MARIA MINI",
+      "source_url": "https://ua.vikele.com/products/maria-mini-leather-bag-silver-v2102-14011",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17500,
+      "sale_price_uah": 12250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/16F1446C-ED35-44A3-B7D8-69C137423DB4.png?v=1779111046",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8AAFC434-5A1E-4864-ABA8-2187C6281A27.png?v=1779111046",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/ACA1F4C2-9E84-4A71-A715-CF664D804480.png?v=1779111046"
+      ],
+      "description": "Maria mini - зменшений варіант сумки Maria, зі зйомним мішечком з канвасу всередині. Довгий ланцюжок через плече - від італійської фабрики, яка виготовляє ювелірні прикраси. Створена для особливих днів та подій - Розміри: висота 14 см, ширина 17,5 см, глибина 6 см - Матеріaл: шкіра з ефектом кроко, канвас - Підклад: шкіра - Застібка: шкіряний шнурок - Колір: срібний - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2102-14011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-affair-burgundy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, burgundy",
+      "source_url": "https://ua.vikele.com/products/сумка-affair-burgundy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 31800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/library-9797C6B8-07C4-48F1-99B0-871308286B7D-L0-001.jpg?v=1793477465",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/78AF88F7-07CF-4A6D-810B-52B8222409C1.png?v=1793082185",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/FFCED331-D1DC-4E7D-8135-5294BC7B58B1.png?v=1793082186"
+      ],
+      "description": "Сумка AFFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 40 см, глибина 12 см Матеріал: шкіра з ефектом кроко Підклад: бавовна Застібка: блискавка Колір: чорний Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 048002 -0301 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-celine-mini-black-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, cognac",
+      "source_url": "https://ua.vikele.com/products/сумка-celine-mini-black-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/92DB9B77-7282-4BD7-999D-92E8E0ACD031.png?v=1792877620",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/09526863-025E-4C7E-9678-BE75CA8ABB70.png?v=1792877621",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/B8B204A4-83A0-4B8F-BB34-A64AAC5963B3.png?v=1792877620"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: висота 21 см, ширина 16 см, глибина 8 см Матеріал: шкіра з ефектом кроко Підклад: замша Застібка: магніт Колір: карамельно-коричневий Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 038002-0510 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-signature-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка SIGNATURE, beige",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-signature-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 21500,
+      "sale_price_uah": 15250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/12BFD87C-2EA7-4C22-95ED-1443BF3A5A4B.png?v=1792766028",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-35.jpg?v=1735247380",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-36.jpg?v=1735247380"
+      ],
+      "description": "Сумка Signature виготовлена з італійського штучного хутра: неймовірно ніжна та приємна на дотик, вмістка та розкішна. Розміри: висота 34 см, ширина 32 см, глибина 17 см, максимальна довжина ременя 90 см Матеріaл: штучне хутро, шкіра Підклад: коттон Застібка: карабін Колір: карамельний Колір фурнітури: срібний Включає: пильовик Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3610-08011 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-сумка-celine-mini-black",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, black",
+      "source_url": "https://ua.vikele.com/products/сумка-celine-mini-black",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/A6769C62-0BF0-48AE-AC9F-F7C5B405B449.jpg?v=1792878062",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/36154587-EAB0-460C-895B-51278CFDA75C.png?v=1791740304",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/A514D889-B8D1-4B62-84D2-37121462F031.png?v=1791740304"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки та тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: В исота 16 см, ширина 21 см, глибина 8 см, Максимальна довжина ланцюжка 120 см Матеріал: шкіра з ефектом кроко Підклад: замша Застібка: магніт Колір: чорний Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 038002-n З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-gigi",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка GIGI, ochre",
+      "source_url": "https://ua.vikele.com/products/сумка-gigi",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/AF7CB5B8-25AA-4812-8468-3F48365F9D2F.jpg?v=1791489906",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/143CEFF7-25F5-4372-999B-BE407136B277.jpg?v=1782207592",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33E6F234-9120-43A1-9AC3-6E2DBEE78175.jpg?v=1782207592"
+      ],
+      "description": "Сумка GIGI з розкішного оксамиту - створена для розслаблених красивих канікул та комфортного літа в великому місті. Розміри: висота 35 см, ширина 30 см, довжина ручки 58 см Матеріaл: оксамит (Італія) Підкладка: бавовна Застібка: немає Колір: охра У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 047002-0118 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-katrine-copy-5",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка KATRINE, black",
+      "source_url": "https://ua.vikele.com/products/сумка-katrine-copy-5",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 14700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_67ddc671-aabd-4203-8796-f8608fda6572.jpg?v=1764836599",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_d3a9296d-334b-432d-9860-5131d451df96.jpg?v=1764836599",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_f8863122-c3c9-4233-a55a-45a36677921a.jpg?v=1764836599"
+      ],
+      "description": "Сумка-багет Katrine від VIKELE STUDIO виготовлена з найякіснішої шкіри. Лаконічний елегантний дизайн та розмір, який дозволяє вмістити всі мінімально необхідні речі, робить цю модель незамінною в сучасному гардеробі! Розміри: довжина 26,5 см, висота 11,5 см, ширина 5 см Матеріал: лакова шкіра з ефектом кроко Підклад: алькантара Застібка: магніт Колір: чорний Колір фурнітури: золотий Включає: пильовик Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v0107-17012",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-katrine-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка KATRINE",
+      "source_url": "https://ua.vikele.com/products/сумка-katrine-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 14700,
+      "sale_price_uah": 10290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_8bac9e2d-ef65-48f7-a3fa-b0f4ad8714ff.jpg?v=1771237891",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_bf81e4f8-3f03-4508-833d-cb4b848539b3.jpg?v=1771237891",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_f662785e-3977-4451-8ba1-86d4f6705a7d.jpg?v=1771237891"
+      ],
+      "description": "Сумка-багет Katrine від VIKELE STUDIO виготовлена з найякіснішої шкіри. Лаконічний елегантний дизайн та розмір, який дозволяє вмістити всі мінімально необхідні речі, робить цю модель незамінною в сучасному гардеробі! - Розміри: довжина 26,5 см, висота 11,5 см, ширина 5 см - Матеріал: шкіра - Підклад: алькантара - Застібка: магніт - Колір: білий - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v0103-02012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-katrine-bag-black",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка KATRINE, black",
+      "source_url": "https://ua.vikele.com/products/katrine-bag-black",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 14700,
+      "sale_price_uah": 10290,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_125452_402.jpg?v=1771237899",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_125500_713.jpg?v=1771237899",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_125502_329.jpg?v=1771237899"
+      ],
+      "description": "Сумка-багет Katrine від VIKELE STUDIO виготовлена з найякіснішої шкіри. Лаконічний елегантний дизайн та розмір, який дозволяє вмістити всі мінімально необхідні речі, робить цю модель незамінною в сучасному гардеробі! - Розміри: довжина 26,5 см, висота 11,5 см, ширина 5 см - Матеріал: шкіра - Підклад: алькантара - Застібка: магніт - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v0101-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-клатч-opera-copy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Клатч OPERA, black",
+      "source_url": "https://ua.vikele.com/products/клатч-opera-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/25306156-0B11-4697-ACE9-705A23610EF1.jpg?v=1721753706",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/17F64026-73EC-497B-BE64-151FF2FE0BEF.jpg?v=1721753707",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/127FEC65-ACB0-4FD4-92D5-EF799F1DFA2D.jpg?v=1721753706"
+      ],
+      "description": "Класичний клатч-конверт для елегантних образів. - Розміри: висота 11 см, ширина 29 см, глибина 0.5 см - Матеріaл: шкіра з ефектом кроко - Підклад: алькантара - Застібка: магнітна кнопка - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3302-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-rosie-leather-bag-cream-yellow-033001-0139",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, butter yellow",
+      "source_url": "https://ua.vikele.com/products/rosie-leather-bag-cream-yellow-033001-0139",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/5CA3AE11-2C52-4666-92B7-F2DDE28EC422.jpg?v=1792879036",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG_6078_1.png?v=1785317646",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG_6131_1.png?v=1785317653"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: бавовна Застібка: блискавка Колір: вершково жовтий Колір фурнітури: срібна У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 033001-0139 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-celine-mini-leather-bag-dark-blue-vikele-60104",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, dark blue",
+      "source_url": "https://ua.vikele.com/products/celine-mini-leather-bag-dark-blue-vikele-60104",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BB0640E8-B4F0-4593-BF6B-5609C60506A4.png?v=1791494382",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/5E42A14C-6D1B-41E0-9042-556865A46C30.png?v=1791494334",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/F7A7DCA2-FC4B-422A-9382-811A73509CAA.png?v=1784303108"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: В исота 16 см, ширина 21 см, глибина 8 см, Максимальна довжина ланцюжка 120 см Матеріал: шкіра Підклад: замша Застібка: магніт Колір: синій, градієнт Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 038002-0356 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-lilu-copy-4",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка LILU",
+      "source_url": "https://ua.vikele.com/products/сумка-lilu-copy-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 15700,
+      "sale_price_uah": 7850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_ceed5a87-8cf7-4ab0-9ac0-0ef38cf8088b.jpg?v=1725605886",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_4aa5b321-4a8e-4a6d-acf3-c24a050f4343.jpg?v=1725605886",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_e8503f91-5936-41e2-9a7c-34caaaef1cce.jpg?v=1725605886"
+      ],
+      "description": "Сумка Lily - про легкість характеру і зручність. Підкладка - алькантара; ремінець регулюється по довжині. Розміри: висота 19 см, ширина 26 см, глибина 9,5 см Довжина ремінця: 58 см - Матеріал: шкіра - Підкладка: алькантара - Застібка: блискавка - Колір: коньячний - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2713-10011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-celine-mini-leather-bag-powder-pink-vikele-60102",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, pink powder",
+      "source_url": "https://ua.vikele.com/products/celine-mini-leather-bag-powder-pink-vikele-60102",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_e77c6d51-af97-42dc-84f4-78671c3bdccf.jpg?v=1777385245",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_3393f39b-79e9-43a2-a264-b20cb553f309.jpg?v=1777385245",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_b5d3a761-2652-42c5-acaf-720620b48004.jpg?v=1777385245"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: висота 21 см, ширина 16 см, глибина 8 см Матеріал: шкіра Підклад: замша Застібка: магніт Колір: пудровий Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 038002-0123 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-celine-mini-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, black",
+      "source_url": "https://ua.vikele.com/products/сумка-celine-mini-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/29D2FFD7-7FE0-4148-A9E4-19313A4AA5F3.jpg?v=1794951362",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/499C2ACF-210F-43E5-A7A4-BDDC23117063.jpg?v=1782226103",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/794CCBD6-0E20-4DB5-95AB-6C03227B2765.jpg?v=1782226103"
+      ],
+      "description": "Сумка Celine Mini створена для сміливих та яскравих жінок: прикрасить і лаконічний образ з джинсами, і вечірній розкішний наряд! - Розміри: висота 16 см, ширина 21 см, глибина 8 см - Матеріал: шкіра - Підклад: замша - Застібка: магніт - Колір: чорний - Колір фурнітури: золотий - Включає: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: 032002-0301 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-celine-mini-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, off-white",
+      "source_url": "https://ua.vikele.com/products/сумка-celine-mini-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6A54B43F-6473-414D-92AD-039CF83CB9F6.jpg?v=1782225846",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/30A586D6-C14E-454F-B3F7-AA034E1B03F3.jpg?v=1782225846",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/27A50A3A-998E-47BC-BF1E-C27978365EDF.jpg?v=1782225846"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: висота 16 см, ширина 21 см, глибина 8 см Матеріал: шкіра Підклад: замша Застібка: магніт Колір: білий Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 032002-0302 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-celine-mini-leather-bag-light-green-vikele-60101",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, yellow",
+      "source_url": "https://ua.vikele.com/products/celine-mini-leather-bag-light-green-vikele-60101",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "жовтий"
+      ],
+      "sizes": [],
+      "price_uah": 17700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/45A0A88C-F51E-4C5A-96BC-8B380E8B3284.jpg?v=1782391560",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/EC827105-1A44-4FDA-B7E9-7D7C37548329.jpg?v=1782225620",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/4C9A5F02-39ED-4195-BA9E-098EDED8E13A.jpg?v=1782225620"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: висота 16 см, ширина 21 см, глибина 8 см Матеріал: шкіра з ефектом шкіри пітона Підклад: замша Застібка: магніт Колір: жовтий Колір фурнітури: золотий Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 039902-0339 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com Поділитися",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-папка-для-паперів-ny",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Клатч OPERA, white",
+      "source_url": "https://ua.vikele.com/products/папка-для-паперів-ny",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_4abf09f3-5cbc-4f18-b449-f2995cbcb42c.jpg?v=1725625511",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_778f6021-7b2a-49e2-af98-d6f8d34f8bf4.jpg?v=1725625512",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_20cf6ab5-2ec3-402e-96c1-681a8b35fdd0.jpg?v=1725625512"
+      ],
+      "description": "Класичний клатч-конверт для елегантних образів. Розміри: висота 11 см, ширина 29 см, глибина 0.5 см Матеріaл: шкіра з ефектом кроко Підкладка: алькантара Застібка: магнітна кнопка Колір: білий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3302-02012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-tote-leather-bag-black-vikele-80101",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, black",
+      "source_url": "https://ua.vikele.com/products/tote-leather-bag-black-vikele-80101",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 29800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BDA6D57B-9C9D-4BB8-8FF9-52C30CCFCC35.jpg?v=1782167680",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/CB90571B-3F5D-4C8C-97AB-32A6568A7DDD.png?v=1781612504",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/A8A61173-4544-44AA-ADB1-4CB29D4B339E.jpg?v=1782167680"
+      ],
+      "description": "Сумка AFFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 38 см, глибина 12 см Матеріал: шкіра Підклад: бавовна Застібка: блискавка Колір: чорний Колір фурнітури: срібна Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele-80101 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-tote",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка AFFAIR, off-white",
+      "source_url": "https://ua.vikele.com/products/сумка-tote",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 29800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/C990A380-3017-452F-81A0-AE4F24C6B11E.jpg?v=1792877889",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/D35E498B-6E60-4AB6-A974-4B6E2BAF703C.jpg?v=1782167716",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/B69E127D-4445-44EF-BBB0-981889C0E491.jpg?v=1782167716"
+      ],
+      "description": "Сумка A FFAIR з великими зручними карманами всередині дозволить Вам стильно та комфортно брати всі необхідні речі - кожного дня, у короткі відрядження та поїздки. Розміри: висота 33 см, ширина 38 см, глибина 12 см Матеріал: Зерниста шкіра Підклад: бавовна Застібка: блискавка Колір: теплий білий Колір фурнітури: cрібний Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Україна Артикул: Vikele-80102 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-gigi-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка GIGI, blue",
+      "source_url": "https://ua.vikele.com/products/сумка-gigi-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 8750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/583403A6-3C61-48D2-8606-808DCA4EA31E.jpg?v=1782208382",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/D4EC8D9F-F3F1-4D5F-A16F-0CF0DBD364E4.jpg?v=1782208382",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8BB0CC02-BD7C-450E-93E0-369DD47E6ED6.jpg?v=1781611139"
+      ],
+      "description": "Сумка GIGI з розкішного оксамиту - створена для розслаблених красивих канікул та комфортного літа в великому місті. Розміри: висота 35 см, ширина 30 см, довжина ручки 58 см Матеріaл: оксамит (Італія) Підкладка: бавовна Застібка: немає Колір: блакитно-сірий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 047002-0115 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-gigi-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка GIGI, cappuccino",
+      "source_url": "https://ua.vikele.com/products/сумка-gigi-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1E07B16C-753A-4DAA-AF7E-0D579484AB0F.jpg?v=1782208132",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/4B685735-6B93-47DC-AEB9-248E6E84611C.jpg?v=1782208132",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/75898234-8DA9-4290-B62A-49CC4E1B7578.jpg?v=1791490043"
+      ],
+      "description": "Сумка GIGI з розкішного оксамиту - створена для розслаблених красивих канікул та комфортного літа в великому місті. Розміри: висота 35 см, ширина 30 см, довжина ручки 58 см Матеріaл: оксамит (Італія) Підкладка: бавовна Застібка: немає Колір: капучіно У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 047002-0107 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-gigi-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка GIGI, emerald green",
+      "source_url": "https://ua.vikele.com/products/сумка-gigi-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": 8750,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/5A1566E1-394C-42A8-A66B-82E1E2307E22.jpg?v=1782207642",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/EB36B62A-99D9-4286-8980-7998DDA2FAE0.jpg?v=1782207643",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/7755C434-EC46-481E-8C5A-46486501A285.jpg?v=1791489961"
+      ],
+      "description": "Сумка GIGI з розкішного оксамиту - створена для розслаблених красивих канікул та комфортного літа в великому місті. Розміри: висота 35 см, ширина 30 см, довжина ручки 58 см Матеріaл: оксамит (Італія) Підкладка: бавовна Застібка: немає Колір: смарагдовий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: 047002-0146 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-icaria-leather-powder",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "СУМКА ICARIA, off-white",
+      "source_url": "https://ua.vikele.com/products/icaria-leather-powder",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 19700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/products/11_17c18980-3c69-4d42-b3b1-b9282037aeff.jpg?v=1762976791",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/products/22_354cef00-129a-41d1-b0d6-6dc844fca544.jpg?v=1762976791",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/products/44_28c62cef-e236-4c2e-9a6b-6251f29a8413.jpg?v=1762976791"
+      ],
+      "description": "Сумка-шопер Icaria виготовлена з розкішної шкіри найвищої якості та потрапила в рейтинг найкращих аксесуарів з Міланского тижня моди по версії британского VOGUE. Це річ, зручність та приємна тактильність якої буде дарувати Вам задоволення кожного дня і сезону! Розміри: висота 43 см, ширина 31 см, глибина 15 см Шкіра, фурнітура - Італія Створено в дизайн-студії VIKELE STUDIO, Україна Артикул: v1403-02011",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-stephanie-copy-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, dark blue-brown",
+      "source_url": "https://ua.vikele.com/products/сумка-stephanie-copy-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG_2326.jpg?v=1793622579",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/CE62DDE6-E70B-4EF8-B186-A8C33F9DCD17.jpg?v=1782167538",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2447A56C-C904-40F6-907B-F0A1FCDBA7BE.jpg?v=1782167539"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см Матеріaл: шкіра Підклад: алькантара Застібка: замок Колір: коричнево-синій Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele 2801-11 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-denise-mini-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI, sand",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-denise-mini-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "пісочний"
+      ],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-9.jpg?v=1735245382",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-10.jpg?v=1735245382",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-11.jpg?v=1735245381"
+      ],
+      "description": "Міні-сумка Denise - це маленька сумка-хобо: зручна, практична, стильна. Сумка закривається на блискавку, в середині - маленький карман. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: бежевий Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Україна Артикул: v4203-01021 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-rosie-leather-bag-silver-v3813-14011",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, silver",
+      "source_url": "https://ua.vikele.com/products/rosie-leather-bag-silver-v3813-14011",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "срібний"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_0a3df171-66ee-48a2-97d6-ffb3ca07a6c5.jpg?v=1768237098",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_19849500-c2be-4fb8-8442-3095f42f3b31.jpg?v=1768237098",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_fb96449b-e79d-44e3-ab71-2a05e5da0e77.jpg?v=1750846269"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра шевро Підкладка: бавовна Застібка: блискавка Колір: срібний Колір фурнітури: срібло У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3813-14011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-gracia-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE, black",
+      "source_url": "https://ua.vikele.com/products/copy-gracia-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8CF8F315-AB9E-4062-8D83-12732BEC559E.png?v=1792764430",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/61CD4139-AC56-4FA8-8613-413FEF9136AB.jpg?v=1782167353",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/C5EAEC60-016A-4E62-8E65-E39DA540BDDB.jpg?v=1782167353"
+      ],
+      "description": "Сумка CELINE - це розкішна ділова сумка з елегантною формою клапана, великим відділенням та карманом на блискавці всередині. Широкий ремінь через плече піклується про Ваш комфорт. Розміри: висота 27,5 см, ширина 36 см, глибина 12,5 см, довжина ременя 110 см Матеріал: шкіра Підкладка: велюр Застібка: магніт Колір: чорний Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO Артикул: 058002-0301 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-maria-mini-leather-canvas-bag-mustard-v2101-19011",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MARIA MINI, caramel",
+      "source_url": "https://ua.vikele.com/products/maria-mini-leather-canvas-bag-mustard-v2101-19011",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/643BD2C2-34AF-46F6-8F75-8BC6B1C8C718.png?v=1781333286",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_4_e3e683b5-50fd-4a6c-8671-ef02ad428cc7.jpg?v=1750851157",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_4_258a318d-a8e7-414e-9978-21ea3abc6072.jpg?v=1750851161"
+      ],
+      "description": "Maria mini - зменшений варіант сумки Maria, зі зйомним мішком з канвасу всередині. Довгий ланцюжок через плече - від італійської фабрики, яка виготовляє ювелірні прикраси. Створена для особливих днів та подій. Розміри: висота 14 см, ширина 17,5 см, глибина 6 см, довжина ланцюжка 120 см Матеріaл: шкіра, канвас Застібка: шкіряний шнурок Колір: гірчиця Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2101-19011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-stephanie-leather-bag-black-vikele-2801-11",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, black",
+      "source_url": "https://ua.vikele.com/products/stephanie-leather-bag-black-vikele-2801-11",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_b73c1286-f211-493a-b0c8-20f6c266053e.jpg?v=1777383334",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_fd904b02-6fc4-40cb-90fb-df5a407ee796.jpg?v=1777383395",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_ac97824b-107b-4b14-b57f-0b39a57462c3.jpg?v=1777383395"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. - Розміри: висота 17 см, ширина 28 см, глибина 8 см - Матеріал: шкіра ефектом кроко - Підкладка: алькантара - Застібка: замок - Колір: чорний - Колір фурнітури: срібна - У комплекті: текстильний чохол для зберіганн - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: Vikele-2801-11 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-stephanie-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, brown",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-stephanie-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_d4e8bf7d-3706-4516-b170-d76f4b2b5b8e.jpg?v=1777377899",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_ee0928b0-66b0-4908-953d-cdf6ac38d539.jpg?v=1777377905",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_013e8e47-48a9-48db-8846-7d7528f8fd67.jpg?v=1777377912"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см, максимальна довжина ременя 110 см Матеріaл: шкіра Підклад: алькантара Застібка: замок Колір: коричневий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2806-09012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-stephanie-5",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, burgundy",
+      "source_url": "https://ua.vikele.com/products/сумка-stephanie-5",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BED08877-B00F-4ECB-BEC0-8FC4FF210058.png?v=1777461679",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/28E983C0-DACD-4CA1-B8D7-9F6E66247E0C.jpg?v=1777473686",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6585C6A1-C8A4-414E-8467-54632E78C9D5.png?v=1777472573"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см Матеріал: шкіра Підклад: алькантара Застібка: замок Колір: бургунді Колір фурнітури: золото Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2801-04012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-stephanie-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-stephanie-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": 11400,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3E908487-CC76-4081-B9A6-A27BAF249607.jpg?v=1773820493",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_c39b9503-26ea-4f71-94ba-315d629b68ba.jpg?v=1773820493",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_05bc06d8-3bb9-404f-b584-d1a3efd56d00.jpg?v=1773820493"
+      ],
+      "description": "Сумка Stephanie - це класика і сучасність одночасно. Ремінець регулюється по довжині. - Розміри: висота 17 см, ширина 28 см, глибина 8 см - Матеріал: шкіра - Підклад: алькантара - Застібка: замок - Колір: карамель - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2801-08011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-copy-сумка-stephanie-4",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, black",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-stephanie-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_1169a359-9596-4c6b-af7a-59919f2e4360.jpg?v=1792877750",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_93331acd-d8cf-4765-8eb4-017b76cbfddd.jpg?v=1771598887",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_1ba5b1b1-1241-4b80-90d6-c68e643161d7.jpg?v=1771598887"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см, максимальна довжина ременя 110 см Матеріал: шкіра ефектом кроко Підкладка: алькантара Застібка: замок Колір: чорний Колір фурнітури: золото У комплекті: текстильний чохол для зберіганн Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2802-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-stripe-shopper-leather-bag-blue-grey-vikele-40102",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка COMO, multicolor",
+      "source_url": "https://ua.vikele.com/products/stripe-shopper-leather-bag-blue-grey-vikele-40102",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6977E67D-7CF3-464B-AE13-F83213A0DDCE.png?v=1792765745",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BE30F5B0-078D-41E1-AF86-6A5261BBEC3A.jpg?v=1772528339",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_966581c5-2b43-4c70-8f20-67e6a135f772.jpg?v=1772528339"
+      ],
+      "description": "Містка сумка-шопер для ноутбука, подорожей і щоденного використання зі стильним поєднанням фактур та кольорів шкіри. Розміри: висота 40 см, ширина 30 см, глибина 6 см Матеріaл: шкіра Підкладка: Застібка: замок Колір: Мультиколор Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Україна Артикул: Vikele-40102 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-stephanie-leather-bag-dark-brown-croco-silver-vikele-2801-09",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, dark brown",
+      "source_url": "https://ua.vikele.com/products/stephanie-leather-bag-dark-brown-croco-silver-vikele-2801-09",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/DB48E38A-E59C-4CA3-B3D6-914245682807.jpg?v=1771772441",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_6fd42905-66c5-4824-99fa-fbc40a0ea577.jpg?v=1771599058",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_bc3a9481-a049-407a-a15a-c9756dccd8f7.jpg?v=1771599058"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. - Розміри: висота 17 см, ширина 28 см, глибина 8 см - Матеріaл: шкіра - Підкладка: алькантара - Застібка: замок - Колір: темно коричнева кроко - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: Vikele 2801-09 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-stephanie-leather-bag-green-vikele-2801-07",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, dark green",
+      "source_url": "https://ua.vikele.com/products/stephanie-leather-bag-green-vikele-2801-07",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1DEAA52F-B0E9-4F64-A014-177EF453A306.jpg?v=1771802852",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_2adee708-4509-479a-b13a-7dd6181c30e7.jpg?v=1771612080",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_cb2faac7-6c46-4d40-be08-1a94fb003186.jpg?v=1771612080"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см, максимальна довжина ременя 110 см Матеріaл: шкіра Підкладка: алькантара Застібка: замок Колір: зелена Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele 2801-07 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-stephanie-leather-bag-lemon-croco-vikele-2801-10",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, lime",
+      "source_url": "https://ua.vikele.com/products/stephanie-leather-bag-lemon-croco-vikele-2801-10",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_b621d996-caba-4f2a-8532-3fe06ae24fdc.jpg?v=1771508035",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_468b619b-ffa0-4216-9855-556a6a50d1bf.jpg?v=1771508035",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_48214c94-c56e-4bbd-9aba-d0bf43eac424.jpg?v=1771508035"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см, максимальна довжина ременя 110 см Матеріaл: шкіра Підкладка: алькантара Застібка: замок Колір: лимонний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele 2801-10 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-maria-mini",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MARIA MINI, silver",
+      "source_url": "https://ua.vikele.com/products/сумка-maria-mini",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "срібний"
+      ],
+      "sizes": [],
+      "price_uah": 17500,
+      "sale_price_uah": 12250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/Mariamini_silver_2_site.jpg?v=1764408517",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/Mariamini_silver_3_site.jpg?v=1764408517",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/4B1F55DF-AF8A-4795-9BEA-AB558578DD71.jpg?v=1764408517"
+      ],
+      "description": "Maria mini - зменшений варіант сумки Maria, зі зйомним мішечком з канвасу всередині. Довгий ланцюжок через плече - від італійської фабрики, яка виготовляє ювелірні прикраси. Створена для особливих днів та подій. Розміри: висота 14 см, ширина 17,5 см, глибина 6 см, довжина ланцюжка 120 см Матеріaл: шкіра з ефектом кроко, канвас Підклад: шкіра Застібка: шкіряний шнурок Колір: срібний Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2102-14031 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-сумка-bucket-mini-copy-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET MINI",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-mini-copy-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 15700,
+      "sale_price_uah": 7850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_ce46aaea-d1b9-4a65-aaf1-9da41d1402a9.jpg?v=1750482433",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/44_ec39e8b8-2207-4f5c-b462-2d8731107eb8.jpg?v=1750482433",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_d0d6c260-124a-4b3f-90f8-eebfc39f43cf.jpg?v=1746997515"
+      ],
+      "description": "Маленька сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - Розміри: висота 16 см, ширина 12 см, глибина 6,5 см; довжина ременя 130 см - Матеріaл: шкіра, канвас - Застібка: шкіряний шнурок - Колір: мультиколор - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3111-09012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-сумка-moon-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MOON",
+      "source_url": "https://ua.vikele.com/products/сумка-moon-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 12500,
+      "sale_price_uah": 6250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/F9955924-42F4-4D10-8CF2-AD9C81F0706E.jpg?v=1768237328",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/F71BBECD-622B-42FB-B1E4-1E2711B36767.jpg?v=1768237328",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/53ED798C-C879-46FA-B459-3B6DEC7C634D.jpg?v=1768237328"
+      ],
+      "description": "MARSEGO та VIKELE STUDIO презентують спільну колекцію сумок: до колекції увійшли чотири моделі, що формою нагадують місяць, який в залежності від фази світить яскраво чи приглушено, то переливається золотом, то виблискує сріблом. Кольори колекції Moon Bag так чи інакше пов‘язані з природними явищами: • золотиста сумка — це сонячне сяйво, яке привертає увагу; • срібна — місячне мерехтіння, елегантна розкіш; • молочно-білий відтінок — втілення довершеності та гармонії; • чорний — вічна класика та ідеальна база. - Розміри: висота 12 см, ширина 24 см, глибина 6 см - Матеріaл: шкіра - Підклад: котон - Застібка: блискавка - Колір: золотий - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2408-07012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-футляр-для-окулярів",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Футляр для окулярів",
+      "source_url": "https://ua.vikele.com/products/футляр-для-окулярів",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Окуляри",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/157F4045-196A-4087-8543-270153DB1680.jpg?v=1768308683",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_6_b9a8522c-d9e1-4a9c-8f5a-7d86ca97e260.jpg?v=1768308683",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_6_dc3e9f72-7103-4ded-aaec-392a3f69cd94.jpg?v=1768308683"
+      ],
+      "description": "Сяйво чистої геометрії — футляр для окулярів VIKELE STUDIO у білому кольорі. Витончений силует із характерною рельєфною текстурою створює гру світла, яка надає футляру архітектурної виразності. Усередині — м’який захист для улюблених окулярів. Універсальний аксесуар, який поєднує естетику, зручність і увагу до деталей. - Розміри: ширина 20, висота 9,5, глибина 4 - Матеріал: натуральна шкіра з рельєфною текстурою - Застібка: магнітна - Колір: білий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: g0101-02011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-футляр-для-окулярів-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Футляр для окулярів",
+      "source_url": "https://ua.vikele.com/products/футляр-для-окулярів-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Окуляри",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_7_32bbcf3b-96a4-4e58-ba39-15cd41c9f8e4.jpg?v=1745568515",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_7_0985161e-24ed-46e1-bceb-98e16846d740.jpg?v=1745568518",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/EB380163-7CC5-4A28-8981-9F3B25EC98ED.jpg?v=1768308536"
+      ],
+      "description": "Сяйво чистої геометрії — футляр для окулярів VIKELE STUDIO у кораловому кольорі. Витончений силует із характерною рельєфною текстурою створює гру світла, яка надає футляру архітектурної виразності. Усередині — м’який захист для улюблених окулярів. Універсальний аксесуар, який поєднує естетику, зручність і увагу до деталей. - Розміри: ширина 20, висота 9,5, глибина 4 - Матеріал: натуральна шкіра з рельєфною текстурою - Застібка: магнітна - Колір: кораловий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: g0101-11011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-футляр-для-окулярів-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Футляр для окулярів",
+      "source_url": "https://ua.vikele.com/products/футляр-для-окулярів-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Окуляри",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_8_03adad06-6c0b-4da7-acd1-ae48af6a6143.jpg?v=1745568953",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_8_1f18f5bd-f454-439d-87e4-90f8eddafb78.jpg?v=1745568962",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3852E97B-7A9C-45DD-AD4C-0E93A0422462.jpg?v=1768308536"
+      ],
+      "description": "Сяйво чистої геометрії — футляр для окулярів VIKELE STUDIO у кольорі латте. Витончений силует із характерною рельєфною текстурою створює гру світла, яка надає футляру архітектурної виразності. Усередині — м’який захист для улюблених окулярів. Універсальний аксесуар, який поєднує естетику, зручність і увагу до деталей. - Розміри: ширина 20, висота 9,5, глибина 4 - Матеріал: натуральна шкіра з рельєфною текстурою - Застібка: магнітна - Колір: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: g0101-08011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-футляр-для-окулярів-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Футляр для окулярів",
+      "source_url": "https://ua.vikele.com/products/футляр-для-окулярів-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Окуляри",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_9_b39a4f79-1920-45de-98a1-4c8c59804f59.jpg?v=1745569380",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_9_8a3005d0-f34f-4754-960a-69faaca983b1.jpg?v=1745569384",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8C681183-61E5-4283-9514-D0A1219A9A64.jpg?v=1768308536"
+      ],
+      "description": "Сяйво чистої геометрії — футляр для окулярів VIKELE STUDIO у сріблястому металіку. Витончений силует із характерною рельєфною текстурою створює гру світла, яка надає футляру архітектурної виразності. Усередині — м’який захист для улюблених окулярів. Універсальний аксесуар, який поєднує естетику, зручність і увагу до деталей. - Розміри: ширина 20, висота 9,5, глибина 4 - Матеріал: натуральна шкіра з рельєфною текстурою - Застібка: магнітна - Колір: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: g0101-14011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-ariele",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ARIELE, beige",
+      "source_url": "https://ua.vikele.com/products/сумка-ariele",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 5700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_18.jpg?v=1744199119",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_19.jpg?v=1744199130",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/BE0F4C2D-E110-46FD-992F-C9F5C87E85AF.png?v=1785245258"
+      ],
+      "description": "Сумка Ariele створена з натуральної рафії, повторює форму морської мушлі — скульптурний силует, народжений ритмами природи. Легка, але виразна, вона створена, щоб привертати погляди й підкреслювати особливі літні моменти. Розміри: висота 23 см, ширина 23 см, глибина 10 см; довжина ременя 115 см Матеріaл: рафія Колір: бежевий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4814-01010 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-bucket-mini-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET MINI",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-mini-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_4_c2b0cce7-10ed-495b-88d9-90ff41323043.jpg?v=1753624932",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/44_3_653f6d69-4159-45c9-9694-83922d0874a3.jpg?v=1753624932",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/664065A6-7053-4909-9334-507F77B1544E.jpg?v=1753624932"
+      ],
+      "description": "Маленька сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - Розміри: висота 16 см, ширина 12 см, глибина 6,5 см; довжина ременя 130 см - Матеріaл: шкіра, рафія - Застібка: шкіряний шнурок - Колір: бежевий - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3114-01012 З усіх питань або за порадою звертайтесь до нашої Служби турботи про клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-bucket-leather-raffia-bag-beige-v2514-01012",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET",
+      "source_url": "https://ua.vikele.com/products/bucket-leather-raffia-bag-beige-v2514-01012",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20250610_134552_131.jpg?v=1781331913",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_ab311f52-f381-49bd-afb0-e283a6720c95.jpg?v=1753251880",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_ded8f240-579a-4694-8695-60072298baae.jpg?v=1753251880"
+      ],
+      "description": "Сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - про свободу самопрояву і цікавість до життя її власниці. - Розміри: висота 23 см, ширина 19,5 см, глибина 10,5 см; - Регульований плечовий ремінь: мінімальна довжина 71 см, максимальна довжина 110 см; - Матеріaл: шкіра, рафія - Застібка: шкіряний шнурок - Колір: бежевий - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2514-01012 З усіх питань або за порадою звертайтесь до нашої Служби турботи про клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-sirene",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка SIRÈNE, beige",
+      "source_url": "https://ua.vikele.com/products/сумка-sirene",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 13500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_21.jpg?v=1750482251",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_22.jpg?v=1750482251",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/15411931-EEF5-47E2-BDCB-99D1471428B6.jpg?v=1777983481"
+      ],
+      "description": "Сумка Sirène, виготовлена з натуральної рафії, втілює суть щасливого літа. Її чисті лінії та м’яка текстура роблять її ідеальним супутником для сонячних днів. Вмістка, невимушена й зручна — як для прогулянок містом, так і для відпочинку біля моря. Ручне плетіння. Натуральні матеріали. Ода розслабленій елегантності. - Розміри: висота 60 см, ширина 50 см - Матеріaл: рафія - Колір: бежева - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v4714-01010 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-sirene-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка SIRÈNE, black",
+      "source_url": "https://ua.vikele.com/products/сумка-sirene-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 13500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_22.jpg?v=1750482262",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_23.jpg?v=1750482262",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/9999.png?v=1750482262"
+      ],
+      "description": "Сумка Sirène, виготовлена з натуральної рафії, втілює суть щасливого літа. Її чисті лінії та м’яка текстура роблять її ідеальним супутником для сонячних днів. Вмістка, невимушена й зручна — як для прогулянок містом, так і для відпочинку біля моря. Ручне плетіння. Натуральні матеріали. Ода розслабленій елегантності. - Розміри: висота 60 см, ширина 50 см - Матеріaл: рафія - Колір: чорна - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v4714-17010 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-bucket-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET, black",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 22700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_1_12ececb6-4ec3-42bb-aff2-4ee3e248021b.jpg?v=1771127931",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_1_b69d6489-7e4c-4b24-810f-b1a3a4fe9909.jpg?v=1771127931",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_1_71b7395b-236e-437d-b373-9a5f362adbf0.jpg?v=1771127931"
+      ],
+      "description": "Сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - про свободу самопрояву і цікавість до життя її власниці. Розміри: висота 23 см, ширина 19,5 см, глибина 10,5 см; Регульований плечовий ремінь: мінімальна довжина 71 см, максимальна довжина 110 см Матеріaл: шкіра, рафія Застібка: шкіряний шнурок Колір: чорний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: V2514-17012 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-bucket-mini-4",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET MINI",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-mini-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_5_43993a55-895c-4e96-afa1-64d55e3c23b1.jpg?v=1768312115",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/44_4_97cc7a99-7cf8-4c07-8d28-01dafde4a6d2.jpg?v=1768312115",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_5_b4e616c8-d859-42f8-8150-eab5a87c3d47.jpg?v=1768312115"
+      ],
+      "description": "Маленька сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - Розміри: висота 16 см, ширина 12 см, глибина 6,5 см; довжина ременя 130 см - Матеріaл: шкіра, рафія - Застібка: шкіряний шнурок - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3114-17012 З усіх питань або за порадою звертайтесь до нашої Служби турботи про клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-denise",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE, olive",
+      "source_url": "https://ua.vikele.com/products/сумка-denise",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1C45241A-2444-4C48-B43A-A2C426F521F6.png?v=1781332902",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/FB273E1C-900F-4352-A1E2-EC085FBFB80A.jpg?v=1771257750",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_6.jpg?v=1771257750"
+      ],
+      "description": "Сумка Denise - про розслаблену і розкішну зручність. Всередині сумки - одне велике відділення і карман на блискавці. Розміри: висота 25 см, ширина 47 см, глибина 10 см, максимальна довжина плечового ременя 120 см Матеріал: замша Підкладка: котон Застібка: блискавка Колір: оливковий Колір фурнітури: золото Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele-30102 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, black",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_8.jpg?v=1752867909",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_7.jpg?v=1741378325",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/44_9.jpg?v=1741378329"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. - Розміри: висота 12 см, ширина 28 см, глибина 5 см - Матеріал: шкіра - Підкладка: котон - Застібка: блискавка - Колір: чорний - Колір фурнітури: срібло - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3813-17021 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-папка-для-паперів-ny-copy-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Папка для паперів",
+      "source_url": "https://ua.vikele.com/products/папка-для-паперів-ny-copy-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8700,
+      "sale_price_uah": 4350,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_1_46feca68-9114-4dc3-9dfb-d6cfbe203bea.jpg?v=1745520612",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_1_8d95e758-da99-47c9-85ec-be14c80dbd36.jpg?v=1745520615"
+      ],
+      "description": "Розкішна папка для паперів виготовлена з найякіснішої італійської шкіри. Підклад - алькантара. Під замовлення можлива персоналізація. - Розміри: висота 24,5 см, ширина 37 см, глибина 0.5 см - Матеріaл: шкіра - Підкладка: алькантара - Застібка: блискавка - Колір: чорний - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: f3003-17011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-denise-leather-bag-olive-vikele-20101",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI, olive",
+      "source_url": "https://ua.vikele.com/products/denise-leather-bag-olive-vikele-20101",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/F70258BE-4BAD-43BA-A367-4C643977F556.jpg?v=1771257750",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/FB273E1C-900F-4352-A1E2-EC085FBFB80A.jpg?v=1771257750",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_6.jpg?v=1771257750"
+      ],
+      "description": "Міні-сумка Denise - це маленька сумка-хобо: зручна, практична, стильна. Сумка закривається на блискавку, в середині - маленький карман. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: замша Підкладка: котон Застібка: блискавка Колір: оливковий Колір фурнітури: золото Включає: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: Vikele-20101 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-denise-boho-mini",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI boho, cognac",
+      "source_url": "https://ua.vikele.com/products/сумка-denise-boho-mini",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 25200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6561DAF0-DBC0-4FEE-A5B4-0CB1633CD4B6.jpg?v=1771127054",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_58e85927-f9ee-427f-bc18-ba73c065699d.jpg?v=1771127054",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_fd397072-5f3f-46a7-9ab3-7ff05e00be4b.jpg?v=1771127054"
+      ],
+      "description": "Сумка Denise boho MINI - про розслаблену і розкішну зручність. Всередині сумки - одне відділення і карман на блискавці. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: замша Підкладка: котон Застібка: блискавка Колір: темно-рудий Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4904-08012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-denise-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE, burgundy",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-denise-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_1.jpg?v=1764275534",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/4430E768-D8F6-425E-A2EC-7A0DB176FE42.jpg?v=1764275534",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_1.jpg?v=1764275534"
+      ],
+      "description": "Сумка Denise - про розслаблену і розкішну зручність. Всередині сумки - одне велике відділення і карман на блискавці. Розміри: висота 25 см, ширина 47 см, глибина 10 см, максимальна довжина плечового ременя 120 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: бордо Колір фурнітури: срібний Включає: пиловик Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3903-04021 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie-copy-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE, taupe",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie-copy-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/FBC01534-89AB-40F8-AC18-980D4743AB40.jpg?v=1781332945",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8AD24401-5876-4FAC-B7FD-D539DBAD1AC6.jpg?v=1770504367",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/8399EE5E-8D4C-4FE2-8A0B-835316011153.jpg?v=1770504367"
+      ],
+      "description": "Сумка Denise - про розслаблену і розкішну зручність. Всередині сумки - одне велике відділення і карман на блискавці. Розміри: висота 25 см, ширина 47 см, глибина 10 см, максимальна довжина плечового ременя 120 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: сірий тауп Колір фурнітури: золото Включає: пиловик Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3903-13012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-ремінь-для-сумки-paris",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Ремінь PARIS",
+      "source_url": "https://ua.vikele.com/products/ремінь-для-сумки-paris",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_9.jpg?v=1741378731",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_9.jpg?v=1741378735"
+      ],
+      "description": "Ремінь - Розміри: довжина 74 см, ширина 4 см - Колір: чорний - Колір фурнітури: золотий - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: b0102-17012",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-ремінь-для-сумки-5",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Ремінь",
+      "source_url": "https://ua.vikele.com/products/ремінь-для-сумки-5",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_15.jpg?v=1741379942",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_15.jpg?v=1741379946",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/A1243E78-78D0-44DF-9840-1B8A82A5F89A.jpg?v=1781816537"
+      ],
+      "description": "Ремінь - Розміри: довжина 83 см, ширина 3 см - Колір фурнітури: срібний - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: b0403-17011",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-ремінь-для-сумки-4",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Ремінь",
+      "source_url": "https://ua.vikele.com/products/ремінь-для-сумки-4",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 4300,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_14.jpg?v=1741379828",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_14.jpg?v=1741379831"
+      ],
+      "description": "Ремінь - Розміри: довжина 73 см, ширина 3 см - Колір: чорний - Колір фурнітури: срібний - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: b0401-17011",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-denise",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI, black",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-denise",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_e2be88d1-a507-43a9-9738-e1324d2e9759.jpg?v=1771126602",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/F48C7230-432B-497F-92D8-64D36E795D0F.jpg?v=1771126602",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_6a18364d-1458-420a-9e7d-788a1d136887.jpg?v=1771126602"
+      ],
+      "description": "Міні-сумка Denise - це маленька сумка-хобо: зручна, практична, стильна. Сумка закривається на блискавку, в середині - маленький карман. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: чорний Колір фурнітури: золото Включає: пиловик Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4203-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-denise-mini",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE MINI, cognac",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-denise-mini",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_a738db83-efaa-45f8-bf08-f516e2794045.jpg?v=1771126791",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_e0bf3baf-8015-4d32-8078-657f59fd56c4.jpg?v=1771126791",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_81e3a14b-5536-4d3a-b18f-de6d03306aaf.jpg?v=1771126791"
+      ],
+      "description": "Міні-сумка Denise - це маленька сумка-хобо: зручна, практична, стильна. Сумка закривається на блискавку, в середині - маленький карман. Розміри: висота 15 см, ширина 31 см, глибина 9 см, максимальна довжина плечового ременя 83 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: темно-рудий Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4204-08012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-denise-copy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE, black",
+      "source_url": "https://ua.vikele.com/products/сумка-denise-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_4e963d0e-83a2-4ac7-b651-75cd75c82dd8.jpg?v=1758037202",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_8ffdf2cd-7cfb-43ad-9743-08dc342b2a1e.jpg?v=1758037202",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_5a3d29f0-be11-4df1-9512-04bedc44bccb.jpg?v=1758037202"
+      ],
+      "description": "Сумка Denise - про розслаблену і розкішну зручність. Всередині сумки - одне велике відділення і карман на блискавці. Розміри: висота 25 см, ширина 47 см, глибина 10 см, максимальна довжина плечового ременя 120 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: чорний Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3903-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-denise-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка DENISE, cognac",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-denise-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 27800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6762E52B-5058-48FE-BDE7-B63592DCB1EE.jpg?v=1761658349",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-25.jpg?v=1761658349",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/0x0-26.jpg?v=1761658349"
+      ],
+      "description": "Сумка Denise - про розслаблену і розкішну зручність. Всередині сумки - одне велике відділення і карман на блискавці. Розміри: висота 25 см, ширина 47 см, глибина 10 см. Матеріал: замша Підкладка: котон Застібка: блискавка Колір: темно-рижий Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3904-08012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-ремінь-для-сумки-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Ремінь",
+      "source_url": "https://ua.vikele.com/products/ремінь-для-сумки-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 3200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_11.jpg?v=1741379394",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_11.jpg?v=1741379397"
+      ],
+      "description": "Ремінь - Розміри: довжина 86 см, ширина 2 см - Колір: бежевий - Колір фурнітури: срібний - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: b0501-01011",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-celine-mini",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка CELINE MINI, black",
+      "source_url": "https://ua.vikele.com/products/сумка-celine-mini",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 20700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_132846_822.jpg?v=1772831321",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_132853_246.jpg?v=1772831321",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_132856_634.jpg?v=1735814349"
+      ],
+      "description": "Celine Mini — компактна сумка з чіткою архітектурною формою та вивіреними пропорціями. Дві ручки й тонкий ланцюжок передбачають носіння в руці або на плечі. Розміри: висота 16 см, ширина 21 см, глибина 8 см Матеріал: шкіра Підклад: котон Застібка: магніт, блискавка Колір: чорний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v4402-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-rosie-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, olive",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-rosie-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "оливковий"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_9631d4ef-b61a-43af-943e-4b6f2d41ba74.jpg?v=1764834352",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_5108df9c-fbe9-43db-a40f-2de020188dc7.jpg?v=1764834352",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_18b933c0-f6b5-4458-bb22-67de1e9f12b5.jpg?v=1764834352"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: оливковий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3801-18012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-lilu-5",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка LILU",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-lilu-5",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 15700,
+      "sale_price_uah": 7850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1515F824-6294-4CD9-8E7A-E75A8173344C.jpg?v=1770721450",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_83e94cc5-974a-4ac1-82d5-d2944bfb7ab2.jpg?v=1770721450",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_0a15f43d-af9a-4331-87dd-8a640190348e.jpg?v=1770721450"
+      ],
+      "description": "Сумка Lily - про легкість характеру і зручність. Підкладка - алькантара; ремінець регулюється по довжині. - Розміри: висота 19 см, ширина 26 см, глибина 9,5 см - Довжина ремінця: 58 см - Матеріал: шкіра - Підкладка: алькантара - Застібка: блискавка - Колір: оливковий - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2707-18012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-сумка-maria-mini-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MARIA MINI, black",
+      "source_url": "https://ua.vikele.com/products/сумка-maria-mini-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 17500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_3.jpg?v=1764408535",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_3.jpg?v=1764408535",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_3.jpg?v=1764408535"
+      ],
+      "description": "Maria mini - зменшений варіант сумки Maria, зі зйомним мішечком з канвасу всередині. Довгий ланцюжок через плече - від італійської фабрики, яка виготовляє ювелірні прикраси. Створена для особливих днів та подій. Розміри: висота 14 см, ширина 17,5 см, глибина 6 см, довжина ланцюжка 120 см Матеріaл: шкіра, канвас Застібка: шкіряний шнурок Колір: чорний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2101-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-maria-mini-copy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка MARIA MINI, milk",
+      "source_url": "https://ua.vikele.com/products/сумка-maria-mini-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 17500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_fc033a04-0b7f-4f15-b551-dc79c414d0c3.jpg?v=1722348840",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_d2760654-1ee7-419f-ace5-e365e7195bd0.jpg?v=1722348822",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_ac379003-06af-4a1d-a7a2-e44b00d040b4.jpg?v=1722348850"
+      ],
+      "description": "Maria mini - зменшений варіант сумки Maria, зі зйомним мішком з канвасу всередині. Довгий ланцюжок через плече - від італійської фабрики, яка виготовляє ювелірні прикраси. Створена для особливих днів та подій Розміри: висота 14 см, ширина 17,5 см, глибина 6 см, довжина ланцюжка 120 см Матеріaл: шкіра, канвас Застібка: шкіряний шнурок Колір: молочний Колір фурнітури: срібний У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2101-02011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-of-сумка-stephanie",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, black",
+      "source_url": "https://ua.vikele.com/products/copy-of-сумка-stephanie",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_3a8279de-115a-4836-ae57-5d1319ffba19.jpg?v=1776163652",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_5b657f30-b5f2-4d4b-adb2-0a9db94c2e8d.jpg?v=1776163652",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_e7bad636-57f8-4915-af73-71d24bf94536.jpg?v=1776163652"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. - Розміри: висота 17 см, ширина 28 см, глибина 8 см - Матеріaл: шкіра - Підклад: алькантара - Застібка: замок - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v2801-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-rosie-leather-bag-multicolor-v3814-17011",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, multicolor",
+      "source_url": "https://ua.vikele.com/products/rosie-leather-bag-multicolor-v3814-17011",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": 12750,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_5.jpg?v=1764834303",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_5.jpg?v=1764834303",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_5.jpg?v=1760090612"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: бавовна Застібка: блискавка Колір: мультиколор Колір фурнітури: срібло У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3814-17011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-rosie-leather-bag-black-v3801-17012",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, black",
+      "source_url": "https://ua.vikele.com/products/rosie-leather-bag-black-v3801-17012",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_4.jpg?v=1771263327",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_4.jpg?v=1771263327",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_4.jpg?v=1771263327"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 120 см Матеріал: шкіра Підкладка: бавовна Застібка: блискавка Колір: чорний Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3801-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-bucket-leather-bag-black-v2501-17012",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET, black",
+      "source_url": "https://ua.vikele.com/products/bucket-leather-bag-black-v2501-17012",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 22700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/AA18989F-13BF-4349-9F84-F12722EBE440.jpg?v=1771772551",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_1_3497749b-db5b-4bb4-837a-77f7cf558d84.jpg?v=1781165817",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_a494e980-43f7-4341-955d-bf7b7b2e9c0c.jpg?v=1781165820"
+      ],
+      "description": "Сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - про свободу самопрояву і цікавість до життя її власниці. Розміри: висота 23 см, ширина 19,5 см, глибина 10,5 см; Регульований плечовий ремінь: мінімальна довжина 71 см, максимальна довжина 110 см; Матеріaл: шкіра Застібка: шкіряний шнурок Колір: чорний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2501-17012 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, black",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/23CB463E-0C1F-4C03-A15C-8F3C870F6949.jpg?v=1759768783",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_48cdd161-e07f-4dee-86af-89ee69a1d96c.jpg?v=1759768783",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_b09e7a7d-743b-492a-88c2-07e911c33d2f.jpg?v=1759768783"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. - Розміри: висота 12 см, ширина 28 см, глибина 5 см - Матеріал: шкіра - Підкладка: котон - Застібка: блискавка - Колір: чорний - Колір фурнітури: срібло - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3813-17011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie-gold",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, gold",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie-gold",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_2.jpg?v=1760032440",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_2.jpg?v=1760032362",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3_2_34850ae4-559c-4aa9-a01f-38e0bc3884f0.jpg?v=1760032520"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: золотий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3813-07012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-stephanie-8",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка STEPHANIE, pale pink",
+      "source_url": "https://ua.vikele.com/products/сумка-stephanie-8",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 22800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/3C0CBC3F-D4D3-45FE-938D-86FC5E3071DE.png?v=1782711116",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1623822C-BAF0-4257-9110-49C99FEB941D.jpg?v=1781331836",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_23.jpg?v=1753218499"
+      ],
+      "description": "Сумка Stefanie має стильний архітектурний силует та яскраво виражений характер. Ручка-ремінець, що регулюється, дозволяє комфортно носити її як на руці, так і через плече. Розміри: висота 17 см, ширина 28 см, глибина 8 см Матеріaл: шкіра Підкладка: алькантара Застібка: замок Колір: пудровий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v2801-11012 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-rosie-copy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, beige",
+      "source_url": "https://ua.vikele.com/products/сумка-rosie-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_65deec75-5d51-48ea-93b7-11268c185cb6.jpg?v=1788787322",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/AEC82DC9-04C6-4E3D-8BDD-2D42E93BB92F.jpg?v=1771263502",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_fc806761-7bf7-41d5-9e4a-9c6650d8b936.jpg?v=1771263502"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: бежевий Колір фурнітури: золото У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3813-01012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-клатч-opera-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Клатч OPERA, graphite gold",
+      "source_url": "https://ua.vikele.com/products/клатч-opera-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "графіт",
+        "золотий"
+      ],
+      "sizes": [],
+      "price_uah": 10700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_131618_390.jpg?v=1759769300",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_131620_474.jpg?v=1759769300",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/IMG-20241126_131622_836.jpg?v=1759769300"
+      ],
+      "description": "Класичний клатч-конверт для елегантних образів. Розміри: висота 11 см, ширина 29 см, глибина 0.5 см Матеріaл: ш кіра з ефектом шкіри пітона Підкладка: алькантара Застібка: магнітна кнопка Колір: г рафітово-золотий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3302-09012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-bucket-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET, caramel",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 22700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_b9f48f38-c8e1-455d-802b-053c7a6149cf.jpg?v=1771127896",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_25198692-0f1a-4b45-9c6c-402e68237031.jpg?v=1771127896",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_40b83f09-a159-4324-aefb-e76fce8379b7.jpg?v=1771127896"
+      ],
+      "description": "Сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою - про свободу самопрояву і цікавість до життя її власниці. Розміри: висота 23 см, ширина 19,5 см, глибина 10,5 см; довжина ременя 93 см Матеріaл: шкіра, канвас Застібка: шкіряний шнурок Колір: карамель Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO Артикул: v2501-08012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-bucket-mini-3",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET MINI, black",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-bucket-mini-3",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_2_17ac30cf-1f6a-4cbe-9843-ab9efc40436c.jpg?v=1768312104",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_2_3a1aae19-fccd-46db-91f6-fbb887a03d09.jpg?v=1768312104",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_2_8d84ab2d-f24a-47c2-9344-695de8be13bc.jpg?v=1768312104"
+      ],
+      "description": "Маленька сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою. Розміри: висота 16 см, ширина 12 см, глибина 6,5 см; довжина ременя 130 см Матеріaл: шкіра, канвас Застібка: шкіряний шнурок Колір: чорний Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3101-17012 Будемо раді відповісти на будь-які Ваші питання: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-сумка-bucket-mini-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка BUCKET MINI",
+      "source_url": "https://ua.vikele.com/products/сумка-bucket-mini-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 17800,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_1.jpg?v=1750458960",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/44_1_e49b9b36-97c1-43fc-a2d8-5f22d9e559f9.jpg?v=1750458960",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_1_da025356-f036-4a76-abff-dce990af4455.jpg?v=1750458960"
+      ],
+      "description": "Маленька сумка-відро від VIKELE STUDIO з фірмовими елегантними вирізами та елегантною формою. - Розміри: висота 16 см, ширина 12 см, глибина 6,5 см; довжина ременя 130 см - Матеріaл: шкіра, канвас - Застібка: шкіряний шнурок - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: v3101-17022 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-copy-сумка-rosie-2",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Сумка ROSIE, plum",
+      "source_url": "https://ua.vikele.com/products/copy-сумка-rosie-2",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 18200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/373028DC-C5F9-47DD-BC74-E1D8FA31D27F.png?v=1789103251",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/2_07a4a642-5bc7-40fb-ac3b-6b970081a68d.jpg?v=1771599143",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/1_71a5ce06-25eb-4ead-8525-71ef23a7035e.jpg?v=1771599143"
+      ],
+      "description": "Сумка Rosie з мʼякими природними складками та довгою ручкою з декоративними вузлами приємно дивує місткістю та зручністю. Виготовлена з м'якої наппи з овечої шкіри. Розміри: висота 12 см, ширина 28 см, глибина 5 см, максимальна довжина плечового ременя 110 см Матеріал: шкіра Підкладка: котон Застібка: блискавка Колір: сливовий Колір фурнітури: золотий У комплекті: текстильний чохол для зберігання Створено в дизайн-студії VIKELE STUDIO, Київ Артикул: v3801-15012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "vikele-папка-для-паперів-ny-copy",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Папка для паперів NY",
+      "source_url": "https://ua.vikele.com/products/папка-для-паперів-ny-copy",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8700,
+      "sale_price_uah": 4350,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/11_adf8c1ea-4689-43b8-9827-3e92b0698682.jpg?v=1724163810",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/22_02fdb218-3ad6-4f91-9396-c85e868c87c9.jpg?v=1724163810",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/33_db776cae-160d-4be2-b9f3-e513a6f979fb.jpg?v=1724163809"
+      ],
+      "description": "Розкішна папка для паперів виготовлена з найякіснішої італійської шкіри з ефектом кроко. Підклад - алькантара. Під замовлення можлива персоналізація. - Розміри: висота 24,5 см, ширина 37 см, глибина 0.5 см - Матеріaл: шкіра кроко - Підкладка: алькантара - Застібка: блискавка - Колір: срібний - Колір фурнітури: срібний - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: f3002-14011 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    },
+    {
+      "id": "vikele-сard-holder-green-1",
+      "brand": "Vikele",
+      "brand_id": "vikele",
+      "name": "Папка для паперів NY",
+      "source_url": "https://ua.vikele.com/products/сard-holder-green-1",
+      "gender": null,
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "bag",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 8700,
+      "sale_price_uah": 6960,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/EE8D63FE-9587-4D60-9553-8644E3140DC9.jpg?v=1762857732",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/6B251036-40F8-4644-9389-F26D9AC8EEBA.jpg?v=1762857732",
+        "https://cdn.shopify.com/s/files/1/0160/7811/0774/files/7FB7CA60-5DAA-4911-B633-BF83959B202F.jpg?v=1762857732"
+      ],
+      "description": "Розкішна папка для паперів виготовлена з найякіснішої італійської шкіри з ефектом кроко. Підклад - алькантара. Під замовлення можлива персоналізація. - Розміри: висота 24,5 см, ширина 37 см, глибина 0.5 см - Матеріaл: шкіра - Підклад: алькантара - Застібка: блискавка - Колір: чорний - Колір фурнітури: золотий - У комплекті: текстильний чохол для зберігання - Створено в дизайн-студії VIKELE STUDIO, Київ - Артикул: f3002-17012 З усіх питань або для отримання поради, будь ласка, звертайтесь до нашої служби підтримки клієнтів: studio@vikele.com",
+      "care": null,
+      "collections": [
+        "Знижки"
+      ]
+    }
+  ]
+}
