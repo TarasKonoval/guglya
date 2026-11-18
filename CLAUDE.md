@@ -16,7 +16,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 4. Bonus: donations to a Monobank volunteer jar (VITE_DONATE_URL), donate clicks logged.
 
 ## Architecture (AWS eu-central-1, Terraform in infra/terraform, local state)
-- Auth: Cognito User Pool (email username, min 8 chars), pre-sign-up Lambda auto-confirms + verifies email. Public client, no secret.
+- Auth: Cognito User Pool (email username, min 8 chars). Email sign-up is confirmed with a 6-digit code (Cognito default
+  mailer, 50 emails/day; SES is the upgrade path); the pre-sign-up Lambda auto-confirms Google sign-ins only. Public client, no secret.
   Google sign-in: Cognito Google IdP + custom domain auth.guglya.studio (OAuth code flow, Amplify signInWithRedirect); Google OAuth
   client lives in Google Cloud Console, credentials only in terraform.tfvars. Email and Google accounts are not linked.
 - Frontend: React + Vite + TS + aws-amplify v6 → private S3 + CloudFront (OAC, SPA fallback). `infra/deploy-frontend.sh`.

@@ -48,7 +48,7 @@ flowchart LR
   U -->|адмін: фото образу| AG[Lambda агент<br/>Function URL] -->|Converse| BR[Bedrock<br/>Claude Sonnet 4.6]
 ```
 
-- **Auth:** Cognito (email + пароль від 8 символів). Pre-sign-up Lambda одразу підтверджує акаунт, тож тестувальник входить без коду з пошти.
+- **Auth:** Cognito (email + пароль від 8 символів). Email підтверджується 6-значним кодом з листа (поштовий сервіс Cognito, до 50 листів на добу; для більшого — Amazon SES). Pre-sign-up Lambda підтверджує лише вхід через Google.
   Також «Продовжити з Google»: Cognito федерує вхід через Google OAuth (домен `auth.guglya.studio`, Amplify `signInWithRedirect`).
 - **Backend:** FastAPI у Lambda (VPC за замовчуванням, без NAT), тому JWKS Cognito і `DATABASE_URL` Terraform передає як змінні середовища. Токен перевіряється за RS256 / `iss` / `aud` / `token_use=id`. CORS налаштований лише у FastAPI.
 - **Дані для звіту:** `users` (кожен запит із токеном оновлює рядок), `events` (`outfit_view`, `swap`, `donate_click`, `feedback_open`), `clicks` (з позначкою `is_alternative`), `feedback` (оцінка, «чи купили б», текст).
