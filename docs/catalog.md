@@ -58,15 +58,27 @@ brand_popularity.json ───────────────────�
 - `"keep_unisex": true` у brands.json (German Apparel, Cuprum Depot, O(FourFour)) — завжди унісекс;
 - чоловічим образам пропонуємо лише чоловіче, жіночим — жіноче + унісекс.
 
+## Сумки й шарфи
+- `kind` у brands.json: `bags` / `scarves` (як `hats`): scraper.js не обмежує їм аксесуари 30-ма.
+- На сайті **немає слота для сумок і шарфів**: `import_brand_db.py` пропускає слот `other`. Бренди сумок і шарфів
+  (Mastak, Leonchenko, DIKO, The Blub, Lona Prist, Brutalist, Kozhuhar, RE MI, Lovandbag, Famo, My Scarf, DOLYA,
+  Bobkova) лежать у data/database, але **не імпортовані** — вирішимо разом, коли зʼявиться слот.
+- `--only id1,id2` в import_brand_db.py і classify_gender.py: імпорт/стать лише цих брендів (не чіпає чужі —
+  коли хтось паралельно імпортує свої).
+
 ## Не вдалося зібрати (18 листопада 2026)
 | Бренд | Причина |
 | --- | --- |
-| Six Zeros, COVER, Капелюх, OMG Shoes, M-Tac, Lilcorner | власні сайти (JS / OpenCart): scraper.js не впізнає сторінки товарів — потрібен окремий адаптер |
+| Six Zeros, COVER, Капелюх, OMG Shoes, M-Tac, Lilcorner, Kadar, IKOS, Mida, Bistfor, Dublon, OLIZ | власні сайти (JS / OpenCart): scraper.js не впізнає сторінки товарів — потрібен окремий адаптер (Mida ще й з DDoS-захистом, у видимому браузері проходить) |
 | Rikky Hype | Cloudflare з інтерактивною перевіркою (потрібна людина) |
 | CTRL | у ctrl.ua зламаний SSL-сертифікат |
 | Circul | домен circulmark.com тепер веде на сторонній сайт — бренд прибрано |
+| Hameleon, The Kode, YourYarn | домени не відкриваються (DNS) — не додані |
 | Ali Saulidi, WHY ME, Blast Out Studio | ціни лише в доларах |
-| Staff, The Suits | товари є, але фото не завантажуються для ембедингів (Staff 403, The Suits блокує IP після збору) — на сайті їх не видно, доки `embed.py` не порахує вектори |
+| Lookie Atelier, Lona Prist | ціни лише в євро (зібрані в data/database, на сайт не потрапляють) |
+| Low Blow, Urban Trace, Kazvan, The Sway | не знайшли власного інтернет-магазину з цінами в ₴ — не додані |
+| Staff | фото не завантажуються для ембедингів (403) — на сайті їх не видно, доки `embed.py` не порахує вектори |
+| Goldi (28 товарів) | назва = «Goldi» (старий merge.py брав бренд замість назви) — потрібен повторний збір |
 
 ## Як працює підбір
 - **Слоти**: hat, outer (пальто, куртки), jacket (піджак), top (светр, сорочка, футболка), dress (сукня,
