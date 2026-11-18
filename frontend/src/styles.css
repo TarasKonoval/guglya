@@ -429,7 +429,7 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
   .outfit-layout { display: grid; grid-template-columns: minmax(380px, 45%) 1fr; padding-bottom: 0; }
   .outfit-visual { position: sticky; top: var(--header-h); height: calc(100dvh - var(--header-h)); }
   .outfit-visual .cover { height: 100%; max-height: none; }
-  .outfit-panel { padding-bottom: 160px; }
+  .outfit-panel { padding-bottom: 160px; padding-left: 24px; }
   .item-card { flex-basis: 168px; }
   .check-bar { left: auto; width: min(560px, 55%); right: 16px; bottom: 16px; border-radius: 18px; padding: 14px 18px; }
   body.has-bar .fab { bottom: 16px; right: auto; left: 16px; width: auto; padding: 0 18px; }

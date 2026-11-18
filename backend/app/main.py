@@ -156,6 +156,7 @@ TITLE_GROUPS = [
     ("shoes", "лофер|loafer|туфл|дербі|derby|оксфорд|oxford|монки|мокасин", "dress_shoes"),
 ]
 MIN_GROUP = 3
+SAME_COLOR_FIRST = 8  # the alternatives row opens with this many in the item's colour, then other colours
 
 
 def type_group(a: str) -> str:
@@ -174,16 +175,15 @@ def gender_ok(target: str) -> str:
 
 
 @app.get("/outfits/{outfit_id}/similar/{slot}")
-def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = None, any_color: bool = False,
-            limit: int = 5):
+def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = None, limit: int = 5):
     """AI alternatives: same category and the same kind of item (trousers vs sweatpants, loafers vs boots...; the
     whole category only if that kind has < MIN_GROUP candidates), in stock, other brands (one per brand first), for
     the outfit's gender (a couple look: the original item's gender).
     Items published from the builder keep its search (AI description of the look photo as a FashionCLIP text
     vector + colour): they are ranked exactly like /admin/match, so visitors see the row the admin picked from.
-    Older items: by the chosen product's photo (similarity >= MIN_SIMILARITY). The row keeps the item's colour
-    (others are behind the colour chips) unless that colour has < MIN_GROUP candidates. Bonuses: exact item type,
-    popular brands."""
+    Older items: by the chosen product's photo (similarity >= MIN_SIMILARITY). The item's colour comes first, then
+    the closest items in other colours (a colour chip shows only that colour). Bonuses: exact item type, popular
+    brands."""
     return fetch_all(
         f"""with hero as (
               select p.id, p.brand_id, p.category, p.price_uah, p.item_type, {type_group("p")} as grp,
@@ -205,16 +205,9 @@ def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = No
                 and p.embedding is not null and {gender_ok("hero.target")}
                 -- text-to-image scores are ~0.3, image-to-image ~0.7-0.9: the floor only applies to photo search
                 and (hero.by_text or 1 - (p.embedding <=> hero.v) >= {MIN_SIMILARITY})
-            ), kind as (
-              select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
-              where same_group or n_group < {MIN_GROUP}
             ), ranked as (
-              -- the item's own colour only (other colours are behind the colour chips), unless it has < MIN_GROUP;
-              -- a chosen chip colour replaces it
-              select * from (select *, count(*) filter (where same_color) over () as n_color from kind) k
-              where case when %(color)s::text is not null then color = %(color)s
-                         when %(any)s then true  -- colour chips: every colour
-                         else same_color or n_color < {MIN_GROUP} end
+              select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
+              where (same_group or n_group < {MIN_GROUP}) and (%(color)s::text is null or color = %(color)s)
             ), scored as (
               -- same weights as /admin/match for builder items
               select *, similarity + 0.02 * same_color::int
@@ -224,10 +217,13 @@ def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = No
             )
             select id, title, brand, category, color, price_uah, image_url, product_url, is_demo,
                    price_diff, round(similarity::numeric, 3)::float as similarity
-            from (select *, row_number() over (partition by brand order by score desc) as brand_rank from scored) s
-            order by brand_rank, score desc
+            from (select *, row_number() over (partition by same_color order by brand_rank, score desc) as color_rank
+                  from (select *, row_number() over (partition by brand, same_color order by score desc) as brand_rank
+                        from scored) b) s
+            -- up to SAME_COLOR_FIRST items in the item's colour (one per brand first), then the rest in any colour
+            order by (same_color and color_rank <= {SAME_COLOR_FIRST}) desc, brand_rank, score desc
             limit %(limit)s""",
-        {"outfit": outfit_id, "slot": slot, "person": person, "color": color, "any": any_color, "limit": min(limit, 30)},
+        {"outfit": outfit_id, "slot": slot, "person": person, "color": color, "limit": min(limit, 30)},
     )
 
 
