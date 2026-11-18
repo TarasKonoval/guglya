@@ -15,7 +15,8 @@ type Props = {
 };
 
 export default function ItemRow({ outfitId, person, gender, slot, original, picked, onPick }: Props) {
-  const [pool, setPool] = useState<Product[] | null>(null); // unfiltered, for the colour chips
+  const [main, setMain] = useState<Product[] | null>(null); // default row: the item's own colour
+  const [pool, setPool] = useState<Product[] | null>(null); // every colour, for the colour chips
   const [color, setColor] = useState<string | null>(null);
   const [filtered, setFiltered] = useState<Product[] | null>(null);
   const [gone, setGone] = useState<Set<string>>(new Set()); // hidden from the catalog by an admin just now
@@ -26,7 +27,9 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
   };
 
   useEffect(() => {
-    api<Product[]>(`/outfits/${outfitId}/similar/${slot}?person=${person}&limit=20`).then(setPool).catch(() => setPool([]));
+    const base = `/outfits/${outfitId}/similar/${slot}?person=${person}`;
+    api<Product[]>(`${base}&limit=10`).then(setMain).catch(() => setMain([]));
+    api<Product[]>(`${base}&any_color=true&limit=30`).then(setPool).catch(() => setPool([]));
   }, [outfitId, person, slot]);
 
   useEffect(() => {
@@ -36,8 +39,7 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
   }, [outfitId, person, slot, color]);
 
   const colors = useMemo(() => [...new Set((pool ?? []).map((p) => p.color).filter(Boolean))] as string[], [pool]);
-  const alternatives = (color ? filtered : pool?.filter((p) => !gone.has(p.id)).slice(0, 5))
-    ?.filter((p) => !gone.has(p.id)) ?? null;
+  const alternatives = (color ? filtered : main)?.filter((p) => !gone.has(p.id)).slice(0, 5) ?? null;
   const hide = (p: Product) =>
     api(`/admin/products/${p.id}`, { method: "PATCH", body: JSON.stringify({ hidden: true }) })
       .then(() => setGone((g) => new Set(g).add(p.id))).catch(() => {});

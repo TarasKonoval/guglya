@@ -36,6 +36,31 @@ COLOR = {
     "рожевий": "pink", "лавандовий": "purple", "фіолетовий": "purple",
     "жовтий": "yellow", "золотий": "yellow", "помаранчевий": "orange", "теракотовий": "orange",
 }
+# The colour named in the title wins over the scraped colour list (which can list every variant, e.g. Solmar's
+# "Светр зі швами, Soft Grey" came as green). The earliest colour word in the title is the item's colour.
+TITLE_COLORS = [
+    (r"чорн|black", "black"),
+    (r"біл(ий|а|е|і)|white|молочн|milk|ivory|ecru|екрю|кремов|cream", "white"),
+    (r"сір(ий|а|е|і)|grey|gray|графіт|graphite|антрацит|меланж|melange", "grey"),
+    (r"беж|beige|пісочн|\bsand|camel|кемел", "beige"),
+    (r"корич|brown|шоколад|chocolate|мокко|mocha|coffee", "brown"),
+    (r"син(ій|я|є|і)|\bblue|navy|блакит", "blue"),
+    (r"зелен|green|олив|olive|хакі|khaki|\bmoss|м.ятн|\bmint|смарагд|emerald", "green"),
+    (r"червон|\bred\b", "red"),
+    (r"бордо|burgundy|марсал|вишнев|cherry|\bwine", "burgundy"),
+    (r"рожев|\bpink", "pink"),
+    (r"фіолет|purple|лаванд|lavender|бузков|lilac|лілов", "purple"),
+    (r"жовт|yellow|гірчичн|mustard", "yellow"),
+    (r"помаран|orange|теракот|terracotta", "orange"),
+]
+TITLE_COLOR_RE = [(re.compile(rx, re.I), key) for rx, key in TITLE_COLORS]
+
+
+def title_color(name: str) -> str | None:
+    hits = [(m.start(), key) for rx, key in TITLE_COLOR_RE for m in [rx.search(name)] if m]
+    return min(hits)[1] if hits else None
+
+
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
 # The layer worn over a top or a dress/suit ("outer" slot); keep in sync with migration 006
@@ -63,7 +88,7 @@ def to_row(p: dict, brand: dict) -> tuple | None:
     category = ("dress" if kind in DRESS_TYPES else
                 "outer" if p["slot"] == "top" and kind in OUTER_TYPES else
                 "jacket" if p["slot"] == "top" and kind in JACKET_TYPES else p["slot"])
-    color = next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
+    color = title_color(p.get("name") or "") or next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
     return (
         p["name"] or p.get("item_type") or "Річ", category, color, sale if on_sale else price,
         price if on_sale else None, p["photos"][0], p["photos"], p["source_url"],
