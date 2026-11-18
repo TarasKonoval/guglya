@@ -24,7 +24,7 @@ export async function api<T>(path: string, init: RequestInit = {}): Promise<T> {
 }
 
 export type Slot = "hat" | "outer" | "jacket" | "top" | "dress" | "bottom" | "shoes" | "bag";
-export const SLOTS: Slot[] = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"];
+export const SLOTS: Slot[] = ["hat", "outer", "jacket", "bag", "top", "dress", "bottom", "shoes"];
 export const SLOT_LABELS: Record<Slot, string> = {
   hat: "Шапка", outer: "Верхній одяг", jacket: "Піджак", top: "Кофта / сорочка", dress: "Сукня / костюм", bottom: "Низ", shoes: "Взуття", bag: "Сумка",
 };

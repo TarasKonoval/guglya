@@ -1,8 +1,8 @@
 import { useEffect, useMemo, useState } from "react";
-import { api, COLORS, formatDiff, formatUah, img, slotLabel, type Person, type Product, type Slot } from "../lib/api";
+import { api, COLORS, formatDiff, formatUah, img, openProduct, slotLabel, type Person, type Product, type Slot } from "../lib/api";
 import { addToCart, removeFromCart, useCart } from "../lib/cart";
 import { isAdmin } from "../lib/admin";
-import { BagIcon, CheckIcon } from "./Icons";
+import { BagIcon, CheckIcon, ExternalIcon } from "./Icons";
 
 type Props = {
   outfitId: string;
@@ -22,7 +22,10 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
   const cart = useCart();
   const cartProps = (p: Product) => {
     const inCart = cart.some((i) => i.id === p.id);
-    return { inCart, onCart: () => (inCart ? removeFromCart(p.id) : addToCart(p, outfitId, slot)) };
+    return {
+      inCart, onCart: () => (inCart ? removeFromCart(p.id) : addToCart(p, outfitId, slot)),
+      onBrand: () => openProduct(p, outfitId, slot), // the click is logged, then the brand's product page opens
+    };
   };
 
   useEffect(() => {
@@ -74,10 +77,10 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
 
 type CardProps = {
   p: Product; original?: boolean; selected: boolean; inCart: boolean;
-  onPick: () => void; onCart: () => void; onHide?: () => void;
+  onPick: () => void; onCart: () => void; onBrand: () => void; onHide?: () => void;
 };
 
-function ItemCard({ p, original, selected, inCart, onPick, onCart, onHide }: CardProps) {
+function ItemCard({ p, original, selected, inCart, onPick, onCart, onBrand, onHide }: CardProps) {
   const [broken, setBroken] = useState(false);
   if (broken && !original) return null; // brand's photo didn't load: don't offer it
   return (
@@ -99,9 +102,15 @@ function ItemCard({ p, original, selected, inCart, onPick, onCart, onHide }: Car
           </div>
         </div>
       </button>
-      <button className={`to-cart ${inCart ? "on" : ""}`} onClick={onCart} aria-pressed={inCart}>
-        {inCart ? <><CheckIcon /> У кошику</> : <><BagIcon /> В кошик</>}
-      </button>
+      <div className="card-actions">
+        <button className={`to-cart ${inCart ? "on" : ""}`} onClick={onCart} aria-pressed={inCart}
+          aria-label={inCart ? "У кошику — прибрати" : "В кошик"} title={inCart ? "У кошику" : "В кошик"}>
+          {inCart ? <CheckIcon /> : <BagIcon />}
+        </button>
+        <button className="to-brand" onClick={onBrand} aria-label={`Відкрити на сайті ${p.brand}`} title={`На сайт ${p.brand}`}>
+          <ExternalIcon />
+        </button>
+      </div>
       {onHide && <button className="admin-hide" onClick={onHide} title="Лише для адмінів">Сховати з каталогу</button>}
     </article>
   );

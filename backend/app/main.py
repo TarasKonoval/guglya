@@ -25,7 +25,7 @@ OUTFIT_SUMMARY = """
           + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
          coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes','bag'], oi.slot))
+                  order by oi.person, array_position(array['hat','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -77,14 +77,14 @@ def update_me(body: ProfileIn, user: dict = Depends(current_user)):
 
 @app.get("/outfits")
 def list_outfits(
-    season: str | None = "autumn", gender: Literal["women", "men", "couple"] | None = None, limit: int = 100
+    season: str | None = "autumn", gender: Literal["women", "men", "couple"] | None = None, limit: int = 500
 ):
     return fetch_all(
         OUTFIT_SUMMARY
         + """ where o.is_published and (%(season)s::text is null or o.season = %(season)s)
                 and (%(gender)s::text is null or o.gender in (%(gender)s, 'unisex'))
               group by o.id order by o.sort_order, o.created_at limit %(limit)s""",
-        {"season": season or None, "gender": gender, "limit": min(limit, 100)},
+        {"season": season or None, "gender": gender, "limit": min(limit, 500)},
     )
 
 
@@ -211,22 +211,27 @@ def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = No
                 -- text-to-image scores are ~0.3, image-to-image ~0.7-0.9: the floor only applies to photo search
                 and (hero.by_text or 1 - (p.embedding <=> hero.v) >= {MIN_SIMILARITY})
             ), ranked as (
+              -- same kind of item; bags and hats may also be another kind in the same colour (a brown handbag is
+              -- a better swap for a brown shopper than a white shopper); a chip colour keeps the kind
               select * from (select *, count(*) filter (where same_group) over () as n_group from pool) g
-              where (same_group or n_group < {MIN_GROUP}) and (%(color)s::text is null or color = %(color)s)
+              where case when %(color)s::text is not null then color = %(color)s and (same_group or n_group < {MIN_GROUP})
+                         else same_group or n_group < {MIN_GROUP} or (same_color and category in ('bag', 'hat')) end
             ), scored as (
               -- same weights as /admin/match for builder items
               select *, similarity + 0.02 * same_color::int
                         + (case when by_text then 0.03 else {SAME_TYPE_BONUS} end) * same_type::int
-                        + {POPULARITY_WEIGHT} * brand_score as score
+                        + {POPULARITY_WEIGHT} * brand_score as score,
+                     case when same_group and same_color then 0 when same_color then 1 else 2 end as tier
               from ranked
             )
             select id, title, brand, category, color, price_uah, image_url, product_url, is_demo,
                    price_diff, round(similarity::numeric, 3)::float as similarity
-            from (select *, row_number() over (partition by same_color order by brand_rank, score desc) as color_rank
-                  from (select *, row_number() over (partition by brand, same_color order by score desc) as brand_rank
+            from (select *, row_number() over (partition by tier order by brand_rank, score desc) as tier_rank
+                  from (select *, row_number() over (partition by brand, tier order by score desc) as brand_rank
                         from scored) b) s
-            -- up to SAME_COLOR_FIRST items in the item's colour (one per brand first), then the rest in any colour
-            order by (same_color and color_rank <= {SAME_COLOR_FIRST}) desc, brand_rank, score desc
+            -- up to SAME_COLOR_FIRST of the same kind in the item's colour (one per brand first), then the same colour
+            -- in another kind (bags, hats), then the rest
+            order by case when tier < 2 and tier_rank <= {SAME_COLOR_FIRST} then tier else 2 end, brand_rank, score desc
             limit %(limit)s""",
         {"outfit": outfit_id, "slot": slot, "person": person, "color": color, "limit": min(limit, 30)},
     )
@@ -484,7 +489,7 @@ def admin_get_outfit(outfit_id: UUID, _: dict = Depends(admin_user)):
                    oi.query_vector::text as query_vector, oi.query_text, oi.query_color
             from outfit_items oi join products p on p.id = oi.product_id join brands b on b.id = p.brand_id
             where oi.outfit_id = %s
-            order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes','bag'], oi.slot)""",
+            order by oi.person, array_position(array['hat','outer','jacket','bag','top','dress','bottom','shoes'], oi.slot)""",
         (outfit_id,),
     )
     return outfit

@@ -202,6 +202,12 @@ body.has-bar .fab .fab-label { display: none; }
 .item-meta .price { font-weight: 700; font-size: 16px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; }
 .diff { font-size: 12px; font-weight: 600; color: var(--muted); }
 .diff.cheaper { color: var(--accent); }
+/* card bottom: two icon halves — add to cart | open the brand's product page */
+.card-actions { display: grid; grid-template-columns: 1fr 1fr; border-top: 1px solid var(--line); }
+.card-actions > button { min-height: 44px; display: grid; place-items: center; }
+.card-actions > button + button { border-left: 1px solid var(--line); }
+.card-actions > button:hover { background: var(--soft); }
+.card-actions .to-cart { border-top: 0; }
 .to-cart { min-height: 44px; border-top: 1px solid var(--line); font-size: 13px; font-weight: 600;
   display: flex; align-items: center; justify-content: center; gap: 6px; }
 .to-cart:hover { background: var(--soft); }

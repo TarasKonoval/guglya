@@ -8,6 +8,7 @@ import Sheet from "../components/Sheet";
 import { FilterIcon } from "../components/Icons";
 
 const SORTS = [
+  { id: "mix", label: "Мікс" },
   { id: "popular", label: "Популярні" },
   { id: "cheap", label: "Дешевші" },
   { id: "pricey", label: "Дорожчі" },
@@ -22,9 +23,32 @@ type Gender = (typeof GENDERS)[number]["id"];
 const GENDER_KEY = "guglya-gender"; // localStorage: remembered between visits
 const SORT_KEY = "guglya-sort";
 const COLOR_KEY = "guglya-color";
+const MIX_KEY = "guglya-mix"; // sessionStorage: one shuffle per visit, stable while browsing
+
+/** A random number per visit (tab); the "Мікс" order is a shuffle seeded by it. */
+function mixSeed(): number {
+  try {
+    const saved = Number(sessionStorage.getItem(MIX_KEY));
+    if (saved) return saved;
+    const seed = Math.floor(Math.random() * 2 ** 31) + 1;
+    sessionStorage.setItem(MIX_KEY, String(seed));
+    return seed;
+  } catch {
+    return 1 + Math.floor(Math.random() * 2 ** 31);
+  }
+}
+const MIX_SEED = mixSeed();
+
+/** Stable pseudo-random rank of an outfit for this visit (FNV-1a of seed + id). */
+function mixRank(id: string): number {
+  let h = 2166136261 ^ MIX_SEED;
+  for (let i = 0; i < id.length; i++) h = Math.imul(h ^ id.charCodeAt(i), 16777619);
+  return h >>> 0;
+}
 
 function sorted(outfits: OutfitSummary[], sort: Sort) {
   const by = {
+    mix: (a: OutfitSummary, b: OutfitSummary) => mixRank(a.id) - mixRank(b.id),
     popular: (a: OutfitSummary, b: OutfitSummary) => b.popularity - a.popularity,
     cheap: (a: OutfitSummary, b: OutfitSummary) => a.total_uah - b.total_uah,
     pricey: (a: OutfitSummary, b: OutfitSummary) => b.total_uah - a.total_uah,
@@ -35,14 +59,14 @@ function sorted(outfits: OutfitSummary[], sort: Sort) {
 export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
   const [chosen, setGender] = useState<Gender | null>(() => localStorage.getItem(GENDER_KEY) as Gender | null);
   const [all, setAll] = useState<OutfitSummary[] | null>(null); // every published outfit, split by tab below
-  const [sort, setSort] = useState<Sort>(() => (sessionStorage.getItem(SORT_KEY) as Sort) ?? "popular");
+  const [sort, setSort] = useState<Sort>(() => (sessionStorage.getItem(SORT_KEY) as Sort) ?? "mix");
   const [color, setColor] = useState(() => sessionStorage.getItem(COLOR_KEY) ?? "");
   const [filtersOpen, setFiltersOpen] = useState(false);
   const { saved, toggle } = useSaved();
   const reels = useMediaQuery("(max-width: 719px)");
 
   useEffect(() => {
-    api<OutfitSummary[]>("/outfits?season=autumn").then(setAll).catch(() => setAll([]));
+    api<OutfitSummary[]>("/outfits?season=autumn&limit=500").then(setAll).catch(() => setAll([]));
   }, []);
 
   // Only tabs that have outfits; the feed opens on the remembered tab if it has any, else the first one that does
@@ -73,9 +97,9 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
   const colors = Object.keys(COLORS).filter((c) => outfits?.some((o) => o.colors.includes(c)));
   const shown = sorted((outfits ?? []).filter((o) => !color || o.colors.includes(color)), sort);
 
-  const active = (sort !== "popular" ? 1 : 0) + (color ? 1 : 0);
+  const active = (sort !== "mix" ? 1 : 0) + (color ? 1 : 0);
   const reset = () => {
-    pickSort("popular");
+    pickSort("mix");
     if (color) pickColor(color);
   };
 

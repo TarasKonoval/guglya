@@ -25,8 +25,10 @@ export default function LandingPage() {
   const [slide, setSlide] = useState(0);
 
   useEffect(() => {
-    api<OutfitSummary[]>("/outfits?limit=12")
-      .then((o) => {
+    api<OutfitSummary[]>("/outfits?limit=60")
+      .then((all) => {
+        // a different selection on every visit
+        const o = all.map((x) => [Math.random(), x] as const).sort((a, b) => a[0] - b[0]).map(([, x]) => x).slice(0, 12);
         setOutfits(o);
         try {
           localStorage.setItem(CACHE_KEY, JSON.stringify(o));
