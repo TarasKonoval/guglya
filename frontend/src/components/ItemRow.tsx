@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { api, COLORS, formatDiff, formatUah, img, slotLabel, type Person, type Product, type Slot } from "../lib/api";
 import { addToCart, removeFromCart, useCart } from "../lib/cart";
+import { isAdmin } from "../lib/admin";
 import { BagIcon, CheckIcon } from "./Icons";
 
 type Props = {
@@ -17,6 +18,7 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
   const [pool, setPool] = useState<Product[] | null>(null); // unfiltered, for the colour chips
   const [color, setColor] = useState<string | null>(null);
   const [filtered, setFiltered] = useState<Product[] | null>(null);
+  const [gone, setGone] = useState<Set<string>>(new Set()); // hidden from the catalog by an admin just now
   const cart = useCart();
   const cartProps = (p: Product) => {
     const inCart = cart.some((i) => i.id === p.id);
@@ -34,7 +36,11 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
   }, [outfitId, person, slot, color]);
 
   const colors = useMemo(() => [...new Set((pool ?? []).map((p) => p.color).filter(Boolean))] as string[], [pool]);
-  const alternatives = color ? filtered : pool?.slice(0, 5) ?? null;
+  const alternatives = (color ? filtered : pool?.filter((p) => !gone.has(p.id)).slice(0, 5))
+    ?.filter((p) => !gone.has(p.id)) ?? null;
+  const hide = (p: Product) =>
+    api(`/admin/products/${p.id}`, { method: "PATCH", body: JSON.stringify({ hidden: true }) })
+      .then(() => setGone((g) => new Set(g).add(p.id))).catch(() => {});
 
   return (
     <section className="row" aria-label={slotLabel(slot, gender)}>
@@ -59,7 +65,7 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
           ? [0, 1, 2].map((i) => <div key={i} className="item-card skeleton" />)
           : alternatives.map((p) => (
               <ItemCard key={p.id} p={p} selected={picked?.id === p.id} {...cartProps(p)}
-                onPick={() => onPick(p)} />
+                onPick={() => onPick(p)} onHide={isAdmin() ? () => hide(p) : undefined} />
             ))}
         {alternatives?.length === 0 && <p className="muted empty">Немає альтернатив у цьому кольорі</p>}
       </div>
@@ -69,10 +75,10 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
 
 type CardProps = {
   p: Product; original?: boolean; selected: boolean; inCart: boolean;
-  onPick: () => void; onCart: () => void;
+  onPick: () => void; onCart: () => void; onHide?: () => void;
 };
 
-function ItemCard({ p, original, selected, inCart, onPick, onCart }: CardProps) {
+function ItemCard({ p, original, selected, inCart, onPick, onCart, onHide }: CardProps) {
   const [broken, setBroken] = useState(false);
   if (broken && !original) return null; // brand's photo didn't load: don't offer it
   return (
@@ -97,6 +103,7 @@ function ItemCard({ p, original, selected, inCart, onPick, onCart }: CardProps) 
       <button className={`to-cart ${inCart ? "on" : ""}`} onClick={onCart} aria-pressed={inCart}>
         {inCart ? <><CheckIcon /> У кошику</> : <><BagIcon /> В кошик</>}
       </button>
+      {onHide && <button className="admin-hide" onClick={onHide} title="Лише для адмінів">Сховати з каталогу</button>}
     </article>
   );
 }

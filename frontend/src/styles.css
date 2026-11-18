@@ -140,8 +140,8 @@ body.has-bar .fab .fab-label { display: none; }
 .outfit-card { position: relative; border-radius: 18px; overflow: hidden; background: var(--soft); }
 .outfit-card-link { display: block; }
 .cover { width: 100%; aspect-ratio: 2 / 3; object-fit: cover; background: var(--soft); }
-/* look photos are never cropped (shoes and hats must stay visible); collages fill the card */
-img.cover { object-fit: contain; }
+/* look photos fill the card at their own proportions: nothing cropped, no empty sides; collages stay 2:3 */
+.outfit-card img.cover { aspect-ratio: auto; height: auto; }
 .collage { display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 2px; overflow: hidden; }
 .collage img { width: 100%; height: 100%; min-height: 0; object-fit: cover; }
 .collage.pair { gap: 8px; }
@@ -300,7 +300,8 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 .reel-card.dragging { transition: none; }
 .reel-card.leaving { transform: translateX(-100%); transition: transform .18s ease-in; }
 .reel-cover { display: block; width: 100%; height: 100%; }
-.reel-cover .cover { width: 100%; height: 100%; aspect-ratio: auto; object-fit: contain; padding: 60px 0 178px; background: transparent; }
+/* look photo: full screen like Reels/TikTok (phone photos are ~9:16, so almost nothing is cut) */
+.reel-cover img.cover { width: 100%; height: 100%; aspect-ratio: auto; object-fit: cover; object-position: center top; }
 .reel-cover .collage { height: auto; aspect-ratio: 4 / 5; margin: 60px 16px 0; padding: 0; }
 .reel-info {
   position: absolute; left: 0; right: 0; bottom: 0; padding: 40px 84px calc(18px + env(safe-area-inset-bottom)) 16px;
@@ -314,7 +315,7 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 .reel-check { margin: 0 0 8px; font-size: 15px; }
 .reel-check strong { font-size: 19px; }
 .reel-check .check-label { color: #ffb4a3; }
-.reel-brands { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; color: rgba(255,255,255,.8); max-height: 36px; overflow: hidden; }
+.reel-brands { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; color: rgba(255,255,255,.8); max-height: 16px; overflow: hidden; }
 .reel-actions {
   position: absolute; right: 8px; bottom: calc(24px + env(safe-area-inset-bottom)); display: grid; gap: 14px; z-index: 2;
 }
@@ -382,5 +383,11 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 .pick-wrap > .small { color: var(--muted); text-decoration: underline; text-underline-offset: 3px; padding: 4px 0; }
 .pick-wrap.hidden .pick-card { opacity: .35; }
 .row.removed h2 { opacity: .45; }
+.swatches { display: flex; flex-wrap: wrap; gap: 6px; margin: 2px 0 10px; }
+.swatch-btn { width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; border: 1.5px solid transparent; }
+.swatch-btn .swatch { width: 22px; height: 22px; }
+.swatch-btn.on { border-color: var(--ink); }
+.admin-list li.on { background: var(--soft); }
+.admin-hide { min-height: 36px; border-top: 1px dashed var(--line); font-size: 12px; color: var(--muted); text-decoration: underline; }
 .admin-list { list-style: none; padding: 0; margin: 8px 0 0; display: grid; }
 .admin-list li { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; min-height: 52px; border-bottom: 1px solid var(--line); }

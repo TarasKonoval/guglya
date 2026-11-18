@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
+import { setAdmin } from "./lib/admin";
 import { Link, Navigate, Route, Routes } from "react-router-dom";
 import { Hub } from "aws-amplify/utils";
 import { fetchAuthSession } from "aws-amplify/auth";
@@ -29,6 +30,7 @@ export default function App() {
     const refresh = async () => {
       try {
         const idToken = (await fetchAuthSession()).tokens?.idToken;
+        setAdmin(((idToken?.payload["cognito:groups"] as string[] | undefined) ?? []).includes("admins"));
         setUser(idToken ? { email: String(idToken.payload.email ?? "") } : null);
       } catch {
         setUser(null);

@@ -10,18 +10,25 @@ const GENDERS = [
 ] as const;
 type Gender = (typeof GENDERS)[number]["id"];
 
+type Candidate = Product & { item_type: string | null };
 type Piece = {
   person: 1 | 2; slot: Slot; item_type: string; color: string | null; description: string; vector: number[];
   part_of_suit: boolean; // the blazer / trousers of a suit: an alternative to the whole suit
-  candidates: (Product & { item_type: string | null })[] | null; chosen: string | null; removed?: boolean;
+  candidates: Candidate[] | null; chosen: string | null; removed?: boolean;
+  only_color?: string | null; // colour chip: show only this colour
+  keep?: Candidate; // editing: the item already in the outfit, always offered first
 };
 type AdminOutfit = {
   id: string; title: string; gender: string; is_published: boolean; is_demo: boolean; item_count: number;
   cover_image_url: string | null;
 };
+type EditOutfit = {
+  id: string; title: string; gender: Gender; style_tag: string | null; cover_image_url: string | null;
+  items: (Candidate & { person: 1 | 2; slot: Slot; vector: string })[];
+};
 
 /** Look photo -> max 1280 px JPEG (the agent gets base64, the cover goes to S3 as a blob). */
-async function shrink(file: File): Promise<Blob> {
+async function shrink(file: Blob): Promise<Blob> {
   const bitmap = await createImageBitmap(file);
   const scale = Math.min(1, 1280 / Math.max(bitmap.width, bitmap.height));
   const canvas = document.createElement("canvas");
@@ -47,12 +54,14 @@ const toBase64 = (b: Blob) =>
   });
 
 export default function AdminPage() {
-  const [photo, setPhoto] = useState<{ blob: Blob; url: string } | null>(null);
+  // blob is null while editing until the stored cover has been downloaded (needed only to ask the AI again)
+  const [photo, setPhoto] = useState<{ blob: Blob | null; url: string; stored?: string } | null>(null);
   const [gender, setGender] = useState<Gender>("women");
   const [title, setTitle] = useState("");
   const [tag, setTag] = useState("");
   const [useCover, setUseCover] = useState(true);
   const [pieces, setPieces] = useState<Piece[]>([]);
+  const [editing, setEditing] = useState<string | null>(null); // id of the published outfit being changed
   const [state, setState] = useState<"idle" | "detecting" | "publishing">("idle");
   const [message, setMessage] = useState<{ error?: string; done?: string } | null>(null);
   const [outfits, setOutfits] = useState<AdminOutfit[]>([]);
@@ -64,16 +73,44 @@ export default function AdminPage() {
     loadOutfits();
   }, []);
 
+  function reset() {
+    setPieces([]);
+    setPhoto(null);
+    setTitle("");
+    setTag("");
+    setEditing(null);
+    setUseCover(true);
+  }
+
   async function pickFile(file?: File) {
     if (!file) return;
     const blob = await shrink(file);
     setPhoto({ blob, url: URL.createObjectURL(blob) });
-    setPieces([]);
+    if (!editing) setPieces([]);
     setMessage(null);
   }
 
+  /** Catalog products for one piece (couples: we don't know each person's gender, so search everything) */
+  function search(i: number, p: Piece, g: Gender = gender) {
+    setPieces((all) => all.map((x, j) => (j === i ? { ...x, candidates: null } : x)));
+    api<Candidate[]>("/admin/match", {
+      method: "POST",
+      body: JSON.stringify({
+        slot: p.slot, gender: g === "couple" ? "unisex" : g, vector: p.vector, color: p.color,
+        only_color: p.only_color ?? null, item_type: p.item_type || null,
+      }),
+    })
+      .then((found) => setPieces((all) => all.map((x, j) => {
+        if (j !== i) return x;
+        const keep = x.keep && (!x.only_color || x.keep.color === x.only_color) ? [x.keep] : [];
+        const c = [...keep, ...found.filter((f) => f.id !== x.keep?.id)];
+        return { ...x, candidates: c, chosen: c.some((f) => f.id === x.chosen) ? x.chosen : c[0]?.id ?? null };
+      })))
+      .catch(() => setPieces((all) => all.map((x, j) => (j === i ? { ...x, candidates: [] } : x))));
+  }
+
   async function detect() {
-    if (!photo) return;
+    if (!photo?.blob) return;
     setState("detecting");
     setMessage(null);
     try {
@@ -90,20 +127,34 @@ export default function AdminPage() {
       // AI suggestions; whatever the admin already typed wins
       setTitle((t) => t.trim() ? t : data.title);
       setTag((t) => t.trim() ? t : data.style_tag);
-      // couples: we don't know each person's gender, so search everything
-      const g = gender === "couple" ? "unisex" : gender;
-      found.forEach((p, i) =>
-        api<Piece["candidates"]>("/admin/match", {
-          method: "POST", body: JSON.stringify({ slot: p.slot, gender: g, vector: p.vector, color: p.color }),
-        })
-          .then((c) => setPieces((all) => all.map((x, j) => (j === i ? { ...x, candidates: c, chosen: c?.[0]?.id ?? null } : x))))
-          .catch(() => setPieces((all) => all.map((x, j) => (j === i ? { ...x, candidates: [] } : x)))),
-      );
+      found.forEach((p, i) => search(i, p));
     } catch (e) {
       setMessage({ error: `AI не зміг розібрати фото: ${e instanceof Error ? e.message : e}` });
     } finally {
       setState("idle");
     }
+  }
+
+  /** Load a published outfit into the builder: its items stay picked, alternatives come from their photos */
+  async function edit(o: AdminOutfit) {
+    setMessage(null);
+    const data = await api<EditOutfit>(`/admin/outfits/${o.id}`);
+    setEditing(data.id);
+    setGender(data.gender);
+    setTitle(data.title);
+    setTag(data.style_tag ?? "");
+    setUseCover(!!data.cover_image_url);
+    setPhoto(data.cover_image_url ? { blob: null, url: img(data.cover_image_url), stored: data.cover_image_url } : null);
+    if (data.cover_image_url)
+      fetch(img(data.cover_image_url)).then((r) => r.blob()).then((blob) =>
+        setPhoto((ph) => (ph?.stored === data.cover_image_url ? { ...ph, blob } : ph))).catch(() => {});
+    const loaded: Piece[] = data.items.map(({ person, slot, vector, ...product }) => ({
+      person, slot, item_type: product.item_type ?? "", color: product.color, description: product.title,
+      vector: JSON.parse(vector), part_of_suit: false, candidates: null, chosen: product.id, keep: product,
+    }));
+    setPieces(loaded);
+    loaded.forEach((p, i) => search(i, p, data.gender));
+    window.scrollTo({ top: 0, behavior: "smooth" });
   }
 
   async function publish() {
@@ -114,19 +165,17 @@ export default function AdminPage() {
     setState("publishing");
     setMessage(null);
     try {
-      const cover = useCover && photo ? await uploadCover(photo.blob) : null;
-      const { id } = await api<{ id: string }>("/admin/outfits", {
-        method: "POST",
-        body: JSON.stringify({ title, gender, style_tag: tag || null, cover_image_url: cover, looks }),
-      });
+      // an unchanged stored cover is reused, a new photo is uploaded
+      const cover = !useCover || !photo ? null : photo.stored ?? (photo.blob ? await uploadCover(photo.blob) : null);
+      const body = JSON.stringify({ title, gender, style_tag: tag || null, cover_image_url: cover, looks });
+      const { id } = editing
+        ? await api<{ id: string }>(`/admin/outfits/${editing}`, { method: "PUT", body })
+        : await api<{ id: string }>("/admin/outfits", { method: "POST", body });
       setMessage({ done: id });
-      setPieces([]);
-      setPhoto(null);
-      setTitle("");
-      setTag("");
+      reset();
       loadOutfits();
     } catch (e) {
-      setMessage({ error: `Не вдалося опублікувати: ${e instanceof Error ? e.message : e}` });
+      setMessage({ error: `Не вдалося зберегти: ${e instanceof Error ? e.message : e}` });
     } finally {
       setState("idle");
     }
@@ -149,6 +198,11 @@ export default function AdminPage() {
   }
 
   const update = (i: number, patch: Partial<Piece>) => setPieces((all) => all.map((x, j) => (j === i ? { ...x, ...patch } : x)));
+  const pickColor = (i: number, c: string) => {
+    const p = { ...pieces[i], only_color: pieces[i].only_color === c ? null : c };
+    update(i, { only_color: p.only_color });
+    search(i, p);
+  };
   // whole suit vs separates: bringing back one side takes out the other
   const toggleRemoved = (i: number) => setPieces((all) => {
     const p = all[i];
@@ -191,13 +245,18 @@ export default function AdminPage() {
   return (
     <main className="page admin">
       <section className="feed-head">
-        <h1>Новий образ</h1>
-        <p className="muted">Завантаж фото образу — AI знайде схожі речі українських брендів (популярні бренди першими). Перевір і опублікуй.</p>
+        <h1>{editing ? "Редагування образу" : "Новий образ"}</h1>
+        <p className="muted">
+          {editing
+            ? "Заміни речі, назву чи обкладинку і збережи. Нове фото + «Знайти речі» — AI підбере все заново."
+            : "Завантаж фото образу — AI знайде схожі речі українських брендів (популярні бренди першими). Перевір і опублікуй."}
+        </p>
+        {editing && <button className="link-strong small" onClick={reset}>Скасувати редагування</button>}
       </section>
 
       <div className="admin-form pad-x">
         <label className="admin-photo">
-          {photo ? <img src={photo.url} alt="Фото образу" /> : <span>+ Фото образу</span>}
+          {photo ? <img referrerPolicy="no-referrer" src={photo.url} alt="Фото образу" /> : <span>+ Фото образу</span>}
           <input type="file" accept="image/*" onChange={(e) => pickFile(e.target.files?.[0])} />
         </label>
         <div className="stack grow">
@@ -215,14 +274,14 @@ export default function AdminPage() {
             <input type="checkbox" checked={useCover} onChange={(e) => setUseCover(e.target.checked)} />
             Фото як обкладинка образу (зніми галочку — буде колаж із речей)
           </label>
-          <button className="btn primary" disabled={!photo || state !== "idle"} onClick={detect}>
+          <button className="btn primary" disabled={!photo?.blob || state !== "idle"} onClick={detect}>
             {state === "detecting" ? "AI розглядає фото… (до хвилини)" : "Знайти речі"}
           </button>
         </div>
       </div>
 
       {message?.error && <p className="error pad">{message.error}</p>}
-      {message?.done && <p className="pad">Опубліковано ✓ <Link className="link-strong" to={`/outfit/${message.done}`}>Відкрити образ</Link></p>}
+      {message?.done && <p className="pad">Збережено ✓ <Link className="link-strong" to={`/outfit/${message.done}`}>Відкрити образ</Link></p>}
 
       {sorted.map(({ p, i }) => (
         <section key={i} className={`row ${p.removed ? "removed" : ""}`}>
@@ -241,7 +300,15 @@ export default function AdminPage() {
             </p>
           ) : (
             <>
-              <p className="hint pad-x">AI: «{p.description}»</p>
+              <p className="hint pad-x">{p.keep ? "Зараз в образі" : "AI"}: «{p.description}»</p>
+              <div className="swatches pad-x" role="group" aria-label="Колір">
+                {Object.entries(COLORS).map(([c, [label, hex]]) => (
+                  <button key={c} className={`swatch-btn ${p.only_color === c ? "on" : ""}`} aria-pressed={p.only_color === c}
+                    title={label} aria-label={label} onClick={() => pickColor(i, c)}>
+                    <span className="swatch" style={{ background: hex }} />
+                  </button>
+                ))}
+              </div>
               <div className="scroller">
                 {p.candidates === null
                   ? [0, 1, 2].map((k) => <div key={k} className="pick-card skeleton" />)
@@ -253,14 +320,16 @@ export default function AdminPage() {
                           <span className="brand">{c.brand}</span>
                           <span className="title">{c.title}</span>
                           <strong>{formatUah(c.price_uah)}</strong>
-                          <span className="muted small">схожість {Math.round((c.similarity ?? 0) * 100)}%</span>
+                          {c.similarity != null && <span className="muted small">схожість {Math.round(c.similarity * 100)}%</span>}
                         </button>
                         <button className="link small" onClick={() => hideProduct(c.id, !hidden.has(c.id))}>
                           {hidden.has(c.id) ? "Приховано · повернути" : "Сховати з каталогу"}
                         </button>
                       </div>
                     ))}
-                {p.candidates !== null && offered(p).length === 0 && <p className="muted empty">Нічого схожого в каталозі</p>}
+                {p.candidates !== null && offered(p).length === 0 && (
+                  <p className="muted empty">{p.only_color ? "Немає схожих речей цього кольору" : "Нічого схожого в каталозі"}</p>
+                )}
               </div>
             </>
           )}
@@ -270,7 +339,7 @@ export default function AdminPage() {
       {pieces.length > 0 && (
         <div className="pad">
           <button className="btn accent full" disabled={!ready || state !== "idle"} onClick={publish}>
-            {state === "publishing" ? "Публікуємо…" : "Опублікувати образ"}
+            {state === "publishing" ? "Зберігаємо…" : editing ? "Зберегти зміни" : "Опублікувати образ"}
           </button>
           {!title.trim() && <p className="hint">Додай назву образу.</p>}
           {dressAndBottom && <p className="hint">Сукня / костюм уже містить низ: прибери «Низ» або «{slotLabel("dress", gender)}».</p>}
@@ -281,10 +350,11 @@ export default function AdminPage() {
         <h2 className="look-title">Усі образи</h2>
         <ul className="admin-list">
           {outfits.map((o) => (
-            <li key={o.id}>
+            <li key={o.id} className={editing === o.id ? "on" : ""}>
               <Link to={`/outfit/${o.id}`} className="grow">
                 {o.title} <span className="muted small">· {GENDERS.find((g) => g.id === o.gender)?.label ?? o.gender} · {o.item_count} шт.{o.is_demo && " · демо"}</span>
               </Link>
+              <button className="chip" onClick={() => edit(o)}>Редагувати</button>
               <label className="chip">
                 {o.cover_image_url ? "Змінити обкладинку" : "Додати обкладинку"}
                 <input type="file" accept="image/*" hidden onChange={(e) => changeCover(o, e.target.files?.[0])} />
