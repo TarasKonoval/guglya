@@ -1,0 +1,3120 @@
+{
+  "_meta": {
+    "brand": "The Blub",
+    "brand_id": "theblub",
+    "site": "https://the-blub.com",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 104,
+    "found": 104,
+    "candidates": 104,
+    "checked": 104,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "theblub-shoe-bag-blb-x-stb-big",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА ДЛЯ ВЗУТТЯ BLB x STB",
+      "source_url": "https://the-blub.com/products/shoe-bag-blb-x-stb-big",
+      "gender": "female",
+      "category": "Взуття",
+      "item_type": "Взуття",
+      "slot": "shoes",
+      "colors": [
+        "молочний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1200,
+      "sale_price_uah": 890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2607.jpg?v=1764791836",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2615.jpg?v=1764791836",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c9b859d6-9446-4555-bebf-1e615882d652.jpg?v=1764791836"
+      ],
+      "description": "Сумка-мішечок для взуття, створена в колаборації з мультибрендовим магазином Snapthatback . Модель має довгу регульовану ручку, що дозволяє легко налаштувати комфортну довжину та носити сумку через плече. Виконана з водонепроникної плащової тканини. Зовні розташовані дві кишені для необхідних дрібниць, а основне відділення затягується на шнурок. Підходить не лише для взуття, а й для компактної спортивної форми. Доступна у двох розмірах. Додаткові характеристики: Розмір Big: 40 × 44 см Розмір mini: 39 × 31 см Довжина ручки: 105 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11118",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-holiday-packaging",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СВЯТКОВЕ ПАКУВАННЯ",
+      "source_url": "https://the-blub.com/products/holiday-packaging",
+      "gender": "female",
+      "category": "GIFT GUIDE",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 200,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_5.jpg?v=1765280394",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_4.jpg?v=1765280394"
+      ],
+      "description": "Лімітоване пакування для твого ідеального подарунку близьким! Обирай шопер з нашого асортименту, а ми дбайливо запакуємо його в крафтовий щільний папір, всередину покладемо листівку, яку можемо підписати (для цього додай коментар до замовлення). Для того, щоб пакування не помʼялось, ми покладемо його в коробку Нової пошти. І вуа-ля! Твій святковий подарунок готовий✨ *Через обмеження поштових служб пакування надсилається лише по Україні.",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-gift-certificate-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "GIFT CERTIFICATE",
+      "source_url": "https://the-blub.com/products/gift-certificate-1",
+      "gender": "female",
+      "category": "ПОДАРУНКОВІ СЕРТИФІКАТИ",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 500,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/gift_vert_500.jpg?v=1765283579",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/gift_vert_1000.jpg?v=1765283579",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/GIFTCARDWEB_1500.jpg?v=1775477425"
+      ],
+      "description": "Після оплати сертифіката ви отримаєте лист на електронну пошту з унікальним промокодом. Якщо ви бажаєте додатково отримати фізичний сертифікат, будь ласка, зверніться до нас у direct Instagram або в Telegram . Щоб скористатися сертифікатом, введіть унікальний код під час оформлення замовлення на сайті. Звертаємо вашу увагу, що сертифікат можна використати лише при замовленні через сайт. Термін дії сертифіката - 1 рік з моменту його придбання.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "theblub-gift-box",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "GIFT BOX",
+      "source_url": "https://the-blub.com/products/gift-box",
+      "gender": "female",
+      "category": "GIFT GUIDE",
+      "item_type": null,
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 450,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/7ed76605-d826-470d-9273-fc4ce894435a.jpg?v=1767973585",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5b6809c4-566d-4f78-a914-ef99e2e67931_038712cf-be95-4436-bb7c-8566df13ad99.jpg?v=1771584425",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/f77ef9ad-00d3-45f2-8894-4b0070e019d1-_2__1_1.jpg?v=1771584425"
+      ],
+      "description": "Ваше подарункове пакування включає в себе: 1. Коробка з фірмовою наліпкою; 2. Шопер дбайливо упакований у наш фірмовий мішечок; 3. Стильна листівка 4. Фірмовий крем The Blub Через обмеження поштових служб: • Крем надсилається лише по Україні. • При замовленні до Польщі – гіфтбокс буде з кремом. • В інші країни – гіфтбокс без крему.",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-cindy-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CINDY BAG",
+      "source_url": "https://the-blub.com/products/cindy-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бордовий",
+        "рожевий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2700,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6821.jpg?v=1794255892",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6851.jpg?v=1794306445",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6850.jpg?v=1794306439"
+      ],
+      "description": "Cindy bag — наша нова модель у лінійці виробів з екошкіри. Мінімалістичний дизайн, плавні лінії та глянцевий блиск формують виразний силует і надають сумці особливого характеру. Модель зручно носити на плечі, а також через плече — поверх легкого верхнього одягу. Всередині передбачено дві кишені для зручного зберігання необхідних речей, а передню частину доповнює стримане тиснення з логотипом. Cindy bag представлена у чотирьох кольорах: рожевому, бордовому, чорному та коричневому. Додаткові деталі: Матеріал: екошкіра Розмір: 36 × 36 × 11 см Довжина ручки: 64 см Магнітний замок Всередині дві кишені Рекомендоване навантаження: до 3–4 кг Зроблено в Україні. Більше фото за хештегом: blb10125",
+      "care": null,
+      "collections": [
+        "No sale",
+        "НОВИНКИ"
+      ]
+    },
+    {
+      "id": "theblub-text-bag-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TEXT CUSTOM",
+      "source_url": "https://the-blub.com/products/text-bag-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "рожевий",
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_6e2782ed-6c5e-49b3-b5d4-666edf976a59.webp?v=1770220525",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/8523dcb6-197e-4c4c-98ef-087f04cb7ccb.jpg?v=1770735940",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_f9c473b2-0db0-4181-b23c-b9b7dfd275d1.webp?v=1770734664"
+      ],
+      "description": "Саме час написати на своїй сумці те, що ви зазвичай пишете в нотатках о 2:37 ночі. Послання для краша, зізнання в любові своїй собаці, або екзистенційний жарт для себе. Говоріть про важливе. Або про абсурдне. Або про те, що у вас постійно в голові. Text Bag ми зробили саме для цього. Термін виготовлення кастомного шоперу: 7-10 робочих днів Розмір: 40*35*6 см, довжина ручки - 65 см Матеріал: нейлон (100% поліестер) Є внутрішня кишеня, без застібки Підходить для 15\" MacBook більше фото за хештегом: #blb11107",
+      "care": null,
+      "collections": [
+        "No sale",
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ"
+      ]
+    },
+    {
+      "id": "theblub-plaid-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР PLAID",
+      "source_url": "https://the-blub.com/products/plaid-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": 2340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6703.jpg?v=1792657937",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6704.jpg?v=1792657938",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_3947.jpg?v=1792401767"
+      ],
+      "description": "Додаткові характеристики: Розмір: 45 × 35 × 11 см Довжина ручки: 65 см Матеріал: ззовні: вовна - 100%, всередині підклад - саржа (поліестер - 65%, бавовна - 35%) Є дві внутрішні кишені Виготовлено в Україні. Більше фото за хештегом: #blb10127",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-organizer-bag-velur",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ОРГАНАЙЗЕР RAINCOAT",
+      "source_url": "https://the-blub.com/products/organizer-bag-velur",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 420,
+      "sale_price_uah": 350,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2212.jpg?v=1790860434",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2219.jpg?v=1790860787",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2218.jpg?v=1790860787"
+      ],
+      "description": "Практичний та функціональний мішечок для взуття, створений для зручного зберігання й транспортування взуття чи спортивної форми. Виконаний з бархатистої ріп-стоп плащівки та має зручну затяжку зверху. Достатньо місткий для пари взуття або компактного спортивного комплекту. Доступний у трьох розмірах. Деталі: Розміри Big: 36 × 44 см Розміри mini: 31 × 39 см Розміри extra mini: 25 × 28 см Матеріал: бархатиста ріп-стоп плащівка (100% поліестер) Виготовлено в Україні.",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-smile-cap",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КЕПКА SMILE",
+      "source_url": "https://the-blub.com/products/smile-cap",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "сірий",
+        "лавандовий",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1300,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_7795_2.png?v=1789460406",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/06_1fcf9bfd-b152-413a-a2b5-1cef6281fcfc.jpg?v=1790070970",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_7855_1.png?v=1789460406"
+      ],
+      "description": "Бейсболка з округленим козирком і нашою фірмовою вишивкою емоджі — для тих випадків, коли настрій хочеться показати без зайвих слів. Обирай свій емоджі серед трьох осінніх кольорів: пурпурового, коричневого та графітового. Розмір регулюється за допомогою фіксатора позаду. Додаткові характеристики: Розмір: one size Матеріал: бавовна",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-octoberbag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА OCTOBER",
+      "source_url": "https://the-blub.com/products/octoberbag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "помаранчевий",
+        "коричневий",
+        "червоний",
+        "бежевий",
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 5200,
+      "sale_price_uah": 4680,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2714.jpg?v=1791454429",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2715.jpg?v=1791454429",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6583.png?v=1791543446"
+      ],
+      "description": "October bag — акцентна модель, у якій головну роль відіграє виразний принт. Модель застібається на магніт і має лаконічні ручки з екошкіри. Всередині — підкладка з екошкіри та додаткова кишеня на блискавці. Картатий принт і об’ємний силует роблять шопер виразним акцентом образу. October bag чудово підійде для активних робочих днів, подорожей або днів, коли хочеться додати образу особливого настрою. Додаткові характеристики: Розмір: 48 × 34 см Довжина ручки: 60 см Матеріал: ззовні 100% вовна, всередині еко шкіра (100% поліестер) Рекомендоване навантаження — до 3–4 кг. Виготовлено в Україні. Більше фото за хештегом: #blb16115",
+      "care": null,
+      "collections": [
+        "No sale",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-birthday-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА BIRTHDAY",
+      "source_url": "https://the-blub.com/products/birthday-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "блакитний",
+        "коричневий",
+        "молочний",
+        "мʼятний",
+        "рожевий",
+        "червоний",
+        "лавандовий"
+      ],
+      "sizes": [],
+      "price_uah": 1400,
+      "sale_price_uah": 1260,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_8239.jpg?v=1785831997",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/03_6501782d-558c-46e3-8d09-f07456131fab.jpg?v=1785835406",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_8440.jpg?v=1785831997"
+      ],
+      "description": "Birthday bag — святкова капсула до 8-річчя The Blub. Вісім кольорів для будь-якого настрою. Сатинова сумка через плече у формі мішечка зі шнурівкою — легка, містка та створена доповнювати образи від ранкової кави до вечірніх святкувань. Модель створена з двох шарів сатину, проклеєних між собою, завдяки чому добре тримає форму. Декоративним акцентом є намистини на кінцях шнурків, а їхню довжину можна легко регулювати за допомогою вузликів. Додаткові характеристики: Розмір: 22 × 25 см Довжина ручки: регульована ручка (макс. 102 см) Матеріал: сатин (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb16023",
+      "care": null,
+      "collections": [
+        "No sale",
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-catslaptop-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА CATS",
+      "source_url": "https://the-blub.com/products/catslaptop-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_7516.png?v=1785336943",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_7529.jpg?v=1785336842",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_7528.jpg?v=1785336842"
+      ],
+      "description": "Розмір extra Big: 15.6\" - 40*28*2 см Розмір Big: 14\" - 35*25,5*2 см Розмір mini: 13\" - 32*23,5*2 см Розмір extra mini 10.9\" - 26,5*19,5*1 см Матеріал: нейлон (100% поліестер) Закривається на блискавку Всередині є кишені більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-crossbody-bag-washed-48",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА CROSSBODY № 48 WASHED",
+      "source_url": "https://the-blub.com/products/crossbody-bag-washed-48",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 2250,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2705.jpg?v=1770824487",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2721.jpg?v=1770824487",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/04_4.jpg?v=1770824487"
+      ],
+      "description": "Розмір: 32*20*8 см, регульована ручка (макс. 124 см) Матеріал: 100% бавовна Внутрішня кишеня Закривається на блискавку Підходить для 13\" MacBook більше фото за хештегом: #blb13048",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-laura-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА LAURA",
+      "source_url": "https://the-blub.com/products/laura-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2610,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2f4c06f7-4478-4f2e-b21f-b29d112b1d04.jpg?v=1782816259",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/e2cb663d-65a9-4e95-a222-dc3a5ccb9fd0.jpg?v=1782816259",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/22449083-67f5-4919-bafa-6f8a2dee34b8.jpg?v=1782816259"
+      ],
+      "description": "Місткий шопер з подвійного цупкого штапелю в смужку. Модель має делікатну ремінну ручку, виготовлену з натуральної італійської шкіри, що додає їй мінімалістичного стилю та класичних акцентів. Усередині — додаткова кишеня у вигляді гаманця зі шкіряним тисненням The Blub і декоративна фурнітура з нержавіючої сталі. Створена для легких літніх образів на кожен день. Розмір: 60*40*22 см Довжина ручки: 50 см Матеріал: штапель Виготовлено в Україні. Більше фото за хештегом: #blb16122",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-laura-satin-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА LAURA SATIN",
+      "source_url": "https://the-blub.com/products/laura-satin-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "хакі",
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 3100,
+      "sale_price_uah": 2790,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/0d5f5ab4-61fb-4435-a104-ed0e02425f8e.jpg?v=1782815519",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/628ed810-656a-4553-af61-90dea54a1bac.jpg?v=1782815520",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/a5a23345-ca69-4b3e-8aa3-5f488e0bf5d1.jpg?v=1782815519"
+      ],
+      "description": "Місткий шопер із подвійної цупкої сатинової тканини в смужку. Модель має делікатну ремінну ручку, виготовлену з натуральної італійської шкіри, що додає їй мінімалістичного стилю та класичних акцентів. Усередині — додаткова кишеня у вигляді гаманця зі шкіряним тисненням The Blub і декоративна фурнітура з нержавіючої сталі. Створена для комфортних образів на кожен день. Розмір: 60*40*22 см Довжина ручки: 50 см Матеріал: сатин Виготовлено в Україні. Більше фото за хештегом: #blb16121",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-bag-the-blub-x-ukrainepride-blue",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "Шопер The Blub x UKRAINEPRIDE",
+      "source_url": "https://the-blub.com/products/bag-the-blub-x-ukrainepride-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1390,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/Frame16_0afefa44-1c20-43f8-b7a8-4cbd88878900.png?v=1782476958",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/Frame17_2882b0d0-aacb-4e84-abb4-75935b5edbb6.png?v=1782476957"
+      ],
+      "description": "До цьогорічного Прайд-місяця спільно з UKRAINEPRIDE ми створили лімітовану серію шоперів на знак нашої підтримки ЛГБТІК+ спільноти. Частину прибутку від продажу ми передаємо на підтримку громадської організації «Українські ЛГБТ+ військові за рівні права» @lgbtiqmilitary. Розмір: 40*35*6 см, довжина ручки - 65 см Матеріал: нейлон (100% поліестер) Є внутрішня кишеня, без застібки Підходить для 15\" MacBook",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-bag-the-blub-x-ukrainepride",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "Шопер The Blub x UKRAINEPRIDE",
+      "source_url": "https://the-blub.com/products/bag-the-blub-x-ukrainepride",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1390,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/Frame_15.png?v=1782458122",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/fc1a8cb5-1adf-42d9-ab16-94e3cf8117a5.png?v=1782458082"
+      ],
+      "description": "До цьогорічного Прайд-місяця спільно з UKRAINEPRIDE ми створили лімітовану серію шоперів на знак нашої підтримки ЛГБТІК+ спільноти. Частину прибутку від продажу ми передаємо на підтримку громадської організації «Українські ЛГБТ+ військові за рівні права» @lgbtiqmilitary. Розмір: 40*35*6 см, довжина ручки - 65 см Матеріал: нейлон (100% поліестер) Є внутрішня кишеня, без застібки Підходить для 15\" MacBook",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-canvas-tote-bag-name",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CANVAS TOTE CUSTOM",
+      "source_url": "https://the-blub.com/products/canvas-tote-bag-name",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1730,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/21_1_157dbf62-aec3-4ead-b2f9-884a6526579b.jpg?v=1753334793",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/23_2.jpg?v=1753335214",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/22_1.jpg?v=1753334793"
+      ],
+      "description": "Розмір: 32*47*18, ручка 62 см Матеріал: 100% бавовна Дві внутрішні кишені Без блискавки Підходить до 15\" MacBook Не можна прати в пральній машині більше фото за хештегом: #blb13104 Термін виготовлення кастомного шоперу: 14 робочих днів",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-keychain-denim-copy",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "БРЕЛОК DENIM",
+      "source_url": "https://the-blub.com/products/keychain-denim-copy",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 490,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/03_1b0b1c2b-2ca2-4ddf-9688-e4fff28b8e7a.jpg?v=1790071331",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2abb912b-9f5f-4fab-a23b-8ef82d6affae.jpg?v=1778238504"
+      ],
+      "description": "Джинсовий брелок у формі міні-шопера. Стильний акцент для сумки, джинсів або ключів. Виконаний із щільного деніму та доповнений металевим карабіном — для тих, хто любить незвичні деталі в образі.",
+      "care": null,
+      "collections": [
+        "No sale",
+        "НОВИНКИ"
+      ]
+    },
+    {
+      "id": "theblub-heart-puffy-cosmetic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА PUFFY HEARTS",
+      "source_url": "https://the-blub.com/products/heart-puffy-cosmetic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/11_8.jpg?v=1780487781"
+      ],
+      "description": "Маленькі речі теж люблять порядок. Косметичка з м’якої плащової тканини для косметики, догляду та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові характеристики: Розмір: 17 × 17 × 7 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11113",
+      "care": "у та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові",
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-satin-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА SATIN",
+      "source_url": "https://the-blub.com/products/satin-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "блакитний",
+        "бежевий",
+        "коричневий",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": 2080,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_3678.png?v=1779959239",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_3679.png?v=1779959237",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_8869.jpg?v=1779959118"
+      ],
+      "description": "Сумка виконана з двох шарів сатину, проклеєних між собою, що дозволяє моделі зберігати структуровану форму та виразний силует. Всередині — дві місткі кишені для зручної організації речей, ущільнене дно для додаткової стійкості та функціональні зав’язки, що формують делікатний акцент моделі. Sating bag легко поєднується з повсякденними речами та додає особливого настрою щоденним образам. Розмір: 36 × 36 × 11 см Модель доступна з ручкою довжиною 50 см та 60 см (на фото довжина ручки 50 см, зріст моделі 168 см) більше фото за хештегом: # blb16116",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-blub-cap-need-caffeine",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КЕПКА BLUB \"Need Caffeine\"",
+      "source_url": "https://the-blub.com/products/blub-cap-need-caffeine",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "чорний",
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1890,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_19ed0eda-b2c4-44de-ac5a-9b844b4de96a.jpg?v=1779194099",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_c930a50c-4d1d-40ef-a912-85e7abb84a3b.jpg?v=1779194040",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_13de5b03-db06-42d0-a88d-fac18859eeed.jpg?v=1779194041"
+      ],
+      "description": "Just a warning cap for everyone around you. Бейсболка з заокругленим козирком та написом \"Need Caffeine\". Розмір регулюється за допомогою застібки позаду. Відправляємо у спеціальному пакованні lunch to-go — найкраще смакує з улюбленими луками, настроєм на сьогодні та чимось прохолодним у руці! Розмір: one size (регулюється)",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-blub-cap-overthinking-cap",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КЕПКА BLUB “Overthinking Cap”",
+      "source_url": "https://the-blub.com/products/blub-cap-overthinking-cap",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "коричневий",
+        "чорний",
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": 1890,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_601190d6-3cfa-41a4-924c-1f0a3eb46b98.jpg?v=1779193607",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_b2ed309f-1bf5-4838-bd55-b14d52de094b.jpg?v=1779193615",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4.png?v=1779193622"
+      ],
+      "description": "For anyone who deserves a week off from their own brain — Overthinking Cap. Бейсболка з заокругленим козирком та написом “Overthinking Cap”. Розмір регулюється за допомогою застібки позаду. Відправляємо у спеціальному пакованні lunch to-go — найкраще смакує з улюбленими луками, настроєм на сьогодні та чимось прохолодним у руці! Розмір: one size (регулюється)",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-blub-cap-dog-lover",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КЕПКА BLUB “Dogs Lover”",
+      "source_url": "https://the-blub.com/products/blub-cap-dog-lover",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "молочний",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1890,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_4.png?v=1779192663",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_444d3e0b-8b2a-4ec6-b394-6c477963b9a1.jpg?v=1779192615",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_bfdfc997-5601-4c10-850b-a7226c58858a.jpg?v=1779192754"
+      ],
+      "description": "Once Dog Lover — always Dogs Lover! Wear it proudly &lt;3 Бейсболка з заокругленим козирком та написом “Dogs Lover”. Розмір регулюється за допомогою застібки позаду. Відправляємо у спеціальному пакованні lunch to-go — найкраще смакує з улюбленими луками, настроєм на сьогодні та чимось прохолодним у руці! Розмір: one size (регулюється)",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-blub-cap",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КЕПКА BLUB “Bad Hair Day”",
+      "source_url": "https://the-blub.com/products/blub-cap",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Кепка",
+      "slot": "hat",
+      "colors": [
+        "блакитний",
+        "молочний",
+        "коричневий",
+        "чорний",
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1890,
+      "sale_price_uah": 1500,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_364250f2-355d-4780-a720-62d4c83ec5e6.jpg?v=1779190932",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_227bfe39-88e5-4cda-bb5a-7445c32a9b9d.jpg?v=1779190925",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_b8cb141d-5580-454c-8fbc-da56074332bf.jpg?v=1779190932"
+      ],
+      "description": "Some bad hair days just need a little styling support &lt;3 Бейсболка з заокругленим козирком та написом “Bad Hair Day”. Розмір регулюється за допомогою застібки позаду. Відправляємо у спеціальному пакованні lunch to-go — найкраще смакує з улюбленими луками, настроєм на сьогодні та чимось прохолодним у руці! Розмір: one size (регулюється)",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-puffy-cosmetic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА PUFFY",
+      "source_url": "https://the-blub.com/products/puffy-cosmetic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5986d7ee-b852-467c-aa95-7ebec38ec9ab_2ef75dd0-0ccd-40e9-b23a-47f9593c92e1.jpg?v=1778836116",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_8.jpg?v=1780488093",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2798d05f-b970-4da4-aaba-daa31abbe2f7.jpg?v=1778836073"
+      ],
+      "description": "Маленькі речі теж люблять порядок. Косметичка з м’якої плащової тканини для косметики, догляду та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові характеристики: Розмір: 17 × 17 × 7 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11113",
+      "care": "у та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові",
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-dog-puffy-cosmetic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА PUFFY DOG",
+      "source_url": "https://the-blub.com/products/dog-puffy-cosmetic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4bb33d73-21ec-4b6e-b394-af4aeed76f68_1.png?v=1778835596",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/455b5d7a-fae5-420d-9f5d-2f883a76126d.jpg?v=1778835539"
+      ],
+      "description": "Твої улюблені чотирилапі тепер і на косметичках. Косметичка з м’якої плащової тканини для косметики, доглядових засобів та інших дрібниць. Об’ємна форма легко вміщує все необхідне, а принт із таксами чи коргі не залишить сумнівів у вашій любові до чотирилапих. Додаткові характеристики: Розмір: 17 × 17 × 7 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11113",
+      "care": "ових засобів та інших дрібниць. Об’ємна форма легко вміщує все необхідне, а принт із таксами чи коргі не залишить сумнівів у вашій любові до чотирилапих. Додаткові",
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-plaid-puffy-cosmetic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА PUFFY В КЛІТИНКУ",
+      "source_url": "https://the-blub.com/products/plaid-puffy-cosmetic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c2f31aa4-e907-42c8-93f5-71c1e772a16c.jpg?v=1778834966",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c5197867-2c2c-47fd-bac4-2628caeff72e.jpg?v=1778834966"
+      ],
+      "description": "Маленькі речі теж люблять порядок. Косметичка з м’якої плащової тканини для косметики, догляду та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові характеристики: Розмір: 17 × 17 × 7 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11113",
+      "care": "у та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові",
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-heart-laptop-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА HEARTS",
+      "source_url": "https://the-blub.com/products/heart-laptop-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c0dd9daa-6e37-4423-9370-b189b3ed2efc.jpg?v=1778833387"
+      ],
+      "description": "Додайте вашому ноутбуку або планшету стильного образу зі стьобаним чохлом з сердцями. М’який наповнювач забезпечує надійний захист під час щоденного використання та транспортування. Чохол доступний у чотирьох розмірах і підходить для більшості ноутбуків і планшетів з діагоналлю до 15,6 дюйма. Всередині є кілька додаткових кишень для аксесуарів та інших дрібниць. Закривається на блискавку та доповнений лаконічним логотипом The Blub. Розміри: Extra Big — для пристроїв до 15,6”: 40 × 28 × 2 см Big — для пристроїв до 14”: 35 × 25,5 × 2 см Mini — для пристроїв до 13”: 32 × 23,5 × 2 см Extra Mini — для пристроїв до 10,9”: 26,5 × 19,5 × 1 см Характеристики: Матеріал: нейлон (100% поліестер) Застібка: блискавка Внутрішні кишені для аксесуарів Виготовлено в Україні. більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-plaid-laptop-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА В КЛІТИНКУ",
+      "source_url": "https://the-blub.com/products/plaid-laptop-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c2c9ac2c-62b9-45c2-9436-dda6ec5db4ed.jpg?v=1778832546"
+      ],
+      "description": "Додайте вашому ноутбуку або планшету стильного образу зі стьобаним чохлом у клітинку. М’який наповнювач забезпечує надійний захист під час щоденного використання та транспортування. Чохол доступний у чотирьох розмірах і підходить для більшості ноутбуків і планшетів з діагоналлю до 15,6 дюйма. Всередині є декілька додаткових кишень для аксесуарів та інших дрібниць. Чохол закривається на блискавку та доповнений лаконічним логотипом The Blub. Розміри: Extra Big — для пристроїв до 15,6”: 40 × 28 × 2 см Big — для пристроїв до 14”: 35 × 25,5 × 2 см Mini — для пристроїв до 13”: 32 × 23,5 × 2 см Extra Mini — для пристроїв до 10,9”: 26,5 × 19,5 × 1 см Характеристики: Матеріал: нейлон (100% поліестер) Застібка: блискавка Внутрішні кишені для аксесуарів Виготовлено в Україні. більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-luna-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА LUNA",
+      "source_url": "https://the-blub.com/products/luna-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2490,
+      "sale_price_uah": 1990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0518.jpg?v=1777556573",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/18_10.jpg?v=1780488497",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/17_7.jpg?v=1780488535"
+      ],
+      "description": "Місткий шопер зі стьобаної плащової тканини в клітинку — ідеальний вибір для щоденного використання. Регульована ручка дозволяє легко змінювати довжину, тому сумку можна носити як через плече, так і на плечі. Представлена у двох кольорах: стриманому темно-синьому та яскравому блакитному. Шопер закривається на блискавку, має підкладку та чотири внутрішні кишені для зручної організації речей. Вміщує все необхідне на щодень, зокрема ноутбук із діагоналлю до 15 дюймів. Додаткові характеристики: Матеріал: нейлон (100% поліестер) Розмір: 44 × 30 × 13 см Максимальна довжина ручки: 89 см Виготовлено в Україні. більше фото за хештегом: #blb11119",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-шопер-tote-bag-denim",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TOTE BAG DENIM",
+      "source_url": "https://the-blub.com/products/шопер-tote-bag-denim",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 4490,
+      "sale_price_uah": 3140,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/686732e3-869e-4910-8ff4-e20c6047bd0f.jpg?v=1777299666",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/19_7.jpg?v=1780489085",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/20_9.jpg?v=1780489079"
+      ],
+      "description": "Спеціально до дня народження нашого бестселера Tote Bag ми створили цю модель у денімі. Вона виготовлена з двошарового вивареного деніму, що добре тримає форму та підходить для щоденного використання. Всередині — окреме велике відділення на блискавці для ноутбука або іншого девайса з діагоналлю до 15 дюймів. Місткий шопер легко вміщує все необхідне для роботи, навчання чи повсякденних справ. Завершує дизайн білий принтований логотип The Blub, який додає моделі впізнаваного акценту. Додаткові характеристики: Розмір: 54 × 34 × 20 см Матеріал: виварений денім Виготовлено в Україні. більше фото за хештегом: #blb13123",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-urban-bag-mini",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА URBAN MINI",
+      "source_url": "https://the-blub.com/products/urban-bag-mini",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "темно-синій",
+        "синій",
+        "бежевий",
+        "молочний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2700,
+      "sale_price_uah": 2160,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15007.jpg?v=1719559629",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_14_0af921b2-bbd6-44e1-8909-f11e4005a238.jpg?v=1720787058",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_14_c3f105bd-b6c3-40cc-a495-219b17315af9.jpg?v=1720787011"
+      ],
+      "description": "Розмір: 30*25*9 см, регульований ремінь (макс. 100 см) Матеріал: 100% бавовна Внутрішня кишеня, зовнішня кишеня Закривається на блискавку Підходить для 13\" MacBook більше фото за хештегом: #blb13060b",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-rain-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА RAIN",
+      "source_url": "https://the-blub.com/products/rain-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "лавандовий",
+        "мʼятний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": 2150,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0120.jpg?v=1777553707",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0132.jpg?v=1777553706",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_6.jpg?v=1773319969"
+      ],
+      "description": "Об’ємний шопер із водонепроникної плащівки для тих, хто цінує практичність і мінімалістичний дизайн. Форму сумки можна змінювати за допомогою спеціальних кнопок з обох боків. Всередині — підкладка та три внутрішні кишені, одна з яких застібається на блискавку. Місткий шопер для щоденного використання: роботи, тренувань, коротких подорожей або будь-яких справ, коли потрібно взяти із собою трохи більше. Додаткові характеристики: Розмір: 57 × 37 × 36 см Довжина ручки: 60 см Матеріал: водонепроникна плащівка (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb16112",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-text-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TEXT",
+      "source_url": "https://the-blub.com/products/text-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "чорний",
+        "рожевий",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1390,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0034.jpg?v=1777552816",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/9_957e2b5a-b7f1-4fb9-ba31-9c57ec15d1c0.webp?v=1770735876",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_59884b90-07bf-4967-aeaf-fd52337dea0d.webp?v=1770735876"
+      ],
+      "description": "Саме час написати на своїй сумці те, що ви зазвичай пишете в нотатках о 2:37 ночі. Послання для краша, зізнання в любові своїй собаці, або екзистенційний жарт для себе. Говоріть про важливе. Або про абсурдне. Або про те, що у вас постійно в голові. Text Bag ми зробили саме для цього. Обирайте готовий напис на шопері за настроєм або кастомізуйте свій. Додаткові характеристики: Розмір: 40 × 35 × 6 см Довжина ручки: 65 см Матеріал: нейлон (100% поліестр) Є внутрішня кишеня Виготовлено в Україні. Термін виготовлення: 7-10 робочих днів більше фото за хештегом: #blb11107",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-sex-is-cool-big-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР SEX IS COOL...",
+      "source_url": "https://the-blub.com/products/sex-is-cool-big-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1100,
+      "sale_price_uah": 880,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/08_1_c255e8be-9a37-4747-80d0-f795de0a661f.jpg?v=1765458690",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/09_1_c3a03a1f-fe24-44bb-9642-6772c39a79a3.jpg?v=1765458690",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/06_1_77721ff8-210e-4a78-869a-b11111eeb0c2.jpg?v=1765458690"
+      ],
+      "description": "Розмір: 51*38*13 см, ручка 65 см Матеріал: нейлон (100% поліестер) Внутрішня кишеня Без блискавки Підходить для 15\" MacBook більше фото за хештегом: #blb11053",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-blanka-bakery-x-the-blub-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР BLANKA BAKERY x THE BLUB",
+      "source_url": "https://the-blub.com/products/blanka-bakery-x-the-blub-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 890,
+      "sale_price_uah": 490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1178.jpg?v=1765551808",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1191.png?v=1765551999",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1189_2.png?v=1765551999"
+      ],
+      "description": "Розмір: 48*35*14 см, ручка 65 см Матеріал: 100% бавовна Внутрішня кишеня Без блискавки Підходить для 15\" MacBook Пропонуємо додати до замовлення мішечок більше фото за хештегом: #blb12090",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-miranda-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА MIRANDA",
+      "source_url": "https://the-blub.com/products/miranda-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2790,
+      "sale_price_uah": 1950,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01940.jpg?v=1764765093",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01987.jpg?v=1764765093",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01996.jpg?v=1764765093"
+      ],
+      "description": "Сумка з люверсами з колекції The Blub Holiday, натхненна естетикою 2000-х років. Завдяки делікатному блиску вона ідеально доповнить образ, коли хочеться додати йому святкового настрою або зробити особливий акцент. Всередині розташована кишеня, а сумка закривається на магніт. Модель можна комфортно носити як на плечі, так і кросбоді. Додаткові характеристики: Розмір: 35 × 36 × 12 см Довжина ручки: 70 см Матеріал: екошкіра (100% поліестер), підклад (70% поліестер, 30% віскоза) Виготовлено в Україні. більше фото за хештегом: #blb10022",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-charlotte-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА CHARLOTTE",
+      "source_url": "https://the-blub.com/products/charlotte-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": 1700,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01801.jpg?v=1764765318",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/16_5.jpg?v=1764765318",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01868.jpg?v=1764765318"
+      ],
+      "description": "Лакована сумка на плече з колекції The Blub Holiday. Створена для святкових виходів, але не менш доречна й у будні. Глянцева фактура легко стає акцентом образу, а компактний розмір вміщує все найнеобхідніше. Сумка закривається на магніт. Додаткові характеристики: Розмір: 26 × 17 × 19 см Довжина ручки: 76 см Матеріал: лакована екошкіра (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb10023",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-carrie-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА CARRIE",
+      "source_url": "https://the-blub.com/products/carrie-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 1430,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01622.jpg?v=1764761698",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_4.jpg?v=1764761698",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/DSC01674.jpg?v=1764761647"
+      ],
+      "description": "Сумка-мішечок із паєтками з колекції The Blub Holiday. Ідеально підходить, коли хочеться додати образу святкового настрою або зробити його з особливим акцентом. Ідеально підходить, коли хочеться додати образу святкового настрою або зробити його з особливим акцентом. Додаткові характеристики: Матеріал: паєтки (ззовні), сатин (всередині) Розмір: 20 × 23 см Довжина ручки: 102 см Виготовлено в Україні. більше фото за хештегом: #blb16021",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-keychain-leather-stone",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "БРЕЛОК LEATHER & STONE",
+      "source_url": "https://the-blub.com/products/keychain-leather-stone",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий",
+        "бордовий"
+      ],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": 590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/01_5.jpg?v=1765308834",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/10_5.jpg?v=1765308834",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/03_4.jpg?v=1765308834"
+      ],
+      "description": "Брелок ручної роботи з елементами з натуральної замші, доповнений дерев’яними намистинами, натуральним камінням та металевими деталями. Для елементів із замші ми використовуємо матеріал, що лишається після виготовлення нашого бестселера — сумки Olimpia. Це дозволяє значно зменшити виробничі відходи. Кожен брелок унікальний та може відрізнятись від фото на сайті, адже наші майстрині індивідуально підбирають колір каміння та інших матеріалів, щоб вони гармонійно поєднувалися між собою. Design: Олександра Якименко @ssaddikaa",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-new-york-bag-mini",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА NEW YORK MINI",
+      "source_url": "https://the-blub.com/products/new-york-bag-mini",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий",
+        "блакитний",
+        "молочний",
+        "рожевий",
+        "чорний",
+        "фіолетовий",
+        "хакі",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2300,
+      "sale_price_uah": 2070,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/c8621344-eabe-49ba-98ed-f372f6267d5d.jpg?v=1781790442",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/cb21dca0-8313-4a6e-a388-492375e365aa.jpg?v=1784558958",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_4709.jpg?v=1784037748"
+      ],
+      "description": "Повсякденна сумка через плече з цупкої плащової тканини з регульованою ручкою. Модель застібається на блискавку, має дві внутрішні кишені з мінімалістичним логотипом. Мініверсія сумки New York Bag стане ідеальним вибором, коли потрібно взяти із собою лише найнеобхідніше. Вона чудово підійде для прогулянок, подорожей або будь-яких щоденних справ, коли важливі компактність і комфорт. Додаткові характеристики: Розмір: 26 × 16 × 10 см Довжина ручки: 105 см (максимальна) Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb13113",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-olivia-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА OLIVIA",
+      "source_url": "https://the-blub.com/products/olivia-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2320,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1921_1.png?v=1787646576",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2451.jpg?v=1774945043",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/08_95ab6e91-50d6-497f-9845-408edf7f23e1.jpg?v=1774945043"
+      ],
+      "description": "Шопер з екошкіри у формі трикутника. Модель закривається на магніт, має внутрішню кишеню та мінімалістичне тиснення з логотипом The Blub. Завдяки лаконічному силуету легко доповнює як класичні, так і повсякденні образи. Додаткові характеристики: Розмір: 38 × 34 см Довжина ручки: 65 см Матеріал: екошкіра (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb10097",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-dakota-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА DAKOTA",
+      "source_url": "https://the-blub.com/products/dakota-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": 2720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/f0ecc8e8-33a0-4411-9623-2ff4fb47b3d5.jpg?v=1782119896",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0381.jpg?v=1777556053",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0393.jpg?v=1777556055"
+      ],
+      "description": "Об’ємний шопер із цупкого нейлону з глянцевим фінішем. Всередині — невелика кишеня для ключів, документів та інших дрібниць. Dakota bag привертає увагу з першого погляду й без зусиль вміщує все, що хочеться мати під рукою. Додаткові характеристики: Розмір: 42 × 36 × 14 см Довжина ручки: 60 см Матеріал: лакована екошкіра (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb10116",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-emma-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА EMMA",
+      "source_url": "https://the-blub.com/products/emma-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "молочний",
+        "блакитний",
+        "сірий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 2160,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_4819.jpg?v=1784050881",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/b443d978-729d-49a9-a905-c6d7201052cd.jpg?v=1782119787",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_4708.jpg?v=1784050880"
+      ],
+      "description": "Функціональний шопер із цупкої плащової тканини з регульованою ручкою. Завдяки фіксатору зі шнурком легко змінюйте довжину ручки, щоб носити сумку на плечі, кросбоді або з максимально подовженою ручкою. Всередині розташована кишеня для найнеобхідніших дрібниць. Додаткові характеристики: Розмір: 30 × 49 см Довжина ручки: 105 см (максимальна) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11114",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-hand-cream-mini-the-blub",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КРЕМ ДЛЯ РУК THE BLUB - BLACK PEPPER",
+      "source_url": "https://the-blub.com/products/hand-cream-mini-the-blub",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 270,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_9621.jpg?v=1767972884",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/e23ef0bb-1ab2-4b1a-bb5a-09c42a3c01bd.png?v=1767972884",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/54f1f948-48d2-44ea-afe6-ba5bb67e584f.png?v=1767972884"
+      ],
+      "description": "Ніжно живить і зволожує шкіру, робить її м’якою та гладенькою. Аромат : Black Pepper — поєднання теплих нот перцю, кориці, гвоздики, ванілі, бобів тонка, стиглих фруктів та соковитого яблука. Об’єм: 30 мл Виготовлено у м. Дніпро Туба виготовлена з делікатного металу, тому радимо використовувати її ніжно. Через обмеження поштових служб доставка крему здійснюється лише по території України.",
+      "care": null,
+      "collections": [
+        "No sale",
+        "НОВИНКИ"
+      ]
+    },
+    {
+      "id": "theblub-new-york-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА NEW YORK",
+      "source_url": "https://the-blub.com/products/new-york-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий",
+        "блакитний",
+        "молочний",
+        "бежевий",
+        "чорний",
+        "фіолетовий",
+        "сірий",
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 2600,
+      "sale_price_uah": 2340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6630.jpg?v=1791974138",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2171.jpg?v=1764791699",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/21.webp?v=1764791699"
+      ],
+      "description": "Повсякденна сумка через плече з цупкої плащової тканини з регульованою ручкою. Модель застібається на блискавку, має дві внутрішні кишені з мінімалістичним логотипом. Завдяки місткому основному відділенню сумка легко вміщує все необхідне для щоденного використання та стане ідеальним вибором для роботи, навчання, тренувань або повсякденних справ. Додаткові характеристики: Розмір: 50 × 29 × 14 см Довжина ручки: 110 см (максимальна) Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb13113",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-laptop-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА",
+      "source_url": "https://the-blub.com/products/laptop-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "лавандовий",
+        "червоний",
+        "темно-синій",
+        "синій",
+        "чорний",
+        "бежевий",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1925_1.png?v=1787646739",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2382_2.jpg?v=1771861216",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_2410_2.jpg?v=1771861216"
+      ],
+      "description": "Розмір extra Big: 15.6\" - 40*28*2 см Розмір Big: 14\" - 35*25,5*2 см Розмір mini: 13\" - 32*23,5*2 см Розмір extra mini 10.9\" - 26,5*19,5*1 см Матеріал: нейлон (100% поліестер) Закривається на блискавку Всередині є кишені більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-laptop-bag-striped",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА В СМУЖКУ",
+      "source_url": "https://the-blub.com/products/laptop-bag-striped",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "зелений",
+        "рожевий",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2b36dc02-cc1d-49f6-9f3c-418a8247bc19.jpg?v=1778831156",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2e760a75-6e81-4b9a-963d-62e52a7d01d2.jpg?v=1778831157",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4c29b7ff-3e28-4ec1-9d4e-772436893e2c.jpg?v=1778831157"
+      ],
+      "description": "Розмір extra Big: 15.6\" - 40*28*2 см Розмір Big: 14\" - 35*25,5*2 см Розмір mini: 13\" - 32*23,5*2 см Розмір extra mini 10.9\" - 26,5*19,5*1 см Матеріал: нейлон (100% поліестер) Закривається на блискавку Всередині є кишені більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-laptop-bag-dog",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ЧОХОЛ ДЛЯ НОУТБУКА DOG",
+      "source_url": "https://the-blub.com/products/laptop-bag-dog",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1170,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1655f3af-96f0-4469-95b4-87b84f7dec17.jpg?v=1778831328",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/a35e1aee-233e-4429-b2ee-8be921eee9eb.jpg?v=1778831327",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/7fbb5b0b-821f-415a-9591-5120307976b9.jpg?v=1778831329"
+      ],
+      "description": "Розмір extra Big: 15.6\" - 40*28*2 см Розмір Big: 14\" - 35*25,5*2 см Розмір mini: 13\" - 32*23,5*2 см Розмір extra mini 10.9\" - 26,5*19,5*1 см Матеріал: нейлон (100% поліестер) Закривається на блискавку Всередині є кишені більше фото за хештегом: #blb11111",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-striped-bag-mini",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР STRIPED BAG MINI",
+      "source_url": "https://the-blub.com/products/striped-bag-mini",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 1090,
+      "sale_price_uah": 590,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_3.jpg?v=1754906861",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/14_3_19d22ec8-7ff2-4067-9d15-baf5eefd5e90.jpg?v=1754906861",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_big_488309dc-fc0f-43fa-8e5f-85de8f2d9bea.jpg?v=1754906861"
+      ],
+      "description": "Розмір: 50*35*12 см, довжина ручки 63 см Матеріал: 50 % поліестер, 50 % бавовна Внутрішня кишеня Без блискавки Підходить для 15\" MacBook Не можна прати в пральній машині більше фото за хештегом: #blb13103b",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-striped-bag-big",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР STRIPED BAG BIG",
+      "source_url": "https://the-blub.com/products/striped-bag-big",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/14_3.jpg?v=1754907045",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/11_big.jpg?v=1754907045",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_big.jpg?v=1754907045"
+      ],
+      "description": "Розмір: 58*40*17 см, довжина ручки 63 см Матеріал: 50 % поліестер, 50 % бавовна Внутрішня кишеня Без блискавки Підходить для 15\" MacBook Не можна прати в пральній машині більше фото за хештегом: #blb13103b",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-puffy-сosmetic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА PUFFY В СМУЖКУ",
+      "source_url": "https://the-blub.com/products/puffy-сosmetic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "блакитний",
+        "зелений",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/24_version2.jpg?v=1752648582",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/12_1.jpg?v=1752648582",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_2.jpg?v=1752648582"
+      ],
+      "description": "Маленькі речі теж люблять порядок. Косметичка з м’якої плащової тканини для косметики, догляду та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові характеристики: Розмір: 17 × 17 × 7 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11113",
+      "care": "у та всіх дрібниць, які завжди хочеться мати під рукою. Завдяки об’ємній формі вона вміщує більше, ніж здається, і допомагає легко підтримувати порядок у сумці чи валізі. Додаткові",
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-note-bag-washed",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА NOTE BAG WASHED",
+      "source_url": "https://the-blub.com/products/note-bag-washed",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1960,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2622.jpg?v=1761900447",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/01_2_1.jpg?v=1761900447",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2635.jpg?v=1761900447"
+      ],
+      "description": "Розмір: 35*25*8 см, регульована ручка (макс. 124 см) Матеріал: 100% бавовна Внутрішні кишені Закривається на магніт Підходить для 13\" MacBook більше фото за хештегом: #blb13101",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-run-washed",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА RUN WASHED",
+      "source_url": "https://the-blub.com/products/run-washed",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 2520,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2700.jpg?v=1770824503",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2694.jpg?v=1770824503",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/07_3.jpg?v=1770824503"
+      ],
+      "description": "Розмір: 55*25*15 см, довжина ручок 75 см Матеріал: 100% бавовна Внутрішні кишені Закривається на блискавку Підходить для 13\" MacBook більше фото за хештегом: #blb13092",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-slim-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР SLIM",
+      "source_url": "https://the-blub.com/products/slim-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "зелений",
+        "блакитний",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 1400,
+      "sale_price_uah": 1120,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/10_1_591b09f8-cb9e-4a01-a196-6a3f1a062272.jpg?v=1750258343",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/07_1_14056e28-e423-4e01-b138-f81aede01924.jpg?v=1750258343",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/06_2.jpg?v=1750258343"
+      ],
+      "description": "Компактний шопер із легкої плащової тканини. Легко складається у власну внутрішню кишеню, тому його зручно носити із собою в сумці як додатковий шопер. Модель має карабін для ключів або інших дрібниць. Яскраві акцентні кольори додадуть настрою вашим образам. Шопер ідеально підійде для пляжу, покупок і щоденного використання. Додаткові характеристики: Розмір: 40 × 35 × 8 см Довжина ручки: 65 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb11106",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-lita-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА LITA",
+      "source_url": "https://the-blub.com/products/lita-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 1430,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0397.jpg?v=1777554802",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0404.jpg?v=1777554802",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/19_1.jpg?v=1750163963"
+      ],
+      "description": "Літній шопер із плісерованої тканини на кожен день. Об’ємна форма легко вміщує все необхідне — від щоденних дрібниць до девайса діагоналлю до 15 дюймів. Яскраво-зелений відтінок стиглого яблука стане кольоровим акцентом ваших образів, а чорний — тією самою базою, що пасує буквально до всього. Додаткові характеристики: Розмір: 42 × 35 см Довжина ручки: 60 см Матеріал: нейлон (100% поліестер) Виготовлено в Україні. більше фото за хештегом: #blb16107",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-canvas-tote-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CANVAS TOTE",
+      "source_url": "https://the-blub.com/products/canvas-tote-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 2190,
+      "sale_price_uah": 1530,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/20_1_1abbe648-5e3d-4bcb-9d2b-dac2895735b8.jpg?v=1750164090",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5d3b5b97-223e-41b9-b090-d3e1867ad6fa.jpg?v=1753335214",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/23_2.jpg?v=1753335214"
+      ],
+      "description": "Розмір: 32*47*18, ручка 62 см Матеріал: 100% бавовна Дві внутрішні кишені Без блискавки Підходить для 15\" MacBook Не можна прати в пральній машині більше фото за хештегом: #blb13104",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-moon-mini-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР MOON MINI 2.0",
+      "source_url": "https://the-blub.com/products/moon-mini-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2800,
+      "sale_price_uah": 1990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/01_MINI_62495350-f7ef-44e4-a2df-aa3344aa4880.jpg?v=1748960583",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/02_1_e6b44fd8-a9ca-4848-920f-0287e8b62652.jpg?v=1748960585",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/07_cb03a338-d132-4974-8267-239cea720387.jpg?v=1762349208"
+      ],
+      "description": "Розмір mini: 34*32*10 см Косметичка 17*23 см Без кишень, без блискавки Матеріал: еко-шкіра преміум-класу Підходить для 13\" MacBook більше фото за хештегом: #blb10072",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-tote-eco-leather-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TOTE ECO-LEATHER 2.0",
+      "source_url": "https://the-blub.com/products/tote-eco-leather-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бордовий",
+        "коричневий",
+        "чорний",
+        "темно-синій",
+        "синій",
+        "рожевий",
+        "червоний",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3600,
+      "sale_price_uah": 3240,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_0383.jpg?v=1790237945",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6614.jpg?v=1791971265",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/08_75ee9de5-cfeb-4ba4-80c5-81f441a9d3fc.jpg?v=1790238071"
+      ],
+      "description": "Tote bag 2.0 — удосконалена версія нашого шопера-бестселера. Оновлена модель виконана з преміальної екошкіри та представлена в ширшій палітрі кольорів. Завдяки місткій формі сумка легко вміщує все необхідне для роботи, навчання чи повсякденних справ. Рекомендуємо додати до замовлення косметичку для зручної організації речей, адже всередині сумки відсутні додаткові кишені. Додаткові характеристики: Розмір: 54 × 34 × 20 см Довжина ручки: 50 см Матеріал: преміум екошкіра (100% поліестр) Рекомендоване навантаження — до 3–4 кг. Виготовлено в Україні. більше фото за хештегом: #blb10032",
+      "care": null,
+      "collections": [
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-moon-big-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР MOON BIG 2.0",
+      "source_url": "https://the-blub.com/products/moon-big-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/01_ce42fe05-9023-4782-a607-66605a5ada0e.jpg?v=1748588050",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/02_f1ffd4e0-628e-4058-89d3-1237065281d9.jpg?v=1748588050",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/07_cb03a338-d132-4974-8267-239cea720387.jpg?v=1762349208"
+      ],
+      "description": "Розмір BIG: 41*42*11 см Косметичка 17*23 см Без кишень, без блискавки Матеріал: еко-шкіра преміум-класу Підходить для 15\" MacBook більше фото за хештегом: #blb10072",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-polka-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА POLKA DOT",
+      "source_url": "https://the-blub.com/products/polka-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий",
+        "червоний",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1320,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0448.jpg?v=1777555624",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0461.jpg?v=1777555624",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0454.jpg?v=1777555624"
+      ],
+      "description": "Шопер із принтом у горошок і заокругленою формою. Зручно сидить на плечі, а завдяки об'ємній конструкції вміщує все необхідне на кожен день. Додасть грайливий акцент до повсякденних образів. Додаткові характеристики: Розмір: 49 × 37 см Довжина ручки: 40 см Матеріал: сатин (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb16108",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-office-tote-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР OFFICE TOTE",
+      "source_url": "https://the-blub.com/products/office-tote-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3390,
+      "sale_price_uah": 3050,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0056.jpg?v=1777553169",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/006.jpg?v=1720501852",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0067.jpg?v=1777553169"
+      ],
+      "description": "Розмір: 35*59*14 см, ручка 60 см Матеріал: еко-шкіра (100% поліестер) Внутрішня кишеня Закривається на блискавку Підходить для 15\"\" MacBook Рекомендоване навантаження — до 3–4 кг. Більше фото за хештегом: #blb10096",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-bucket-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА BUCKET",
+      "source_url": "https://the-blub.com/products/bucket-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "хакі",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 1440,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb04582.jpg?v=1741868520",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb04588.jpg?v=1741868520",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/15_orig_e87ee6d5-8495-473d-ae40-ed41ea6a03c1.jpg?v=1741868520"
+      ],
+      "description": "Сумка на шнурку із заокругленою формою у вигляді бочонка. Регульована ручка з фіксатором довжини дозволяє носити її на плечі або кросбоді. Всередині — кишеня, зовні — кільце для ключів. Компактний силует для найнеобхіднішого на кожен день. Додаткові характеристики: Розмір: 20 × 31 × 12 см Довжина ручки: 130 см (максимальна) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb13099",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-olimpia-leather-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА OLIMPIA LEATHER",
+      "source_url": "https://the-blub.com/products/olimpia-leather-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бордовий",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 6900,
+      "sale_price_uah": 5520,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6621.jpg?v=1791972189",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6623.jpg?v=1791972236",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/0x0.jpg?v=1738686296"
+      ],
+      "description": "Шопер із натуральної замші з лінійки The Blub Leather Line. Модель має ущільнене дно, магнітну застібку та внутрішню кишеню у вигляді гаманця на блискавці. Зверніть увагу: натуральна замша може мати незначні природні нерівності текстури та відтінку. Додаткові характеристики: Розмір: 35 × 40 × 15 см Довжина ручки: 60 см Матеріал: замша (100% натуральна шкіра) Виготовлено в Україні. більше фото за хештегом: #blb15101",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-fold-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР FOLD",
+      "source_url": "https://the-blub.com/products/fold-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "лавандовий",
+        "блакитний",
+        "бежевий",
+        "рожевий",
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1620,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0531.jpg?v=1777553889",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/19_6.jpg?v=1773319115",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0584.jpg?v=1777553890"
+      ],
+      "description": "Об'ємний шопер із матової плащової тканини з можливістю регулювати форму за допомогою фіксаторів з обох боків. Модель закривається на магніт і має внутрішню кишеню для дрібниць. Бічні зав'язки можна зав'язати у вигляді бантиків, додаючи образу легкого кокетливого настрою. Різноманіття кольорів допоможе легко знайти варіант, що пасуватиме саме вашому настрою. Додаткові характеристики: Розмір: 38 × 45 см Довжина ручки: 41 см Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11070",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-carabin",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КАРАБІН",
+      "source_url": "https://the-blub.com/products/carabin",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 30,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/carabin.jpg?v=1733421242"
+      ],
+      "description": "Карабін для крему Crumb діаметр 15 мм, колір - срібло",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-mini-hand-cream-your-best-accessory",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КРЕМ ДЛЯ РУК В МІНІ-ФОРМАТІ CRUMB",
+      "source_url": "https://the-blub.com/products/mini-hand-cream-your-best-accessory",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "чорний",
+        "рожевий",
+        "білий",
+        "зелений",
+        "блакитний"
+      ],
+      "sizes": [],
+      "price_uah": 350,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/crumb_silver_c3f419b9-425c-46a9-aee9-ebf9da38d9cf.jpg?v=1765282436",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/02_553f5d51-0901-4469-9bac-8329b3d3f23b.png?v=1765282436",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/crumb_green_582f0ed4-e036-49c6-8e7f-84e734afe215.jpg?v=1765282436"
+      ],
+      "description": "Твій яскравий аксесуар на кожен день. Cтилізуй свій образ або бери на подарунок собі чи своїм бестіз. Чорний (Narcissus & Ambra) Лимонний (Raspberry & Tulip) Зелений (Vetiver & Bergamot) Синій (Floral & Wood) Рожевий (White & Strawberry) Світло-сірий (Santal & Cardamom) Білий (Cherry & Santal) Живить, зволожує, підтримує водно-ліпідний баланс, дарує гладкість, ніжність і еластичність. Легко вбирається шкірою. Олія рисових висівок, авокадо, ши, какао, Д-пантенол, екстракт гамамелісу, вітаміни F, B, Е. не забудь придбати карабін , щоб якнайшвидше прикріпити крем на сумку. Об’єм: 20мл *Тубик – це тендітний метал, будьте обережні з ним, він не такий стресостійкий, як усі ми *Через обмеження поштових служб крем надсилається лише по Україні.",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-jony-nylon",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР JONY NYLON",
+      "source_url": "https://the-blub.com/products/jony-nylon",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "блакитний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1600,
+      "sale_price_uah": 1440,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00563.jpg?v=1750272023",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/111.jpg?v=1750272023",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00557.jpg?v=1750272023"
+      ],
+      "description": "Легкий шопер крос-боді із плащової тканини. Довжина ручки легко регулюється за допомогою фіксатора. Модель закривається на блискавку та має внутрішню кишеню. Шопер ідеально підходить для щоденного використання й легко вміщує все необхідне для роботи, навчання чи занять спортом. Додаткові характеристики: Розмір: 30 × 36 × 10 см Довжина ручки: 106 см (максимальна) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11083",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-bag-messenger",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА MESSENGER",
+      "source_url": "https://the-blub.com/products/bag-messenger",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3400,
+      "sale_price_uah": 2720,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_1306.jpg?v=1787646819",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/30.101360_3918b183-ea09-4cb1-81fa-5d52aebf2c91.jpg?v=1741870058",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/04_cdcdca24-2495-4e13-ad84-31165764f270.jpg?v=1741870058"
+      ],
+      "description": "Розмір: 38*31*11 см, регульована ручка (макс. 102 см) Матеріал: 100% бавовна Внутрішня кишеня Закривається на магніт Підходить для 15\" MacBook більше фото за хештегом: #blb13060b",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-bag-coquette-mini-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА COQUETTE MINI",
+      "source_url": "https://the-blub.com/products/bag-coquette-mini-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1690,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/15_03b439f3-8932-4d1d-bbda-24dfcccf0468.jpg?v=1765542162",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_0887.jpg?v=1765542162",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_0936.jpg?v=1765542162"
+      ],
+      "description": "Розмір: 15*25*7 см, ручка 40 см Матеріал: нейлон (100% поліестер) Внутрішні кишені Закривається на блискавку більше фото за хештегом: #blb11097",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-triangle-bag-big",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TRIANGLE BIG",
+      "source_url": "https://the-blub.com/products/triangle-bag-big",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 2300,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00674.jpg?v=1731942457",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00666.jpg?v=1731942458",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00670.jpg?v=1731942456"
+      ],
+      "description": "Розмір Big: 30*42*45*7 см, ручка 66 см Розмір mini: 30*39*40*6 см, ручка 66 см Матеріал: еко-шкіра (100% поліестер) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook Рекомендоване навантаження — до 3–4 кг. Більше фото за хештегом: #blb10014",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-run-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА RUN",
+      "source_url": "https://the-blub.com/products/run-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "блакитний",
+        "бежевий",
+        "рожевий",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1900,
+      "sale_price_uah": 1710,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/101.jpg?v=1761899992",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15488.jpg?v=1761899992",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15478.jpg?v=1761899992"
+      ],
+      "description": "Кросбоді-шопер, з яким зручно бігати у справах містом, де б ви не були. Модель виконана з водовідштовхувальної плащівки, має застібку-блискавку та внутрішню кишеню. Завдяки місткій об'ємній формі сумка вміщує все необхідне для спорту, навчання, поїздок і щоденного використання. Розмір: 50 × 29 × 14 см Довжина ручки: регульована ручка (макс. 70 см) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11092",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "НОВИНКИ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-dandy-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА DANDY",
+      "source_url": "https://the-blub.com/products/dandy-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2000,
+      "sale_price_uah": 1800,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15349.jpg?v=1764793198",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15359.jpg?v=1764793198",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15345.jpg?v=1764793198"
+      ],
+      "description": "Сумка через плече з регульованою ручкою. Завдяки бічним затяжкам можна легко змінювати її форму та носити як у затягнутому, так і в розпущеному вигляді. Всередині — кілька кишень, а сумка закривається на блискавку. Доповнена силіконовим логотипом The Blub у тон до кольору сумки. Розмір: 34 × 26 × 10 см Довжина ручки: регульована ручка (макс. 110 см) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11091",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-eco-leather-crossbody",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР ECO-LEATHER CROSSBODY",
+      "source_url": "https://the-blub.com/products/eco-leather-crossbody",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2990,
+      "sale_price_uah": 2690,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_6624.jpg?v=1791972696",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/030.jpg?v=1716213633",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/028.jpg?v=1720501959"
+      ],
+      "description": "Розмір: 38*36*10 см, довжина ручок 96 см Є внутрішня кишення, без блискавки Матеріал: еко-шкіра (100% поліестер) Підходить для 13\" MacBook більше фото за хештегом: #blb10095",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-rope-crossbody-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА ROPE CROSSBODY",
+      "source_url": "https://the-blub.com/products/rope-crossbody-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий",
+        "чорний",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1700,
+      "sale_price_uah": 1530,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/080.jpg?v=1718076776",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15113.jpg?v=1719558447",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15109.jpg?v=1719558489"
+      ],
+      "description": "Маленька сумка через плече з акцентним шнурком, довжину якого легко регулювати під себе. Всередині — декілька кишень, а сумка закривається на блискавку. Компактна, але містка. Створена для тих днів, коли хочеться взяти лише найнеобхідніше й вирушити у справах без зайвого. Розмір: 30 × 15 × 5 см Довжина ручки: регульована ручка (макс. 92 см) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11093",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-word-bag-sex-is-cool",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР WORD \"SEX IS COOL...\"",
+      "source_url": "https://the-blub.com/products/word-bag-sex-is-cool",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 950,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_52.jpg?v=1720805144",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_52.jpg?v=1720805130",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_54.jpg?v=1720805113"
+      ],
+      "description": "Розмір: 36*40 см, ручка 64 см Матеріал: саржа (80% поліестер 20% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb12027",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-heart-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА HEART",
+      "source_url": "https://the-blub.com/products/heart-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний",
+        "чорний",
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": 2100,
+      "sale_price_uah": 1680,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/137.jpg?v=1758111709",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb14949.jpg?v=1758111709",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb14934.jpg?v=1758111709"
+      ],
+      "description": "Структурована сумка через плече у формі серця. Модель виконана з плащівки та має регульований ремінець, що дозволяє носити її на плечі або кросбоді. Всередині — декілька кишень, сумка закривається на блискавку. Створена для тих днів, коли хочеться додати образу трохи кокетства та грайливого настрою. Розмір: 26 × 30 × 5 см Довжина ручки: регульована ручка (макс. 110 см) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11094",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-urban-bag-big",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА URBAN BIG",
+      "source_url": "https://the-blub.com/products/urban-bag-big",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий",
+        "молочний",
+        "темно-синій",
+        "синій",
+        "чорний",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2320,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_8_3ead7a10-8911-4c71-ab5b-7bbf208efff5.jpg?v=1724829578",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_8_565a411b-d079-47e7-a7b0-642fe817b091.jpg?v=1724829578",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_7_13805f85-feac-498f-a444-6da45459ed4c.jpg?v=1724829578"
+      ],
+      "description": "Розмір: 38*30*12 см, регульований ремінь (макс. 113 см) Матеріал: 100% бавовна Внутрішня кишеня, зовнішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb13060b",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-crossbody-bag-50",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CROSSBODY №48",
+      "source_url": "https://the-blub.com/products/crossbody-bag-50",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "рожевий",
+        "сірий",
+        "коричневий",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1800,
+      "sale_price_uah": 1260,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_e0146cff-7350-48bd-9678-d5520a9dfb10.jpg?v=1775723718",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5_24773a03-4d39-4c9b-bf8e-207480cfcad7.jpg?v=1775723718",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_a7c36f48-4cd1-4f17-bed8-62cdfd79c180.jpg?v=1775723718"
+      ],
+      "description": "Шопер із легкої плащової тканини з регульованою ручкою. Модель закривається на блискавку та має внутрішню кишеню. Регульована ручка дозволяє носити шопер так, як вам зручно. Додаткові характеристики: Розмір: 32 × 20 × 9 см Довжина ручки: 106 см (максимальна) Матеріал: нейлон (100% поліестр) Виготовлено в Україні. більше фото за хештегом: #blb11048",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-simple-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР SIMPLE",
+      "source_url": "https://the-blub.com/products/simple-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 990,
+      "sale_price_uah": 890,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_36_4b90f195-c7d8-4249-868c-69c7410880da.jpg?v=1720707619",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_36_b01a2239-2a81-4041-b530-0dcf34de1bcb.jpg?v=1720504007",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_35_5f939f0c-6556-4198-a510-07593fb62773.jpg?v=1720503964"
+      ],
+      "description": "Розмір: 40*35 см, довжина ручки - 65 см Матеріал: 80% поліестер 20% бавовна Без кишень, без застібки Підходить до 13\" MacBook більше фото за хештегом: #blb12023",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-moon-bag-big",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР MOON BIG",
+      "source_url": "https://the-blub.com/products/moon-bag-big",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2400,
+      "sale_price_uah": 1990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_31_8039ab4b-dd3f-424c-90f1-c7cdcadcc847.jpg?v=1776670915",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_32_2a81d8ab-532f-40f9-aeae-786ca8ea9f7e.jpg?v=1776670915",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_30_6a0d0362-4c06-41ea-bd38-dad5d651a1b2.jpg?v=1776670915"
+      ],
+      "description": "Розмір BIG: 41*42*11 см Розмір mini: 34*32*10 см Косметичка 17*20 см Без кишень, без блискавки Матеріал: еко-шкіра (100% поліестер) Підходить для 15\" MacBook більше фото за хештегом: #blb10072",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-easy-crossbody-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР EASY CROSSBODY",
+      "source_url": "https://the-blub.com/products/easy-crossbody-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 1490,
+      "sale_price_uah": 790,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_24_b236a1ca-bf48-4339-b965-46becff7dc0d.jpg?v=1759337420",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/6_13_86a8b7dc-5e73-4fd0-99a2-f78fca578568.jpg?v=1759337420",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_23_4fd22546-0a4f-4e21-8bd1-70f86a504faa.jpg?v=1759337420"
+      ],
+      "description": "Розмір: 30*31 см, регульована ручка (макс. 100 см) Матеріал: нейлон (100% поліестер) Внутрішня кишеня Без блискавки Підходить для 13\" MacBook більше фото за хештегом: #blb11033",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-easy-big-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР EASY BIG",
+      "source_url": "https://the-blub.com/products/easy-big-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": 1590,
+      "sale_price_uah": 990,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_17_4487d4c8-9d77-43c5-a084-ec588fa11447.jpg?v=1720769085",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_18_2958bc36-2b83-4d09-b5b0-0825e5bacba7.jpg?v=1720768968",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_18_4bd87117-a629-4c0a-848f-3153ded62133.jpg?v=1720768985"
+      ],
+      "description": "Розмір: 40*45 см, ручка 67 см Матеріал: нейлон (100% поліестер) Внутрішня кишеня Без блискавки Підходить для 15\" MacBook більше фото за хештегом: #blb11034",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-tote-leather-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TOTE ECO-LEATHER",
+      "source_url": "https://the-blub.com/products/tote-leather-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2900,
+      "sale_price_uah": 2320,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/TB2726.jpg?v=1761899464",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_1_0587be8d-f105-49e8-b5b1-c148310bb831.jpg?v=1788442655",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/34e477a3-423d-4fa1-aafa-099ca0bb84d3.png?v=1777276319"
+      ],
+      "description": "Об'ємний шопер з екошкіри з широкою ручкою, яку зручно носити на плечі. Завдяки місткій формі він легко вміщує все необхідне для роботи, навчання чи повсякденних справ. Створений для днів, коли потрібно взяти із собою все й одразу. Наш бестселер із 2022 року. Додаткові характеристики: Розмір: 54 × 34 × 20 см Довжина ручки: 50 см Матеріал: екошкіра (100% поліестр) Рекомендоване навантаження — до 3–4 кг. Виготовлено в Україні. Більше фото за хештегом: #blb10032",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-triangle-bag-mini-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР TRIANGLE MINI",
+      "source_url": "https://the-blub.com/products/triangle-bag-mini-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2300,
+      "sale_price_uah": 2100,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00679.jpg?v=1731942668",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00682.jpg?v=1731942667",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb00683.jpg?v=1731942668"
+      ],
+      "description": "Розмір Big 30*42*45*7 см, ручка 66 см Розмір mini 30*39*40*6 см, ручка 66 см Матеріал: еко-шкіра (100% поліестер) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook Рекомендоване навантаження — до 3–4 кг. Більше фото за хештегом: #blb10014",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-moon-bag-mini",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР MOON MINI",
+      "source_url": "https://the-blub.com/products/moon-bag-mini",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2200,
+      "sale_price_uah": 1790,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_892fb381-698d-4340-afdb-50098000ebf4.jpg?v=1776671008",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_943c2e16-4908-4c48-a0c6-47adb8ccdb9d.jpg?v=1776671008",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_584614aa-4607-461f-a79a-183e1c352682.jpg?v=1776671008"
+      ],
+      "description": "Розмір BIG: 40*42*11 см Розмір mini: 34*32*10 см Косметичка 17*20 см Без кишень, без блискавки Матеріал: еко-шкіра (100% поліестер) Підходить для 13\" MacBook більше фото за хештегом: #blb10072",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-sex-is-cool-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР SEX IS COOL...",
+      "source_url": "https://the-blub.com/products/sex-is-cool-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 900,
+      "sale_price_uah": 810,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5_10_f556e1ea-450e-49d8-a289-7854f3fd22ba.jpg?v=1765458690",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_13_5e83148a-9d76-4a77-93b9-40bc1c475f4b.jpg?v=1765458690",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/6_28_ee67b811-96d4-42ae-a59d-caa48e6d8987.jpg?v=1765458690"
+      ],
+      "description": "Розмір: 36*45*11 см, ручка 64 см Матеріал: 100% бавовна Внутрішня кишеня Без блискавки Підходить для 15\" MacBook більше фото за хештегом: #blb13053",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-woven-bag-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "СУМКА-ПЛЕТІНКА",
+      "source_url": "https://the-blub.com/products/woven-bag-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий",
+        "блакитний",
+        "червоний",
+        "чорний",
+        "бежевий",
+        "білий",
+        "лавандовий",
+        "рожевий",
+        "темно-синій",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": 1490,
+      "sale_price_uah": 1340,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0241.jpg?v=1777555448",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/e5950b9b-93c2-48ed-84cc-ac8c5d83990c_0b41bdae-b3b3-435d-96ad-85763021e5c1.jpg?v=1775484233",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/61247eaf-8713-4293-a6b0-dd939019437a.jpg?v=1775485303"
+      ],
+      "description": "Розмір: 60*20 см, ручка 60 см Матеріал: бавовняна мотузка В комплекті є мішечок з бавовни Підходить для 13\" MacBook більше фото за хештегом: #blb13035",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-word-bag-krasa",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР WORD \"KRASA\"",
+      "source_url": "https://the-blub.com/products/word-bag-krasa",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 950,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_70.jpg?v=1720802214",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_71.jpg?v=1720802230",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_73.jpg?v=1720802249"
+      ],
+      "description": "Розмір: 36*40 см, ручка 64 см Матеріал: саржа (80% поліестер 20% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb12027",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-word-bag-smilyvist",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР WORD \"SMILYVIST\"",
+      "source_url": "https://the-blub.com/products/word-bag-smilyvist",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 950,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_69.jpg?v=1720802400",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_72.jpg?v=1720802478",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_73.jpg?v=1720802460"
+      ],
+      "description": "Розмір: 36*40 см, ручка 64 см Матеріал: саржа (80% поліестер 20% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb12027",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-word-bag-svoboda",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР WORD \"SVOBODA\"",
+      "source_url": "https://the-blub.com/products/word-bag-svoboda",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 950,
+      "sale_price_uah": 850,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1.jpg?v=1720712457",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2.jpg?v=1720712487",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_b9f1f1cc-a445-4cda-a8aa-e37706a5e946.jpg?v=1720712514"
+      ],
+      "description": "Розмір: 36*40 см, ручка 64 см Матеріал: саржа (80% поліестер 20% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb12027",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-classic-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CLASSIС",
+      "source_url": "https://the-blub.com/products/classic-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний",
+        "бежевий",
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 790,
+      "sale_price_uah": 490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_0fed1d12-786e-45d4-b371-f15dffb2be37.jpg?v=1720762363",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_d422c989-e925-4ed6-98a0-12f37b1596f4.jpg?v=1720762346",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_394bafd5-8078-4477-abd8-a4d3e4d57afe.jpg?v=1720762331"
+      ],
+      "description": "Розмір: 36*40 см, ручка 64 см Матеріал: саржа (80% поліестер 20% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb12012",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-cotton-organizer-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "МІШЕЧОК COTTON ORGANIZER",
+      "source_url": "https://the-blub.com/products/cotton-organizer-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 290,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/17_1.jpg?v=1720713300"
+      ],
+      "description": "Розмір: 33*39 см Матеріал: 100% бавовна Без кишень, без застібки",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-cuprum-x-vdokh-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР CUPRUM X BLB",
+      "source_url": "https://the-blub.com/products/cuprum-x-vdokh-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий",
+        "сірий",
+        "молочний",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2690,
+      "sale_price_uah": 2490,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/IMG_8776.png?v=1786026071",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0374.jpg?v=1777553465",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb0376.jpg?v=1777553465"
+      ],
+      "description": "Шопер, створений у колаборації з брендом Cuprum Depot. Виготовлений із цупкої бавовняної тканини, має дві зовнішні бокові кишені та внутрішню кишеню з карабіном для ключів або інших дрібниць. На зовнішній стороні розміщений напис \"Basic shopper for not basic people\". Додаткові характеристики: Розмір: 34 × 49 × 20 см Довжина ручки: 63 см Матеріал: 100% бавовна Виготовлено в Україні. більше фото за хештегом: #blb13085",
+      "care": null,
+      "collections": [
+        "ЛІТНЯ КОЛЕКЦІЯ",
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-jony-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР JONY BIG",
+      "source_url": "https://the-blub.com/products/jony-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1700,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/26_1.jpg?v=1754935245",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb04671.jpg?v=1754935245",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb04681.jpg?v=1754935245"
+      ],
+      "description": "Розмір: 40*35*10 см, регульована ручка (макс. 128 см) Матеріал: канзас (75% поліестер, 25% бавовна) Внутрішня кишеня Закривається на блискавку Підходить для 15\" MacBook більше фото за хештегом: #blb11083",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-cosmetic-bag-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "КОСМЕТИЧКА",
+      "source_url": "https://the-blub.com/products/cosmetic-bag-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий",
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1390,
+      "sale_price_uah": 1190,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_2.jpg?v=1765282598",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_2.jpg?v=1765282598",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/3_1.jpg?v=1765282598"
+      ],
+      "description": "Розмір: 17*20 см Матеріал: екошкіра (100% поліестер) Не можна прати в пральній машині більше фото за хештегом: #blb10072",
+      "care": null,
+      "collections": [
+        "BLACK FRIDAY"
+      ]
+    },
+    {
+      "id": "theblub-raincoat-organizer-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "МІШЕЧОК RAINCOAT ORGANIZER",
+      "source_url": "https://the-blub.com/products/raincoat-organizer-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 190,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/22.jpg?v=1720791289"
+      ],
+      "description": "Розмір: 31*40 см Матеріал: нейлон (100% поліестер) більше фото за хештегом: #blb11054",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-mood-bag-friday",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР MOOD",
+      "source_url": "https://the-blub.com/products/mood-bag-friday",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 790,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/b09350.jpg?v=1720771321",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/b09353.jpg?v=1720771305",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_78.jpg?v=1720770885"
+      ],
+      "description": "Розмір: 46*37*13 см , ручка 64 см Матеріал: 100% бавовна Внутрішня кишеня Підходить до 15\" MacBook live on our Instagram: #blb13090",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-grocery-bag-1",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР GROCERY",
+      "source_url": "https://the-blub.com/products/grocery-bag-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 530,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/16_1_0c8d198a-9dd4-40b2-b466-0c5157061a41.jpg?v=1750183651",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/13_1_3141f54e-41f5-4bab-bcc7-134776ea15fd.jpg?v=1750183652",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/14_1_cce43615-7950-4d51-bb04-4d2167e51b1a.jpg?v=1750183652"
+      ],
+      "description": "Розмір: 34*44*10 см, ручка 66 см Матеріал: 100% бавовна Внутрішня кишеня Без блискавки Підходить для 15\" MacBook більше фото за хештегом: #blb13102",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-light-big-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР LIGHT BIG",
+      "source_url": "https://the-blub.com/products/light-big-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1190,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/5_c74baeb2-37e3-40bd-bc90-44600a6630d4.jpg?v=1720712291",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_1_0d106a0a-3216-40f5-b264-1c589b4fd01d.jpg?v=1720712323",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_1_d1327da1-2be3-44cb-91d3-11f32f197c61.jpg?v=1720712386"
+      ],
+      "description": "Розмір: 40*45 см, ручка 67 см Матеріал: нейлон (100% поліестер) Внутрішня кишеня Без блискавки Підходить до 15\" MacBook live on our Instagram: #blb11074",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-vd-x-i-see-ua-flag-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР BLB X I SEE UA FLAG",
+      "source_url": "https://the-blub.com/products/vd-x-i-see-ua-flag-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": 1090,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_44.jpg?v=1720804620",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_47.jpg?v=1720804674",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_47.jpg?v=1720804655"
+      ],
+      "description": "Розмір: 50*40*10 см, великі ручки - 64 см, маленькі ручки - 32 см Матеріал: 80% поліестер 20% бавовна Внутрішня кишеня Закривається на блискавку Підходить до 15\" MacBook live on our Instagram: #blb12044",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-pocket-bag-milky",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "POCKET BAG",
+      "source_url": "https://the-blub.com/products/pocket-bag-milky",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 990,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/4_40.jpg?v=1720804341",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/1_43.jpg?v=1720772951",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/2_43.jpg?v=1720772966"
+      ],
+      "description": "Розмір: 39*34*8 см, ручка 64 см Матеріал: 100% бавовна Внутрішня кишеня Підходить до 15\" MacBook live on our Instagram: #blb13075",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    },
+    {
+      "id": "theblub-pool-bag",
+      "brand": "The Blub",
+      "brand_id": "theblub",
+      "name": "ШОПЕР POOL",
+      "source_url": "https://the-blub.com/products/pool-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "мʼятний"
+      ],
+      "sizes": [],
+      "price_uah": 1490,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/tb15222.jpg?v=1719557645",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/178.jpg?v=1720502383",
+        "https://cdn.shopify.com/s/files/1/0816/9399/9411/files/185.jpg?v=1720502506"
+      ],
+      "description": "Розмір: 57*37*14 см, ручка 62 см Матеріал: льон Косметичка 17*20 см Внутрішня кишеня Без блискавки Ущільнене дно сумки Підходить до 15\" MacBook live on our Instagram: #blb14041",
+      "care": null,
+      "collections": [
+        "No sale"
+      ]
+    }
+  ]
+}

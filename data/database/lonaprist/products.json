@@ -1,0 +1,3351 @@
+{
+  "_meta": {
+    "brand": "Lona Prist",
+    "brand_id": "lonaprist",
+    "site": "https://lonaprist.com",
+    "extracted_at": "2026-11-18",
+    "mode": "shopify",
+    "count": 101,
+    "found": 101,
+    "candidates": 102,
+    "checked": 102,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "lonaprist-active-skirt-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Active Skirt in White",
+      "source_url": "https://lonaprist.com/uk/products/active-skirt-in-white",
+      "gender": "female",
+      "category": "Низ",
+      "item_type": "Спідниця",
+      "slot": "bottom",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9578.jpg?v=1783000796",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_0821.jpg?v=1783264707",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9670.jpg?v=1783000786"
+      ],
+      "description": "Асиметрична тенісна спідниця із вбудованими шортами. Виготовлена з легкої функціональної тканини, що забезпечує свободу рухів і водночас зберігає виразний архітектурний силует. Виготовлена в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-active-top-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Active Top in White",
+      "source_url": "https://lonaprist.com/uk/products/active-top-in-white",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Топ",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9541.jpg?v=1783000661",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_8915.jpg?v=1783000461",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9546.jpg?v=1783000661"
+      ],
+      "description": "Мінімалістичний спортивний топ, створений для руху та щоденного носіння. Виготовлений із технологічної еластичної тканини. Має комфортну підтримку та м’яку текстуру, що забезпечує зручність протягом усього дня. Виготовлений в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 80,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-polo-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Polo in White",
+      "source_url": "https://lonaprist.com/uk/products/polo-in-white",
+      "gender": "female",
+      "category": "Футболки",
+      "item_type": "Поло",
+      "slot": "top",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9564.jpg?v=1783000412",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_0904.jpg?v=1783264860",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9714.jpg?v=1783000407"
+      ],
+      "description": "Оверсайз поло, натхненне традиційною тенісною формою. Виготовлене з легкої функціональної тканини. Має розслаблений силует, приховану планку та м’яку структуру для вільного руху. Виготовлене в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-dark-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Dark Grey",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-dark-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Alex_Clutch_in_Dark_Grey_1_1.jpg?v=1775144006",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Alex_Clutch_in_Dark_Grey_2_1.jpg?v=1775144006",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Alex_Clutch_in_Dark_Grey_3_1.jpg?v=1775144006"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-polished-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Polished Black",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-polished-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_5_be2acc56-f73c-4b97-92b2-05b7fd4be8be.jpg?v=1793292602",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_3_02b701b6-a44f-4156-89b9-27249b4247d1.jpg?v=1793292602",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_1_51a9b399-5d67-422a-a16a-9175460e3348.jpg?v=1793292602"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-white-caviar",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in White Caviar",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-white-caviar",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_10.jpg?v=1793292466",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_8.jpg?v=1793292466",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_6.jpg?v=1793292466"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-light-grey-caviar",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Light Grey Caviar",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-light-grey-caviar",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_5_66c8d632-3be5-4e72-82a1-de5c8f751b5f.jpg?v=1793292418",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_3_ff5b631c-99c4-40c6-9b56-b633567134ad.jpg?v=1793292418",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_1_037eada4-2cc4-49c2-8223-1d8e72ffaa9a.jpg?v=1793292419"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-grey-caviar",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Grey Caviar",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-grey-caviar",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_3_22f06846-cd77-41dd-a5d9-a69185ca1b33.jpg?v=1793292337",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_5_a5829117-51d0-419c-8179-a09d83707234.jpg?v=1793292337",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_1_8a782c3e-0fd4-4762-a363-f90173cb5677.jpg?v=1793292112"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-net-bag-in-black-1",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Net Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/5x7-net-bag-in-black-1",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8644.jpg?v=1747056880",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8650.jpg?v=1747056880",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8659.jpg?v=1747056880"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 640,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7785.jpg?v=1786970628",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7791.jpg?v=1786970628",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7799.jpg?v=1786970567"
+      ],
+      "description": "Couture Cube Pearl Bag у відтінку off-white, декорована матовими перлинами відтінку припилено-рожевого та глянцевими перлинами відтінку офф-вайт.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-dark-grey-caviar",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Dark Grey Caviar",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-dark-grey-caviar",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_3.jpg?v=1786969309",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_1_b126118a-0ed1-4db4-a067-14b7365a02c7.jpg?v=1786969309",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_5_5db86784-b89c-4c36-9484-eb12d560b5c3.jpg?v=1786969308"
+      ],
+      "description": "PRE-ORDER 3 weeks",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Blue",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5_3.jpg?v=1786966806",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5_1.jpg?v=1786966806",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5_5.jpg?v=1786966806"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-court-bag-in-caviar",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Court Bag in Caviar",
+      "source_url": "https://lonaprist.com/uk/products/court-bag-in-caviar",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7805.jpg?v=1786966074",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7810.jpg?v=1786966052",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7812.jpg?v=1786966052"
+      ],
+      "description": "М’яка сумка-мішок, натхненна класичними чохлами для тенісних ракеток. Виготовлена з натуральної шкіри. Має містке основне відділення та регульовану шкіряну куліску для затягування. Створена для щоденного використання — від корту до міста. Зібрана вручну в Україні. Розміри: 45x49 см , ремінь 160 см",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1100,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-socks-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Sport Socks in White",
+      "source_url": "https://lonaprist.com/uk/products/socks-in-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Шкарпетки",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [
+        "36-39",
+        "39-41"
+      ],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7834.jpg?v=1786966178",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7838.jpg?v=1786966178",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_0923.jpg?v=1783000903"
+      ],
+      "description": "Класичні тенісні шкарпетки в рубчик. Виготовлені з м’якої бавовняної суміші, що забезпечує комфортну посадку та зручність для щоденного носіння. Виготовлені в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 20,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-nylon-backpack-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Nylon Backpack in White",
+      "source_url": "https://lonaprist.com/uk/products/nylon-backpack-in-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7816.jpg?v=1786966120",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A7822.jpg?v=1786966120"
+      ],
+      "description": "Легкий рюкзак із нейлону, створений для щоденного руху. Містке основне відділення, регульовані лямки та лаконічний архітектурний силует роблять його зручним супутником як на корті, так і за його межами. Виготовлений в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 40,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-insulated-bottle-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Insulated Bottle in White",
+      "source_url": "https://lonaprist.com/uk/products/insulated-bottle-in-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_1165.jpg?v=1783001457",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_9209.jpg?v=1783001474",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_9138.jpg?v=1783001474"
+      ],
+      "description": "Двостінна термопляшка, створена, щоб супроводжувати вас під час матчів, тренувань і в повсякденному житті. Зберігає напої гарячими або холодними, поєднуючи функціональність із чистим мінімалістичним дизайном.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 30,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-headband-in-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Headband in White",
+      "source_url": "https://lonaprist.com/uk/products/headband-in-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9587.jpg?v=1783000876",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_0617.jpg?v=1783000894",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_0923.jpg?v=1783000903"
+      ],
+      "description": "Мінімалістична пов’язка на голову, створена як завершальний елемент колекції. Виготовлена з м’якої еластичної тканини, що забезпечує комфортну та надійну посадку під час руху. Виготовлена в Україні.",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 30,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-court-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Court Bag",
+      "source_url": "https://lonaprist.com/uk/products/court-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9599.jpg?v=1782999844",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_1062.jpg?v=1783002016",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A9610.jpg?v=1782999844"
+      ],
+      "description": "М’яка сумка-мішок, натхненна класичними чохлами для тенісних ракеток. Виготовлена з натуральної шкіри. Має містке основне відділення та регульовану шкіряну куліску для затягування. Створена для щоденного використання — від корту до міста. Зібрана вручну в Україні. Розміри: 45x49 см , ремінь 160 см",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1100,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-ball-case",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Ball Case",
+      "source_url": "https://lonaprist.com/uk/products/ball-case",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_1.jpg?v=1782999583",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_9710.jpg?v=1782999669",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_4.jpg?v=1782999583"
+      ],
+      "description": "Шкіряний чохол, натхненний впізнаваною формою тенісного м’яча. Виготовлений з натуральної шкіри, доповнений сріблястою фурнітурою, застібкою-блискавкою та шкіряним ремінцем на зап’ястя. Створений для зберігання найнеобхідніших речей. Зібраний вручну в Україні. Розміри: діаметр 12 см, ремінець 28 см",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-racket-case",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Racket Case",
+      "source_url": "https://lonaprist.com/uk/products/racket-case",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_3.jpg?v=1782999180",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_2.jpg?v=1782999181",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/BFP_1049.jpg?v=1782998630"
+      ],
+      "description": "Шкіряна сумка, натхненна культовим силуетом тенісної ракетки. Виготовлена з натуральної шкіри, доповнена сріблястою фурнітурою. Має одне основне відділення із застібкою-блискавкою та регульований шкіряний плечовий ремінь. Зібрана вручну в Україні. Розміри: 36x18x4 см, плечовий ремінь 120 см",
+      "care": null,
+      "collections": [
+        "Tennis collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1100,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-mini-bag-in-taupe",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Mini Bag in Brown",
+      "source_url": "https://lonaprist.com/uk/products/square-mini-bag-in-taupe",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareMiniBaginTaupe_b5504029-0d8a-4687-98cc-bbc7c8fb2c44.jpg?v=1775656513"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-pink-grain",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Pink Grain",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-pink-grain",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_3.jpg?v=1786966617",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_4.jpg?v=1786966617",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4_5.jpg?v=1786966424"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-beige",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Beige",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-beige",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AlexClutchinBeige1_48ee1686-956e-4556-a20b-8d7562999bb4.jpg?v=1775140702",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AlexClutchinBeige2.jpg?v=1775140702",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AlexClutchinBeige3.jpg?v=1775140702"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Grey",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_3.jpg?v=1786966704",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_1.jpg?v=1786966704",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3_5.jpg?v=1786966704"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag-in-off-white-and-beige",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag-in-off-white-and-beige",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_2_2__1.jpg?v=1772562459",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Look81596.jpg?v=1772562459",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_1__1.jpg?v=1772562459"
+      ],
+      "description": "Couture Cube Pearl Bag у відтінку off-white, декорована матовими перлинами відтінку припилено-рожевого та глянцевими перлинами відтінку офф-вайт.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag-in-off-white-and-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag-in-off-white-and-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_6__1.jpg?v=1772562320",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/look41117.jpg?v=1772562320",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_1_2__1.jpg?v=1772562320"
+      ],
+      "description": "PRE-ORDER Couture Cube Pearl Bag у відтінку off-white, декорована глянцевими перлинами сірого та офф-вайт відтінків.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag-in-off-white-feathers",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag-in-off-white-feathers",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A3354.jpg?v=1772562498",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/look30530.jpg?v=1772562498",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A3354_57686e29-000e-4234-828d-11952457e48d.jpg?v=1772562498"
+      ],
+      "description": "Couture Cube Pearl Bag у відтінку off-white, декорована білим пір’ям та доповнена ручкою з перлин відтінку офф-вайт.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-pearl-bag-in-red",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/cube-pearl-bag-in-red",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_2_3__1.jpg?v=1772561965",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/look600041.jpg?v=1772561965",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2_1_2__1.jpg?v=1772561965"
+      ],
+      "description": "Couture Cube Pearl Bag у червоному кольорі з ручкою з перлин відтінку офф-вайт.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-cube-bag-in-pink",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Pearl Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/small-cube-bag-in-pink",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029223.jpg?v=1770648248",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4C2A5685-sonia-BW2.jpg?v=1770665135",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029237.jpg?v=1770665135"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-pearl-bag-in-pink",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Pearl Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/cube-pearl-bag-in-pink",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029275.jpg?v=1770648067",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4C2A5078-sonia-BW_2.jpg?v=1770813764",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029263.jpg?v=1770813764"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1000,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-pink",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Pink",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-pink",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029211.jpg?v=1770647963",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5801029187.jpg?v=1770647963",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4C2A5307-sonia-BW2.jpg?v=1770647963"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-nicole-in-off-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Nicole in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/small-nicole-in-off-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_36f14a8e-2cb2-4071-8f71-74a2f267c5f0.jpg?v=1675526719",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_0a7af8a8-cc67-4f5b-9a4b-f73957fc463b.jpg?v=1675526719"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/5x7-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_ac29e48f-0d76-49e9-ad0e-953d5fba27fc.jpg?v=1675520433",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginBlack1.jpg?v=1775160523",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginBlack2.jpg?v=1775160523"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x2-bag-in-milk",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x2 Bag in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/3x2-bag-in-milk",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_70ad98c9-3795-40b0-80af-8d5009c141d2.jpg?v=1675519565",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/12_55b624a9-ed3f-465d-b58d-703b6b241fc6.jpg?v=1775600460",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/11_70ad98c9-3795-40b0-80af-8d5009c141d2.jpg?v=1775600460"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-tote-bag-in-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Tote Bag in Grey",
+      "source_url": "https://lonaprist.com/uk/products/tote-bag-in-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/2dfd8b513007b970c0c0218d15dd3015.jpg?v=1761582961",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A0283_2b3aecee-3a05-4c16-922e-78bd8f551fe2.jpg?v=1761582961",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/e20072008c65d330dfc1361326002549.jpg?v=1761582961"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-off-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Off-White",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-off-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A1076.jpg?v=1770648005",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08646.jpg?v=1770648005",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A1109.jpg?v=1770648005"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-tote-bag-in-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Tote Bag in Grey",
+      "source_url": "https://lonaprist.com/uk/products/small-tote-bag-in-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "сірий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1_fc832186-cdfb-427c-b507-4fae3db4dadb.jpg?v=1761582878",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC09074_cb7b02e0-9599-4832-8ef2-03484bf51779.jpg?v=1761690462",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A0283.jpg?v=1761690462"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 550,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-tote-bag-in-taupe",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Tote Bag in Taupe",
+      "source_url": "https://lonaprist.com/uk/products/small-tote-bag-in-taupe",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginTaupe_back.jpg?v=1761507177",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginTaupe_detail.jpg?v=1761507177",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginTaupe_front1.jpg?v=1761507177"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 550,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-tote-bag-in-beige",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Tote Bag in Beige",
+      "source_url": "https://lonaprist.com/uk/products/small-tote-bag-in-beige",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginBeige_back.jpg?v=1761506997",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginBeige_inside.jpg?v=1761507139",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginBeige_front2.jpg?v=1761507139"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 550,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-tote-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Tote Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/small-tote-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SmallToteBaginBlack_back.jpg?v=1761506903",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08975.jpg?v=1761506974",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC09067.jpg?v=1761506974"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 550,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-tote-bag-in-taupe",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Tote Bag in Taupe",
+      "source_url": "https://lonaprist.com/uk/products/tote-bag-in-taupe",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/ToteBaginTaupe_back.jpg?v=1761506723",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08968.jpg?v=1761506771",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08848.jpg?v=1761506771"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-tote-bag-in-beige",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Tote Bag in Beige",
+      "source_url": "https://lonaprist.com/uk/products/tote-bag-in-beige",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/ToteBaginBeige_back.jpg?v=1761506658",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08977.jpg?v=1761506705",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/ToteBaginBeige_inside.jpg?v=1761506705"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-tote-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Tote Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/tote-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/ToteBaginBlack_back.jpg?v=1761506640",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08740-2.jpg?v=1761506640",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/ToteBaginBlack_inside.jpg?v=1761506640"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 600,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-mini-bag-in-off-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Mini Bag in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/square-mini-bag-in-off-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_7374d879-0686-463b-991c-8949e41be897.jpg?v=1675527456",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_e65ba8f3-0e56-4a9e-b20c-369c1960df33.jpg?v=1675527457",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_bd58f2df-5336-4ef4-982d-bc6935ecd0dd.jpg?v=1675527457"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x4-bag-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x4 Bag in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/3x4-bag-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_4ef3570a-7efe-4831-bfc0-8a2d82ae900f.jpg?v=1675519902",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/17_a3da7fb2-4c89-4db7-9526-1e0910947820.jpg?v=1775610793",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/14_1291c988-2ee3-491d-9ef6-8c92b7bbd014.jpg?v=1775610793"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-white-on-white-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "White on White Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/white-on-white-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8700_60cafb05-597b-4905-9f48-47d5aa3ea4c7.jpg?v=1758215374",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8709_27754f93-1485-43e1-b646-c2186c8e13e1.jpg?v=1758215373"
+      ],
+      "description": "Тиха данина невидимому. Цей виріб досліджує напругу між видимим і порожнечею — квадрат на квадраті, біле на білому, відсилання до культової роботи Малевича 1918 року. Відсутність стає присутністю, поверхня — значенням. Мінімалізм у палітрі, максималізм у сенсі. Текстура верхнього квадрата ледь вловлює світло, проявляючись лише в русі — немов ідея, що народжується з тиші. Розмір: 20 х 19 х 10 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 950,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-monochrome-bag-in-taupe-suede",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Monochrome Bag in Taupe Suede",
+      "source_url": "https://lonaprist.com/uk/products/monochrome-bag-in-taupe-suede",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/monochromebagintaupesuede1.jpg?v=1747831999",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/monochromebagintaupesuede2.jpg?v=1747832000",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/monochromebagintaupesuede3.jpg?v=1747832000"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": 400,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-pearl-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Pearl Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/cube-pearl-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/cubepearlbaginblack3.jpg?v=1747831954",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/cubepearlbaginblack2.jpg?v=1747831954",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/cubepearlbaginblack4.jpg?v=1747831954"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1000,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-monochrome-bag-in-leopard-suede",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Monochrome Bag in Leopard Suede",
+      "source_url": "https://lonaprist.com/uk/products/monochrome-bag-in-leopard-suede",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/leopardsuede1.jpg?v=1747831907",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/leopardsuede3.jpg?v=1747831909",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/leopardsuede2.jpg?v=1747831909"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": 300,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-bag-in-taupe",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Bag in Taupe",
+      "source_url": "https://lonaprist.com/uk/products/square-bag-in-taupe",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/taupe1.jpg?v=1747831855",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/taupe4.jpg?v=1747831859",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/taupe3.jpg?v=1747831859"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 650,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-net-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Net Bag in brown",
+      "source_url": "https://lonaprist.com/uk/products/5x7-net-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/LP_001.jpg?v=1721667804",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/LP_003.jpg?v=1721667804",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/LP_002.jpg?v=1721667804"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 640,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-orbit-of-form-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Orbit of Form Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/orbit-of-form-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8700.jpg?v=1746532634",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7161_AS_d4767a56-fa23-4421-a825-9c43ac0c3f76.jpg?v=1754250763",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8709.jpg?v=1746532634"
+      ],
+      "description": "PRE-ORDER Lona Prist × Malevych — справжня композиція в русі. На білому корпусі сумки — складна супрематична система: чорне коло, червоні та жовті лінії, що перетинаються й розходяться, створюючи внутрішній ритм, як у живописі Малевича періоду «Динамічного супрематизму». Це не декор, а конструкція з ідеєю — знак упорядкованого хаосу, де кожна лінія має напрямок, а коло — глибину. Ремені не відволікають, а дають можливість формі «говорити» самостійно. Ця сумка — не просто об’єкт, це майже сценографія: про рівновагу й енергію, про нову візуальну мову, яка не імітує мистецтво, а розмовляє з ним на рівних. Square Bag, у якій геометрія перетворена на діалог. Розмір: 20 х 19 х 10 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 950,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-pocket-manifesto-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Pocket Manifesto Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/pocket-manifesto-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8733.jpg?v=1746532638",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/4C2A9821_AS_b38bcff5-97ba-4e50-a90a-c8db1cf32ef2.jpg?v=1754250931",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8736.jpg?v=1746532626"
+      ],
+      "description": "Обʼєкт, у якому масштаб не зменшує значення. Навпаки — компактна форма лише загострює символічність. Чорний квадрат на білому тлі з тисненням логотипа — це не просто декоративний елемент, а знак. Вона ніби зменшена копія архетипу, втілення ідеї в гранично чистому вигляді. Міні-версія сумки зберігає всі риси «великої форми»: точність ліній, геометричну цілісність, тактильну виразність шкіри. Її можна сприймати і як модний аксесуар, і як арт-об’єкт — настільки вона візуально промовиста. Ця сумка не вимагає зайвого — вона самодостатня. Square Bag у мініформаті — це простір для змісту, стиснутий до лаконічного жесту. Як крапка в кінці речення. Чітка, точна, остаточна. Розмір: 11 х 10 х 4 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 350,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-zero-point-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Zero Point Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/zero-point-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8679.jpg?v=1746532659",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7045_AS_3e22f27d-09c8-45b1-b5ae-fa6dd44a0700.jpg?v=1754250873",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8696.jpg?v=1746532659"
+      ],
+      "description": "Лаконічна й водночас найбільш символічна з усієї лінійки. Чорний квадрат на білому тлі — не просто композиційне рішення, а пряма референція до легендарного твору Казимира Малевича, який змінив хід історії мистецтва. Це сумка-жест, сумка-маніфест. Нічого зайвого — лише форма і контраст. Біла основа (off-white) з гладкої шкіри підкреслює сувору текстуру чорного квадрата, ніби створюючи рамку для тиші, яку цей символ несе вже понад століття. Ремені повторюють чисту геометрію образу, не порушуючи гармонії, а навпаки — підсилюючи її. Ця модель — не інтерпретація, а твердження. Про присутність. Про тишу, наповнену змістом. Розмір: 20 х 19 х 10 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 950,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-blue-impulse-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Blue Impulse Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/blue-impulse-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8718.jpg?v=1746532671",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8726.jpg?v=1754251402",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7358_AS_3ec74353-347f-4b53-9096-1c4b64c0c588.jpg?v=1746532669"
+      ],
+      "description": "Предмет, що говорить мовою площин, напрямків і символічної точності. Біле тіло сумки — як чистий простір, майже архітектурний. На ньому — чорний прямокутник і синій трикутник, що врізаються один в одного, утворюючи напругу й рух. Геометрія тут не декоративна, а концептуальна — вона продовжує лінію супрематизму, в якому форма завжди має смислове навантаження. Зелений шкіряний шнур затягує простір, як лінія перспективи — додає гнучкості та жесту, що балансує між структурою й інтуїцією. Square Bag — це не просто сумка. Це візуальне висловлювання про баланс, напрямок і свободу мислення у формі. Форма, яка не проситься в моду — вона вже її переосмислює. Розмір: 20 х 19 х 10 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 950,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-suprematism-code",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag Suprematism Code",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-suprematism-code",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8639.jpg?v=1746532702",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7217_AS.jpg?v=1754251325",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8631.jpg?v=1746532702"
+      ],
+      "description": "Lona Prist × Malevych — найрадикальніша версія форми, в якій супрематична мова перетворена на жест. Біле (off-white) тіло сумки — як чисте тло для кольору. Жовта та червона діагоналі, наче рух ліній у просторі — не декоративні, а структурні. Це відлуння композицій Малевича, де кожен нахил — це думка, спротив, напрямок. Контрастний чорний верхній елемент балансує вертикаль і додає об’єкту архітектурності, нагадуючи ручку-чорнило, готове до написання нового тексту. Ремені — кольорові, вузлуваті, ускладнені, ніби шифр — синій, зелений, білий. Усе разом — ансамбль, який не копіює Малевича, а думає з ним у одному полі. Ця сумка — не аксесуар. Це модуль, у якому вміщується історія абстракції. Cube Bag, що носить не тільки форму, а й ідею руху — як сучасного, так і вічного. Розміри: 15 х 15 х 11 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1100,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-off-white-axis",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag Off-White Axis",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-off-white-axis",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8615.jpg?v=1746532710",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7281_AS.jpg?v=1754251357",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8600.jpg?v=1746532710"
+      ],
+      "description": "Cube Bag з колаборації Lona Prist × Malevych — предмет, у якому чистота форми дорівнює силі символу. Біла (off-white) матова шкіра, спокійна й лаконічна, ніби полотно перед жестом. Масивна чорна нашивка з логотипом колаборації виконує функцію візуального якоря — квадрат у квадраті, натяк на цитату, що говорить мовою архетипів. Ремінь — багатоколірний, із вузлами, що балансують між конструкцією й асоціативною грою: червоне, біле — кольори супрематизму, перетворені на обʼємний акцент. Ця сумка не декларує надмірного. Вона тримає паузу — і в цій паузі народжується образ. Cube Bag — для тих, хто відчуває форму як голос. І вміє змістовно мовчати. Розміри: 11 х 11 х 8 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 900,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-red-tension",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag Red Tension",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-red-tension",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8610.jpg?v=1746532726",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8601.jpg?v=1746532726",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IN7A7297_AS.jpg?v=1746532726"
+      ],
+      "description": "Cube Bag з колаборації Lona Prist Х Malevych — об’єкт, у якому форма стає висловом. Модель натхненна супрематизмом та візуальною мовою Казимира Малевича: — чорний куб як ідея обʼєму й стиснутої енергії, — червоний хрест як символ напруги, протистояння і, водночас, точка рівноваги, — контрастна графіка та геометрія ременя — відсилання до руху, межі та точності жесту. Матеріал — преміальна фактурна шкіра, у поєднанні з білою контурною стрічкою й лаконічною нашивкою Lona Prist Х Malevych, що робить предмет не просто аксесуаром, а знаковим артефактом сучасної модної мови. Ця сумка — не для того, щоб носити речі. Вона для того, щоб нести ідею. Про форму. Про корені. Про культуру, яка має геометрію. Розміри: 11 х 11 х 8 см",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 900,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-bag-in-light-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Bag in Light Blue",
+      "source_url": "https://lonaprist.com/uk/products/square-bag-in-light-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "блакитний",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/squarebaginlightblue.jpg?v=1742394532",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/lona8000.jpg?v=1742394532",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/squarebaginlightblue-inside.jpg?v=1742394532"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 650,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-bag-in-pink",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Bag in Pink",
+      "source_url": "https://lonaprist.com/uk/products/square-bag-in-pink",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "рожевий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/squarebaginpink.jpg?v=1742394493",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/lona7274.jpg?v=1742394493",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/squarebaginpink-inside.jpg?v=1742394493"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 650,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/square-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginBlack.jpg?v=1775141360",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginBlack1.jpg?v=1775141360",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginblackinside.jpg?v=1777117940"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 650,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-bag-in-off-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Bag in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/square-bag-in-off-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginOff-white.jpg?v=1775141332",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginOff-white21.jpg?v=1775141332",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/SquareBaginoff-whiteinside.jpg?v=1777117919"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 650,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-in-brown-croc",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag in Brown Croc",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-in-brown-croc",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC03635_505bda23-d70c-4aff-bcb8-df9a38a34c71.jpg?v=1735245785",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/PRIST-664-Edit.jpg?v=1754251534",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC03752_9db9f5a1-060f-4023-8e03-0c10d755c749.jpg?v=1735248061"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 3500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-pearl-bag-in-off-white",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/cube-pearl-bag-in-off-white",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC02320.jpg?v=1734210158",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG-4869.jpg?v=1754251581",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC02389.jpg?v=1734456077"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1000,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/LonaPrist_001_2.jpg?v=1728751431",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08995.jpg?v=1761559023",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/LonaPrist_001_5.jpg?v=1761559023"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-phone-bag-in-light-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Phone Bag in light blue",
+      "source_url": "https://lonaprist.com/uk/products/phone-bag-in-light-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "блакитний",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/phonelightbluefront.jpg?v=1686303578",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/10lightblue.jpg?v=1686303578",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/phonelightblueback.jpg?v=1686303578"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 220,
+        "sale": 154,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-phone-bag-in-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Phone Bag in blue",
+      "source_url": "https://lonaprist.com/uk/products/phone-bag-in-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/phonebluefront.jpg?v=1686303556",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/10_a0b87126-a155-4c57-a3cd-3b8579f2bd08.jpg?v=1686303556",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/phoneblueback.jpg?v=1686303556"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 220,
+        "sale": 154,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-folder-bag-in-light-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Folder Bag in light blue",
+      "source_url": "https://lonaprist.com/uk/products/folder-bag-in-light-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "блакитний",
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/folderlightbluefront.jpg?v=1686303495",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/01_6cdc1772-4ed0-45eb-8b28-352b34b918a7.jpg?v=1686303495",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/folderlightblueback.jpg?v=1686303495"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 260,
+        "sale": 182,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-square-mini-bag-in-grey",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Square Mini Bag in Off-white",
+      "source_url": "https://lonaprist.com/uk/products/square-mini-bag-in-grey",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "білий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_cf99f928-7b90-4adb-994f-6f8e4404ff95.jpg?v=1675527326",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_b5f28ef3-4751-4e78-86f4-10ccc9cd4230.jpg?v=1675527326"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-nicole-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Nicole in Brown",
+      "source_url": "https://lonaprist.com/uk/products/small-nicole-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_c226f699-7ff4-4476-9ced-ef25fa16ac36.jpg?v=1675526661",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_a92ebc9b-9627-4a90-8f75-09d39daa9e60.jpg?v=1675526660",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_ee76af30-6ee0-426f-ab3e-4d256bdb938b.jpg?v=1675526661"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 640,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-small-nicole-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Small Nicole in Black",
+      "source_url": "https://lonaprist.com/uk/products/small-nicole-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_4b91b7c3-b3c5-4eb0-9590-29132c08cd88.jpg?v=1675526592",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_56ba113b-e2b7-435c-b0d7-18feef6bbb18.jpg?v=1695302322",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_78ea051a-318d-4d6e-a492-4d00f3ef6138.jpg?v=1695302322"
+      ],
+      "description": "ДІСПЛЕЙНА СУМКА",
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 480,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-medium-nicole-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Medium Nicole in Brown",
+      "source_url": "https://lonaprist.com/uk/products/medium-nicole-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_318b96fc-cf7a-4172-a8f9-6825434a6f43.jpg?v=1675526425",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_42d04cdf-36ac-4d9d-8cc7-dc4d596ac8d6.jpg?v=1675526425",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_8f62f696-f5ed-468a-97eb-43d754cf5d80.jpg?v=1675526425"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 900,
+        "sale": 540,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-core-bundle-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Core Bundle in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/core-bundle-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_bc2c9b45-4139-4846-a361-0244844cb253.jpg?v=1675526182",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_58656400-bacb-4493-a507-dbdd31446bd1.jpg?v=1675526181",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_fcc712d2-ffb2-4474-9c88-2de57fd35810.jpg?v=1675526182"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 300,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-core-bundle-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Core Bundle in Brown",
+      "source_url": "https://lonaprist.com/uk/products/core-bundle-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_6ec5e06e-31c5-4de4-b451-b741611f6285.jpg?v=1675526097",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_b4240cca-36ce-4872-a95c-bc56e3bec771.jpg?v=1675526098",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_56d9d4b7-8af8-43dd-a7e6-50f4157392d6.jpg?v=1675526098"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 300,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-core-bundle-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Core Bundle in Black",
+      "source_url": "https://lonaprist.com/uk/products/core-bundle-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_2e522269-401f-4d86-8fa2-abdb0b39601d.jpg?v=1675525954"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 300,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cardholder-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cardholder in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/cardholder-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_7ff22bb4-66f2-448e-8b0e-548a0cc54e34.jpg?v=1675522157",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_f96daf12-468f-4493-b61a-47219b3089a4.jpg?v=1695301365",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/6_7665e063-ec8e-483c-b6c5-18bb89f5c19e.jpg?v=1695301365"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 170,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cardholder-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cardholder in Brown",
+      "source_url": "https://lonaprist.com/uk/products/cardholder-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_8a2b5401-93d4-4acb-ab5e-c63f4d0777ce.jpg?v=1675522025",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_ac7b670a-3faa-4328-8502-2310446d7a86.jpg?v=1675522024",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_c32af0d8-f4f6-4e71-8509-b3a330c9d072.jpg?v=1675522025"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 170,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cardholder-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cardholder in Black",
+      "source_url": "https://lonaprist.com/uk/products/cardholder-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_3a0988a7-c8ad-453d-958e-e044cfac41f3.jpg?v=1675521951",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_0adeba27-c95a-41a9-ae4d-828db0544d1f.jpg?v=1675521951",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/4_c257e140-b744-4c65-92bb-a791d6b11e40.jpg?v=1675521951"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 170,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-belt-in-green",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Belt in Green",
+      "source_url": "https://lonaprist.com/uk/products/belt-in-green",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_0f86641c-e4d7-41d5-b3dd-89230f457bfa.jpg?v=1675521387",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_f9105786-72a4-4b66-9725-9f5b26ffe453.jpg?v=1675521387",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_7e83ad45-fac8-4bb7-bedd-80a45aa8db4e.jpg?v=1675521387"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": 90,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-belt-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Belt in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/belt-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_8e2ae4e3-6c09-4b5a-8667-a09e485caa4b.jpg?v=1675521325",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_24f72a19-a026-4441-8366-1648fd9dced7.jpg?v=1675521326",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/5_9ab347aa-bc8e-400f-beab-328217e06c07.jpg?v=1695301211"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-belt-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Belt in Brown",
+      "source_url": "https://lonaprist.com/uk/products/belt-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_15def50f-ee4a-4813-a0e9-1655e7e3427a.jpg?v=1675521231",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_9f748e76-2d69-4cae-b47c-9e18e13d8e3b.jpg?v=1675521231",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_536e0b1e-57f3-41d7-9179-3068e9783b6b.jpg?v=1675521232"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": 90,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-belt-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Belt in Black",
+      "source_url": "https://lonaprist.com/uk/products/belt-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Ремінь",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_39189854-584c-4e72-8aa7-3634aa68014f.jpg?v=1675521141",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_a8524c75-7d8e-4cdf-94cc-c7751466401d.jpg?v=1675521141"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-additional-chain-for-square-bag",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Additional Chain for Square Bag",
+      "source_url": "https://lonaprist.com/uk/products/additional-chain-for-square-bag",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_e6f0b3f0-e7d2-4d27-8a8b-f1796f8be89a.jpg?v=1675520892",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_4924b50b-ef75-486b-9dcb-47d93d23a178.jpg?v=1675520893"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 50,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-additional-chain",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Additional Chain",
+      "source_url": "https://lonaprist.com/uk/products/additional-chain",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_339565f6-8a79-457c-8f08-b46daeb4e6f9.jpg?v=1675520809",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_b95c7d15-abe9-4015-82a6-2e73bee37cdc.jpg?v=1675520809",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/3_94f2d345-7b01-4de5-9300-c0544c70c000.jpg?v=1675520810"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 150,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-bag-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Bag in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/5x7-bag-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_a4b31702-a351-4d04-86f5-a5696493d4f3.jpg?v=1675520633",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginChocolate4.jpg?v=1775160429",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginChocolate.jpg?v=1775160429"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-bag-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Bag in Brown",
+      "source_url": "https://lonaprist.com/uk/products/5x7-bag-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_43f03d74-f0bd-4c2e-bfc0-0f92da209891.jpg?v=1675520505",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginBrown2.jpg?v=1775160474",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7BaginBrown.jpg?v=1775160474"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x4-bag-in-milk",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x4 Bag in Milk",
+      "source_url": "https://lonaprist.com/uk/products/3x4-bag-in-milk",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "молочний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/IMG_8665.jpg?v=1747059668",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1IMG_8674_870fe28d-dc99-411d-b0da-728188a28a1c.jpg?v=1775610737",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1IMG_8665.jpg?v=1775610737"
+      ],
+      "description": "ДІСПЛЕЙНА СУМКА",
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 480,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x2-bag-in-chocolate",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x2 Bag in Chocolate",
+      "source_url": "https://lonaprist.com/uk/products/3x2-bag-in-chocolate",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "шоколадний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_8f4b0421-09ab-4766-94bb-da822e424cd0.jpg?v=1675519418",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/113_5226beed-9017-4303-ae02-3a38410e1924.jpg?v=1775600485",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/1P210826142050_Side_png_1.jpg?v=1775592360"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x2-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x2 Bag in Black",
+      "source_url": "https://lonaprist.com/uk/products/3x2-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": true,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_262218e5-4683-4765-ae38-b8cf8c195f8b.jpg?v=1675519255",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/103_aaff6b3a-6388-495d-806f-81064fbe7b4a.jpg?v=1775592785",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/13x2Baginblack.jpg?v=1775592785"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cardholder-in-green",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cardholder in Green",
+      "source_url": "https://lonaprist.com/uk/products/cardholder-in-green",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_fbd913ab-cd33-4fef-9726-ac3295c7ac07.jpg?v=1675522232",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_b574b0e9-f53f-4668-adfc-32775c077cac.jpg?v=1695301408",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/5_6768026b-e618-4508-a7b3-ae18415465a4.jpg?v=1695301408"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі аксесуари",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 170,
+        "sale": 102,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-2x3-bag-in-green",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "2x3 Bag in Green",
+      "source_url": "https://lonaprist.com/uk/products/2x3-bag-in-green",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_a25d6f59-7b5f-44e4-a6e7-cdd5a9474c75.jpg?v=1675519137",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/2_3c3197cd-577a-40e3-bc12-78b9890f4cfc.jpg?v=1675519137"
+      ],
+      "description": "• Розмір: 11 x 16 x 6 см • Склад: натуральна шкіра, cрібляста фурнітура • Внутрішнє оздоблення: натуральна шкіра • У комплекті регульований ремінець зі шкіри в тон сумки • Ручна робота • Виробництво: Україна Квадрат, який є ключовим елементом ДНК бренду, знайшов відображення і в новій серії моделей: 2х3 Bag, 3x2 Bag, 3x4 Bag і 5x7 Bag, які увійдуть в постійну колекцію марки. Розробляючи весняно-літню коллекцію, команда LONA PRIST використовувала тільки кращу шкіру і традиції Італійських ремісників - всі моделі створюються виключно вручну в їх майстерні, де кожен стібок проходить потрійний контроль якості.",
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 250,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-cube-bag-in-black-croc",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Cube Bag in Black Croc",
+      "source_url": "https://lonaprist.com/uk/products/cube-bag-in-black-croc",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC03635.jpg?v=1735245693",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC03681.jpg?v=1735245714",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC03655.jpg?v=1735245714"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 3500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag-in-black-gold",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag-in-black-gold",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/look11218.jpg?v=1772563857",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/UntitledCapture1248.jpg?v=1772564065",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/look11291.jpg?v=1772564065"
+      ],
+      "description": "Couture Cube Bag у чорному з золотим драпірованим декором та ручкою з чорних перлин.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-couture-cube-pearl-bag-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Couture Cube Pearl Bag",
+      "source_url": "https://lonaprist.com/uk/products/couture-cube-pearl-bag-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Look901672.jpg?v=1772562784",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Look901222.jpg?v=1772562784",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Look901692.jpg?v=1772562784"
+      ],
+      "description": "Couture Cube Pearl Bag у чорному кольорі з драпірованим декором відтінку хакі та ручкою з чорних перлин.",
+      "care": null,
+      "collections": [
+        "Couture Collection",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 1200,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x2-bag-in-green",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x2 Bag in Green",
+      "source_url": "https://lonaprist.com/uk/products/3x2-bag-in-green",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "зелений"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_e45986f9-e076-4d58-a4a0-7c630a1216d3.jpg?v=1675519476",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/17t.jpg?v=1775591176",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/13x2Bagingreen1.jpg?v=1775591187"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x2-bag-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x2 Bag in Brown",
+      "source_url": "https://lonaprist.com/uk/products/3x2-bag-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/products/1_7fca8b28-b64d-4457-8231-18ad71178ed1.jpg?v=1675519353",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/122r.jpg?v=1775592534",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/13x2Baginbrown.jpg?v=1775592534"
+      ],
+      "description": "PRE-ORDER",
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 500,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-alex-clutch-in-black",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Alex Clutch in Black",
+      "source_url": "https://lonaprist.com/uk/products/alex-clutch-in-black",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/AH7A1083.jpg?v=1770647977",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/DSC08717.jpg?v=1770647977",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/Aleclutchinblack1.jpg?v=1770647977"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 850,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-net-bag-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Net Bag in brown",
+      "source_url": "https://lonaprist.com/uk/products/5x7-net-bag-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7NetBag.jpg?v=1685196779",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/05_71308b7c-72be-4ecc-9f01-a0a15aa8a1cc.jpg?v=1685961890",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7NetBag3.jpg?v=1685961890"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Archive sale",
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": 640,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-3x4-bag-in-brown",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "3x4 Bag in Brown",
+      "source_url": "https://lonaprist.com/uk/products/3x4-bag-in-brown",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/3x4-brown.jpg?v=1741094552",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/13x4Baginbrown1.jpg?v=1775610691",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/13x4Baginbrown3.jpg?v=1775610691"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-5x7-net-bag-in-khaki",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "5x7 Net Bag in khaki",
+      "source_url": "https://lonaprist.com/uk/products/5x7-net-bag-in-khaki",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "хакі"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5x7NetBagkhaki.jpg?v=1686302585",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/02_60e4cfc5-0a0b-4200-ae88-4b4651f6d439.jpg?v=1686302584",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/5_ZEN_5476.jpg?v=1686302584"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 800,
+        "sale": null,
+        "currency": "EUR"
+      }
+    },
+    {
+      "id": "lonaprist-folder-bag-in-blue",
+      "brand": "Lona Prist",
+      "brand_id": "lonaprist",
+      "name": "Folder Bag in blue",
+      "source_url": "https://lonaprist.com/uk/products/folder-bag-in-blue",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "синій"
+      ],
+      "sizes": [],
+      "price_uah": null,
+      "sale_price_uah": null,
+      "in_stock": false,
+      "photos": [
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/folderbluefront.jpg?v=1686303434",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/01blue.jpg?v=1686303434",
+        "https://cdn.shopify.com/s/files/1/0718/2385/1832/files/folderblueback.jpg?v=1686303434"
+      ],
+      "description": null,
+      "care": null,
+      "collections": [
+        "Всі сумки"
+      ],
+      "price_foreign": {
+        "amount": 260,
+        "sale": 182,
+        "currency": "EUR"
+      }
+    }
+  ]
+}

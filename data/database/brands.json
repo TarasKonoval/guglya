@@ -980,5 +980,115 @@
     "segment": null,
     "default_gender": "female",
     "kind": "shoes"
+  },
+  {
+    "id": "lovandbag",
+    "name": "Lovandbag",
+    "site": "https://lovandbag.com",
+    "instagram": "https://instagram.com/lovandbag",
+    "brand_type": "Сумки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "bags"
+  },
+  {
+    "id": "theblub",
+    "name": "The Blub",
+    "site": "https://the-blub.com",
+    "instagram": "https://instagram.com/the.blub.ua",
+    "brand_type": "Сумки",
+    "audience": "Жінкам",
+    "segment": "Масмаркет",
+    "default_gender": "female",
+    "kind": "bags"
+  },
+  {
+    "id": "lonaprist",
+    "name": "Lona Prist",
+    "site": "https://lonaprist.com/uk",
+    "instagram": "https://instagram.com/lona_prist",
+    "brand_type": "Сумки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "bags"
+  },
+  {
+    "id": "leonchenko",
+    "name": "Leonchenko",
+    "site": "https://leonchenko.com.ua",
+    "instagram": "https://instagram.com/leonchenko.women",
+    "brand_type": "Сумки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "bags"
+  },
+  {
+    "id": "kozhuhar",
+    "name": "Kozhuhar",
+    "site": "https://kozhuhar.com",
+    "instagram": "https://instagram.com/kozhuhar_",
+    "brand_type": "Сумки",
+    "audience": "Жінкам",
+    "segment": null,
+    "default_gender": "female",
+    "kind": "bags"
+  },
+  {
+    "id": "diko",
+    "name": "DIKO",
+    "site": "https://diko-brand.com",
+    "instagram": "https://instagram.com/dikobags.store",
+    "brand_type": "Сумки",
+    "audience": "Чоловікам",
+    "segment": null,
+    "default_gender": "male",
+    "kind": "bags"
+  },
+  {
+    "id": "mastak",
+    "name": "Mastak",
+    "site": "https://mastaklviv.com",
+    "instagram": "https://instagram.com/mastak_leather",
+    "brand_type": "Сумки",
+    "audience": "Ж + Ч",
+    "segment": null,
+    "default_gender": null,
+    "kind": "bags"
+  },
+  {
+    "id": "brutalist",
+    "name": "Brutalist",
+    "site": "https://brutalist.in.ua",
+    "instagram": "https://instagram.com/brutalist.ua",
+    "brand_type": "Сумки",
+    "audience": "Чоловікам",
+    "segment": null,
+    "default_gender": "male",
+    "kind": "bags"
+  },
+  {
+    "id": "dublon",
+    "name": "Dublon",
+    "site": "https://dublon.com.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": "Чоловікам",
+    "segment": null,
+    "default_gender": "male",
+    "kind": "bags"
+  },
+  {
+    "id": "remi",
+    "name": "RE MI",
+    "site": "https://remi.ua",
+    "instagram": null,
+    "brand_type": "Сумки",
+    "audience": "Чоловікам",
+    "segment": null,
+    "default_gender": "male",
+    "kind": "bags"
   }
 ]

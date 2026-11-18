@@ -532,5 +532,65 @@
     "instagram": "https://instagram.com/kasandra_shoes.ua",
     "instagram_followers": 4169,
     "checked_on": "2026-11-18"
+  },
+  "lovandbag": {
+    "name": "Lovandbag",
+    "instagram": "https://instagram.com/lovandbag",
+    "instagram_followers": 71000,
+    "checked_on": "2026-11-18"
+  },
+  "theblub": {
+    "name": "The Blub",
+    "instagram": "https://instagram.com/the.blub.ua",
+    "instagram_followers": 51000,
+    "checked_on": "2026-11-18"
+  },
+  "lonaprist": {
+    "name": "Lona Prist",
+    "instagram": "https://instagram.com/lona_prist",
+    "instagram_followers": 21000,
+    "checked_on": "2026-11-18"
+  },
+  "leonchenko": {
+    "name": "Leonchenko",
+    "instagram": "https://instagram.com/leonchenko.women",
+    "instagram_followers": 18000,
+    "checked_on": "2026-11-18"
+  },
+  "kozhuhar": {
+    "name": "Kozhuhar",
+    "instagram": "https://instagram.com/kozhuhar_",
+    "instagram_followers": 14000,
+    "checked_on": "2026-11-18"
+  },
+  "diko": {
+    "name": "DIKO",
+    "instagram": "https://instagram.com/dikobags.store",
+    "instagram_followers": 41000,
+    "checked_on": "2026-11-18"
+  },
+  "mastak": {
+    "name": "Mastak",
+    "instagram": "https://instagram.com/mastak_leather",
+    "instagram_followers": 21000,
+    "checked_on": "2026-11-18"
+  },
+  "brutalist": {
+    "name": "Brutalist",
+    "instagram": "https://instagram.com/brutalist.ua",
+    "instagram_followers": 2855,
+    "checked_on": "2026-11-18"
+  },
+  "dublon": {
+    "name": "Dublon",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": "2026-11-18"
+  },
+  "remi": {
+    "name": "RE MI",
+    "instagram": null,
+    "instagram_followers": null,
+    "checked_on": "2026-11-18"
   }
 }

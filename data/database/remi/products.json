@@ -1,0 +1,1330 @@
+{
+  "_meta": {
+    "brand": "RE MI",
+    "brand_id": "remi",
+    "site": "https://remi.ua",
+    "extracted_at": "2026-11-18",
+    "mode": "sitemap-products",
+    "count": 55,
+    "found": 55,
+    "candidates": 55,
+    "checked": 55,
+    "errors": []
+  },
+  "products": [
+    {
+      "id": "remi-zhinochiy-rukzak-re-mi-campana-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Campana, чорного кольору",
+      "source_url": "https://remi.ua/zhinochiy-rukzak-re-mi-campana-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1898,
+      "sale_price_uah": 1708,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/42/1800x1800l80mc0/zhinochiy-rukzak-re-mi-campana-chornogo-koloru-93682404415786.webp"
+      ],
+      "description": "Жіночий рюкзак бренду RE MI, модель Campana, чорного кольору. рюкзак має одне велике віддлення та один карман всередені; є карабін для ключів; два кармани на молнії ззовні, один на спинці та один на лицьовій частині; ремені регулюються по довжтині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-fragile-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Fragile, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-fragile-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1491,
+      "sale_price_uah": 1342,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/46/1772x1772l80mc0/zhinocha-sumka-re-mi-fragile-chervonogo-koloru-73065901580507.webp"
+      ],
+      "description": "Жіноча сумка RE MI, модель Fragile, червоного кольору всередені сумочки одне велике відділення та карман на молнії; є карабін для ключів; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-choloviche-portmone-re-mi-borsa-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіче портмоне RE MI Borsa коричневого кольору",
+      "source_url": "https://remi.ua/choloviche-portmone-re-mi-borsa-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1110,
+      "sale_price_uah": 999,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/20/1800x1800l80mc0/choloviche-portmone-re-mi-borsa-korichnevogo-koloru-70030475740673.webp"
+      ],
+      "description": "Чоловіче портмоне бренду RE MI, модель Borsa, коричневого кольору два великих відділеня для купюр; відділення для монет на молнії; відділення для банківських карток; можливе замовлення в іншому кольорі, гравіювання та нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-scatola-chervogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Scatola, червого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-scatola-chervogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2133,
+      "sale_price_uah": 1920,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/41/1800x1800l80mc0/zhinocha-sumka-re-mi-scatola-chervogo-koloru-93209795807501.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Scatola, червоного кольору. Сумка має два великих відделення на молнії, та два маленьких кармани всередені; Також є два кармани на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-fragile-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Fragile, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-fragile-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1491,
+      "sale_price_uah": 1342,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/45/1654x1654l80mc0/zhinocha-sumka-re-mi-fragile-chornogo-koloru-76814267246310.webp"
+      ],
+      "description": "Жіноча сумка RE MI, модель Fragile, чорного кольору всередені сумочки одне велике відділення та карман на молнії; є карабін для ключів; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-delizia-bezhevoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Delizia, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-delizia-bezhevoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2681,
+      "sale_price_uah": 2413,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/26/1800x1800l80mc0/zhinocha-sumka-re-mi-delizia-bezhevoho-koloru-54155347723254.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Delizia, бежевого кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Одне відділення на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-931",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "copy_Жіноча сумка RE MI Comodo, червоного кольору",
+      "source_url": "https://remi.ua/zhenskie-sumki/931/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2836,
+      "sale_price_uah": 2552,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/32/1800x1800l80mc0/14853564570742.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Comodo червоного кольору. Сумка має одне велике відідлення та два кармани в середені сумки; Також є один карман на молнії зовні; В комполекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-luna-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Luna, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-luna-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3175,
+      "sale_price_uah": 2857,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/24/1800x1800l80mc0/zhinocha-sumka-re-mi-luna-chornoho-koloru-55545034922665.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Luna, чорного кольору. Сумка має одне велике відділення, та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; Ремінь на даній моделі не знімається та не регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-ellisse-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Ellisse, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-ellisse-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1321,
+      "sale_price_uah": 1189,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/49/1654x1654l80mc0/zhinocha-sumka-re-mi-ellisse-chervonogo-koloru-96874584163358.webp"
+      ],
+      "description": "Жіноча сумка RE MI, модель Ellisse, червоного кольору всередені сумочки одне велике відділення та карман на молнії; є карабін для ключів; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-forte-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Forte, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-forte-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3867,
+      "sale_price_uah": 3480,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/16/1800x1800l80mc0/cholovicha-sumka-re-mi-forte-chornogo-koloru-76161936145064.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Forte, чорного кольору одне велике відділення всередині сумки, та два відідлення для документів; два відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-tenuto-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Tenuto, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-tenuto-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2852,
+      "sale_price_uah": 2566,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/15/1800x1800l80mc0/cholovicha-sumka-re-mi-tenuto-chornogo-koloru-27379775059811.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Tenuto, чорного кольору одне велике відділення всередині сумки, та відідлення для документів; два відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumochka-jasmine",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумочка jasmine",
+      "source_url": "https://remi.ua/zhinocha-sumochka-jasmine/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 2100,
+      "sale_price_uah": 1890,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/33/1024x1280l80mc0/zhinocha-sumochka-jasmine-39453817223078.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Comodo бежевого кольору. Сумка жіноча шкіряна клатч із натуральної шкіри. Ручна робота. Натуральна шкіра. Одне велике відділення на блискавці з перегородками. Плечовий ремінь. В комполекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі; Розмір(см): 23*18*5.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-viva-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Viva, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-viva-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2535,
+      "sale_price_uah": 2281,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/3/1800x1800l80mc0/zhinocha-sumka-re-mi-viva-chervonogo-koloru-13454597501277.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Viva, червоного кольору. Сумка має одне велике відділення, два віддення на молнії та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-maria-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Maria, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-maria-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3245,
+      "sale_price_uah": 2920,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/29/1800x1800l80mc0/zhinocha-sumka-re-mi-maria-chornoho-koloru-33456850105570.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Maria, чорного кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Одне відділення на молнії ззовні; В даній моделі сумки відсутній окремий ремінь для носіння сумки на плечі; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-kolo-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Kolo, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-kolo-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1584,
+      "sale_price_uah": 1425,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/5/1535x1535l80mc0/zhinocha-sumka-re-mi-kolo-chervonogo-koloru-51158320106932.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Kolo, чорного кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-sling-re-mi-joker-max-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка-слінг RE MI Joker max, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-sling-re-mi-joker-max-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1787,
+      "sale_price_uah": 1608,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/50/1800x1800l80mc0/cholovicha-sumka-sling-re-mi-joker-max-chornogo-koloru-99888564302964.webp"
+      ],
+      "description": "Чоловіча сумка-слінг бренду RE MI, модель Joker, чорного кольору має два великих відділеня та одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-delizia-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Delizia, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-delizia-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2681,
+      "sale_price_uah": 2413,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/25/1800x1800l80mc0/zhinocha-sumka-re-mi-delizia-chornoho-koloru-69005375389895.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Delizia, чорного кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Одне відділення на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-stefania-bezhevoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Stefania, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-stefania-bezhevoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 3008,
+      "sale_price_uah": 2708,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/27/1800x1800l80mc0/zhinocha-sumka-re-mi-stefania-bezhevoho-koloru-39737986040175.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Stefania, бежевого кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Одне відділення на молнії ззовні; В даній моделі сумки відсутній окремий ремінь для носіння сумки на плечі; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-sling-re-mi-joker-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка-слінг RE MI Joker, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-sling-re-mi-joker-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1524,
+      "sale_price_uah": 1372,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/1/1772x1772l80mc0/cholovicha-sumka-sling-re-mi-joker-chornogo-koloru-67614863740649.webp"
+      ],
+      "description": "Чоловіча сумка-слінг бренду RE MI, модель Joker, чорного кольору має два великих відділеня та одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochiy-rukzak-re-mi-campana-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Campana, червоного кольору",
+      "source_url": "https://remi.ua/zhinochiy-rukzak-re-mi-campana-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1898,
+      "sale_price_uah": 1708,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/44/1800x1800l80mc0/zhinochiy-rukzak-re-mi-campana-chervonogo-koloru-85668498793721.webp"
+      ],
+      "description": "Жіночий рюкзак бренду RE MI, модель Campana, червоного кольору. рюкзак має одне велике віддлення та один карман всередені; є карабін для ключів; два кармани на молнії ззовні, один на спинці та один на лицьовій частині; ремені регулюються по довжтині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-906",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Kolo, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-kolo-chervonogo-koloru/906/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 1584,
+      "sale_price_uah": 1425,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/7/1535x1535l80mc0/zhinocha-sumka-re-mi-kolo-chervonogo-koloruid-48465281500725.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Kolo, червоного кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-stefania-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Stefania, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-stefania-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3008,
+      "sale_price_uah": 2708,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/28/1800x1800l80mc0/zhinocha-sumka-re-mi-stefania-chornoho-koloru-33504182883229.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Stefania, чорного кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Одне відділення на молнії ззовні; В даній моделі сумки відсутній окремий ремінь для носіння сумки на плечі; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-kolo-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Kolo, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-kolo-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1584,
+      "sale_price_uah": 1425,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/6/1535x1535l80mc0/zhinocha-sumka-re-mi-kolo-bezhevogo-koloru-31525408620813.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Kolo, бежевого кольору. Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochiy-rukzak-re-mi-corda-rombo-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Corda rombo, червоного кольору",
+      "source_url": "https://remi.ua/zhinochiy-rukzak-re-mi-corda-rombo-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2094,
+      "sale_price_uah": 1885,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/37/1800x1800l80mc0/zhinochiy-rukzak-re-mi-corda-rombo-chervonogo-koloru-99992493412497.webp"
+      ],
+      "description": "Жіночий рюкзак бренду RE MI, модель Corda rombo, червоного кольору. рюкзак має одне велике віддлення та два кармани в середені; є карабін для ключів; два кармани на молнії ззовні, один на спинці та один на лицбовій частині; ремені регулюються по довжтині; можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochiy-rukzak-re-mi-campana-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Campana, бежевого кольору",
+      "source_url": "https://remi.ua/zhinochiy-rukzak-re-mi-campana-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1898,
+      "sale_price_uah": 1708,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/43/1800x1800l80mc0/zhinochiy-rukzak-re-mi-campana-bezhevogo-koloru-85152301315728.webp"
+      ],
+      "description": "Жіночий рюкзак бренду RE MI, модель Campana, бежевого кольору. рюкзак має одне велике віддлення та один карман всередені; є карабін для ключів; два кармани на молнії ззовні, один на спинці та один на лицьовій частині; ремені регулюються по довжтині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-acuto-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Acuto, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-acuto-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1369,
+      "sale_price_uah": 1232,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/13/1181x1181l80mc0/cholovicha-sumka-re-mi-acuto-chornogo-koloru-84174602503987.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Acuto, чорного кольору одне велике відділення всередені сумки та карман для телефона і гаманця; мається одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-brio-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Brio, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-brio-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1413,
+      "sale_price_uah": 1272,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/12/1535x1535l80mc0/cholovicha-sumka-re-mi-brio-chornogo-koloru-70177629347720.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Brio, чорного кольору одне велике відділення всередені сумки та карман для телефона і гаманця; мається одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-barocco-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Barocco, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-barocco-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1743,
+      "sale_price_uah": 1568,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/17/1654x1654l80mc0/cholovicha-sumka-re-mi-barocco-chornogo-koloru-83462210041525.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Barocco, чорного кольору одне велике відділення всередені сумки та карман для телефона і гаманця на молнії; мається два відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-luna-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Luna, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-luna-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 3175,
+      "sale_price_uah": 2857,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/4/1800x1800l80mc0/zhinocha-sumka-re-mi-luna-chervonogo-koloru-13586736514086.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Luna, червоного кольору. Сумка має одне велике відділення, та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; Ремінь на даній моделі не знімається та не регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochiy-rukzak-re-mi-corda-rombo-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Corda rombo, чорного кольору",
+      "source_url": "https://remi.ua/zhinochiy-rukzak-re-mi-corda-rombo-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2094,
+      "sale_price_uah": 1885,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/38/1800x1800l80mc0/zhinochiy-rukzak-re-mi-corda-rombo-chornogo-koloru-47230801246343.webp"
+      ],
+      "description": "Жіночий рюкзак бренду RE MI, модель Corda rombo, чорного кольору. рюкзак має одне велике віддлення та два кармани в середені; є карабін для ключів; два кармани на молнії ззовні, один на спинці та один на лицбовій частині; ремені регулюються по довжтині; можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-ellisse-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Ellisse, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-ellisse-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 1321,
+      "sale_price_uah": 1189,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/48/1654x1654l80mc0/zhinocha-sumka-re-mi-ellisse-bezhevogo-koloru-29794760013786.webp"
+      ],
+      "description": "Жіноча сумка RE MI, модель Ellisse, бежевого кольору всередені сумочки одне велике відділення та карман на молнії; є карабін для ключів; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-antico-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Antico, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-antico-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2597,
+      "sale_price_uah": 2338,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/18/1800x1800l80mc0/cholovicha-sumka-re-mi-antico-chornogo-koloru-24923912187962.webp"
+      ],
+      "description": "Чоловіча сумка бренду RE MI, модель Antico, чорного кольору два великих відділення всередені сумки та карман для телефона і гаманця на молнії; мається два відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochyi-riukzak-re-mi-jessica-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Jessica, чорного кольору",
+      "source_url": "https://remi.ua/zhinochyi-riukzak-re-mi-jessica-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2500,
+      "sale_price_uah": 2250,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/34/1024x1280l80mc0/zhinochyi-riukzak-re-mi-jessica-chornoho-koloru-91172860318954.webp"
+      ],
+      "description": "Жіночий рюкзак RE MI Jessica, чорного кольору. - Рюкзак має одне велике віддлення та три кармани в середені; є карабін для ключів, один карман на молнії ззовні на передній стінці, один на спинці по заду. - Ремені регулюються по довжтині; - Можливе замовлення в іншому кольорі.",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovichiy-gamanets-re-mi-practico-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловічий гаманець RE MI Practico, коричневого кольору",
+      "source_url": "https://remi.ua/cholovichiy-gamanets-re-mi-practico-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 740,
+      "sale_price_uah": 666,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/22/1800x1800l80mc0/cholovichiy-gamanets-re-mi-practico-korichnevogo-koloru-71879803593230.webp"
+      ],
+      "description": "Чоловічий гаманець бренду RE MI, модель Practico, коричневого кольору одне відділеня для купюр; відділення для монет відсутнє; 8 відділень для банкіських карток (два великих віділення до яких можна помістити більше однієї карти); можливе замовлення в іншому кольорі гравіювання та нанесення малюнку;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-choloviche-portmone-re-mi-borsa-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіче портмоне RE MI Borsa, чорного кольору",
+      "source_url": "https://remi.ua/choloviche-portmone-re-mi-borsa-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1110,
+      "sale_price_uah": 999,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/19/1800x1800l80mc0/choloviche-portmone-re-mi-borsa-chornogo-koloru-91276156273940.webp"
+      ],
+      "description": "Чоловіче портмоне бренду RE MI, модель Borsa, чорного кольору два великих відділеня для купюр; відділення для монет на молнії; відділення для банківських карток; можливе замовлення в іншому кольорі, гравіювання та нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-ellisse-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Ellisse, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-ellisse-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1321,
+      "sale_price_uah": 1189,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/47/1799x1800l80mc0/zhinocha-sumka-re-mi-ellisse-chornogo-koloru-83803635457818.webp"
+      ],
+      "description": "Жіноча сумка RE MI, модель Ellisse, чорного кольору всередені сумочки одне велике відділення та карман на молнії; є карабін для ключів; ремінь регулюється по довжині; можливе замовлення в іншому кольорі, гравіювання або нанесення малюнка;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovichiy-gamanets-re-mi-coin-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловічий гаманець RE MI Coin, коричневого кольору",
+      "source_url": "https://remi.ua/cholovichiy-gamanets-re-mi-coin-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 925,
+      "sale_price_uah": 833,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/23/1800x1800l80mc0/cholovichiy-gamanets-re-mi-coin-korichnevogo-koloru-54084614912941.webp"
+      ],
+      "description": "Чоловічий гаманець бренду RE MI, модель Coin, коричневого кольору одне відділеня для купюр; відділення для монет на кнопці; 8 відділень для банкіських карток (два великих віділення до яких можна помістити більше однієї карти); можливе замовлення в іншому кольорі гравіювання та нанесення малюнку;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovichiy-gamanets-re-mi-practico-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловічий гаманець RE MI Practico, чорного кольору",
+      "source_url": "https://remi.ua/cholovichiy-gamanets-re-mi-practico-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Гаманець",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 740,
+      "sale_price_uah": 666,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/21/1800x1800l80mc0/cholovichiy-gamanets-re-mi-practico-chornogo-koloru-85267127975303.webp"
+      ],
+      "description": "Чоловічий гаманець бренду RE MI, модель Practico, чорного кольору одне відділеня для купюр; відділення для монет відсутнє; 8 відділень для банкіських карток (два великих віділення до яких можна помістити більше однієї карти); можливе замовлення в іншому кольорі гравіювання та нанесення малюнку;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-dorozhnia-sumochka",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Дорожня сумочка",
+      "source_url": "https://remi.ua/dorozhnia-sumochka/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [],
+      "sizes": [],
+      "price_uah": 6500,
+      "sale_price_uah": 5850,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/31/1023x1280l80mc0/dorozhnia-sumochka-81740966836418.webp"
+      ],
+      "description": "Вас чекає багато новинок від нашої майстерні. Для подорожей, тренувань чи просто для відпочинку на вихідні, ми підготували вам Big Big Big сумку. Дана модель дуже вмістка, має багато відділів, зроблена з натуральної шкіри Crazy Horse. Тепер ви можете обрати свій варіант з якої шкіри вам робити наш виріб: гладка або флотар. Сумка може бути виповнена в 9 кольорах шкіри. Також на ній можливо зробити безкоштовне гравіювання. Кольори: Темно-коричневий, синій, світло-коричневий, оливка, чорний, зелений, марсалла, фуксія, червона. Сумка «Дорожня прямокутна». Виконана з натуральнї Італійської шкіри CRAZY HORSE. Має великий відділ на блискавці з двома кишенями та кишеню на блискавц. В середині також дві кишені на блискавці спереду. Ремінь з регуюванням по довжині. Металева фурнітура Розмір (см) 60*26*30 Гравіювання безкоштовне Швидка доставка в будь-яке місто або іншу країну",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-re-mi-coraggio-temno-korychnevoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка RE MI Coraggio, темно-коричневого кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-re-mi-coraggio-temno-korychnevoho-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1894,
+      "sale_price_uah": 1705,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/30/1800x1800l80mc0/cholovicha-sumka-re-mi-coraggio-temno-korychnevoho-koloru-77477373901182.webp"
+      ],
+      "description": "Чоловіча сумка-слінг бренду RE MI, модель Coraggio, темно-коричневого кольору має два великих відділеня та одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-sportivna-dorozhnya-sumka-re-mi-junior-temno-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Спортивна (дорожня) сумка RE MI Junior, темно-коричневого кольору",
+      "source_url": "https://remi.ua/sportivna-dorozhnya-sumka-re-mi-junior-temno-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 1869,
+      "sale_price_uah": 1682,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/9/1800x1800l80mc0/sportivna-dorozhnya-sumka-re-mi-junior-temno-korichnevogo-koloru-34927303439771.webp"
+      ],
+      "description": "Спортивна (дорожня) сумка RE MI модель Junior, темно-коричневого кольору Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Також наявне одне відділення на молнії ззовні сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-sportivna-dorozhnya-sumka-re-mi-junior-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Спортивна (дорожня) сумка RE MI Junior, чорного кольору",
+      "source_url": "https://remi.ua/sportivna-dorozhnya-sumka-re-mi-junior-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 1943,
+      "sale_price_uah": 1748,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/10/1800x1800l80mc0/sportivna-dorozhnya-sumka-re-mi-junior-chornogo-koloru-22837037394881.webp"
+      ],
+      "description": "Спортивна (дорожня) сумка RE MI модель Junior, чорного кольору Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Також наявне одне відділення на молнії ззовні сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-sportivna-dorozhnya-sumka-re-mi-strada-svitlo-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Спортивна (дорожня) сумка RE MI Strada, світло-коричневого кольору",
+      "source_url": "https://remi.ua/sportivna-dorozhnya-sumka-re-mi-strada-svitlo-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 4118,
+      "sale_price_uah": 3706,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/11/1800x1800l80mc0/sportivna-dorozhnya-sumka-re-mi-strada-svitlo-korichnevogo-koloru-88847751062453.webp"
+      ],
+      "description": "Спортивна (дорожня) сумка RE MI модель Strada, світло-коричневого кольору Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Також наявне одне відділення на молнії ззовні сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-sportivna-dorozhnya-sumka-re-mi-junior-svitlo-korichnevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Спортивна (дорожня) сумка RE MI Junior, світло-коричневого кольору",
+      "source_url": "https://remi.ua/sportivna-dorozhnya-sumka-re-mi-junior-svitlo-korichnevogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "коричневий"
+      ],
+      "sizes": [],
+      "price_uah": 2015,
+      "sale_price_uah": 1813,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/8/1800x1800l80mc0/sportivna-dorozhnya-sumka-re-mi-junior-svitlo-korichnevogo-koloru-88611928595134.webp"
+      ],
+      "description": "Спортивна (дорожня) сумка RE MI модель Junior, світло-коричневого кольору Сумка має одне велике відділення, одне віддення на молнії та відділення для телефону всередині сумки; Також наявне одне відділення на молнії ззовні сумки; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі, та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinochyi-riukzak-re-mi-alaska-chornoho-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіночий рюкзак RE MI Alaska, чорного кольору",
+      "source_url": "https://remi.ua/zhinochyi-riukzak-re-mi-alaska-chornoho-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 3700,
+      "sale_price_uah": 3330,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/35/1080x1350l80mc0/zhinochyi-riukzak-re-mi-alaska-chornoho-koloru-24135321666700.webp"
+      ],
+      "description": "Наша майстерня підготувала для Вас новинку і це новий та стильний, дуже вмісткий рюкзак власного виробництва Дана модель може бути виготовлена в 9 кольорах шкіри, а також з різних видів шкіри: Crazy Horse, флотар, гладка шкіра. Кожний виріб Ви можете зробити індивідуальним і нанести безкоштовне гравіювання, а наша команда вам в цьому допоможе ⁃ Рюкзак на три відділення, виготовлений з натуральної шкіри; ⁃ Спереду 2 кишені на блискавці; ⁃ Великий відділ на блискавці з кишенями для ноутбуку, кишенею на застібці і кишенею для різних дрібних речей; ⁃ Лямки рюкзака регулюються по довжині виконані із натуральної шкіри; Розмір (см): 28*33*13 Ціна рюкзака - 3700 грн",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-cholovicha-sumka-sling-re-mi-tactic-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Чоловіча сумка-слінг RE MI Tactic, чорного кольору",
+      "source_url": "https://remi.ua/cholovicha-sumka-sling-re-mi-tactic-chornogo-koloru/",
+      "gender": "male",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2004,
+      "sale_price_uah": 1803,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/14/1800x1800l80mc0/cholovicha-sumka-sling-re-mi-tactic-chornogo-koloru-12630262323417.webp"
+      ],
+      "description": "Чоловіча сумка-слінг бренду RE MI, модель Tactic, чорного кольору має два великих відділеня та одне відділення на молнії ззовні; ремінь регулюється по довжині; можливе замовлення в іншому кольорі та гравіювання;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-viva-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Viva, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-viva-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2535,
+      "sale_price_uah": 2281,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/2/1772x1772l80mc0/zhinocha-sumka-re-mi-viva-chornogo-koloru-66312682376200.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Viva, чорного кольору. Сумка має одне велике відділення, два віддення на молнії та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-viva-max-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Viva max, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-viva-max-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2564,
+      "sale_price_uah": 2308,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/34/1800x1800l80mc0/zhinocha-sumka-re-mi-viva-max-bezhevogo-koloru-18254925727133.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Viva max, бежевого кольору. Сумка має одне велике відділення, два віддення на молнії та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-comodo-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Comodo, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-comodo-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2836,
+      "sale_price_uah": 2552,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/32/853x1280l80mc0/zhinocha-sumka-re-mi-comodo-chervonogo-koloru-97328228369889.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Comodo червоного кольору. Сумка має одне велике відідлення та два кармани в середені сумки; Також є один карман на молнії зовні; В комполекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-comodo-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Comodo, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-comodo-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2836,
+      "sale_price_uah": 2552,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/31/1800x1800l80mc0/zhinocha-sumka-re-mi-comodo-chorna-51679802735749.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Comodo чорного кольору. Сумка має одне велике відідлення та два кармани в середені сумки; Також є один карман на молнії зовні; В комполекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-comodo-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Comodo, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-comodo-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2836,
+      "sale_price_uah": 2552,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/33/1800x1800l80mc0/zhinocha-sumka-re-mi-comodo-bezhevogo-koloru-51814778981276.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Comodo бежевого кольору. Сумка має одне велике відідлення та два кармани в середені сумки; Також є один карман на молнії зовні; В комполекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-viva-max-chervonogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Viva max, червоного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-viva-max-chervonogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "червоний"
+      ],
+      "sizes": [],
+      "price_uah": 2564,
+      "sale_price_uah": 2308,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/36/1800x1800l80mc0/zhinocha-sumka-re-mi-viva-max-chervonogo-koloru-91420658204071.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Viva max, червоного кольору. Сумка має одне велике відділення, два віддення на молнії та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-viva-max-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Viva max, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-viva-max-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2564,
+      "sale_price_uah": 2308,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/35/1800x1800l80mc0/zhinocha-sumka-re-mi-viva-max-chornogo-koloru-53892082504902.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Viva max, чорного кольору. Сумка має одне велике відділення, два віддення на молнії та відділення для телефону всередині сумки; Також є один карман на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-scatola-chornogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Scatola, чорного кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-scatola-chornogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "чорний"
+      ],
+      "sizes": [],
+      "price_uah": 2133,
+      "sale_price_uah": 1920,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/39/1800x1800l80mc0/zhinocha-sumka-re-mi-scatola-chornogo-koloru-71943973878731.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Scatola, чорного кольору. Сумка має два великих відделення на молнії, та два маленьких кармани всередені; Також є два кармани на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    },
+    {
+      "id": "remi-zhinocha-sumka-re-mi-scatola-bezhevogo-koloru",
+      "brand": "RE MI",
+      "brand_id": "remi",
+      "name": "Жіноча сумка RE MI Scatola, бежевого кольору",
+      "source_url": "https://remi.ua/zhinocha-sumka-re-mi-scatola-bezhevogo-koloru/",
+      "gender": "female",
+      "category": "Аксесуари",
+      "item_type": "Сумка",
+      "slot": "other",
+      "colors": [
+        "бежевий"
+      ],
+      "sizes": [],
+      "price_uah": 2133,
+      "sale_price_uah": 1920,
+      "in_stock": true,
+      "photos": [
+        "https://remi.ua/content/images/40/1800x1800l80mc0/zhinocha-sumka-re-mi-scatola-bezhevogo-koloru-14884919079082.webp"
+      ],
+      "description": "Жіноча сумка бренду RE MI, модель Scatola, бежевого кольору. Сумка має два великих відделення на молнії, та два маленьких кармани всередені; Також є два кармани на молнії ззовні; В комплекті наявний ремінь для носіння сумки на плечі який регулюється по довжині; Можливе замовлення сумки в іншому кольорі;",
+      "care": null,
+      "collections": []
+    }
+  ]
+}
