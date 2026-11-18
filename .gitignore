@@ -21,3 +21,6 @@ crash.log
 infra/terraform/build/
 frontend/.env.production
 *.tsbuildinfo
+
+# Font source archives (see design/fonts/README.md)
+design/fonts/*.zip

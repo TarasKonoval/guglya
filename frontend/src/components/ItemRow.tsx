@@ -1,36 +1,36 @@
 import { useEffect, useMemo, useState } from "react";
-import { api, formatDiff, formatUah, img, SLOT_LABELS, type Product, type Slot } from "../lib/api";
-import { CheckIcon } from "./Icons";
-
-const COLORS: Record<string, [string, string]> = {
-  black: ["Чорний", "#262423"], white: ["Білий", "#ece8e0"], grey: ["Сірий", "#8c8c8a"],
-  beige: ["Беж", "#d6c0a0"], brown: ["Коричневий", "#7a5236"], blue: ["Синій", "#344a78"],
-  green: ["Зелений", "#4e6648"], red: ["Червоний", "#a0342e"], burgundy: ["Бордо", "#681e2c"],
-};
+import { api, COLORS, formatDiff, formatUah, img, SLOT_LABELS, type Person, type Product, type Slot } from "../lib/api";
+import { addToCart, removeFromCart, useCart } from "../lib/cart";
+import { BagIcon, CheckIcon } from "./Icons";
 
 type Props = {
   outfitId: string;
+  person: Person;
   slot: Slot;
   original: Product;
   picked?: Product;
   onPick: (p: Product) => void;
-  onBrand: (p: Product) => void;
 };
 
-export default function ItemRow({ outfitId, slot, original, picked, onPick, onBrand }: Props) {
+export default function ItemRow({ outfitId, person, slot, original, picked, onPick }: Props) {
   const [pool, setPool] = useState<Product[] | null>(null); // unfiltered, for the colour chips
   const [color, setColor] = useState<string | null>(null);
   const [filtered, setFiltered] = useState<Product[] | null>(null);
+  const cart = useCart();
+  const cartProps = (p: Product) => {
+    const inCart = cart.some((i) => i.id === p.id);
+    return { inCart, onCart: () => (inCart ? removeFromCart(p.id) : addToCart(p, outfitId, slot)) };
+  };
 
   useEffect(() => {
-    api<Product[]>(`/outfits/${outfitId}/similar/${slot}?limit=20`).then(setPool).catch(() => setPool([]));
-  }, [outfitId, slot]);
+    api<Product[]>(`/outfits/${outfitId}/similar/${slot}?person=${person}&limit=20`).then(setPool).catch(() => setPool([]));
+  }, [outfitId, person, slot]);
 
   useEffect(() => {
     if (!color) return setFiltered(null);
     setFiltered(null);
-    api<Product[]>(`/outfits/${outfitId}/similar/${slot}?color=${color}&limit=5`).then(setFiltered).catch(() => setFiltered([]));
-  }, [outfitId, slot, color]);
+    api<Product[]>(`/outfits/${outfitId}/similar/${slot}?person=${person}&color=${color}&limit=5`).then(setFiltered).catch(() => setFiltered([]));
+  }, [outfitId, person, slot, color]);
 
   const colors = useMemo(() => [...new Set((pool ?? []).map((p) => p.color).filter(Boolean))] as string[], [pool]);
   const alternatives = color ? filtered : pool?.slice(0, 5) ?? null;
@@ -52,13 +52,13 @@ export default function ItemRow({ outfitId, slot, original, picked, onPick, onBr
         )}
       </div>
       <div className="scroller">
-        <ItemCard p={original} original selected={picked?.id === original.id}
-          onPick={() => onPick(original)} onBrand={() => onBrand(original)} />
+        <ItemCard p={original} original selected={picked?.id === original.id} {...cartProps(original)}
+          onPick={() => onPick(original)} />
         {alternatives === null
           ? [0, 1, 2].map((i) => <div key={i} className="item-card skeleton" />)
           : alternatives.map((p) => (
-              <ItemCard key={p.id} p={p} selected={picked?.id === p.id}
-                onPick={() => onPick(p)} onBrand={() => onBrand(p)} />
+              <ItemCard key={p.id} p={p} selected={picked?.id === p.id} {...cartProps(p)}
+                onPick={() => onPick(p)} />
             ))}
         {alternatives?.length === 0 && <p className="muted empty">Немає альтернатив у цьому кольорі</p>}
       </div>
@@ -66,9 +66,12 @@ export default function ItemRow({ outfitId, slot, original, picked, onPick, onBr
   );
 }
 
-type CardProps = { p: Product; original?: boolean; selected: boolean; onPick: () => void; onBrand: () => void };
+type CardProps = {
+  p: Product; original?: boolean; selected: boolean; inCart: boolean;
+  onPick: () => void; onCart: () => void;
+};
 
-function ItemCard({ p, original, selected, onPick, onBrand }: CardProps) {
+function ItemCard({ p, original, selected, inCart, onPick, onCart }: CardProps) {
   return (
     <article className={`item-card ${selected ? "selected" : ""}`}>
       <button className="item-pick" onClick={onPick} aria-pressed={selected}
@@ -89,7 +92,9 @@ function ItemCard({ p, original, selected, onPick, onBrand }: CardProps) {
           </div>
         </div>
       </button>
-      <button className="to-brand" onClick={onBrand}>До бренду →</button>
+      <button className={`to-cart ${inCart ? "on" : ""}`} onClick={onCart} aria-pressed={inCart}>
+        {inCart ? <><CheckIcon /> У кошику</> : <><BagIcon /> В кошик</>}
+      </button>
     </article>
   );
 }

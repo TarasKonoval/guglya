@@ -10,17 +10,22 @@ from .auth import current_user, optional_user
 from .config import settings
 from .db import execute, fetch_all, fetch_one
 
-Slot = Literal["hat", "top", "bottom", "shoes"]
+Slot = Literal["hat", "top", "dress", "bottom", "shoes"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
                   p.image_url, p.product_url, p.is_demo"""
 
-# Outfit cards: totals and item thumbnails of the original items, for the «АутфітЧек» line and collages
+# Outfit cards: totals and item thumbnails of the original items, for the «АутфітЧек» line and collages.
+# colors and popularity (views + 3×saves + 5×brand clicks) feed the filters on the feed.
 OUTFIT_SUMMARY = """
-  select o.id, o.title, o.season, o.style_tag, o.cover_image_url,
+  select o.id, o.title, o.season, o.gender, o.style_tag, o.cover_image_url,
          count(p.id)::int as item_count, coalesce(sum(p.price_uah), 0)::int as total_uah,
-         coalesce(json_agg(json_build_object('slot', oi.slot, 'image_url', p.image_url,
+         coalesce(array_agg(distinct p.color) filter (where p.color is not null), '{}') as colors,
+         ((select count(*) from events e where e.outfit_id = o.id and e.type = 'outfit_view')
+          + 3 * (select count(*) from saved_outfits s where s.outfit_id = o.id)
+          + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
+         coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by array_position(array['hat','top','bottom','shoes'], oi.slot))
+                  order by oi.person, array_position(array['hat','top','dress','bottom','shoes'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -45,21 +50,41 @@ def health():
 
 @app.get("/me")
 def me(user: dict = Depends(current_user)):
-    prompted = fetch_one(
-        """select exists(select 1 from events where user_id = %(u)s and type = 'feedback_open')
-               or exists(select 1 from feedback where user_id = %(u)s) as v""",
+    row = fetch_one(
+        """select first_name, last_name, phone,
+                  exists(select 1 from events where user_id = %(u)s and type = 'feedback_open')
+                  or exists(select 1 from feedback where user_id = %(u)s) as feedback_prompted
+           from users where id = %(u)s""",
         {"u": user["sub"]},
     )
-    return {"id": user["sub"], "email": user.get("email"), "feedback_prompted": prompted["v"]}
+    return {"id": user["sub"], "email": user.get("email"), **row}
+
+
+class ProfileIn(BaseModel):
+    first_name: str = Field(default="", max_length=80)
+    last_name: str = Field(default="", max_length=80)
+    phone: str = Field(default="", max_length=30, pattern=r"^[0-9+()\- ]*$")
+
+
+@app.put("/me")
+def update_me(body: ProfileIn, user: dict = Depends(current_user)):
+    execute(
+        "update users set first_name = %s, last_name = %s, phone = %s where id = %s",
+        (body.first_name.strip() or None, body.last_name.strip() or None, body.phone.strip() or None, user["sub"]),
+    )
+    return me(user)
 
 
 @app.get("/outfits")
-def list_outfits(season: str | None = "autumn", limit: int = 100):
+def list_outfits(
+    season: str | None = "autumn", gender: Literal["women", "men", "couple"] | None = None, limit: int = 100
+):
     return fetch_all(
         OUTFIT_SUMMARY
         + """ where o.is_published and (%(season)s::text is null or o.season = %(season)s)
+                and (%(gender)s::text is null or o.gender in (%(gender)s, 'unisex'))
               group by o.id order by o.sort_order, o.created_at limit %(limit)s""",
-        {"season": season or None, "limit": min(limit, 100)},
+        {"season": season or None, "gender": gender, "limit": min(limit, 100)},
     )
 
 
@@ -69,37 +94,59 @@ def get_outfit(outfit_id: UUID):
     if not outfit:
         raise HTTPException(404, "Outfit not found")
     rows = fetch_all(
-        f"""select oi.slot, {PRODUCT_COLS}
+        f"""select oi.person, oi.slot, {PRODUCT_COLS}
             from outfit_items oi join products p on p.id = oi.product_id join brands b on b.id = p.brand_id
-            where oi.outfit_id = %s""",
+            where oi.outfit_id = %s order by oi.person""",
         (outfit_id,),
     )
-    outfit["products"] = {r.pop("slot"): r for r in rows}
+    # One look for a regular outfit, two for a couple
+    looks: dict[int, dict] = {}
+    for r in rows:
+        looks.setdefault(r.pop("person"), {})[r.pop("slot")] = r
+    outfit["looks"] = [{"person": n, "products": products} for n, products in looks.items()]
     return outfit
 
 
+# Brand popularity 0..1: Instagram followers (70%) + clicks to the brand on Ґуґля (30%), both log-scaled.
+BRAND_POPULARITY = """
+  select b.id as brand_id,
+         0.7 * coalesce(ln(1 + b.instagram_followers) / nullif(ln(1 + max(b.instagram_followers) over ()), 0), 0)
+       + 0.3 * coalesce(ln(1 + c.n) / nullif(ln(1 + max(c.n) over ()), 0), 0) as score
+  from brands b
+  left join (select p.brand_id, count(*) as n from clicks k join products p on p.id = k.product_id group by 1) c
+    on c.brand_id = b.id
+"""
+POPULARITY_WEIGHT = 0.05  # popularity can lift an item over one up to 0.05 more similar (cosine)
+
+
 @app.get("/outfits/{outfit_id}/similar/{slot}")
-def similar(outfit_id: UUID, slot: Slot, color: str | None = None, limit: int = 5):
-    """AI alternatives: same category, in stock, other brands (one per brand first), nearest by CLIP embedding."""
+def similar(outfit_id: UUID, slot: Slot, person: int = 1, color: str | None = None, limit: int = 5):
+    """AI alternatives: same category and gender, in stock, other brands (one per brand first), ranked by
+    CLIP similarity with a bonus for popular brands."""
     return fetch_all(
         f"""with hero as (
-              select p.id, p.brand_id, p.embedding, p.category, p.price_uah
+              select p.id, p.brand_id, p.embedding, p.category, p.gender, p.price_uah
               from outfit_items oi join products p on p.id = oi.product_id
-              where oi.outfit_id = %(outfit)s and oi.slot = %(slot)s
-            ), ranked as (
+              where oi.outfit_id = %(outfit)s and oi.person = %(person)s and oi.slot = %(slot)s
+            ), pop as ({BRAND_POPULARITY}), ranked as (
               select {PRODUCT_COLS},
                      p.price_uah - hero.price_uah as price_diff,
-                     p.embedding <=> hero.embedding as distance,
-                     row_number() over (partition by p.brand_id order by p.embedding <=> hero.embedding) as brand_rank
-              from products p join brands b on b.id = p.brand_id, hero
+                     1 - (p.embedding <=> hero.embedding) as similarity,
+                     row_number() over (partition by p.brand_id order by p.embedding <=> hero.embedding) as brand_rank,
+                     coalesce(pop.score, 0) as brand_score
+              from products p join brands b on b.id = p.brand_id left join pop on pop.brand_id = p.brand_id, hero
               where p.category = hero.category and p.in_stock and p.brand_id <> hero.brand_id
                 and p.embedding is not null
+                and (hero.gender is null or p.gender is null or hero.gender = 'unisex'
+                     or p.gender in (hero.gender, 'unisex'))
                 and (%(color)s::text is null or p.color = %(color)s)
             )
             select id, title, brand, category, color, price_uah, image_url, product_url, is_demo,
-                   price_diff, round((1 - distance)::numeric, 3)::float as similarity
-            from ranked order by brand_rank, distance limit %(limit)s""",
-        {"outfit": outfit_id, "slot": slot, "color": color, "limit": min(limit, 20)},
+                   price_diff, round(similarity::numeric, 3)::float as similarity
+            from ranked
+            order by brand_rank, similarity + {POPULARITY_WEIGHT} * brand_score desc
+            limit %(limit)s""",
+        {"outfit": outfit_id, "slot": slot, "person": person, "color": color, "limit": min(limit, 20)},
     )
 
 
@@ -174,6 +221,38 @@ def save(outfit_id: UUID, user: dict = Depends(current_user)):
 @app.delete("/saved/{outfit_id}")
 def unsave(outfit_id: UUID, user: dict = Depends(current_user)):
     execute("delete from saved_outfits where user_id = %s and outfit_id = %s", (user["sub"], outfit_id))
+    return {"ok": True}
+
+
+@app.get("/cart")
+def list_cart(user: dict = Depends(current_user)):
+    return fetch_all(
+        f"""select {PRODUCT_COLS}, c.outfit_id, c.slot
+            from cart_items c join products p on p.id = c.product_id join brands b on b.id = p.brand_id
+            where c.user_id = %s order by c.created_at desc""",
+        (user["sub"],),
+    )
+
+
+class CartIn(BaseModel):
+    product_id: UUID
+    outfit_id: UUID | None = None
+    slot: Slot | None = None
+
+
+@app.post("/cart")
+def add_to_cart(body: CartIn, user: dict = Depends(current_user)):
+    execute(
+        """insert into cart_items (user_id, product_id, outfit_id, slot) values (%s, %s, %s, %s)
+           on conflict do nothing""",
+        (user["sub"], body.product_id, body.outfit_id, body.slot),
+    )
+    return {"ok": True}
+
+
+@app.delete("/cart/{product_id}")
+def remove_from_cart(product_id: UUID, user: dict = Depends(current_user)):
+    execute("delete from cart_items where user_id = %s and product_id = %s", (user["sub"], product_id))
     return {"ok": True}
 
 

@@ -22,8 +22,8 @@ export default function LandingPage() {
         <Link to="/auth?mode=signin" className="link-strong">Увійти</Link>
       </header>
       <section className="landing-hero">
-        <h1>Обираєш образ — і одягаєшся в українське за кілька хвилин</h1>
-        <p className="lead">Трендові образи на сезон, зібрані виключно з речей українських брендів. Для кожної речі AI підбирає схожі альтернативи в інших брендів.</p>
+        <h1>Виглядай красиво за лічені хвилини</h1>
+        <p className="lead">Трендові образи на сезон, зібрані виключно з речей українських брендів. Для кожної речі підберемо для вас схожі альтернативи в інших брендах.</p>
         <ul className="benefits">
           {BENEFITS.map(([t, d]) => <li key={t}><strong>{t}</strong><span>{d}</span></li>)}
         </ul>

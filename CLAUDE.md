@@ -28,6 +28,15 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
   other brands, one per brand first.
 - Evidence: users, events (outfit_view, swap, donate_click, feedback_open), clicks (is_alternative), feedback (rating, would_buy).
 - Images: demo images are our own illustrations in `data/demo/img`, served from S3/CloudFront under `/img/` (seed-demo.sh).
+- Real catalog: `data/database/products.json` (Andrii's scraper, `data/database/merge.py`) -> `backend/ml/import_brand_db.py`
+  (accessories, no-UAH-price and out-of-stock items skipped; colours mapped to the site's keys; "dress" slot = сукня/комплект/
+  комбінезон/костюм, replaces top+bottom). Brand popularity = Instagram followers in `data/database/brand_popularity.json`.
+- Alternatives ranking: CLIP similarity + 0.05 × brand popularity (70% followers, 30% our clicks), same gender, one per brand first.
+- Feed: Жінкам / Чоловікам / Парам toggle (outfits.gender); couple outfits = two looks (outfit_items.person 1/2).
+  Sort/colour filters in a «Фільтри» sheet. Header: saved ♡, profile (name, surname, phone in users), cart (cart_items).
+  Brand pages open only from the cart (clicks are still logged via /clicks).
+- Fonts: KyivType Titling Bold (logo) + Montserrat (everything else), self-hosted in `frontend/src/assets/fonts`;
+  source archives in `design/fonts/` (gitignored).
 - Budget alarm $30/month (50/80/100%) to the email in terraform.tfvars.
 
 ## Conventions
@@ -35,6 +44,8 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - AWS CLI profile `guglya` (IAM user guglya-admin; never root). `export AWS_PROFILE=guglya`.
 - Never commit .env*, *.tfstate*, .terraform/, terraform.tfvars, keys. Budget email lives only in terraform.tfvars.
 - Only product photos we may use (brand permission or our own). Demo data: brands/products is_demo=true, links go to /demo/<id>.
+- Brand photos (18 Nov): the faculty confirmed with businesses that brand product photos may be shown at this student-project
+  stage; before going further we write to each brand individually.
 
 ## Decisions / deviations
 - Demo images are generated flat illustrations (no reliable verifiable free photo set for 60 specific items).

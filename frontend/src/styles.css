@@ -1,3 +1,12 @@
+@font-face {
+  font-family: "KyivType Titling"; font-weight: 700; font-style: normal; font-display: swap;
+  src: url("./assets/fonts/KyivTypeTitling-Bold.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Montserrat"; font-weight: 100 900; font-style: normal; font-display: swap;
+  src: url("./assets/fonts/Montserrat-Variable.woff") format("woff");
+}
+
 :root {
   --bg: #ffffff;
   --soft: #f5f2ed;
@@ -7,8 +16,9 @@
   --accent: #e0492b; /* the one accent colour */
   --accent-ink: #ffffff;
   --radius: 14px;
-  --display: "Cormorant Garamond", Georgia, serif;
-  --sans: "Inter", system-ui, -apple-system, sans-serif;
+  --logo: "KyivType Titling", Georgia, serif;
+  --display: "Montserrat", system-ui, -apple-system, sans-serif;
+  --sans: "Montserrat", system-ui, -apple-system, sans-serif;
   --header-h: 56px;
 }
 
@@ -51,21 +61,17 @@ h1, h2, h3 { margin: 0; }
   display: flex; align-items: center; justify-content: space-between; padding: 0 8px 0 16px;
   background: rgba(255, 255, 255, .92); backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
 }
-.logo { font-family: var(--display); font-weight: 600; font-size: 30px; letter-spacing: .3px; line-height: 1; min-height: 44px; display: inline-flex; align-items: center; }
+.logo { font-family: var(--logo); font-weight: 700; font-size: 30px; letter-spacing: .3px; line-height: 1; min-height: 44px; display: inline-flex; align-items: center; }
 .logo.big { font-size: 56px; text-align: center; display: block; }
 .topnav { display: flex; align-items: center; gap: 2px; }
 .iconbtn { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; flex: none; }
 .iconbtn:hover { background: var(--soft); }
 .pill { min-height: 36px; padding: 0 14px; margin-right: 4px; border-radius: 999px; background: var(--accent); color: #fff; font-size: 13px; font-weight: 600; }
-.menu-backdrop { position: fixed; inset: 0; z-index: 1; }
-.menu {
-  position: absolute; right: 8px; top: calc(var(--header-h) - 4px); z-index: 2; min-width: 240px;
-  background: #fff; border: 1px solid var(--line); border-radius: 16px; padding: 6px; box-shadow: 0 12px 32px rgba(0,0,0,.12);
-  display: grid;
+.cart-btn { position: relative; }
+.cart-count {
+  position: absolute; top: 4px; right: 2px; min-width: 18px; height: 18px; padding: 0 5px; border-radius: 999px;
+  background: var(--accent); color: #fff; font-size: 11px; font-weight: 700; display: grid; place-items: center;
 }
-.menu a, .menu button { text-align: left; padding: 0 14px; min-height: 46px; display: flex; align-items: center; border-radius: 10px; font-size: 15px; }
-.menu a:hover, .menu button:hover { background: var(--soft); }
-.menu-email { font-size: 12px; color: var(--muted); padding: 10px 14px 6px; overflow: hidden; text-overflow: ellipsis; }
 
 .footer { padding: 32px 16px 96px; text-align: center; font-size: 12px; color: var(--muted); }
 .fab {
@@ -118,6 +124,10 @@ body.has-bar .fab .fab-label { display: none; }
 }
 .chip.color { min-height: 44px; padding: 0 12px 0 10px; font-size: 13px; }
 .chip.on { border-color: var(--ink); background: var(--ink); color: #fff; }
+.chips.wrap { flex-wrap: wrap; }
+.feed-toolbar { align-items: center; }
+.feed-toolbar .seg button { min-height: 32px; padding: 0 14px; }
+.sheet-actions { display: flex; gap: 10px; margin-top: 6px; }
 .swatch { width: 18px; height: 18px; border-radius: 50%; border: 1px solid rgba(0,0,0,.15); }
 
 /* Feed */
@@ -132,6 +142,11 @@ body.has-bar .fab .fab-label { display: none; }
 .cover { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; background: var(--soft); }
 .collage { display: grid; grid-template-columns: 1fr 1fr; gap: 2px; }
 .collage img { width: 100%; height: 100%; object-fit: cover; }
+.collage.pair { gap: 8px; }
+.collage-look { display: flex; flex-direction: column; gap: 2px; min-height: 0; }
+.collage-look img { flex: 1; min-height: 0; object-fit: contain; }
+.look + .look { border-top: 8px solid var(--soft); padding-top: 8px; }
+.look-title { font-family: var(--display); font-size: 20px; font-weight: 600; margin: 12px 0 2px; }
 .outfit-card-body { padding: 14px 16px 16px; background: #fff; border: 1px solid var(--line); border-top: 0; border-radius: 0 0 18px 18px; }
 .outfit-card h3 { font-family: var(--display); font-size: 26px; font-weight: 600; line-height: 1.1; margin: 2px 0 6px; }
 .check-line { margin: 0; font-size: 15px; }
@@ -186,8 +201,23 @@ body.has-bar .fab .fab-label { display: none; }
 .item-meta .price { font-weight: 700; font-size: 16px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px; }
 .diff { font-size: 12px; font-weight: 600; color: var(--muted); }
 .diff.cheaper { color: var(--accent); }
-.to-brand { min-height: 44px; border-top: 1px solid var(--line); font-size: 13px; font-weight: 600; }
-.to-brand:hover { background: var(--soft); }
+.to-cart { min-height: 44px; border-top: 1px solid var(--line); font-size: 13px; font-weight: 600;
+  display: flex; align-items: center; justify-content: center; gap: 6px; }
+.to-cart:hover { background: var(--soft); }
+.to-cart.on { background: var(--ink); color: #fff; }
+
+/* Cart + profile */
+.page.narrow { max-width: 560px; }
+.cart-list li { gap: 4px; }
+.cart-item { flex: 1; min-width: 0; display: flex; gap: 12px; align-items: center; text-align: left; padding: 6px; margin: -6px; border-radius: 12px; }
+.cart-item:hover { background: var(--soft); }
+.cart-item > .grow { font-size: 14px; display: grid; gap: 2px; }
+.cart-go { font-size: 18px; color: var(--muted); }
+.cart-list .iconbtn { font-size: 24px; color: var(--muted); }
+.profile-links { display: grid; margin-top: 12px; }
+.profile-links button { text-align: left; min-height: 48px; border-bottom: 1px solid var(--line); font-size: 15px; }
+.auth-form input:disabled { color: var(--muted); background: var(--soft); }
+.btn.full { width: 100%; margin-top: 14px; }
 .empty { align-self: center; font-size: 13px; padding: 0 8px; max-width: 160px; }
 
 /* «АутфітЧек» sticky bar */
@@ -246,6 +276,7 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 .reels-toolbar .chips { margin: 0; padding: 10px 12px; }
 .reels-toolbar .chip { background: rgba(255,255,255,.88); backdrop-filter: blur(6px); border-color: transparent; }
 .reels-toolbar .chip.on { background: var(--ink); color: #fff; }
+.reels-toolbar .seg { background: rgba(255,255,255,.88); backdrop-filter: blur(6px); }
 .reel {
   position: relative; height: calc(100dvh - var(--header-h)); scroll-snap-align: start; scroll-snap-stop: always;
   overflow: hidden; touch-action: pan-y;
