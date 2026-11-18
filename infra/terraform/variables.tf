@@ -50,5 +50,5 @@ variable "domain_delegated" {
 variable "agent_model_id" {
   description = "Bedrock inference profile the outfit agent uses to read look photos"
   type        = string
-  default     = "eu.anthropic.claude-sonnet-5-5"
+  default     = "eu.anthropic.claude-sonnet-4-6"
 }

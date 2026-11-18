@@ -17,7 +17,7 @@ import jwt
 import torch
 from transformers import CLIPModel, CLIPTokenizerFast
 
-MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-5-5")
+MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-4-6")
 CLIP = "patrickjohncyh/fashion-clip"
 ISSUER = f"https://cognito-idp.{os.environ['COGNITO_REGION']}.amazonaws.com/{os.environ['COGNITO_USER_POOL_ID']}"
 JWKS = jwt.PyJWKSet.from_json(os.environ["COGNITO_JWKS"])
