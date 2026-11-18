@@ -35,8 +35,8 @@ You get a photo of a look. List the clothing pieces so we can find the closest r
 Rules:
 - Slots, one piece each per person:
   hat: any headwear.
-  scarf: a scarf, snood, kerchief or stole worn around the neck or shoulders (item_type: Шарф, Снуд, Хустка,
-       Палантин).
+  scarf: a scarf, snood, kerchief or stole worn around the neck or shoulders. item_type: Шарф (long knitted or
+       woven scarf), Снуд (closed loop), Хустка (square silk / printed kerchief), Палантин (wide stole).
   outer: the outermost layer: coat, trench, jacket, puffer, bomber (not blazers).
   jacket: a blazer (піджак), worn alone or under a coat.
   top: the layer under it: sweater, turtleneck, shirt, t-shirt, hoodie, cardigan, blouse. List it whenever it
