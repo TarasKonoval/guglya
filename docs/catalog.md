@@ -60,9 +60,11 @@ brand_popularity.json ───────────────────�
 
 ## Сумки й шарфи
 - `kind` у brands.json: `bags` / `scarves` (як `hats`): scraper.js не обмежує їм аксесуари 30-ма.
-- На сайті **немає слота для сумок і шарфів**: `import_brand_db.py` пропускає слот `other`. Бренди сумок і шарфів
-  (Mastak, Leonchenko, DIKO, The Blub, Lona Prist, Brutalist, Kozhuhar, RE MI, Lovandbag, Famo, My Scarf, DOLYA,
-  Bobkova) лежать у data/database, але **не імпортовані** — вирішимо разом, коли зʼявиться слот.
+- **Сумки — слот `bag`** (міграція 009, як у data/database/README.md): імпорт бере `slot: "bag"`, а сумки старих
+  зборів (`other` + «Сумка») розпізнає за назвою й ставить вид: Сумка / Кросбоді / Шопер / Клатч / Рюкзак;
+  гаманці, чохли, ремені — не сумки. Альтернативи — лише того ж виду. Конструктор образів теж додає сумку.
+- **Шарфи слота не мають**: бренди шарфів (Famo, My Scarf, DOLYA, Bobkova, OLIZ) лежать у data/database, на сайті
+  приховані — вирішимо разом (у Famo й Bobkova переважно одяг).
 - `--only id1,id2` в import_brand_db.py і classify_gender.py: імпорт/стать лише цих брендів (не чіпає чужі —
   коли хтось паралельно імпортує свої).
 
