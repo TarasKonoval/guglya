@@ -10,7 +10,7 @@ from .auth import admin_user, current_user, is_admin, optional_user
 from .config import settings
 from .db import execute, fetch_all, fetch_one, transaction
 
-Slot = Literal["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"]
+Slot = Literal["hat", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
 PRODUCT_COLS = """p.id, p.title, b.name as brand, p.category, p.color, p.price_uah,
                   p.image_url, p.product_url, p.is_demo"""
 
@@ -25,7 +25,7 @@ OUTFIT_SUMMARY = """
           + 5 * (select count(*) from clicks c where c.outfit_id = o.id))::int as popularity,
          coalesce(json_agg(json_build_object('person', oi.person, 'slot', oi.slot, 'image_url', p.image_url,
                                              'brand', b.name, 'price_uah', p.price_uah)
-                  order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes'], oi.slot))
+                  order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes','bag'], oi.slot))
                   filter (where p.id is not null), '[]') as items
   from outfits o
   left join outfit_items oi on oi.outfit_id = o.id
@@ -144,6 +144,11 @@ TYPE_GROUPS = {
     "beanie": ["Шапка", "Балаклава"],
     "cap": ["Кепка", "Бейсболка"],
     "brimmed": ["Капелюх", "Панама"],
+    "handbag": ["Сумка", "Сумка на плече"],
+    "crossbody": ["Кросбоді", "Бананка"],
+    "tote": ["Шопер"],
+    "clutch": ["Клатч"],
+    "backpack": ["Рюкзак"],
 }
 GROUP_OF = {t.lower(): g for g, types in TYPE_GROUPS.items() for t in types}
 # Shop types are sometimes too broad ("Брюки" for fleece joggers, "Взуття" for anything): the title decides first
@@ -479,7 +484,7 @@ def admin_get_outfit(outfit_id: UUID, _: dict = Depends(admin_user)):
                    oi.query_vector::text as query_vector, oi.query_text, oi.query_color
             from outfit_items oi join products p on p.id = oi.product_id join brands b on b.id = p.brand_id
             where oi.outfit_id = %s
-            order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes'], oi.slot)""",
+            order by oi.person, array_position(array['hat','outer','jacket','top','dress','bottom','shoes','bag'], oi.slot)""",
         (outfit_id,),
     )
     return outfit

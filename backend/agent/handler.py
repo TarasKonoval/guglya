@@ -22,7 +22,7 @@ MODEL_ID = os.environ.get("MODEL_ID", "eu.anthropic.claude-sonnet-4-6")
 CLIP = "patrickjohncyh/fashion-clip"
 ISSUER = f"https://cognito-idp.{os.environ['COGNITO_REGION']}.amazonaws.com/{os.environ['COGNITO_USER_POOL_ID']}"
 JWKS = jwt.PyJWKSet.from_json(os.environ["COGNITO_JWKS"])
-SLOTS = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes"]
+SLOTS = ["hat", "outer", "jacket", "top", "dress", "bottom", "shoes", "bag"]
 COLORS = ["black", "white", "grey", "beige", "brown", "blue", "green", "red", "burgundy",
           "pink", "purple", "yellow", "orange"]
 
@@ -42,12 +42,14 @@ Rules:
   dress: dress, jumpsuit, matching set, or a suit (matching blazer + trousers, also a three-piece).
   bottom: trousers, jeans, skirt, shorts.
   shoes.
+  bag: handbag, shoulder bag, crossbody, shopper/tote, clutch or backpack (item_type in Ukrainian: Сумка, Кросбоді,
+       Шопер, Клатч, Рюкзак).
 - A suit is listed THREE times so the admin can pick the whole suit or separates: the whole suit as dress, its
   blazer as jacket, its trousers as bottom, with part_of_suit = true on the blazer and the trousers. A dress or
   jumpsuit is listed once, as dress (a separate blazer over a dress is a normal jacket, part_of_suit = false).
 - Layering example: long coat over a brown suit over a white turtleneck = outer (coat) + dress (suit) + jacket
   (brown blazer) + bottom (brown trousers) + top (turtleneck) + shoes.
-- Skip bags, jewellery, belts, scarves, glasses, socks.
+- Skip jewellery, belts, scarves, glasses, socks (list the bag).
 - Only pieces you can actually see. If shoes are cut off, leave them out.
 - person: 1 for a single look. For a couple: 1 = the person on the left, 2 = on the right.
 - description: short English product-style text for image search, e.g. "long beige wool trench coat with belt".

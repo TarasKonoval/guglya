@@ -63,6 +63,28 @@ def title_color(name: str) -> str | None:
     return min(hits)[1] if hits else None
 
 
+# Bags (slot "bag", data/database convention). Older scrapes put them into "other" as "Сумка" or untyped:
+# the title decides, and gives the kind of bag (used to keep alternatives within the same kind).
+BAG_KINDS = [
+    (re.compile(r"рюкзак|backpack", re.I), "Рюкзак"),
+    (re.compile(r"шопер|tote|торба", re.I), "Шопер"),
+    (re.compile(r"клатч|clutch", re.I), "Клатч"),
+    (re.compile(r"кросбоді|crossbody|бананк|поясн|belt bag|слінг|sling", re.I), "Кросбоді"),
+    (re.compile(r"сумк|\bbag\b|багет|хобо|hobo", re.I), "Сумка"),
+]
+NOT_BAG = re.compile(r"гаман|wallet|картхолдер|кардхолдер|чохол|косметичк|ключниц|обкладинк|ремінь|брелок", re.I)
+
+
+def bag_kind(p: dict) -> str | None:
+    """'Рюкзак' / 'Шопер' / ... if this product is a bag, else None."""
+    name = p.get("name") or ""
+    if p.get("slot") not in ("bag", "other") or NOT_BAG.search(name):
+        return None
+    # the scraped item_type of accessories is unreliable (a backpack typed "Ремінь"): the title decides
+    hit = next((kind for rx, kind in BAG_KINDS if rx.search(name)), None)
+    return hit or ("Сумка" if p.get("slot") == "bag" else None)
+
+
 # One piece that replaces top + bottom in an outfit
 DRESS_TYPES = {"Сукня", "Комплект", "Комбінезон", "Спортивний костюм", "Класичний костюм"}
 # The layer worn over a top or a dress/suit ("outer" slot); keep in sync with migration 006
@@ -80,21 +102,22 @@ def brand_gender(b: dict) -> str:
 
 
 def to_row(p: dict, brand: dict) -> tuple | None:
-    if p.get("slot") not in ("hat", "top", "bottom", "shoes") or p.get("in_stock") is False:
+    bag = bag_kind(p)
+    if (p.get("slot") not in ("hat", "top", "bottom", "shoes") and not bag) or p.get("in_stock") is False:
         return None
     price, sale = p.get("price_uah"), p.get("sale_price_uah")
     if not price or price < MIN_PRICE or not p.get("photos") or RUSSIAN.search(p.get("name") or ""):
         return None
     on_sale = bool(sale) and MIN_PRICE <= sale < price
-    kind = p.get("item_type")
-    category = ("dress" if kind in DRESS_TYPES else
+    kind = bag or p.get("item_type")
+    category = ("bag" if bag else "dress" if kind in DRESS_TYPES else
                 "outer" if p["slot"] == "top" and kind in OUTER_TYPES else
                 "jacket" if p["slot"] == "top" and kind in JACKET_TYPES else p["slot"])
     color = title_color(p.get("name") or "") or next((COLOR[c] for c in p.get("colors") or [] if c in COLOR), None)
     return (
         p["name"] or p.get("item_type") or "Річ", category, color, sale if on_sale else price,
         price if on_sale else None, p["photos"][0], p["photos"], p["source_url"],
-        GENDER.get(p.get("gender")) or brand_gender(brand), p.get("item_type"), p.get("sizes") or None,
+        GENDER.get(p.get("gender")) or brand_gender(brand), kind, p.get("sizes") or None,
     )
 
 
