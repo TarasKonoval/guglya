@@ -104,8 +104,13 @@ SCARF_KINDS = [
 NOT_SCARF = re.compile(r"бандан|для волосся|пов.язк|резинк|паше|нагрудн|маск|брелок|кольє|чокер|visor|козир|сережк|браслет", re.I)
 
 
+SCARVES_ON = False  # scarves are switched off on the site for now (19 Nov); True brings the scarf slot back
+
+
 def scarf_kind(p: dict, brand: dict | None = None) -> str | None:
     """'Шарф' / 'Снуд' / 'Хустка' / 'Палантин' if this product is a scarf, else None."""
+    if not SCARVES_ON:
+        return None
     name = re.sub(re.escape(p.get("brand") or ""), " ", p.get("name") or "", flags=re.I)  # "My Scarf" is a brand
     if p.get("slot") not in ("scarf", "other") or NOT_SCARF.search(name):
         return None
