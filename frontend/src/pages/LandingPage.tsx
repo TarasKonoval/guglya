@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { api, img, type OutfitSummary } from "../lib/api";
+import { api, img, track, type OutfitSummary } from "../lib/api";
 import OutfitCard from "../components/OutfitCard";
 
 const BENEFITS = [
@@ -25,6 +25,7 @@ export default function LandingPage() {
   const [slide, setSlide] = useState(0);
 
   useEffect(() => {
+    track("landing_view");
     api<OutfitSummary[]>("/outfits?limit=60")
       .then((all) => {
         // a different selection on every visit
@@ -66,7 +67,7 @@ export default function LandingPage() {
       )}
       <div className="landing-copy">
         <header className="landing-top"><span className="logo">Ґуґля</span>
-          <Link to="/auth?mode=signin" className="link-strong">Увійти</Link>
+          <Link to="/auth?mode=signin" className="link-strong" onClick={() => track("signin_click", {}, { where: "header" })}>Увійти</Link>
         </header>
         <section className="landing-hero">
           <h1>Виглядай красиво за лічені хвилини</h1>
@@ -75,8 +76,8 @@ export default function LandingPage() {
             {BENEFITS.map(([t, d]) => <li key={t}><strong>{t}</strong><span>{d}</span></li>)}
           </ul>
           <div className="cta">
-            <Link to="/auth?mode=signup" className="btn primary">Зареєструватися</Link>
-            <Link to="/auth?mode=signin" className="btn ghost">Увійти</Link>
+            <Link to="/auth?mode=signup" className="btn primary" onClick={() => track("signup_click")}>Зареєструватися</Link>
+            <Link to="/auth?mode=signin" className="btn ghost" onClick={() => track("signin_click", {}, { where: "hero" })}>Увійти</Link>
           </div>
         </section>
       </div>

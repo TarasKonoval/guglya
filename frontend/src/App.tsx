@@ -13,6 +13,7 @@ import SavedPage from "./pages/SavedPage";
 import ProfilePage from "./pages/ProfilePage";
 import CartPage from "./pages/CartPage";
 import AdminPage from "./pages/AdminPage";
+import AnalyticsPage from "./pages/AnalyticsPage";
 import DemoProductPage from "./pages/DemoProductPage";
 import FeedbackModal from "./components/FeedbackModal";
 import { BagIcon, ChatIcon, HeartIcon, UserIcon } from "./components/Icons";
@@ -88,11 +89,13 @@ export default function App() {
         <Route path="/profile" element={<ProfilePage onFeedback={() => openFeedback("manual")} />} />
         <Route path="/cart" element={<CartPage />} />
         <Route path="/admin" element={<AdminPage />} />
+        <Route path="/admin/analytics" element={<AnalyticsPage />} />
         <Route path="/demo/:productId" element={<DemoProductPage />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
       <footer className="footer">
         Ґуґля — студентський проєкт, 2026. Речі та фото — від українських брендів, купівля на їхніх сайтах.
+        {import.meta.env.VITE_CLARITY_ID && " Збираємо знеособлену статистику користування сайтом (Microsoft Clarity), щоб його покращувати."}
       </footer>
       <button className="fab" aria-label="Відгук" onClick={() => openFeedback("manual")}><ChatIcon /> <span className="fab-label">Відгук</span></button>
       {feedback && <FeedbackModal auto={feedback === "auto"} onClose={() => setFeedback(null)} />}

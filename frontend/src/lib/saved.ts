@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from "react";
-import { api, type OutfitSummary } from "./api";
+import { api, track, type OutfitSummary } from "./api";
 
 /** Ids of the signed-in user's saved outfits, with an optimistic toggle. */
 export function useSaved() {
@@ -20,6 +20,7 @@ export function useSaved() {
         else n.delete(id);
         return n;
       });
+      track(on ? "save" : "unsave", { outfit_id: id });
       await api(`/saved/${id}`, { method: on ? "POST" : "DELETE" }).catch(() => {});
     },
     [saved],

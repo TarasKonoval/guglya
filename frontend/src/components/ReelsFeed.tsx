@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { useNavigate } from "react-router-dom";
 import { formatUah, img, things, type OutfitSummary } from "../lib/api";
+import { useImpression } from "../lib/impressions";
 import OutfitCover from "./OutfitCover";
 import { ChatIcon, HeartIcon } from "./Icons";
 
@@ -51,17 +52,19 @@ export default function ReelsFeed({ outfits, saved, onToggleSave, onFeedback, to
     <div className="reels" ref={box} onScroll={onScroll}>
       <div className={`reels-toolbar ${barAway ? "away" : ""}`}>{toolbar}</div>
       {outfits.map((o, i) => (
-        <Reel key={o.id} outfit={o} first={i === 0} saved={saved.has(o.id)}
+        <Reel key={o.id} outfit={o} position={i} first={i === 0} saved={saved.has(o.id)}
           onToggleSave={() => onToggleSave(o.id)} onFeedback={onFeedback} />
       ))}
     </div>
   );
 }
 
-type ReelProps = { outfit: OutfitSummary; first: boolean; saved: boolean; onToggleSave: () => void; onFeedback: () => void };
+type ReelProps = { outfit: OutfitSummary; position: number; first: boolean; saved: boolean; onToggleSave: () => void; onFeedback: () => void };
 
-function Reel({ outfit, first, saved, onToggleSave, onFeedback }: ReelProps) {
+function Reel({ outfit, position, first, saved, onToggleSave, onFeedback }: ReelProps) {
   const navigate = useNavigate();
+  const ref = useRef<HTMLElement>(null);
+  useImpression(ref, outfit.id, "reels", position, true);
   const start = useRef<{ x: number; y: number } | null>(null);
   const axis = useRef<"h" | "v" | null>(null);
   const drag = useRef(0); // latest offset; state lags behind fast flicks
@@ -97,7 +100,7 @@ function Reel({ outfit, first, saved, onToggleSave, onFeedback }: ReelProps) {
   };
 
   return (
-    <section className="reel" onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
+    <section className="reel" ref={ref} onTouchStart={onTouchStart} onTouchMove={onTouchMove} onTouchEnd={onTouchEnd}>
       {/* revealed behind the outfit while swiping left */}
       <div className="reel-under" aria-hidden>
         <span>Усі речі</span>

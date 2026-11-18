@@ -1,13 +1,17 @@
+import { useRef } from "react";
 import { Link } from "react-router-dom";
+import { useImpression } from "../lib/impressions";
 import { formatUah, things, type OutfitSummary } from "../lib/api";
 import OutfitCover from "./OutfitCover";
 import { HeartIcon } from "./Icons";
 
-type Props = { outfit: OutfitSummary; saved?: boolean; onToggleSave?: () => void; to?: string };
+type Props = { outfit: OutfitSummary; saved?: boolean; onToggleSave?: () => void; to?: string; position?: number };
 
-export default function OutfitCard({ outfit, saved, onToggleSave, to }: Props) {
+export default function OutfitCard({ outfit, saved, onToggleSave, to, position }: Props) {
+  const ref = useRef<HTMLElement>(null);
+  useImpression(position === undefined ? { current: null } : ref, outfit.id, "grid", position ?? -1);
   return (
-    <article className="outfit-card">
+    <article className="outfit-card" ref={ref}>
       <Link to={to ?? `/outfit/${outfit.id}`} className="outfit-card-link">
         <OutfitCover outfit={outfit} />
         <div className="outfit-card-body">

@@ -67,11 +67,51 @@ export type Person = 1 | 2;
 export type Look = { person: Person; products: Partial<Record<Slot, Product>> };
 export type Outfit = OutfitSummary & { looks: Look[] };
 
-export type EventType = "outfit_view" | "swap" | "donate_click" | "feedback_open";
+export type EventType =
+  | "outfit_view" | "swap" | "donate_click" | "feedback_open"
+  | "outfit_impression" | "reel_dwell" | "cart_add" | "cart_remove" | "save" | "unsave"
+  | "feed_tab" | "feed_sort" | "feed_color"
+  | "landing_view" | "signup_click" | "signin_click" | "signup_submit" | "code_sent" | "code_confirmed" | "signin_done";
+type Meta = Record<string, string | number | boolean | null>;
+type Ids = { outfit_id?: string; product_id?: string };
+
+/** A random id per browser: links the anonymous steps of the sign-up funnel with the signed-in ones. */
+const VISITOR_KEY = "guglya-vid";
+export const ANON_ID = (() => {
+  try {
+    const saved = localStorage.getItem(VISITOR_KEY);
+    if (saved) return saved;
+    const id = crypto.randomUUID();
+    localStorage.setItem(VISITOR_KEY, id);
+    return id;
+  } catch {
+    return crypto.randomUUID();
+  }
+})();
+
+// Feed impressions and reel dwell times: queued and sent in batches (every 5 s and when the page is left)
+let queue: object[] = [];
+const flush = (leaving = false) => {
+  if (!queue.length) return;
+  const body = JSON.stringify(queue.splice(0, 100));
+  if (leaving) {
+    // the page is going away: no auth header needed, the visitor id is enough
+    fetch(`${API}/events/batch`, { method: "POST", body, headers: { "Content-Type": "application/json" }, keepalive: true }).catch(() => {});
+  } else api("/events/batch", { method: "POST", body }).catch(() => {});
+};
+setInterval(() => flush(), 5000);
+addEventListener("pagehide", () => flush(true));
+document.addEventListener("visibilitychange", () => document.visibilityState === "hidden" && flush(true));
+
+/** Queue a high-volume event (impressions, dwell) for the next batch. */
+export function trackLater(type: EventType, ids: Ids = {}, meta?: Meta) {
+  queue.push({ type, ...ids, meta, anon_id: ANON_ID });
+  if (queue.length >= 50) flush();
+}
 
 /** Fire-and-forget analytics event (evidence for the report). */
-export function track(type: EventType, ids: { outfit_id?: string; product_id?: string } = {}) {
-  api("/events", { method: "POST", body: JSON.stringify({ type, ...ids }) }).catch(() => {});
+export function track(type: EventType, ids: Ids = {}, meta?: Meta) {
+  api("/events", { method: "POST", body: JSON.stringify({ type, ...ids, meta, anon_id: ANON_ID }) }).catch(() => {});
 }
 
 export const img = (url: string) => (url.startsWith("/") ? ASSET_BASE + url : url);
@@ -97,14 +137,14 @@ export function things(n: number) {
 }
 
 /** Log the click, then open the brand page in a new tab (window opened synchronously to dodge popup blockers). */
-export async function openProduct(p: Product, outfitId?: string, slot?: Slot) {
+export async function openProduct(p: Product, outfitId?: string, slot?: Slot, source?: "card" | "cart" | "reel") {
   const win = window.open("", "_blank");
   let url = p.product_url;
   try {
     url = (
       await api<{ url: string }>("/clicks", {
         method: "POST",
-        body: JSON.stringify({ product_id: p.id, outfit_id: outfitId, slot }),
+        body: JSON.stringify({ product_id: p.id, outfit_id: outfitId, slot, source, anon_id: ANON_ID }),
       })
     ).url;
   } catch {

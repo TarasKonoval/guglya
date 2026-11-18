@@ -24,7 +24,7 @@ export default function ItemRow({ outfitId, person, gender, slot, original, pick
     const inCart = cart.some((i) => i.id === p.id);
     return {
       inCart, onCart: () => (inCart ? removeFromCart(p.id) : addToCart(p, outfitId, slot)),
-      onBrand: () => openProduct(p, outfitId, slot), // the click is logged, then the brand's product page opens
+      onBrand: () => openProduct(p, outfitId, slot, "card"), // the click is logged, then the brand's product page opens
     };
   };
 

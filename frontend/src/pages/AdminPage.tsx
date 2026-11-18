@@ -258,6 +258,7 @@ export default function AdminPage() {
             : "Завантаж фото образу — AI знайде схожі речі українських брендів (популярні бренди першими). Перевір і опублікуй."}
         </p>
         {editing && <button className="link-strong small" onClick={reset}>Скасувати редагування</button>}
+        {!editing && <Link to="/admin/analytics" className="link-strong small">Аналітика: перегляди, кліки, відгуки →</Link>}
       </section>
 
       <div className="admin-form pad-x">

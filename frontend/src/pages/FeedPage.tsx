@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { api, COLORS, type OutfitSummary } from "../lib/api";
+import { api, COLORS, track, type OutfitSummary } from "../lib/api";
 import { useSaved } from "../lib/saved";
 import { useMediaQuery } from "../lib/useMediaQuery";
 import OutfitCard from "../components/OutfitCard";
@@ -84,15 +84,18 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
   const pickGender = (g: Gender) => {
     setGender(g);
     localStorage.setItem(GENDER_KEY, g);
+    track("feed_tab", {}, { value: g });
   };
   const pickSort = (id: Sort) => {
     setSort(id);
     sessionStorage.setItem(SORT_KEY, id);
+    track("feed_sort", {}, { value: id });
   };
   const pickColor = (c: string) => {
     const next = c === color ? "" : c; // tap the active colour again to clear it
     setColor(next);
     sessionStorage.setItem(COLOR_KEY, next);
+    track("feed_color", {}, { value: next || "none" });
   };
   const colors = Object.keys(COLORS).filter((c) => outfits?.some((o) => o.colors.includes(c)));
   const shown = sorted((outfits ?? []).filter((o) => !color || o.colors.includes(color)), sort);
@@ -187,7 +190,7 @@ export default function FeedPage({ onFeedback }: { onFeedback: () => void }) {
         empty
       ) : (
         <div className="feed">
-          {shown.map((o) => <OutfitCard key={o.id} outfit={o} saved={saved.has(o.id)} onToggleSave={() => toggle(o.id)} />)}
+          {shown.map((o, i) => <OutfitCard key={o.id} outfit={o} position={i} saved={saved.has(o.id)} onToggleSave={() => toggle(o.id)} />)}
         </div>
       )}
       {filters}

@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { Link, useSearchParams } from "react-router-dom";
 import { confirmSignUp, resendSignUpCode, signIn, signUp } from "aws-amplify/auth";
 import { authErrorMessage } from "../lib/auth";
+import { track } from "../lib/api";
 import GoogleButton from "../components/GoogleButton";
 
 const RESEND_AFTER_S = 30;
@@ -39,6 +40,7 @@ export default function AuthPage() {
       return toCode(`Спершу підтверди email: ми надіслали новий код на ${username}.`);
     }
     if (nextStep.signInStep !== "DONE") setMsg({ error: "Не вдалося увійти. Спробуй ще раз." });
+    else track("signin_done");
     // On success the Hub "signedIn" event switches the app to the feed.
   }
 
@@ -49,10 +51,15 @@ export default function AuthPage() {
     try {
       if (confirming) {
         await confirmSignUp({ username, confirmationCode: code.trim() });
+        track("code_confirmed");
         await enter();
       } else if (mode === "signup") {
+        track("signup_submit");
         const { nextStep } = await signUp({ username, password, options: { userAttributes: { email: username } } });
-        if (nextStep.signUpStep === "CONFIRM_SIGN_UP") toCode(`Ми надіслали 6-значний код на ${username}. Перевір і «Спам».`);
+        if (nextStep.signUpStep === "CONFIRM_SIGN_UP") {
+          track("code_sent");
+          toCode(`Ми надіслали 6-значний код на ${username}. Перевір і «Спам».`);
+        }
         else await enter();
       } else {
         await enter();
@@ -127,6 +134,10 @@ export default function AuthPage() {
             <button className="btn primary" type="submit" disabled={busy}>
               {busy ? "Зачекай…" : mode === "signup" ? "Зареєструватися" : "Увійти"}
             </button>
+            {import.meta.env.VITE_CLARITY_ID && (
+              <p className="hint">Ми збираємо знеособлену статистику користування сайтом (Microsoft Clarity: кліки й прокрутка),
+                щоб робити його зручнішим. Паролі й введений текст не записуються.</p>
+            )}
           </>
         )}
       </form>

@@ -2,7 +2,7 @@ from typing import Literal
 from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 from uuid import UUID, uuid4
 
-from fastapi import Depends, FastAPI, HTTPException
+from fastapi import Body, Depends, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
 
@@ -254,6 +254,8 @@ class ClickIn(BaseModel):
     product_id: UUID
     outfit_id: UUID | None = None
     slot: Slot | None = None
+    source: Literal["card", "cart", "reel"] | None = None  # item card icon / cart / reel
+    anon_id: str | None = Field(default=None, pattern=r"^[a-z0-9-]{8,40}$")
 
 
 @app.post("/clicks")
@@ -263,30 +265,59 @@ def click(body: ClickIn, user: dict | None = Depends(optional_user)):
     if not product:
         raise HTTPException(404, "Product not found")
     execute(
-        """insert into clicks (user_id, product_id, outfit_id, slot, is_alternative)
+        """insert into clicks (user_id, product_id, outfit_id, slot, is_alternative, source, anon_id)
            values (%(u)s, %(p)s, %(o)s, %(s)s,
                    %(o)s::uuid is not null and not exists (
-                     select 1 from outfit_items where outfit_id = %(o)s and product_id = %(p)s))""",
-        {"u": user["sub"] if user else None, "p": body.product_id, "o": body.outfit_id, "s": body.slot},
+                     select 1 from outfit_items where outfit_id = %(o)s and product_id = %(p)s),
+                   %(src)s, %(a)s)""",
+        {"u": user["sub"] if user else None, "p": body.product_id, "o": body.outfit_id, "s": body.slot,
+         "src": body.source, "a": body.anon_id},
     )
     u = urlparse(product["product_url"])
     q = dict(parse_qsl(u.query)) | {"utm_source": "guglya", "utm_medium": "referral", "utm_campaign": "outfit"}
     return {"url": urlunparse(u._replace(query=urlencode(q)))}
 
 
+EventType = Literal[
+    "outfit_view", "swap", "donate_click", "feedback_open",
+    "outfit_impression", "reel_dwell", "cart_add", "cart_remove", "save", "unsave",
+    "feed_tab", "feed_sort", "feed_color",
+    "landing_view", "signup_click", "signin_click", "signup_submit", "code_sent", "code_confirmed", "signin_done",
+]
+ANON_ID = r"^[a-z0-9-]{8,40}$"
+
+
 class EventIn(BaseModel):
-    type: Literal["outfit_view", "swap", "donate_click", "feedback_open"]
+    type: EventType
     outfit_id: UUID | None = None
     product_id: UUID | None = None
+    meta: dict[str, str | int | float | bool | None] | None = Field(default=None, max_length=8)  # small details
+    anon_id: str | None = Field(default=None, pattern=ANON_ID)
+
+
+def insert_events(events: list[EventIn], user: dict | None) -> None:
+    import json
+
+    with transaction() as conn, conn.cursor() as cur:
+        cur.executemany(
+            "insert into events (user_id, type, outfit_id, product_id, meta, anon_id) values (%s, %s, %s, %s, %s, %s)",
+            [(user["sub"] if user else None, e.type, e.outfit_id, e.product_id,
+              json.dumps(e.meta, ensure_ascii=False) if e.meta else None, e.anon_id) for e in events],
+        )
 
 
 @app.post("/events")
 def event(body: EventIn, user: dict | None = Depends(optional_user)):
-    execute(
-        "insert into events (user_id, type, outfit_id, product_id) values (%s, %s, %s, %s)",
-        (user["sub"] if user else None, body.type, body.outfit_id, body.product_id),
-    )
+    insert_events([body], user)
     return {"ok": True}
+
+
+@app.post("/events/batch")
+def events_batch(body: list[EventIn] = Body(max_length=100), user: dict | None = Depends(optional_user)):
+    """Feed impressions and reel dwell times come in batches (every few seconds and when the page is left)."""
+    if body:
+        insert_events(body, user)
+    return {"ok": True, "n": len(body)}
 
 
 @app.get("/saved")
@@ -548,3 +579,57 @@ def admin_hide_product(product_id: UUID, body: HideIn, _: dict = Depends(admin_u
     execute("update products set is_hidden = %s, in_stock = not %s where id = %s and not is_demo",
             (body.hidden, body.hidden, product_id))
     return {"ok": True}
+
+
+# --- Admin: analytics (/admin/analytics page) ---
+
+@app.get("/admin/analytics")
+def admin_analytics(days: int | None = None, _: dict = Depends(admin_user)):
+    """Everything the «Аналітика» page shows, for the last `days` days (all time if empty)."""
+    since = {"d": days}
+    win = "(%(d)s::int is null or {t}.created_at >= now() - make_interval(days => %(d)s::int))"
+    ev, ck, fb, us = (win.format(t=t) for t in ("e", "k", "f", "u"))
+    one = lambda q: fetch_one(q, since)  # noqa: E731
+    totals = one(f"""select
+        (select count(*) from users u where {us}) as signups,
+        (select count(*) from users) as users_total,
+        (select count(distinct coalesce(e.user_id, e.anon_id)) from events e where e.type = 'outfit_view' and {ev}) as viewers,
+        (select count(distinct coalesce(k.user_id, k.anon_id)) from clicks k where {ck}) as clickers,
+        (select count(*) from clicks k where {ck}) as clicks,
+        (select count(*) from clicks k where k.is_alternative and {ck}) as alt_clicks,
+        (select count(*) from events e where e.type = 'outfit_view' and {ev}) as views,
+        (select count(*) from events e where e.type = 'outfit_impression' and {ev}) as impressions,
+        (select count(*) from events e where e.type = 'donate_click' and {ev}) as donate_clicks,
+        (select count(*) from feedback f where {fb}) as feedback,
+        (select round(avg(f.rating)::numeric, 2) from feedback f where {fb}) as avg_rating""")
+    outfits = fetch_all(f"""select o.id, o.title, o.gender,
+        count(*) filter (where e.type = 'outfit_impression') as impressions,
+        count(*) filter (where e.type = 'outfit_view') as views,
+        count(*) filter (where e.type = 'save') - count(*) filter (where e.type = 'unsave') as saves,
+        count(*) filter (where e.type = 'cart_add') as cart_adds,
+        count(*) filter (where e.type = 'swap') as swaps,
+        round(avg((e.meta->>'ms')::numeric) filter (where e.type = 'reel_dwell') / 1000, 1) as dwell_s,
+        (select count(*) from clicks k where k.outfit_id = o.id and {ck}) as clicks
+      from outfits o left join events e on e.outfit_id = o.id and {ev}
+      where o.is_published group by o.id order by views desc, impressions desc limit 50""", since)
+    brands = fetch_all(f"""select b.name, count(*) as clicks,
+        count(*) filter (where k.is_alternative) as alternative,
+        count(*) filter (where k.source = 'card') as from_card, count(*) filter (where k.source = 'cart') as from_cart
+      from clicks k join products p on p.id = k.product_id join brands b on b.id = p.brand_id
+      where {ck} group by 1 order by 2 desc limit 30""", since)
+    # sign-up funnel per browser (anon_id): landing -> sign-up click -> code sent -> confirmed -> outfit opened
+    steps = ["landing_view", "signup_click", "signup_submit", "code_sent", "code_confirmed", "outfit_view"]
+    funnel = fetch_one(
+        "select " + ", ".join(f"count(distinct e.anon_id) filter (where e.type = '{t}') as {t}" for t in steps)
+        + f" from events e where e.anon_id is not null and {ev}", since)
+    choices = fetch_all(f"""select e.type, e.meta->>'value' as value, count(*) as n from events e
+      where e.type in ('feed_tab', 'feed_sort', 'feed_color') and {ev} group by 1, 2 order by 1, 3 desc""", since)
+    feedback = fetch_all(f"""select f.created_at, f.rating, f.would_buy, f.text, o.title as outfit, u.email
+      from feedback f left join outfits o on o.id = f.outfit_id left join users u on u.id = f.user_id
+      where {fb} order by f.created_at desc limit 200""", since)
+    signups = fetch_all(f"""select u.email, u.first_name, u.last_name, u.created_at,
+        (select count(*) from events e where e.user_id = u.id and e.type = 'outfit_view') as views,
+        (select count(*) from clicks k where k.user_id = u.id) as clicks
+      from users u where {us} order by u.created_at desc limit 200""", since)
+    return {"totals": totals, "outfits": outfits, "brands": brands, "funnel": funnel, "choices": choices,
+            "feedback": feedback, "signups": signups}

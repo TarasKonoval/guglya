@@ -8,7 +8,7 @@ export default function CartPage() {
   const total = items.reduce((sum, p) => sum + p.price_uah, 0);
   const toBrand = (p: CartItem) => {
     bump("clicks");
-    openProduct(p, p.outfit_id ?? undefined, p.slot ?? undefined);
+    openProduct(p, p.outfit_id ?? undefined, p.slot ?? undefined, "cart");
   };
 
   return (
