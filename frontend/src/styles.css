@@ -94,6 +94,8 @@ body.has-bar .fab .fab-label { display: none; }
 .benefits span { font-size: 14px; color: var(--muted); }
 .cta { display: grid; gap: 10px; }
 .landing-example { margin-top: 28px; }
+.landing-copy { display: contents; }
+.landing-wall { display: none; }
 
 /* Auth */
 .auth { min-height: 100dvh; display: grid; align-content: center; gap: 24px; padding: 24px 16px; max-width: 420px; margin: 0 auto; }
@@ -382,7 +384,9 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
   .landing-example { max-width: 400px; width: 100%; justify-self: center; }
 }
 @keyframes drift { from { transform: scale(1.06); } to { transform: scale(1); } }
-@media (prefers-reduced-motion: reduce) { .landing-bg img.on { animation: none; } }
+@keyframes wall-up { from { transform: translateY(0); } to { transform: translateY(-50%); } }
+@keyframes wall-down { from { transform: translateY(-50%); } to { transform: translateY(0); } }
+@media (prefers-reduced-motion: reduce) { .landing-bg img.on, .wall-col { animation: none; } }
 
 @media (min-width: 720px) {
   .feed { grid-template-columns: repeat(3, 1fr); gap: 20px; }
@@ -393,9 +397,35 @@ body.reels-mode .footer, body.reels-mode .fab { display: none; }
 }
 
 @media (min-width: 960px) {
-  .landing { display: grid; grid-template-columns: 1.2fr 1fr; column-gap: 56px; }
-  .landing-top { grid-column: 1 / -1; }
-  .landing-example { margin-top: 16px; }
+  /* Landing on desktop: one screen, no scroll. Copy on the left, a slowly drifting wall of look and item photos
+     on the right (Pinterest-style sign-in screen). */
+  .landing {
+    display: grid; grid-template-columns: minmax(480px, 0.95fr) 1.05fr; height: 100dvh; overflow: hidden;
+    max-width: none; padding: 0;
+  }
+  .landing-copy { display: flex; flex-direction: column; padding: 0 clamp(40px, 5vw, 96px) 32px; min-height: 0; }
+  .landing-top { height: 88px; flex: none; }
+  .landing-top .logo { font-size: 34px; }
+  .landing-hero { margin: auto 0; max-width: 580px; }
+  .landing-hero h1 { font-size: clamp(48px, 4.4vw, 72px); line-height: 1.02; margin: 0 0 20px; letter-spacing: -.5px; }
+  .landing .lead { font-size: 18px; margin-bottom: 28px; }
+  .landing .benefits { grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 32px; }
+  .landing .benefits li { padding: 14px; gap: 2px; }
+  .landing .benefits strong { font-size: 14px; }
+  .landing .benefits span { font-size: 12.5px; line-height: 1.35; }
+  .landing .cta { display: flex; gap: 12px; }
+  .landing .cta .btn { min-height: 56px; padding: 0 32px; font-size: 16px; }
+  .landing-example { display: none; }
+  .landing-wall {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; padding: 0 24px; overflow: hidden;
+    background: var(--soft); -webkit-mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+    mask-image: linear-gradient(to bottom, transparent, #000 10%, #000 90%, transparent);
+  }
+  .wall-col { animation: wall-up 70s linear infinite; }
+  .wall-col:nth-child(2) { animation-name: wall-down; animation-duration: 85s; }
+  .wall-col:nth-child(3) { animation-duration: 95s; }
+  .wall-col img { display: block; width: 100%; aspect-ratio: 2 / 3; object-fit: cover; border-radius: 18px; margin-bottom: 16px; background: #fff; }
+  .landing-wall:hover .wall-col { animation-play-state: paused; }
   .outfit-layout { display: grid; grid-template-columns: minmax(380px, 45%) 1fr; padding-bottom: 0; }
   .outfit-visual { position: sticky; top: var(--header-h); height: calc(100dvh - var(--header-h)); }
   .outfit-visual .cover { height: 100%; max-height: none; }
