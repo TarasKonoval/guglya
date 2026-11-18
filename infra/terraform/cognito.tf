@@ -1,4 +1,4 @@
-# Pre-sign-up trigger: confirm users and verify their email immediately, so they can sign in right away.
+# Pre-sign-up trigger: confirms Google sign-ins only; email sign-ups confirm with a code sent to their email.
 data "archive_file" "presignup" {
   type        = "zip"
   source_file = "${path.module}/lambda/presignup.py"
@@ -61,6 +61,19 @@ resource "aws_cognito_user_pool" "main" {
       name     = "verified_email"
       priority = 1
     }
+  }
+
+  # Sign-up: Cognito emails a 6-digit code; the account works after the code is entered.
+  # Sent by Cognito's own mailer (no-reply@verificationemail.com, 50 emails/day). For more, switch
+  # email_sending_account to DEVELOPER with an SES identity for the domain (out of the SES sandbox first).
+  auto_verified_attributes = ["email"]
+  email_configuration {
+    email_sending_account = "COGNITO_DEFAULT"
+  }
+  verification_message_template {
+    default_email_option = "CONFIRM_WITH_CODE"
+    email_subject        = "Ґуґля: код підтвердження"
+    email_message        = "Привіт! Твій код для входу в Ґуґлю: {####}\n\nВведи його на сайті, щоб підтвердити email. Якщо ти не реєструвався(-лася) на guglya.studio, просто ігноруй цей лист."
   }
 
   lambda_config {
