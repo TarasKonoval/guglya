@@ -23,7 +23,7 @@
 
 | Вітальний екран | Стрічка-«рілси» | Образ | АутфітЧек | Кошик |
 | --- | --- | --- | --- | --- |
-| ![Вітальний екран](docs/screenshots/landing-mobile.jpg) | ![Стрічка](docs/screenshots/feed-mobile.jpg) | ![Образ](docs/screenshots/outfit-mobile.jpg) | ![Купити речі](docs/screenshots/outfitcheck-mobile.jpg) | ![Кошик](docs/screenshots/cart-mobile.jpg) |
+| ![Вітальний екран](docs/screenshots/landing-mobile.jpg) | ![Стрічка](docs/screenshots/reels-mobile.jpg) | ![Образ](docs/screenshots/outfit-page-mobile.jpg) | ![Купити речі](docs/screenshots/buy-sheet-mobile.jpg) | ![Кошик](docs/screenshots/cart-mobile.jpg) |
 
 - **Вітальний екран** (без входу): фото образів на весь екран, що повільно змінюються, і кнопки «Зареєструватися» / «Увійти». На десктопі текст ліворуч, а праворуч повільно рухається стіна фото образів і речей.
 - **Вхід:** email + пароль (підтвердження 6-значним кодом з листа) або «Продовжити з Google».
@@ -39,7 +39,7 @@
 
 | Стрічка на десктопі | Образ на десктопі |
 | --- | --- |
-| ![Стрічка на десктопі](docs/screenshots/feed-desktop.jpg) | ![Сторінка образу на десктопі](docs/screenshots/outfit-desktop.jpg) |
+| ![Стрічка на десктопі](docs/screenshots/feed-desktop.jpg) | ![Сторінка образу на десктопі](docs/screenshots/outfit-page-desktop.jpg) |
 
 ![Вітальний екран на десктопі](docs/screenshots/landing-desktop.jpg)
 
