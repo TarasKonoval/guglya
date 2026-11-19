@@ -78,5 +78,5 @@ Goal: a person looks stylish without effort and chooses Ukrainian. "Обирає
 - [x] 8. README, CLAUDE.md, report template
 - [x] Google sign-in (17 Nov) — redirect to Google verified; full login to be confirmed by a human
 - [x] Custom domain guglya.studio + auth.guglya.studio (17 Nov), E2E verified
-- [ ] Later: Monobank jar URL → redeploy frontend with VITE_DONATE_URL
+- [x] Monobank jar (19 Nov): https://send.monobank.ua/jar/6QFJz7R36R, default in infra/deploy-frontend.sh
 - [ ] Tue/Wed: test rounds 17 + 18 Nov (stats.py --since/--until), brand interviews, real catalog import
