@@ -17,7 +17,7 @@ VITE_COGNITO_CLIENT_ID=$(out client_id)
 VITE_API_URL=$(out api_url)
 VITE_COGNITO_DOMAIN=$(out cognito_domain)
 VITE_GOOGLE_ENABLED=$(out google_enabled)
-VITE_DONATE_URL=${VITE_DONATE_URL:-}
+VITE_DONATE_URL=${VITE_DONATE_URL:-https://send.monobank.ua/jar/6QFJz7R36R}  # Monobank jar (donations)
 VITE_AGENT_URL=$(out agent_url)
 VITE_CLARITY_ID=${VITE_CLARITY_ID:-zftevqb23f}  # Microsoft Clarity project (heatmaps); public id
 ENV
